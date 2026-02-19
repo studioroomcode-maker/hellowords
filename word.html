@@ -23,7 +23,6 @@
 * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 html, body { background: var(--bg); color: var(--text); font-family: 'DM Sans', sans-serif; min-height: 100vh; }
 
-/* ── 헤더 ── */
 header {
   position: sticky; top: 0; z-index: 50;
   background: rgba(10,10,10,.92);
@@ -34,89 +33,57 @@ header {
 }
 .back-btn {
   display: flex; align-items: center; gap: 6px;
-  color: var(--sub);
-  font-size: 14px;
-  cursor: pointer;
-  text-decoration: none;
-  transition: color .2s;
-  flex-shrink: 0;
+  color: var(--sub); font-size: 14px;
+  cursor: pointer; text-decoration: none;
+  transition: color .2s; flex-shrink: 0;
 }
 .back-btn:hover { color: var(--text); }
 .brand {
-  font-family: 'Noto Sans KR', sans-serif;
-  font-style: italic;
-  font-size: 20px;
-  color: var(--accent);
+  font-family: 'Instrument Serif', serif;
+  font-style: italic; font-size: 20px; color: var(--accent);
 }
-.nav-btns {
-  margin-left: auto;
-  display: flex; gap: 8px;
-}
+.nav-btns { margin-left: auto; display: flex; gap: 8px; }
 .nav-btn {
-  width: 34px; height: 34px;
-  border-radius: 8px;
-  border: 1px solid var(--border);
-  background: var(--surface);
-  color: var(--text);
-  font-size: 16px;
-  cursor: pointer;
+  width: 34px; height: 34px; border-radius: 8px;
+  border: 1px solid var(--border); background: var(--surface);
+  color: var(--text); font-size: 16px; cursor: pointer;
   display: flex; align-items: center; justify-content: center;
-  transition: all .15s;
-  text-decoration: none;
+  transition: all .15s; text-decoration: none;
 }
 .nav-btn:hover { border-color: #3a3a3a; background: #222; }
 .nav-btn:disabled { opacity: .3; cursor: default; }
 
-/* ── 메인 콘텐츠 ── */
-.content { padding: 24px 20px 60px; max-width: 600px; margin: 0 auto; }
+.content { padding: 24px 20px 100px; max-width: 600px; margin: 0 auto; }
 
-/* ── 레벨 뱃지 ── */
 .level-badge {
   display: inline-flex; align-items: center; gap: 6px;
-  padding: 5px 12px;
-  border-radius: 20px;
-  font-size: 12px;
-  font-weight: 600;
-  letter-spacing: .5px;
-  margin-bottom: 16px;
+  padding: 5px 12px; border-radius: 20px;
+  font-size: 12px; font-weight: 600; letter-spacing: .5px; margin-bottom: 16px;
 }
 .badge-600 { background: rgba(76,175,125,.15); color: var(--c600); border: 1px solid rgba(76,175,125,.3); }
 .badge-700 { background: rgba(74,158,255,.15); color: var(--c700); border: 1px solid rgba(74,158,255,.3); }
 .badge-800 { background: rgba(255,112,67,.15); color: var(--c800); border: 1px solid rgba(255,112,67,.3); }
 
-/* ── 단어 카드 ── */
 .word-card {
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 20px;
-  padding: 28px 24px;
-  margin-bottom: 16px;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 20px; padding: 28px 24px; margin-bottom: 16px;
 }
 .word-main {
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 52px; font-weight: 800;
-  line-height: 1;
-  color: var(--text);
-  margin-bottom: 6px;
-  letter-spacing: -0.5px;
+  font-size: 52px; font-weight: 900; line-height: 1;
+  color: var(--text); margin-bottom: 8px; letter-spacing: -0.5px;
 }
 .phonetic {
-  font-size: 14px;
-  color: var(--sub);
-  font-family: 'Noto Sans', 'Segoe UI', 'Arial Unicode MS', sans-serif; letter-spacing: 0.3px;
-  margin-bottom: 20px;
+  font-size: 15px; color: var(--sub);
+  font-family: 'Noto Sans', 'Segoe UI', 'Arial Unicode MS', sans-serif;
+  margin-bottom: 16px; letter-spacing: 0.3px;
 }
 .tts-btn {
   display: inline-flex; align-items: center; gap: 6px;
-  padding: 8px 16px;
-  border-radius: 10px;
-  border: 1px solid var(--border);
-  background: var(--surface);
-  color: var(--sub);
-  font-size: 13px;
-  cursor: pointer;
-  transition: all .2s;
-  margin-bottom: 20px;
+  padding: 8px 16px; border-radius: 10px;
+  border: 1px solid var(--border); background: var(--surface);
+  color: var(--sub); font-size: 13px; cursor: pointer;
+  transition: all .2s; margin-bottom: 20px; font-family: 'DM Sans', sans-serif;
 }
 .tts-btn:hover { border-color: var(--accent); color: var(--accent); }
 .tts-btn.playing { border-color: var(--accent); color: var(--accent); background: rgba(232,255,71,.08); }
@@ -127,56 +94,90 @@ header {
 }
 .meaning-text {
   font-size: 28px; font-weight: 700;
-  color: var(--text); line-height: 1.2;
-  margin-bottom: 16px;
+  color: var(--text); line-height: 1.2; margin-bottom: 16px;
 }
 .syns-wrap { display: flex; flex-wrap: wrap; gap: 6px; }
 .syn-tag {
-  padding: 4px 12px;
-  border-radius: 20px;
-  border: 1px solid var(--border);
-  background: var(--surface);
-  font-size: 12px;
-  color: var(--sub);
+  padding: 4px 12px; border-radius: 20px;
+  border: 1px solid var(--border); background: var(--surface);
+  font-size: 12px; color: var(--sub);
 }
 
 /* ── 예문 섹션 ── */
 .section {
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 20px;
-  padding: 22px 24px;
-  margin-bottom: 12px;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 20px; padding: 22px 24px; margin-bottom: 12px;
 }
 .section-label {
   font-size: 10px; font-weight: 600; letter-spacing: 1.5px;
-  text-transform: uppercase; color: var(--sub); margin-bottom: 14px;
+  text-transform: uppercase; color: var(--sub); margin-bottom: 16px;
 }
-.example-item { margin-bottom: 16px; }
-.example-item:last-child { margin-bottom: 0; }
-.ex-situation {
-  font-size: 11px;
-  color: var(--sub);
-  margin-bottom: 5px;
-  padding: 3px 10px;
-  background: rgba(255,255,255,.04);
-  border-radius: 6px;
-  display: inline-block;
+.example-item {
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
 }
+.example-item:last-child { border-bottom: none; padding-bottom: 0; }
+.example-item:first-child { padding-top: 0; }
+.ex-num {
+  font-size: 10px; font-weight: 700; color: var(--accent);
+  letter-spacing: 1px; margin-bottom: 6px;
+}
+.ex-row {
+  display: flex; align-items: flex-start; gap: 10px;
+}
+.ex-text { flex: 1; }
 .ex-en {
-  font-size: 16px;
-  color: var(--text);
-  line-height: 1.55;
-  margin-bottom: 4px;
+  font-size: 15px; color: var(--text);
+  line-height: 1.6; margin-bottom: 4px;
 }
 .ex-en b { color: var(--accent); font-weight: 700; }
-.ex-ko {
-  font-size: 13px;
+.ex-ko { font-size: 13px; color: var(--sub); line-height: 1.5; }
+.ex-speak-btn {
+  flex-shrink: 0;
+  width: 32px; height: 32px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
   color: var(--sub);
-  line-height: 1.5;
+  font-size: 14px;
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: all .15s;
+  margin-top: 2px;
 }
+.ex-speak-btn:hover { border-color: var(--accent); color: var(--accent); }
+.ex-speak-btn.playing { border-color: var(--accent); color: var(--accent); background: rgba(232,255,71,.08); }
 
-/* ── 네비게이션 ── */
+/* ── 로딩 상태 ── */
+.loading-examples {
+  display: flex; flex-direction: column; gap: 12px; padding: 8px 0;
+}
+.loading-bar {
+  height: 14px; border-radius: 6px;
+  background: linear-gradient(90deg, var(--border) 25%, #2a2a2a 50%, var(--border) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.4s infinite;
+}
+.loading-bar.short { width: 60%; }
+.loading-bar.mid { width: 80%; }
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+.generating-label {
+  font-size: 12px; color: var(--sub);
+  display: flex; align-items: center; gap: 6px; margin-bottom: 12px;
+}
+.dot-pulse { display: inline-flex; gap: 3px; }
+.dot-pulse span {
+  width: 4px; height: 4px; border-radius: 50%;
+  background: var(--accent); animation: pulse 1.2s infinite;
+}
+.dot-pulse span:nth-child(2) { animation-delay: .2s; }
+.dot-pulse span:nth-child(3) { animation-delay: .4s; }
+@keyframes pulse { 0%,80%,100%{opacity:.2} 40%{opacity:1} }
+
+/* ── 하단 네비 ── */
 .bottom-nav {
   position: fixed; bottom: 0; left: 0; right: 0;
   background: rgba(10,10,10,.95);
@@ -186,16 +187,10 @@ header {
   display: flex; gap: 10px;
 }
 .bottom-nav-btn {
-  flex: 1;
-  padding: 13px;
-  border-radius: 12px;
-  border: 1px solid var(--border);
-  background: var(--surface);
-  color: var(--text);
-  font-family: 'DM Sans', sans-serif;
-  font-size: 14px;
-  font-weight: 500;
-  cursor: pointer;
+  flex: 1; padding: 13px; border-radius: 12px;
+  border: 1px solid var(--border); background: var(--surface);
+  color: var(--text); font-family: 'DM Sans', sans-serif;
+  font-size: 14px; font-weight: 500; cursor: pointer;
   transition: all .15s;
   display: flex; align-items: center; justify-content: center; gap: 6px;
 }
@@ -204,22 +199,13 @@ header {
 .bottom-nav-btn.primary:hover { background: #d4eb3a; }
 .bottom-nav-btn:disabled { opacity: .3; cursor: default; }
 
-/* ── 에러 ── */
-.error-wrap {
-  text-align: center; padding: 80px 20px;
-  color: var(--sub);
-}
-.error-icon { font-size: 52px; font-weight: 800; margin-bottom: 16px; }
+.error-wrap { text-align: center; padding: 80px 20px; color: var(--sub); }
+.error-icon { font-size: 48px; margin-bottom: 16px; }
 .error-text { font-size: 16px; margin-bottom: 20px; }
 .error-link {
-  display: inline-block;
-  padding: 12px 24px;
-  border-radius: 12px;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  color: var(--text);
-  text-decoration: none;
-  font-size: 14px;
+  display: inline-block; padding: 12px 24px; border-radius: 12px;
+  background: var(--surface); border: 1px solid var(--border);
+  color: var(--text); text-decoration: none; font-size: 14px;
 }
 </style>
 </head>
@@ -229,21 +215,18 @@ header {
   <a class="back-btn" href="index.html">‹ 목록</a>
   <span class="brand">Hello Words</span>
   <div class="nav-btns">
-    <button class="nav-btn" id="prevBtn" onclick="goWord(-1)" title="이전 단어">‹</button>
-    <button class="nav-btn" id="nextBtn" onclick="goWord(1)" title="다음 단어">›</button>
+    <button class="nav-btn" id="prevBtn" onclick="goWord(-1)">‹</button>
+    <button class="nav-btn" id="nextBtn" onclick="goWord(1)">›</button>
   </div>
 </header>
 
 <div class="content" id="content">
-  <div class="error-wrap">
-    <div class="error-icon">⏳</div>
-    <div class="error-text">불러오는 중...</div>
-  </div>
+  <div class="error-wrap"><div class="error-icon">⏳</div><div class="error-text">불러오는 중...</div></div>
 </div>
 
 <div class="bottom-nav" id="bottomNav" style="display:none">
   <button class="bottom-nav-btn" onclick="goWord(-1)" id="prevBtnBottom">‹ 이전</button>
-  <button class="bottom-nav-btn primary" onclick="toggleSpeak()" id="speakBtn">🔊 듣기</button>
+  <button class="bottom-nav-btn primary" onclick="speak(currentWord())">🔊 듣기</button>
   <button class="bottom-nav-btn" onclick="goWord(1)" id="nextBtnBottom">다음 ›</button>
 </div>
 
@@ -251,7 +234,7 @@ header {
 let allWords = {};
 let wordKeys = [];
 let currentKey = '';
-let speaking = false;
+let examplesCache = {};  // 단어별 예문 캐시
 
 const params = new URLSearchParams(location.search);
 const targetWord = params.get('w') || '';
@@ -265,51 +248,32 @@ async function init() {
       if (la !== lb) return la.localeCompare(lb);
       return a.localeCompare(b);
     });
-
     currentKey = targetWord || wordKeys[0];
-    if (!allWords[currentKey]) {
-      showError();
-      return;
-    }
+    if (!allWords[currentKey]) { showError(); return; }
     render();
-  } catch(e) {
-    showError();
-  }
+  } catch(e) { showError(); }
+}
+
+function currentWord() {
+  return allWords[currentKey]?.word || '';
 }
 
 function render() {
   const w = allWords[currentKey];
   if (!w) { showError(); return; }
 
-  // 타이틀 업데이트
   document.title = `${w.word} — Hello Words`;
-
-  // URL 업데이트
   history.replaceState(null, '', `?w=${encodeURIComponent(currentKey)}`);
 
-  // 인덱스
   const idx = wordKeys.indexOf(currentKey);
   document.getElementById('prevBtn').disabled = idx <= 0;
   document.getElementById('nextBtn').disabled = idx >= wordKeys.length - 1;
   document.getElementById('prevBtnBottom').disabled = idx <= 0;
   document.getElementById('nextBtnBottom').disabled = idx >= wordKeys.length - 1;
 
-  // 레벨 색상
   const levelClass = `badge-${w.level}`;
   const levelText = { '600': '600점대', '700': '700점대', '800': '800점대' }[w.level] || w.level;
-
-  // 동의어
   const syns = (w.synonyms || []).map(s => `<span class="syn-tag">${s}</span>`).join('');
-
-  // 예문 하이라이트
-  function hl(text, word) {
-    if (!text || !word) return text || '';
-    const base = word.split('-').join(' ');
-    return text.replace(new RegExp(`\\b(${base.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}(?:s|ed|ing|ly|tion|ness|ment)?)\\b`, 'gi'), '<b>$1</b>');
-  }
-
-  const exHl = hl(w.example_en, w.word);
-  const sitSpan = w.situation ? `<div class="ex-situation">${w.situation}</div>` : '';
 
   document.getElementById('content').innerHTML = `
     <div class="level-badge ${levelClass}">${levelText} · ${idx + 1} / ${wordKeys.length}</div>
@@ -317,8 +281,8 @@ function render() {
     <div class="word-card">
       <div class="word-main">${w.word}</div>
       <div class="phonetic">${w.phonetic || ''}</div>
-      <button class="tts-btn" onclick="speak('${w.word.replace(/'/g,"\\'")}')">
-        🔊 <span id="ttsLabel">발음 듣기</span>
+      <button class="tts-btn" id="wordTtsBtn" onclick="speakWord()">
+        🔊 발음 듣기
       </button>
       <div class="divider"></div>
       <div class="meaning-label">뜻</div>
@@ -327,17 +291,134 @@ function render() {
     </div>
 
     <div class="section">
-      <div class="section-label">예문</div>
-      <div class="example-item">
-        ${sitSpan}
-        <div class="ex-en">${exHl}</div>
-        <div class="ex-ko">${w.example_ko || ''}</div>
+      <div class="section-label">예문 10개</div>
+      <div id="examplesArea">
+        <div class="generating-label">
+          <div class="dot-pulse"><span></span><span></span><span></span></div>
+          예문 생성 중...
+        </div>
+        <div class="loading-examples">
+          ${Array(5).fill(0).map(()=>`
+            <div><div class="loading-bar mid" style="margin-bottom:6px"></div>
+            <div class="loading-bar short"></div></div>
+          `).join('')}
+        </div>
       </div>
     </div>
   `;
 
   document.getElementById('bottomNav').style.display = 'flex';
   window.scrollTo(0, 0);
+
+  // 예문 로드 (캐시 있으면 바로, 없으면 API 호출)
+  loadExamples(w);
+}
+
+async function loadExamples(w) {
+  const key = w.word;
+
+  // 캐시 확인
+  if (examplesCache[key]) {
+    renderExamples(examplesCache[key], w.word);
+    return;
+  }
+
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1000,
+        messages: [{
+          role: 'user',
+          content: `TOEIC 단어 "${key}"(뜻: ${w.meaning})의 비즈니스/일상 예문 10개를 JSON으로 만들어줘.
+각 예문은 다른 상황, 다른 문장 형태로. 단어의 다양한 형태(ing, ed, s 등)도 사용해.
+응답은 JSON 배열만, 다른 텍스트 없이:
+[{"en":"문장","ko":"한국어 번역"},...]`
+        }]
+      })
+    });
+    const data = await res.json();
+    const text = data.content?.[0]?.text || '';
+    const start = text.indexOf('[');
+    const end = text.lastIndexOf(']') + 1;
+    const examples = JSON.parse(text.slice(start, end));
+
+    examplesCache[key] = examples;
+    renderExamples(examples, key);
+  } catch(e) {
+    // API 실패시 기본 예문 1개라도 표시
+    const fallback = [{ en: w.example_en, ko: w.example_ko }];
+    renderExamples(fallback, key);
+  }
+}
+
+function renderExamples(examples, word) {
+  const area = document.getElementById('examplesArea');
+  if (!area) return;
+
+  function hl(text) {
+    if (!text || !word) return text || '';
+    const base = word.split('-').join(' ');
+    return text.replace(
+      new RegExp(`\\b(${base.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}(?:s|ed|ing|ly|tion|ness|ment)?)\\b`, 'gi'),
+      '<b>$1</b>'
+    );
+  }
+
+  area.innerHTML = examples.map((ex, i) => `
+    <div class="example-item">
+      <div class="ex-num">EX ${i + 1}</div>
+      <div class="ex-row">
+        <div class="ex-text">
+          <div class="ex-en">${hl(ex.en)}</div>
+          <div class="ex-ko">${ex.ko}</div>
+        </div>
+        <button class="ex-speak-btn" onclick="speakSentence(this, '${ex.en.replace(/'/g,"\\'").replace(/"/g,'&quot;')}')" title="듣기">
+          🔊
+        </button>
+      </div>
+    </div>
+  `).join('');
+}
+
+// 단어 발음
+function speakWord() {
+  const w = allWords[currentKey];
+  if (!w) return;
+  const btn = document.getElementById('wordTtsBtn');
+  speakText(w.word, btn);
+}
+
+// 예문 발음
+function speakSentence(btn, text) {
+  // 현재 재생 중인 버튼 리셋
+  document.querySelectorAll('.ex-speak-btn.playing').forEach(b => {
+    b.classList.remove('playing');
+    b.textContent = '🔊';
+  });
+  speakText(text, btn);
+}
+
+function speakText(text, btn) {
+  if (!window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'en-US'; u.rate = 0.85;
+
+  if (btn) {
+    btn.classList.add('playing');
+    btn.textContent = '⏸';
+  }
+  u.onend = u.onerror = () => {
+    if (btn) {
+      btn.classList.remove('playing');
+      btn.textContent = '🔊';
+    }
+  };
+  window.speechSynthesis.speak(u);
 }
 
 function goWord(dir) {
@@ -347,28 +428,6 @@ function goWord(dir) {
     currentKey = wordKeys[next];
     render();
   }
-}
-
-function speak(word) {
-  if (window.speechSynthesis) {
-    window.speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(word);
-    u.lang = 'en-US'; u.rate = 0.9;
-    const btn = document.querySelector('.tts-btn');
-    const label = document.getElementById('ttsLabel');
-    if (btn) btn.classList.add('playing');
-    if (label) label.textContent = '재생 중...';
-    u.onend = () => {
-      if (btn) btn.classList.remove('playing');
-      if (label) label.textContent = '발음 듣기';
-    };
-    window.speechSynthesis.speak(u);
-  }
-}
-
-function toggleSpeak() {
-  const w = allWords[currentKey];
-  if (w) speak(w.word);
 }
 
 function showError() {
