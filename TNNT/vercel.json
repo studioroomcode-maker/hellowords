@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npx expo export --platform web && node scripts/fix-vercel-fonts.js",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/((?!assets|_expo|fonts|favicon).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

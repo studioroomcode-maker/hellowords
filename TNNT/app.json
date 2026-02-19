@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "테스노트",
+    "slug": "TennisApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Tennisnote_Icon.png",
+    "scheme": "tennisapp",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F172A"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.studioroom.tennisnote",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera to scan QR codes."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/Tennisnote_Icon.png",
+        "backgroundColor": "#0F172A"
+      },
+      "package": "com.studioroom.tennisnote",
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "baseUrl": "/"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5c7e73ca-7ae5-49aa-b8af-c5f53f21333d"
+      },
+      "router": {}
+    },
+    "owner": "sungkyun"
+  }
+}
