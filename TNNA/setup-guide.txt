@@ -1,0 +1,38 @@
+==========================================
+  테스노트 - 다른 컴퓨터 세팅 가이드
+==========================================
+
+1. 필수 설치
+   - Node.js: https://nodejs.org
+   - Git: https://git-scm.com
+
+2. Clone
+   git clone https://github.com/studioroomcode-maker/TennisApp.git
+   cd TennisApp
+
+3. 의존성 설치
+   npm install
+
+4. .env 파일 생성
+   프로젝트 루트에 .env 파일을 만들고 아래 내용 붙여넣기:
+
+   EXPO_PUBLIC_FIREBASE_API_KEY=AIzaSyDl7N_7woOZWHsUkKY5y5nXBGRpB4QH3Ik
+   EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN=tennisnote-876f4.firebaseapp.com
+   EXPO_PUBLIC_FIREBASE_PROJECT_ID=tennisnote-876f4
+   EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET=tennisnote-876f4.firebasestorage.app
+   EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=559861564772
+   EXPO_PUBLIC_FIREBASE_APP_ID=1:559861564772:web:YOUR_WEB_APP_ID
+   EXPO_PUBLIC_GOOGLE_WEB_CLIENT_ID=559861564772-1uis70mul3dg1rb5okikr5prqg0ghu4h.apps.googleusercontent.com
+   EXPO_PUBLIC_GOOGLE_IOS_CLIENT_ID=
+   EXPO_PUBLIC_GOOGLE_ANDROID_CLIENT_ID=
+
+5. 실행
+   - 같은 Wi-Fi에서: npx expo start
+   - 다른 네트워크에서: npx expo start --tunnel
+
+6. APK 빌드 (선택)
+   npm install -g eas-cli
+   eas login
+   eas build --platform android --profile preview
+
+==========================================
