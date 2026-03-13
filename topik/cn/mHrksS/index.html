@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="theme-color" content="#0a0a0a">
+<title>Hello Words — TOPIK</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0a0a0a;--surface:#141414;--border:#252525;--accent:#e8ff47;--text:#f0f0e8;--sub:#666660;--card:#1a1a1a;}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;}
+header{position:sticky;top:0;z-index:50;background:rgba(10,10,10,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:14px 20px;display:flex;align-items:center;gap:12px;}
+.brand{font-family:'Instrument Serif',serif;font-style:italic;font-size:20px;color:var(--accent);}
+.level-chip{padding:4px 12px;border-radius:20px;font-size:12px;font-weight:600;letter-spacing:.5px;}
+.chip-12{background:rgba(76,175,125,.15);color:#4CAF7D;border:1px solid rgba(76,175,125,.3);}
+.chip-34{background:rgba(74,158,255,.15);color:#4A9EFF;border:1px solid rgba(74,158,255,.3);}
+.chip-56{background:rgba(255,112,67,.15);color:#FF7043;border:1px solid rgba(255,112,67,.3);}
+.search-wrap{flex:1;position:relative;}
+.search-wrap input{width:100%;background:var(--surface);border:1px solid var(--border);border-radius:10px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:14px;padding:9px 14px 9px 36px;outline:none;transition:border-color .2s;}
+.search-wrap input:focus{border-color:var(--accent);}
+.search-wrap input::placeholder{color:var(--sub);}
+.search-icon{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--sub);font-size:14px;pointer-events:none;}
+.list-wrap{padding:12px 20px 40px;}
+.word-item{display:flex;align-items:center;gap:12px;padding:13px 14px;background:var(--card);border:1px solid var(--border);border-radius:12px;margin-bottom:6px;cursor:pointer;transition:all .15s;text-decoration:none;color:inherit;}
+.word-item:hover{border-color:#3a3a3a;background:#202020;transform:translateX(2px);}
+.word-item:active{transform:scale(.98);}
+.level-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+.word-ko{font-size:15px;font-weight:700;color:var(--text);flex:1;font-family:'Noto Sans KR',sans-serif;}
+.word-meaning{font-size:13px;color:var(--sub);text-align:right;max-width:45%;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.count-bar{font-size:12px;color:var(--sub);padding:8px 20px 4px;text-align:right;}
+.empty{text-align:center;padding:60px 20px;color:var(--sub);}
+.empty-icon{font-size:36px;margin-bottom:12px;}
+</style>
+</head>
+<body>
+<header>
+  <span class="brand">Hello Words</span>
+  <div class="level-chip" id="levelChip"></div>
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="search" id="searchInput" placeholder="단어 검색..." oninput="onSearch(this.value)">
+  </div>
+</header>
+<div class="count-bar" id="countBar"></div>
+<div class="list-wrap" id="listWrap">
+  <div class="empty"><div class="empty-icon">⏳</div></div>
+</div>
+<script>
+let allWords={};
+const langLabels={en:'English',cn:'中文',vn:'Tiếng Việt'};
+const dotColors={1:'#4CAF7D',2:'#4CAF7D',3:'#4A9EFF',4:'#4A9EFF',5:'#FF7043',6:'#FF7043'};
+const chipClass={1:'chip-12',2:'chip-12',3:'chip-34',4:'chip-34',5:'chip-56',6:'chip-56'};
+
+async function init(){
+  const res=await fetch('words_data.json');
+  allWords=await res.json();
+  const first=Object.values(allWords)[0]||{};
+  const lv=parseInt(first.level||1);
+  const lang=first.lang||'en';
+  const chip=document.getElementById('levelChip');
+  chip.textContent=`TOPIK ${lv}급 · ${langLabels[lang]||lang}`;
+  chip.className='level-chip '+chipClass[lv];
+  document.title=`Hello Words — TOPIK ${lv}급`;
+  render();
+}
+let q='';
+function onSearch(v){q=v.toLowerCase();render();}
+function render(){
+  const wrap=document.getElementById('listWrap');
+  const first=Object.values(allWords)[0]||{};
+  const lv=parseInt(first.level||1);
+  const dotColor=dotColors[lv]||'#888';
+  let items=Object.entries(allWords).filter(([k,w])=>!q||w.word.includes(q)||(w.meaning||'').toLowerCase().includes(q));
+  items.sort((a,b)=>a[1].word.localeCompare(b[1].word,'ko'));
+  document.getElementById('countBar').textContent=`${items.length}개`;
+  if(!items.length){wrap.innerHTML='<div class="empty"><div class="empty-icon">🔍</div><div>검색 결과 없음</div></div>';return;}
+  wrap.innerHTML=items.map(([k,w])=>{
+    const m=(w.meaning||'').length>22?w.meaning.slice(0,22)+'…':(w.meaning||'');
+    return `<a class="word-item" href="word.html?w=${encodeURIComponent(k)}">
+      <div class="level-dot" style="background:${dotColor}"></div>
+      <div class="word-ko">${w.word}</div>
+      <div class="word-meaning">${m}</div>
+    </a>`;
+  }).join('');
+}
+init();
+</script>
+</body>
+</html>
