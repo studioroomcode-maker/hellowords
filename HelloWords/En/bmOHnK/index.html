@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="theme-color" content="#0a0a0a">
+<title>Hello Words — TOEIC 800점대 단어장</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0a0a0a;
+  --surface: #141414;
+  --border: #252525;
+  --accent: #e8ff47;
+  --text: #f0f0e8;
+  --sub: #666660;
+  --card: #1a1a1a;
+  --c600: #4CAF7D;
+  --c700: #4A9EFF;
+  --c800: #FF7043;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { background: var(--bg); color: var(--text); font-family: 'DM Sans', sans-serif; min-height: 100vh; }
+
+/* ── 헤더 ── */
+header {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(10,10,10,.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 20px;
+  display: flex; align-items: center; gap: 12px;
+}
+.brand {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 22px;
+  color: var(--accent);
+  letter-spacing: -0.3px;
+  flex-shrink: 0;
+}
+.search-wrap {
+  flex: 1;
+  position: relative;
+}
+.search-wrap input {
+  width: 100%;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  padding: 9px 14px 9px 36px;
+  outline: none;
+  transition: border-color .2s;
+}
+.search-wrap input:focus { border-color: var(--accent); }
+.search-wrap input::placeholder { color: var(--sub); }
+.search-icon {
+  position: absolute; left: 11px; top: 50%; transform: translateY(-50%);
+  color: var(--sub); font-size: 14px; pointer-events: none;
+}
+
+/* ── 레벨 탭 ── */
+.tabs {
+  display: flex; gap: 8px;
+  padding: 14px 20px 10px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  flex-shrink: 0;
+  padding: 7px 18px;
+  border-radius: 20px;
+  border: 1.5px solid var(--border);
+  background: transparent;
+  color: var(--sub);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all .2s;
+}
+.tab.active { border-color: var(--accent); color: var(--accent); background: rgba(232,255,71,.08); }
+.tab:hover:not(.active) { border-color: #444; color: var(--text); }
+
+/* ── 단어 목록 ── */
+.list-wrap { padding: 8px 20px 40px; }
+.list-section { margin-bottom: 28px; }
+.list-section-title {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--sub);
+  margin-bottom: 10px;
+  padding-left: 4px;
+}
+.word-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 13px 14px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  margin-bottom: 6px;
+  cursor: pointer;
+  transition: all .15s;
+  text-decoration: none;
+  color: inherit;
+}
+.word-item:hover { border-color: #3a3a3a; background: #202020; transform: translateX(2px); }
+.word-item:active { transform: scale(.98); }
+.level-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.dot-600 { background: var(--c600); }
+.dot-700 { background: var(--c700); }
+.dot-800 { background: var(--c800); }
+.word-en {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text);
+  flex: 1;
+  min-width: 0;
+}
+.word-ko {
+  font-size: 12px;
+  color: var(--sub);
+  flex-shrink: 0;
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.arrow {
+  color: #333;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+
+/* ── 통계 바 ── */
+.stats {
+  padding: 10px 20px 4px;
+  display: flex;
+  gap: 16px;
+}
+.stat-item {
+  display: flex; align-items: center; gap: 6px;
+  font-size: 12px; color: var(--sub);
+}
+.stat-dot {
+  width: 6px; height: 6px; border-radius: 50%;
+}
+.stat-count { color: var(--text); font-weight: 600; }
+
+/* ── 빈 상태 ── */
+.empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--sub);
+}
+.empty-icon { font-size: 40px; margin-bottom: 12px; }
+.empty-text { font-size: 15px; }
+.tabs{display:none!important}.stat-bar{display:none!important}</style>
+</head>
+<body>
+
+<header>
+  <span class="brand">Hello Words</span><span style="font-size:12px;color:var(--sub);margin-left:6px;">TOEIC 800점대</span>
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="searchInput" placeholder="단어 검색..." autocomplete="off" autocorrect="off" spellcheck="false">
+  </div>
+</header>
+
+<div class="stats" id="statsBar">
+  <div class="stat-item"><div class="stat-dot" style="background:var(--c600)"></div><span class="stat-count" id="cnt600">0</span><span>600점대</span></div>
+  <div class="stat-item"><div class="stat-dot" style="background:var(--c700)"></div><span class="stat-count" id="cnt700">0</span><span>700점대</span></div>
+  <div class="stat-item"><div class="stat-dot" style="background:var(--c800)"></div><span class="stat-count" id="cnt800">0</span><span>800점대</span></div>
+</div>
+
+<div class="tabs">
+  <button class="tab active" onclick="filterLevel('all', this)">전체</button>
+  <button class="tab" onclick="filterLevel('600', this)">600점대</button>
+  <button class="tab" onclick="filterLevel('700', this)">700점대</button>
+  <button class="tab" onclick="filterLevel('800', this)">800점대</button>
+</div>
+
+<div class="list-wrap" id="listWrap"></div>
+
+<script>
+let allWords = {};
+let currentLevel = '800';
+let searchQuery = '';
+
+async function init() {
+  const res = await fetch('words_data.json');
+  allWords = await res.json();
+
+  // 통계
+  const c = {600:0, 700:0, 800:0};
+  Object.values(allWords).forEach(w => c[w.level]++);
+  document.getElementById('cnt600').textContent = c[600];
+  document.getElementById('cnt700').textContent = c[700];
+  document.getElementById('cnt800').textContent = c[800];
+
+  render();
+}
+
+function filterLevel(level, btn) {
+  currentLevel = level;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+function render() {
+  const wrap = document.getElementById('listWrap');
+  const q = searchQuery.toLowerCase();
+
+  let filtered = Object.entries(allWords).filter(([key, w]) => {
+    const levelOk = currentLevel === 'all' || w.level === currentLevel;
+    const searchOk = !q || w.word.toLowerCase().includes(q) || w.meaning.includes(q);
+    return levelOk && searchOk;
+  });
+
+  // 레벨별 정렬
+  filtered.sort((a, b) => {
+    if (a[1].level !== b[1].level) return a[1].level.localeCompare(b[1].level);
+    return a[1].word.localeCompare(b[1].word);
+  });
+
+  if (filtered.length === 0) {
+    wrap.innerHTML = '<div class="empty"><div class="empty-icon">🔍</div><div class="empty-text">검색 결과가 없어요</div></div>';
+    return;
+  }
+
+  // 레벨별 그룹핑
+  const groups = {};
+  filtered.forEach(([key, w]) => {
+    if (!groups[w.level]) groups[w.level] = [];
+    groups[w.level].push([key, w]);
+  });
+
+  const levelNames = { '600': '600점대 · 기초 비즈니스', '700': '700점대 · 중급 비즈니스', '800': '800점대 · 고급 비즈니스' };
+  const levelDots = { '600': 'dot-600', '700': 'dot-700', '800': 'dot-800' };
+
+  let html = '';
+  ['600','700','800'].forEach(lv => {
+    if (!groups[lv]) return;
+    if (false) {
+      html += `<div class="list-section"><div class="list-section-title">${levelNames[lv]}</div>`;
+    } else {
+      html += '<div class="list-section">';
+    }
+    groups[lv].forEach(([key, w]) => {
+      html += `<a class="word-item" href="word.html?w=${encodeURIComponent(key)}">
+        <div class="level-dot ${levelDots[lv]}"></div>
+        <span class="word-en">${w.word}</span>
+        <span class="word-ko">${w.meaning.split(',')[0].trim()}</span>
+        <span class="arrow">›</span>
+      </a>`;
+    });
+    html += '</div>';
+  });
+
+  wrap.innerHTML = html;
+}
+
+document.getElementById('searchInput').addEventListener('input', e => {
+  searchQuery = e.target.value;
+  render();
+});
+
+init();
+</script>
+</body>
+</html>
