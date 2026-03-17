@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="theme-color" content="#0a0a0a">
+<title>Hello Words - TOPIK</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a0a0a; --surface:#141414; --border:#252525; --accent:#e8ff47;
+  --text:#f0f0e8; --sub:#666660; --card:#1a1a1a;
+  --c1:#4CAF7D; --c2:#4CAF7D; --c3:#4A9EFF; --c4:#4A9EFF; --c5:#FF7043; --c6:#FF7043;
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;}
+header{
+  position:sticky;top:0;z-index:50;background:rgba(10,10,10,.92);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border);padding:14px 20px;display:flex;align-items:center;gap:12px;
+}
+.back-btn{display:flex;align-items:center;gap:6px;color:var(--sub);font-size:14px;text-decoration:none;transition:color .2s;flex-shrink:0;}
+.back-btn:hover{color:var(--text);}
+.brand{font-family:'Instrument Serif',serif;font-style:italic;font-size:20px;color:var(--accent);}
+.search-wrap{flex:1;position:relative;}
+.search-wrap input{
+  width:100%;background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  color:var(--text);font-family:'DM Sans',sans-serif;font-size:14px;padding:9px 14px 9px 36px;
+  outline:none;transition:border-color .2s;
+}
+.search-wrap input:focus{border-color:var(--accent);}
+.search-wrap input::placeholder{color:var(--sub);}
+.search-icon{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--sub);font-size:14px;pointer-events:none;}
+.toolbar{padding:14px 20px 10px;}
+.toolbar-row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px;}
+.section-title{font-size:12px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--sub);}
+.count-bar{font-size:12px;color:var(--sub);}
+.lang-switch,.level-tabs{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;}
+.lang-switch::-webkit-scrollbar,.level-tabs::-webkit-scrollbar{display:none;}
+.lang-chip,.level-tab{
+  flex-shrink:0;padding:8px 14px;border-radius:999px;border:1px solid var(--border);
+  background:transparent;color:var(--sub);font-size:13px;font-weight:500;text-decoration:none;transition:all .15s;
+}
+.lang-chip:hover,.level-tab:hover{border-color:#3a3a3a;color:var(--text);}
+.lang-chip.active,.level-tab.active{border-color:var(--accent);color:var(--accent);background:rgba(232,255,71,.08);}
+.list-wrap{padding:6px 20px 40px;}
+.word-item{
+  display:flex;align-items:center;gap:12px;padding:13px 14px;background:var(--card);
+  border:1px solid var(--border);border-radius:12px;margin-bottom:6px;text-decoration:none;
+  color:inherit;transition:all .15s;
+}
+.word-item:hover{border-color:#3a3a3a;background:#202020;transform:translateX(2px);}
+.level-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+.dot-1,.dot-2{background:var(--c1);}
+.dot-3,.dot-4{background:var(--c3);}
+.dot-5,.dot-6{background:var(--c5);}
+.word-ko{font-size:15px;font-weight:700;color:var(--text);flex:1;font-family:'Noto Sans KR',sans-serif;}
+.word-meaning{
+  font-size:13px;color:var(--sub);text-align:right;max-width:48%;overflow:hidden;
+  white-space:nowrap;text-overflow:ellipsis;font-family:'Noto Sans JP','Noto Sans KR',sans-serif;
+}
+.empty{text-align:center;padding:60px 20px;color:var(--sub);}
+.empty-icon{font-size:36px;margin-bottom:12px;}
+.empty-text{font-size:15px;line-height:1.6;}
+</style>
+</head>
+<body>
+<header>
+  <a class="back-btn" href="index.html">Back</a>
+  <span class="brand">Hello Words</span>
+  <div class="search-wrap">
+    <span class="search-icon">S</span>
+    <input type="search" id="searchInput" placeholder="Search Korean word or translation..." oninput="onSearch(this.value)">
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="toolbar-row">
+    <div class="section-title" id="sectionTitle">TOPIK</div>
+    <div class="count-bar" id="countBar"></div>
+  </div>
+  <div class="lang-switch" id="langSwitch"></div>
+</div>
+
+<div class="toolbar" style="padding-top:0">
+  <div class="level-tabs" id="levelTabs"></div>
+</div>
+
+<div class="list-wrap" id="listWrap">
+  <div class="empty"><div class="empty-icon">...</div><div class="empty-text">Loading...</div></div>
+</div>
+
+<script>
+const LANGS = {
+  en: { label: 'English', badge: 'EN' },
+  cn: { label: 'Chinese', badge: 'CN' },
+  jp: { label: 'Japanese', badge: 'JP' },
+  vn: { label: 'Vietnamese', badge: 'VN' }
+};
+
+const cache = {};
+const params = new URLSearchParams(location.search);
+let currentLang = params.get('lang') || 'en';
+let currentLevel = params.get('level') || '1';
+let allWords = {};
+let searchQuery = '';
+
+function validLang(lang) {
+  return Object.prototype.hasOwnProperty.call(LANGS, lang);
+}
+
+function validLevel(level) {
+  return ['1', '2', '3', '4', '5', '6'].includes(level);
+}
+
+async function loadWords(lang, level) {
+  const key = `${lang}_${level}`;
+  if (!cache[key]) {
+    const res = await fetch(`../level_data/topik_${lang}_lv${level}.json`);
+    if (!res.ok) throw new Error(`Failed to load ${key}`);
+    cache[key] = await res.json();
+  }
+  return cache[key];
+}
+
+function renderLangSwitch() {
+  const html = Object.entries(LANGS).map(([lang, info]) => {
+    const active = lang === currentLang ? ' active' : '';
+    return `<a class="lang-chip${active}" href="?lang=${lang}&level=${currentLevel}">${info.badge} ${info.label}</a>`;
+  }).join('');
+  document.getElementById('langSwitch').innerHTML = html;
+}
+
+function renderLevelTabs() {
+  const html = ['1', '2', '3', '4', '5', '6'].map((level) => {
+    const active = level === currentLevel ? ' active' : '';
+    return `<a class="level-tab${active}" href="?lang=${currentLang}&level=${level}">TOPIK ${level}</a>`;
+  }).join('');
+  document.getElementById('levelTabs').innerHTML = html;
+}
+
+function onSearch(value) {
+  searchQuery = value.trim().toLowerCase();
+  renderList();
+}
+
+function renderList() {
+  const items = Object.entries(allWords)
+    .filter(([_, word]) => {
+      const targetWord = (word.word || '').toLowerCase();
+      const meaning = (word.meaning || '').toLowerCase();
+      return !searchQuery || targetWord.includes(searchQuery) || meaning.includes(searchQuery);
+    })
+    .sort((a, b) => a[1].word.localeCompare(b[1].word, 'ko'));
+
+  document.getElementById('countBar').textContent = `${items.length} words`;
+
+  if (!items.length) {
+    document.getElementById('listWrap').innerHTML = '<div class="empty"><div class="empty-icon">0</div><div class="empty-text">No matching words.</div></div>';
+    return;
+  }
+
+  const html = items.map(([key, word]) => {
+    const meaning = word.meaning || '';
+    const shortMeaning = meaning.length > 28 ? `${meaning.slice(0, 28)}...` : meaning;
+    return `<a class="word-item" href="word.html?lang=${encodeURIComponent(currentLang)}&level=${encodeURIComponent(currentLevel)}&w=${encodeURIComponent(key)}">
+      <div class="level-dot dot-${currentLevel}"></div>
+      <div class="word-ko">${word.word || key}</div>
+      <div class="word-meaning">${shortMeaning}</div>
+    </a>`;
+  }).join('');
+
+  document.getElementById('listWrap').innerHTML = html;
+}
+
+async function init() {
+  if (!validLang(currentLang)) currentLang = 'en';
+  if (!validLevel(currentLevel)) currentLevel = '1';
+
+  renderLangSwitch();
+  renderLevelTabs();
+
+  try {
+    allWords = await loadWords(currentLang, currentLevel);
+    document.title = `Hello Words - TOPIK ${currentLevel} (${LANGS[currentLang].label})`;
+    document.getElementById('sectionTitle').textContent = `TOPIK ${currentLevel} - ${LANGS[currentLang].label}`;
+    document.getElementById('searchInput').placeholder = `Search TOPIK ${currentLevel} words...`;
+    renderList();
+  } catch (error) {
+    document.getElementById('countBar').textContent = '';
+    document.getElementById('listWrap').innerHTML = '<div class="empty"><div class="empty-icon">!</div><div class="empty-text">Failed to load words.</div></div>';
+  }
+}
+
+init();
+</script>
+</body>
+</html>

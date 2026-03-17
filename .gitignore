@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+_tmp*
+_commit*.json
+_big_tree.json
+_tree*.json
+_sit_cache*.json
+blob_payload.json
+commit_payload.json
+main_commit_payload.json
+main_tree_payload.json
+new_blob_shas.json
+all_shas.json
+tree_payload.json

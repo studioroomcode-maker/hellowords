@@ -1,0 +1,1905 @@
+[
+  {
+    "level": 3,
+    "id": 75,
+    "word": "산책",
+    "pos": "명사",
+    "synonyms": [
+      "걷기",
+      "보행"
+    ],
+    "meanings": {
+      "en": "walk, stroll",
+      "cn": "散步，漫步",
+      "vn": "đi dạo, tản bộ"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "공원에서 걷는 상황",
+          "ko": "매일 아침 공원에서 산책을 해요.",
+          "en": "I take a walk in the park every morning."
+        },
+        {
+          "situation": "건강을 위해 운동할 때",
+          "ko": "건강을 위해 저녁마다 30분씩 산책해요.",
+          "en": "I walk for 30 minutes every evening for my health."
+        },
+        {
+          "situation": "날씨가 좋을 때",
+          "ko": "날씨가 좋아서 점심시간에 산책을 했어요.",
+          "en": "The weather was nice so I took a walk at lunch."
+        },
+        {
+          "situation": "강아지와 함께 나갈 때",
+          "ko": "강아지와 함께 산책하면 기분이 좋아요.",
+          "en": "Taking a walk with my dog makes me feel good."
+        },
+        {
+          "situation": "아침 일과를 설명할 때",
+          "ko": "아침 식사 후 산책하는 것이 저의 일과예요.",
+          "en": "Taking a walk after breakfast is part of my daily routine."
+        },
+        {
+          "situation": "운동을 추천할 때",
+          "ko": "특별한 운동이 어렵다면 가벼운 산책부터 시작해 보세요.",
+          "en": "If intense exercise is hard, start with a light walk."
+        },
+        {
+          "situation": "동네를 구경할 때",
+          "ko": "새로 이사한 동네를 산책하며 둘러봤어요.",
+          "en": "I explored my new neighborhood by taking a walk."
+        },
+        {
+          "situation": "친구와 함께할 때",
+          "ko": "친구와 한강 공원에서 산책했어요.",
+          "en": "I went for a walk with a friend at Han River Park."
+        },
+        {
+          "situation": "비 온 후 상쾌할 때",
+          "ko": "비가 그친 후 상쾌한 공기를 마시며 산책했어요.",
+          "en": "I took a walk breathing fresh air after the rain stopped."
+        },
+        {
+          "situation": "퇴근 후 쉬는 상황",
+          "ko": "퇴근 후 동네를 산책하면 피로가 풀려요.",
+          "en": "Taking a walk through the neighborhood after work relieves fatigue."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "공원에서 걷는 상황",
+          "ko": "매일 아침 공원에서 산책을 해요.",
+          "cn": "我每天早上在公园散步。"
+        },
+        {
+          "situation": "건강을 위해 운동할 때",
+          "ko": "건강을 위해 저녁마다 30분씩 산책해요.",
+          "cn": "为了健康，我每晚散步30分钟。"
+        },
+        {
+          "situation": "날씨가 좋을 때",
+          "ko": "날씨가 좋아서 점심시간에 산책을 했어요.",
+          "cn": "天气很好，我在午休时去散步了。"
+        },
+        {
+          "situation": "강아지와 함께 나갈 때",
+          "ko": "강아지와 함께 산책하면 기분이 좋아요.",
+          "cn": "和狗狗一起散步心情很好。"
+        },
+        {
+          "situation": "아침 일과를 설명할 때",
+          "ko": "아침 식사 후 산책하는 것이 저의 일과예요.",
+          "cn": "饭后散步是我的日常习惯。"
+        },
+        {
+          "situation": "운동을 추천할 때",
+          "ko": "특별한 운동이 어렵다면 가벼운 산책부터 시작해 보세요.",
+          "cn": "如果剧烈运动有困难，可以从轻松散步开始。"
+        },
+        {
+          "situation": "동네를 구경할 때",
+          "ko": "새로 이사한 동네를 산책하며 둘러봤어요.",
+          "cn": "我散步游览了新搬来的小区。"
+        },
+        {
+          "situation": "친구와 함께할 때",
+          "ko": "친구와 한강 공원에서 산책했어요.",
+          "cn": "我和朋友在汉江公园散步。"
+        },
+        {
+          "situation": "비 온 후 상쾌할 때",
+          "ko": "비가 그친 후 상쾌한 공기를 마시며 산책했어요.",
+          "cn": "雨停后，我呼吸着清新空气散步。"
+        },
+        {
+          "situation": "퇴근 후 쉬는 상황",
+          "ko": "퇴근 후 동네를 산책하면 피로가 풀려요.",
+          "cn": "下班后在小区散步能消除疲劳。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "공원에서 걷는 상황",
+          "ko": "매일 아침 공원에서 산책을 해요.",
+          "vn": "Tôi đi dạo trong công viên mỗi buổi sáng."
+        },
+        {
+          "situation": "건강을 위해 운동할 때",
+          "ko": "건강을 위해 저녁마다 30분씩 산책해요.",
+          "vn": "Tôi đi bộ 30 phút mỗi tối để giữ sức khỏe."
+        },
+        {
+          "situation": "날씨가 좋을 때",
+          "ko": "날씨가 좋아서 점심시간에 산책을 했어요.",
+          "vn": "Thời tiết đẹp nên tôi đi dạo vào giờ nghỉ trưa."
+        },
+        {
+          "situation": "강아지와 함께 나갈 때",
+          "ko": "강아지와 함께 산책하면 기분이 좋아요.",
+          "vn": "Đi dạo cùng chó khiến tôi cảm thấy vui."
+        },
+        {
+          "situation": "아침 일과를 설명할 때",
+          "ko": "아침 식사 후 산책하는 것이 저의 일과예요.",
+          "vn": "Đi dạo sau bữa sáng là thói quen hàng ngày của tôi."
+        },
+        {
+          "situation": "운동을 추천할 때",
+          "ko": "특별한 운동이 어렵다면 가벼운 산책부터 시작해 보세요.",
+          "vn": "Nếu khó tập nặng, hãy bắt đầu với đi bộ nhẹ nhàng."
+        },
+        {
+          "situation": "동네를 구경할 때",
+          "ko": "새로 이사한 동네를 산책하며 둘러봤어요.",
+          "vn": "Tôi khám phá khu phố mới bằng cách đi dạo."
+        },
+        {
+          "situation": "친구와 함께할 때",
+          "ko": "친구와 한강 공원에서 산책했어요.",
+          "vn": "Tôi đi dạo cùng bạn ở công viên sông Hàn."
+        },
+        {
+          "situation": "비 온 후 상쾌할 때",
+          "ko": "비가 그친 후 상쾌한 공기를 마시며 산책했어요.",
+          "vn": "Tôi đi dạo hít không khí trong lành sau khi mưa tạnh."
+        },
+        {
+          "situation": "퇴근 후 쉬는 상황",
+          "ko": "퇴근 후 동네를 산책하면 피로가 풀려요.",
+          "vn": "Đi dạo quanh khu phố sau giờ làm việc giúp giảm mệt mỏi."
+        }
+      ]
+    }
+  },
+  {
+    "level": 3,
+    "id": 81,
+    "word": "체험",
+    "pos": "명사",
+    "synonyms": [
+      "경험",
+      "직접 경험"
+    ],
+    "meanings": {
+      "en": "hands-on experience",
+      "cn": "体验，亲身经历",
+      "vn": "trải nghiệm thực tế"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "현장 학습에서",
+          "ko": "농장 체험을 통해 채소가 어떻게 자라는지 배웠어요.",
+          "en": "Through a farm experience, I learned how vegetables grow."
+        },
+        {
+          "situation": "문화 활동을 소개할 때",
+          "ko": "도자기 만들기 체험이 생각보다 재미있었어요.",
+          "en": "The pottery-making experience was more fun than I expected."
+        },
+        {
+          "situation": "여행 중 활동을 설명할 때",
+          "ko": "여행 중에 현지 요리 체험 프로그램에 참가했어요.",
+          "en": "I joined a local cooking experience program during the trip."
+        },
+        {
+          "situation": "학교 행사를 설명할 때",
+          "ko": "학교에서 직업 체험의 날 행사를 열었어요.",
+          "en": "The school held a career experience day event."
+        },
+        {
+          "situation": "어린이 교육에서",
+          "ko": "아이들이 자연 체험 활동을 통해 환경을 배워요.",
+          "en": "Children learn about the environment through nature activities."
+        },
+        {
+          "situation": "직접 해보는 것을 설명할 때",
+          "ko": "직접 체험해 보면 더 잘 이해할 수 있어요.",
+          "en": "You can understand better if you experience it firsthand."
+        },
+        {
+          "situation": "문화 축제에서",
+          "ko": "전통문화 체험 부스가 축제에서 인기가 많았어요.",
+          "en": "The traditional culture booth was very popular at the festival."
+        },
+        {
+          "situation": "회사 연수에서",
+          "ko": "신입 직원들이 현장 체험 연수를 받았어요.",
+          "en": "New employees received on-site experience training."
+        },
+        {
+          "situation": "여행 프로그램을 소개할 때",
+          "ko": "이 여행사는 다양한 문화 체험 프로그램을 제공해요.",
+          "en": "This travel agency offers various cultural experience programs."
+        },
+        {
+          "situation": "특별한 경험을 이야기할 때",
+          "ko": "한국 전통 음식 만들기 체험은 잊을 수 없는 추억이 됐어요.",
+          "en": "The Korean traditional food-making experience became an unforgettable memory."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "현장 학습에서",
+          "ko": "농장 체험을 통해 채소가 어떻게 자라는지 배웠어요.",
+          "cn": "通过农场体验，我了解了蔬菜的生长过程。"
+        },
+        {
+          "situation": "문화 활동을 소개할 때",
+          "ko": "도자기 만들기 체험이 생각보다 재미있었어요.",
+          "cn": "陶艺体验比想象中更有趣。"
+        },
+        {
+          "situation": "여행 중 활동을 설명할 때",
+          "ko": "여행 중에 현지 요리 체험 프로그램에 참가했어요.",
+          "cn": "旅行中，我参加了当地烹饪体验项目。"
+        },
+        {
+          "situation": "학교 행사를 설명할 때",
+          "ko": "학교에서 직업 체험의 날 행사를 열었어요.",
+          "cn": "学校举办了职业体验日活动。"
+        },
+        {
+          "situation": "어린이 교육에서",
+          "ko": "아이들이 자연 체험 활동을 통해 환경을 배워요.",
+          "cn": "孩子们通过自然体验活动了解环境。"
+        },
+        {
+          "situation": "직접 해보는 것을 설명할 때",
+          "ko": "직접 체험해 보면 더 잘 이해할 수 있어요.",
+          "cn": "亲身体验会让理解更深刻。"
+        },
+        {
+          "situation": "문화 축제에서",
+          "ko": "전통문화 체험 부스가 축제에서 인기가 많았어요.",
+          "cn": "传统文化体验展台在节日上很受欢迎。"
+        },
+        {
+          "situation": "회사 연수에서",
+          "ko": "신입 직원들이 현장 체험 연수를 받았어요.",
+          "cn": "新员工接受了现场体验培训。"
+        },
+        {
+          "situation": "여행 프로그램을 소개할 때",
+          "ko": "이 여행사는 다양한 문화 체험 프로그램을 제공해요.",
+          "cn": "这家旅行社提供多种文化体验项目。"
+        },
+        {
+          "situation": "특별한 경험을 이야기할 때",
+          "ko": "한국 전통 음식 만들기 체험은 잊을 수 없는 추억이 됐어요.",
+          "cn": "制作韩国传统食物的体验成为了难忘的回忆。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "현장 학습에서",
+          "ko": "농장 체험을 통해 채소가 어떻게 자라는지 배웠어요.",
+          "vn": "Qua trải nghiệm nông trại, tôi học được rau củ mọc lên như thế nào."
+        },
+        {
+          "situation": "문화 활동을 소개할 때",
+          "ko": "도자기 만들기 체험이 생각보다 재미있었어요.",
+          "vn": "Trải nghiệm làm gốm thú vị hơn tôi nghĩ."
+        },
+        {
+          "situation": "여행 중 활동을 설명할 때",
+          "ko": "여행 중에 현지 요리 체험 프로그램에 참가했어요.",
+          "vn": "Trong chuyến đi, tôi tham gia chương trình trải nghiệm ẩm thực địa phương."
+        },
+        {
+          "situation": "학교 행사를 설명할 때",
+          "ko": "학교에서 직업 체험의 날 행사를 열었어요.",
+          "vn": "Trường tổ chức ngày trải nghiệm nghề nghiệp."
+        },
+        {
+          "situation": "어린이 교육에서",
+          "ko": "아이들이 자연 체험 활동을 통해 환경을 배워요.",
+          "vn": "Trẻ em học về môi trường qua các hoạt động trải nghiệm thiên nhiên."
+        },
+        {
+          "situation": "직접 해보는 것을 설명할 때",
+          "ko": "직접 체험해 보면 더 잘 이해할 수 있어요.",
+          "vn": "Bạn sẽ hiểu rõ hơn nếu trực tiếp trải nghiệm."
+        },
+        {
+          "situation": "문화 축제에서",
+          "ko": "전통문화 체험 부스가 축제에서 인기가 많았어요.",
+          "vn": "Gian trải nghiệm văn hóa truyền thống rất được yêu thích tại lễ hội."
+        },
+        {
+          "situation": "회사 연수에서",
+          "ko": "신입 직원들이 현장 체험 연수를 받았어요.",
+          "vn": "Nhân viên mới được đào tạo trải nghiệm thực tế."
+        },
+        {
+          "situation": "여행 프로그램을 소개할 때",
+          "ko": "이 여행사는 다양한 문화 체험 프로그램을 제공해요.",
+          "vn": "Công ty du lịch này cung cấp nhiều chương trình trải nghiệm văn hóa."
+        },
+        {
+          "situation": "특별한 경험을 이야기할 때",
+          "ko": "한국 전통 음식 만들기 체험은 잊을 수 없는 추억이 됐어요.",
+          "vn": "Trải nghiệm làm ẩm thực truyền thống Hàn Quốc trở thành ký ức khó quên."
+        }
+      ]
+    }
+  },
+  {
+    "level": 3,
+    "id": 112,
+    "word": "동호회",
+    "pos": "명사",
+    "synonyms": [
+      "동아리",
+      "클럽"
+    ],
+    "meanings": {
+      "en": "club, interest group",
+      "cn": "兴趣小组，俱乐部",
+      "vn": "câu lạc bộ, nhóm sở thích"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "취미 모임을 소개할 때",
+          "ko": "사진 동호회에 가입해서 매주 함께 사진을 찍어요.",
+          "en": "I joined a photography club and we take photos together every week."
+        },
+        {
+          "situation": "사람을 사귀는 방법을 이야기할 때",
+          "ko": "독서 동호회를 통해 좋은 친구들을 많이 사귀었어요.",
+          "en": "I made many good friends through a book club."
+        },
+        {
+          "situation": "회사 복지를 설명할 때",
+          "ko": "회사에서 직원들을 위한 다양한 동호회 활동을 지원해요.",
+          "en": "The company supports various club activities for employees."
+        },
+        {
+          "situation": "모임 날짜를 정할 때",
+          "ko": "등산 동호회 모임이 이번 주 토요일이에요.",
+          "en": "The hiking club meeting is this Saturday."
+        },
+        {
+          "situation": "새로운 취미를 시작할 때",
+          "ko": "요리 동호회에 들어가서 새로운 요리를 배우고 싶어요.",
+          "en": "I want to join a cooking club to learn new recipes."
+        },
+        {
+          "situation": "동호회 활동을 설명할 때",
+          "ko": "자전거 동호회에서 주말마다 함께 라이딩을 해요.",
+          "en": "In the cycling club, we ride together every weekend."
+        },
+        {
+          "situation": "온라인 모임을 이야기할 때",
+          "ko": "요즘은 온라인으로도 동호회 활동을 할 수 있어요.",
+          "en": "These days you can participate in club activities online too."
+        },
+        {
+          "situation": "동호회를 추천할 때",
+          "ko": "관심 있는 동호회에 가입하면 시간을 즐겁게 보낼 수 있어요.",
+          "en": "Joining a club you are interested in is a great way to enjoy your time."
+        },
+        {
+          "situation": "활동 빈도를 말할 때",
+          "ko": "봉사 동호회에서 한 달에 두 번 자원봉사를 해요.",
+          "en": "In the volunteer club, we volunteer twice a month."
+        },
+        {
+          "situation": "모집 공고를 낼 때",
+          "ko": "우리 회사 영화 동호회에서 새 회원을 모집하고 있어요.",
+          "en": "Our company's film club is recruiting new members."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "취미 모임을 소개할 때",
+          "ko": "사진 동호회에 가입해서 매주 함께 사진을 찍어요.",
+          "cn": "我加入了摄影兴趣小组，每周一起拍照。"
+        },
+        {
+          "situation": "사람을 사귀는 방법을 이야기할 때",
+          "ko": "독서 동호회를 통해 좋은 친구들을 많이 사귀었어요.",
+          "cn": "通过读书俱乐部结交了很多好朋友。"
+        },
+        {
+          "situation": "회사 복지를 설명할 때",
+          "ko": "회사에서 직원들을 위한 다양한 동호회 활동을 지원해요.",
+          "cn": "公司为员工提供多种兴趣小组活动支持。"
+        },
+        {
+          "situation": "모임 날짜를 정할 때",
+          "ko": "등산 동호회 모임이 이번 주 토요일이에요.",
+          "cn": "登山俱乐部聚会在本周六。"
+        },
+        {
+          "situation": "새로운 취미를 시작할 때",
+          "ko": "요리 동호회에 들어가서 새로운 요리를 배우고 싶어요.",
+          "cn": "我想加入烹饪兴趣小组学习新菜谱。"
+        },
+        {
+          "situation": "동호회 활동을 설명할 때",
+          "ko": "자전거 동호회에서 주말마다 함께 라이딩을 해요.",
+          "cn": "自行车俱乐部每个周末一起骑行。"
+        },
+        {
+          "situation": "온라인 모임을 이야기할 때",
+          "ko": "요즘은 온라인으로도 동호회 활동을 할 수 있어요.",
+          "cn": "现在也可以通过网络参加兴趣小组活动。"
+        },
+        {
+          "situation": "동호회를 추천할 때",
+          "ko": "관심 있는 동호회에 가입하면 시간을 즐겁게 보낼 수 있어요.",
+          "cn": "加入感兴趣的俱乐部可以愉快地打发时间。"
+        },
+        {
+          "situation": "활동 빈도를 말할 때",
+          "ko": "봉사 동호회에서 한 달에 두 번 자원봉사를 해요.",
+          "cn": "在志愿者兴趣小组每月志愿服务两次。"
+        },
+        {
+          "situation": "모집 공고를 낼 때",
+          "ko": "우리 회사 영화 동호회에서 새 회원을 모집하고 있어요.",
+          "cn": "我们公司的电影俱乐部正在招募新成员。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "취미 모임을 소개할 때",
+          "ko": "사진 동호회에 가입해서 매주 함께 사진을 찍어요.",
+          "vn": "Tôi tham gia câu lạc bộ nhiếp ảnh và chúng tôi chụp ảnh cùng nhau mỗi tuần."
+        },
+        {
+          "situation": "사람을 사귀는 방법을 이야기할 때",
+          "ko": "독서 동호회를 통해 좋은 친구들을 많이 사귀었어요.",
+          "vn": "Tôi kết bạn được nhiều người tốt qua câu lạc bộ đọc sách."
+        },
+        {
+          "situation": "회사 복지를 설명할 때",
+          "ko": "회사에서 직원들을 위한 다양한 동호회 활동을 지원해요.",
+          "vn": "Công ty hỗ trợ các hoạt động câu lạc bộ đa dạng cho nhân viên."
+        },
+        {
+          "situation": "모임 날짜를 정할 때",
+          "ko": "등산 동호회 모임이 이번 주 토요일이에요.",
+          "vn": "Buổi họp của câu lạc bộ leo núi là thứ Bảy tuần này."
+        },
+        {
+          "situation": "새로운 취미를 시작할 때",
+          "ko": "요리 동호회에 들어가서 새로운 요리를 배우고 싶어요.",
+          "vn": "Tôi muốn tham gia câu lạc bộ nấu ăn để học món mới."
+        },
+        {
+          "situation": "동호회 활동을 설명할 때",
+          "ko": "자전거 동호회에서 주말마다 함께 라이딩을 해요.",
+          "vn": "Câu lạc bộ xe đạp cùng nhau đạp xe mỗi cuối tuần."
+        },
+        {
+          "situation": "온라인 모임을 이야기할 때",
+          "ko": "요즘은 온라인으로도 동호회 활동을 할 수 있어요.",
+          "vn": "Ngày nay bạn cũng có thể tham gia hoạt động câu lạc bộ trực tuyến."
+        },
+        {
+          "situation": "동호회를 추천할 때",
+          "ko": "관심 있는 동호회에 가입하면 시간을 즐겁게 보낼 수 있어요.",
+          "vn": "Tham gia câu lạc bộ bạn yêu thích là cách tuyệt vời để tận hưởng thời gian."
+        },
+        {
+          "situation": "활동 빈도를 말할 때",
+          "ko": "봉사 동호회에서 한 달에 두 번 자원봉사를 해요.",
+          "vn": "Trong câu lạc bộ tình nguyện, chúng tôi làm tình nguyện hai lần một tháng."
+        },
+        {
+          "situation": "모집 공고를 낼 때",
+          "ko": "우리 회사 영화 동호회에서 새 회원을 모집하고 있어요.",
+          "vn": "Câu lạc bộ phim của công ty chúng tôi đang tuyển thành viên mới."
+        }
+      ]
+    }
+  },
+  {
+    "level": 3,
+    "id": 205,
+    "word": "불편",
+    "pos": "명사",
+    "synonyms": [
+      "불쾌",
+      "어려움"
+    ],
+    "meanings": {
+      "en": "inconvenience, discomfort",
+      "cn": "不便，不适",
+      "vn": "sự bất tiện, khó chịu"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "사과할 때",
+          "ko": "이용에 불편을 드려 대단히 죄송합니다.",
+          "en": "We sincerely apologize for the inconvenience."
+        },
+        {
+          "situation": "서비스 문제를 제기할 때",
+          "ko": "이 앱은 사용하기 불편한 점이 많아요.",
+          "en": "This app has many inconvenient aspects to use."
+        },
+        {
+          "situation": "몸이 좋지 않을 때",
+          "ko": "몸에 불편함을 느끼면 바로 병원에 가는 게 좋아요.",
+          "en": "If you feel physical discomfort, it is best to go to the hospital."
+        },
+        {
+          "situation": "시설 문제를 이야기할 때",
+          "ko": "오래된 건물이라 생활이 불편한 부분이 있어요.",
+          "en": "Since it is an old building, there are some inconveniences in living here."
+        },
+        {
+          "situation": "교통 문제를 설명할 때",
+          "ko": "대중교통이 없어서 이동하기 불편해요.",
+          "en": "The lack of public transportation makes getting around inconvenient."
+        },
+        {
+          "situation": "고객 불만을 접수할 때",
+          "ko": "불편 사항이 있으시면 고객센터에 연락해 주세요.",
+          "en": "If you have any inconveniences, please contact our customer center."
+        },
+        {
+          "situation": "언어 장벽을 이야기할 때",
+          "ko": "외국어를 못해서 여행 중 불편을 겪었어요.",
+          "en": "I experienced inconvenience during travel because I couldn't speak the language."
+        },
+        {
+          "situation": "환경 문제를 제기할 때",
+          "ko": "소음 때문에 생활에 불편을 겪고 있어요.",
+          "en": "I am experiencing inconvenience in daily life due to noise."
+        },
+        {
+          "situation": "개선 의견을 제시할 때",
+          "ko": "불편 없이 서비스를 이용할 수 있도록 개선할게요.",
+          "en": "We will make improvements so you can use the service without inconvenience."
+        },
+        {
+          "situation": "접근성 문제를 설명할 때",
+          "ko": "휠체어 사용자에게 불편한 시설이 아직 많아요.",
+          "en": "There are still many facilities that are inconvenient for wheelchair users."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "사과할 때",
+          "ko": "이용에 불편을 드려 대단히 죄송합니다.",
+          "cn": "给您带来不便，深感抱歉。"
+        },
+        {
+          "situation": "서비스 문제를 제기할 때",
+          "ko": "이 앱은 사용하기 불편한 점이 많아요.",
+          "cn": "这个应用有很多使用不便的地方。"
+        },
+        {
+          "situation": "몸이 좋지 않을 때",
+          "ko": "몸에 불편함을 느끼면 바로 병원에 가는 게 좋아요.",
+          "cn": "如果感到身体不适，最好马上去医院。"
+        },
+        {
+          "situation": "시설 문제를 이야기할 때",
+          "ko": "오래된 건물이라 생활이 불편한 부분이 있어요.",
+          "cn": "由于是旧楼，生活中有些不便的地方。"
+        },
+        {
+          "situation": "교통 문제를 설명할 때",
+          "ko": "대중교통이 없어서 이동하기 불편해요.",
+          "cn": "没有公共交通，出行很不方便。"
+        },
+        {
+          "situation": "고객 불만을 접수할 때",
+          "ko": "불편 사항이 있으시면 고객센터에 연락해 주세요.",
+          "cn": "如有不便，请联系客服中心。"
+        },
+        {
+          "situation": "언어 장벽을 이야기할 때",
+          "ko": "외국어를 못해서 여행 중 불편을 겪었어요.",
+          "cn": "因为不会外语，旅行中遇到了不少不便。"
+        },
+        {
+          "situation": "환경 문제를 제기할 때",
+          "ko": "소음 때문에 생활에 불편을 겪고 있어요.",
+          "cn": "因为噪音，生活中感到不便。"
+        },
+        {
+          "situation": "개선 의견을 제시할 때",
+          "ko": "불편 없이 서비스를 이용할 수 있도록 개선할게요.",
+          "cn": "我们将进行改善，让您能无障碍地使用服务。"
+        },
+        {
+          "situation": "접근성 문제를 설명할 때",
+          "ko": "휠체어 사용자에게 불편한 시설이 아직 많아요.",
+          "cn": "对轮椅使用者不便的设施还很多。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "사과할 때",
+          "ko": "이용에 불편을 드려 대단히 죄송합니다.",
+          "vn": "Chúng tôi chân thành xin lỗi vì sự bất tiện đã gây ra."
+        },
+        {
+          "situation": "서비스 문제를 제기할 때",
+          "ko": "이 앱은 사용하기 불편한 점이 많아요.",
+          "vn": "Ứng dụng này có nhiều điểm bất tiện khi sử dụng."
+        },
+        {
+          "situation": "몸이 좋지 않을 때",
+          "ko": "몸에 불편함을 느끼면 바로 병원에 가는 게 좋아요.",
+          "vn": "Nếu cảm thấy khó chịu trong người, tốt nhất nên đến bệnh viện ngay."
+        },
+        {
+          "situation": "시설 문제를 이야기할 때",
+          "ko": "오래된 건물이라 생활이 불편한 부분이 있어요.",
+          "vn": "Vì là tòa nhà cũ nên có một số bất tiện trong sinh hoạt."
+        },
+        {
+          "situation": "교통 문제를 설명할 때",
+          "ko": "대중교통이 없어서 이동하기 불편해요.",
+          "vn": "Không có phương tiện công cộng nên việc di chuyển rất bất tiện."
+        },
+        {
+          "situation": "고객 불만을 접수할 때",
+          "ko": "불편 사항이 있으시면 고객센터에 연락해 주세요.",
+          "vn": "Nếu có bất tiện gì, vui lòng liên hệ trung tâm hỗ trợ khách hàng."
+        },
+        {
+          "situation": "언어 장벽을 이야기할 때",
+          "ko": "외국어를 못해서 여행 중 불편을 겪었어요.",
+          "vn": "Tôi gặp bất tiện trong chuyến đi vì không biết ngoại ngữ."
+        },
+        {
+          "situation": "환경 문제를 제기할 때",
+          "ko": "소음 때문에 생활에 불편을 겪고 있어요.",
+          "vn": "Tôi đang gặp bất tiện trong cuộc sống do tiếng ồn."
+        },
+        {
+          "situation": "개선 의견을 제시할 때",
+          "ko": "불편 없이 서비스를 이용할 수 있도록 개선할게요.",
+          "vn": "Chúng tôi sẽ cải thiện để bạn sử dụng dịch vụ không gặp bất tiện."
+        },
+        {
+          "situation": "접근성 문제를 설명할 때",
+          "ko": "휠체어 사용자에게 불편한 시설이 아직 많아요.",
+          "vn": "Vẫn còn nhiều cơ sở vật chất bất tiện cho người dùng xe lăn."
+        }
+      ]
+    }
+  },
+  {
+    "level": 3,
+    "id": 228,
+    "word": "개선",
+    "pos": "명사/동사",
+    "synonyms": [
+      "향상",
+      "보완"
+    ],
+    "meanings": {
+      "en": "improvement, enhancement",
+      "cn": "改善，改进",
+      "vn": "cải thiện, cải tiến"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "업무를 논의할 때",
+          "ko": "업무 효율을 개선하기 위한 회의를 열었어요.",
+          "en": "We held a meeting to improve work efficiency."
+        },
+        {
+          "situation": "서비스 품질을 논의할 때",
+          "ko": "고객 불만을 바탕으로 서비스를 개선했어요.",
+          "en": "We improved the service based on customer feedback."
+        },
+        {
+          "situation": "건강 습관을 이야기할 때",
+          "ko": "생활 습관을 개선하면 건강이 좋아져요.",
+          "en": "Improving your lifestyle habits will make you healthier."
+        },
+        {
+          "situation": "학습 방법을 논의할 때",
+          "ko": "공부 방법을 개선해서 성적이 올랐어요.",
+          "en": "My grades went up after I improved my study methods."
+        },
+        {
+          "situation": "도시 환경을 이야기할 때",
+          "ko": "도시 환경 개선을 위해 공원을 새로 만들었어요.",
+          "en": "A new park was built to improve the urban environment."
+        },
+        {
+          "situation": "회사 시스템을 변경할 때",
+          "ko": "새로운 시스템 도입으로 업무 환경이 크게 개선됐어요.",
+          "en": "The new system greatly improved the work environment."
+        },
+        {
+          "situation": "의사소통 문제를 해결할 때",
+          "ko": "팀 내 소통 방식을 개선해서 갈등이 줄었어요.",
+          "en": "Improving team communication reduced conflicts."
+        },
+        {
+          "situation": "정책 효과를 평가할 때",
+          "ko": "이번 정책은 교통 상황을 크게 개선했어요.",
+          "en": "This policy significantly improved the traffic situation."
+        },
+        {
+          "situation": "시험 준비를 이야기할 때",
+          "ko": "약점을 개선하면 시험에서 더 좋은 결과를 낼 수 있어요.",
+          "en": "You can get better exam results by improving your weaknesses."
+        },
+        {
+          "situation": "환경 대책을 논의할 때",
+          "ko": "공기 질 개선을 위해 공장 배출 기준을 강화했어요.",
+          "en": "Factory emission standards were tightened to improve air quality."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "업무를 논의할 때",
+          "ko": "업무 효율을 개선하기 위한 회의를 열었어요.",
+          "cn": "我们召开了提高工作效率的会议。"
+        },
+        {
+          "situation": "서비스 품질을 논의할 때",
+          "ko": "고객 불만을 바탕으로 서비스를 개선했어요.",
+          "cn": "根据客户反馈改善了服务。"
+        },
+        {
+          "situation": "건강 습관을 이야기할 때",
+          "ko": "생활 습관을 개선하면 건강이 좋아져요.",
+          "cn": "改善生活习惯会让身体更健康。"
+        },
+        {
+          "situation": "학습 방법을 논의할 때",
+          "ko": "공부 방법을 개선해서 성적이 올랐어요.",
+          "cn": "改进了学习方法后，成绩提高了。"
+        },
+        {
+          "situation": "도시 환경을 이야기할 때",
+          "ko": "도시 환경 개선을 위해 공원을 새로 만들었어요.",
+          "cn": "为了改善城市环境，新建了公园。"
+        },
+        {
+          "situation": "회사 시스템을 변경할 때",
+          "ko": "새로운 시스템 도입으로 업무 환경이 크게 개선됐어요.",
+          "cn": "引进新系统后，工作环境大幅改善。"
+        },
+        {
+          "situation": "의사소통 문제를 해결할 때",
+          "ko": "팀 내 소통 방식을 개선해서 갈등이 줄었어요.",
+          "cn": "改善团队内部沟通方式后，矛盾减少了。"
+        },
+        {
+          "situation": "정책 효과를 평가할 때",
+          "ko": "이번 정책은 교통 상황을 크게 개선했어요.",
+          "cn": "这次政策大幅改善了交通状况。"
+        },
+        {
+          "situation": "시험 준비를 이야기할 때",
+          "ko": "약점을 개선하면 시험에서 더 좋은 결과를 낼 수 있어요.",
+          "cn": "改善弱点可以在考试中取得更好的成绩。"
+        },
+        {
+          "situation": "환경 대책을 논의할 때",
+          "ko": "공기 질 개선을 위해 공장 배출 기준을 강화했어요.",
+          "cn": "为改善空气质量，加强了工厂排放标准。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "업무를 논의할 때",
+          "ko": "업무 효율을 개선하기 위한 회의를 열었어요.",
+          "vn": "Chúng tôi tổ chức cuộc họp để cải thiện hiệu quả công việc."
+        },
+        {
+          "situation": "서비스 품질을 논의할 때",
+          "ko": "고객 불만을 바탕으로 서비스를 개선했어요.",
+          "vn": "Chúng tôi cải thiện dịch vụ dựa trên phản hồi của khách hàng."
+        },
+        {
+          "situation": "건강 습관을 이야기할 때",
+          "ko": "생활 습관을 개선하면 건강이 좋아져요.",
+          "vn": "Cải thiện thói quen sinh hoạt sẽ giúp bạn khỏe mạnh hơn."
+        },
+        {
+          "situation": "학습 방법을 논의할 때",
+          "ko": "공부 방법을 개선해서 성적이 올랐어요.",
+          "vn": "Điểm số của tôi tăng lên sau khi cải thiện phương pháp học."
+        },
+        {
+          "situation": "도시 환경을 이야기할 때",
+          "ko": "도시 환경 개선을 위해 공원을 새로 만들었어요.",
+          "vn": "Một công viên mới được xây dựng để cải thiện môi trường đô thị."
+        },
+        {
+          "situation": "회사 시스템을 변경할 때",
+          "ko": "새로운 시스템 도입으로 업무 환경이 크게 개선됐어요.",
+          "vn": "Việc đưa vào hệ thống mới đã cải thiện đáng kể môi trường làm việc."
+        },
+        {
+          "situation": "의사소통 문제를 해결할 때",
+          "ko": "팀 내 소통 방식을 개선해서 갈등이 줄었어요.",
+          "vn": "Cải thiện cách giao tiếp trong nhóm đã giúp giảm xung đột."
+        },
+        {
+          "situation": "정책 효과를 평가할 때",
+          "ko": "이번 정책은 교통 상황을 크게 개선했어요.",
+          "vn": "Chính sách lần này đã cải thiện đáng kể tình trạng giao thông."
+        },
+        {
+          "situation": "시험 준비를 이야기할 때",
+          "ko": "약점을 개선하면 시험에서 더 좋은 결과를 낼 수 있어요.",
+          "vn": "Cải thiện điểm yếu sẽ giúp bạn đạt kết quả tốt hơn trong kỳ thi."
+        },
+        {
+          "situation": "환경 대책을 논의할 때",
+          "ko": "공기 질 개선을 위해 공장 배출 기준을 강화했어요.",
+          "vn": "Tiêu chuẩn thải ra của nhà máy được siết chặt để cải thiện chất lượng không khí."
+        }
+      ]
+    }
+  },
+  {
+    "level": 3,
+    "id": 299,
+    "word": "소풍",
+    "pos": "명사",
+    "synonyms": [
+      "나들이",
+      "야외활동"
+    ],
+    "meanings": {
+      "en": "picnic, field trip",
+      "cn": "郊游，野餐",
+      "vn": "dã ngoại, đi picnic"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "학교 행사를 이야기할 때",
+          "ko": "봄에 학교 소풍이 있어서 설레요.",
+          "en": "I am excited because there is a school field trip in spring."
+        },
+        {
+          "situation": "가족 나들이를 계획할 때",
+          "ko": "주말에 가족과 함께 소풍을 가기로 했어요.",
+          "en": "We decided to go on a picnic with the family on the weekend."
+        },
+        {
+          "situation": "도시락을 준비할 때",
+          "ko": "소풍을 위해 아침 일찍 도시락을 준비했어요.",
+          "en": "I prepared a lunchbox early in the morning for the picnic."
+        },
+        {
+          "situation": "날씨 걱정을 이야기할 때",
+          "ko": "소풍 날 날씨가 맑기를 바라요.",
+          "en": "I hope the weather is clear on the picnic day."
+        },
+        {
+          "situation": "자연 속에서 즐기는 상황",
+          "ko": "봄꽃이 핀 공원에서 소풍을 즐겼어요.",
+          "en": "We enjoyed a picnic in the park where spring flowers bloomed."
+        },
+        {
+          "situation": "추억을 이야기할 때",
+          "ko": "어릴 때 소풍 가던 기억이 아직도 생생해요.",
+          "en": "The memory of going on field trips as a child is still vivid."
+        },
+        {
+          "situation": "음식을 나눠 먹을 때",
+          "ko": "소풍에서 친구들과 김밥을 나눠 먹었어요.",
+          "en": "I shared gimbap with friends during the field trip."
+        },
+        {
+          "situation": "단체 행사를 이야기할 때",
+          "ko": "부서 소풍으로 계곡에 다녀왔어요.",
+          "en": "We went to a valley for the department outing."
+        },
+        {
+          "situation": "물품 목록을 확인할 때",
+          "ko": "소풍 갈 때는 돗자리와 물을 꼭 챙겨야 해요.",
+          "en": "When going on a picnic, you must pack a mat and water."
+        },
+        {
+          "situation": "계절과 연결할 때",
+          "ko": "가을에 단풍 구경을 겸해서 소풍을 가면 좋아요.",
+          "en": "It is nice to go on a picnic in autumn to enjoy the autumn leaves."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "학교 행사를 이야기할 때",
+          "ko": "봄에 학교 소풍이 있어서 설레요.",
+          "cn": "春天有学校郊游，很期待。"
+        },
+        {
+          "situation": "가족 나들이를 계획할 때",
+          "ko": "주말에 가족과 함께 소풍을 가기로 했어요.",
+          "cn": "我们决定周末和家人一起去郊游。"
+        },
+        {
+          "situation": "도시락을 준비할 때",
+          "ko": "소풍을 위해 아침 일찍 도시락을 준비했어요.",
+          "cn": "为了郊游，我一大早就准备好了便当。"
+        },
+        {
+          "situation": "날씨 걱정을 이야기할 때",
+          "ko": "소풍 날 날씨가 맑기를 바라요.",
+          "cn": "希望郊游那天天气晴朗。"
+        },
+        {
+          "situation": "자연 속에서 즐기는 상황",
+          "ko": "봄꽃이 핀 공원에서 소풍을 즐겼어요.",
+          "cn": "在春花盛开的公园里享受了郊游。"
+        },
+        {
+          "situation": "추억을 이야기할 때",
+          "ko": "어릴 때 소풍 가던 기억이 아직도 생생해요.",
+          "cn": "小时候去郊游的记忆至今历历在目。"
+        },
+        {
+          "situation": "음식을 나눠 먹을 때",
+          "ko": "소풍에서 친구들과 김밥을 나눠 먹었어요.",
+          "cn": "郊游时和朋友们分享了紫菜包饭。"
+        },
+        {
+          "situation": "단체 행사를 이야기할 때",
+          "ko": "부서 소풍으로 계곡에 다녀왔어요.",
+          "cn": "部门郊游去了山谷。"
+        },
+        {
+          "situation": "물품 목록을 확인할 때",
+          "ko": "소풍 갈 때는 돗자리와 물을 꼭 챙겨야 해요.",
+          "cn": "去郊游时一定要带垫子和水。"
+        },
+        {
+          "situation": "계절과 연결할 때",
+          "ko": "가을에 단풍 구경을 겸해서 소풍을 가면 좋아요.",
+          "cn": "秋天赏枫叶顺便去郊游很不错。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "학교 행사를 이야기할 때",
+          "ko": "봄에 학교 소풍이 있어서 설레요.",
+          "vn": "Tôi háo hức vì có chuyến dã ngoại trường học vào mùa xuân."
+        },
+        {
+          "situation": "가족 나들이를 계획할 때",
+          "ko": "주말에 가족과 함께 소풍을 가기로 했어요.",
+          "vn": "Chúng tôi đã quyết định đi dã ngoại cùng gia đình vào cuối tuần."
+        },
+        {
+          "situation": "도시락을 준비할 때",
+          "ko": "소풍을 위해 아침 일찍 도시락을 준비했어요.",
+          "vn": "Tôi chuẩn bị hộp cơm từ sớm cho chuyến dã ngoại."
+        },
+        {
+          "situation": "날씨 걱정을 이야기할 때",
+          "ko": "소풍 날 날씨가 맑기를 바라요.",
+          "vn": "Tôi mong trời sẽ trong xanh vào ngày đi dã ngoại."
+        },
+        {
+          "situation": "자연 속에서 즐기는 상황",
+          "ko": "봄꽃이 핀 공원에서 소풍을 즐겼어요.",
+          "vn": "Chúng tôi tận hưởng buổi dã ngoại ở công viên nơi hoa mùa xuân nở rộ."
+        },
+        {
+          "situation": "추억을 이야기할 때",
+          "ko": "어릴 때 소풍 가던 기억이 아직도 생생해요.",
+          "vn": "Ký ức về những chuyến dã ngoại hồi nhỏ vẫn còn rõ ràng."
+        },
+        {
+          "situation": "음식을 나눠 먹을 때",
+          "ko": "소풍에서 친구들과 김밥을 나눠 먹었어요.",
+          "vn": "Tôi chia sẻ kimbap với bạn bè trong chuyến dã ngoại."
+        },
+        {
+          "situation": "단체 행사를 이야기할 때",
+          "ko": "부서 소풍으로 계곡에 다녀왔어요.",
+          "vn": "Chúng tôi đã đi dã ngoại bộ phận ở thung lũng."
+        },
+        {
+          "situation": "물품 목록을 확인할 때",
+          "ko": "소풍 갈 때는 돗자리와 물을 꼭 챙겨야 해요.",
+          "vn": "Khi đi dã ngoại nhất định phải mang theo thảm và nước."
+        },
+        {
+          "situation": "계절과 연결할 때",
+          "ko": "가을에 단풍 구경을 겸해서 소풍을 가면 좋아요.",
+          "vn": "Đi dã ngoại vào mùa thu kết hợp ngắm lá vàng thật tuyệt."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 6,
+    "word": "경제성장",
+    "pos": "명사",
+    "synonyms": [
+      "경제발전",
+      "성장"
+    ],
+    "meanings": {
+      "en": "economic growth",
+      "cn": "经济增长",
+      "vn": "tăng trưởng kinh tế"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "GDP를 논의할 때",
+          "ko": "올해 경제성장률이 3%를 기록했어요.",
+          "en": "This year's economic growth rate recorded 3%."
+        },
+        {
+          "situation": "발전 전략을 이야기할 때",
+          "ko": "지속적인 경제성장을 위해 기술 혁신이 필요해요.",
+          "en": "Technological innovation is needed for continuous economic growth."
+        },
+        {
+          "situation": "정부 정책을 논의할 때",
+          "ko": "정부는 경제성장을 위한 다양한 정책을 발표했어요.",
+          "en": "The government announced various policies for economic growth."
+        },
+        {
+          "situation": "고용과 연결할 때",
+          "ko": "경제성장이 이루어지면 일자리도 늘어나요.",
+          "en": "When economic growth occurs, job opportunities also increase."
+        },
+        {
+          "situation": "경제 보고서를 분석할 때",
+          "ko": "지난 10년간 이 나라의 경제성장은 눈부셨어요.",
+          "en": "The economic growth of this country over the past 10 years has been remarkable."
+        },
+        {
+          "situation": "불평등 문제를 이야기할 때",
+          "ko": "경제성장이 모든 국민에게 혜택이 되어야 해요.",
+          "en": "Economic growth should benefit all citizens."
+        },
+        {
+          "situation": "국제 비교를 할 때",
+          "ko": "개발도상국의 경제성장 속도가 선진국보다 빨라요.",
+          "en": "Developing countries grow faster than developed countries."
+        },
+        {
+          "situation": "환경 문제와 연결할 때",
+          "ko": "무분별한 경제성장은 환경 파괴를 가져올 수 있어요.",
+          "en": "Indiscriminate economic growth can lead to environmental destruction."
+        },
+        {
+          "situation": "미래를 예측할 때",
+          "ko": "전문가들은 내년에도 경제성장이 이어질 것으로 예상해요.",
+          "en": "Experts expect economic growth to continue next year."
+        },
+        {
+          "situation": "투자 환경을 이야기할 때",
+          "ko": "안정적인 경제성장은 외국인 투자를 끌어들여요.",
+          "en": "Stable economic growth attracts foreign investment."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "GDP를 논의할 때",
+          "ko": "올해 경제성장률이 3%를 기록했어요.",
+          "cn": "今年经济增长率达到了3%。"
+        },
+        {
+          "situation": "발전 전략을 이야기할 때",
+          "ko": "지속적인 경제성장을 위해 기술 혁신이 필요해요.",
+          "cn": "持续经济增长需要技术创新。"
+        },
+        {
+          "situation": "정부 정책을 논의할 때",
+          "ko": "정부는 경제성장을 위한 다양한 정책을 발표했어요.",
+          "cn": "政府宣布了多项促进经济增长的政策。"
+        },
+        {
+          "situation": "고용과 연결할 때",
+          "ko": "경제성장이 이루어지면 일자리도 늘어나요.",
+          "cn": "经济增长时，就业机会也会增加。"
+        },
+        {
+          "situation": "경제 보고서를 분석할 때",
+          "ko": "지난 10년간 이 나라의 경제성장은 눈부셨어요.",
+          "cn": "过去10年，这个国家的经济增长令人瞩目。"
+        },
+        {
+          "situation": "불평등 문제를 이야기할 때",
+          "ko": "경제성장이 모든 국민에게 혜택이 되어야 해요.",
+          "cn": "经济增长应该惠及全体国民。"
+        },
+        {
+          "situation": "국제 비교를 할 때",
+          "ko": "개발도상국의 경제성장 속도가 선진국보다 빨라요.",
+          "cn": "发展中国家的经济增长速度比发达国家更快。"
+        },
+        {
+          "situation": "환경 문제와 연결할 때",
+          "ko": "무분별한 경제성장은 환경 파괴를 가져올 수 있어요.",
+          "cn": "盲目的经济增长可能导致环境破坏。"
+        },
+        {
+          "situation": "미래를 예측할 때",
+          "ko": "전문가들은 내년에도 경제성장이 이어질 것으로 예상해요.",
+          "cn": "专家们预计明年经济增长将持续。"
+        },
+        {
+          "situation": "투자 환경을 이야기할 때",
+          "ko": "안정적인 경제성장은 외국인 투자를 끌어들여요.",
+          "cn": "稳定的经济增长能吸引外国投资。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "GDP를 논의할 때",
+          "ko": "올해 경제성장률이 3%를 기록했어요.",
+          "vn": "Tốc độ tăng trưởng kinh tế năm nay đạt 3%."
+        },
+        {
+          "situation": "발전 전략을 이야기할 때",
+          "ko": "지속적인 경제성장을 위해 기술 혁신이 필요해요.",
+          "vn": "Cần đổi mới công nghệ để tăng trưởng kinh tế bền vững."
+        },
+        {
+          "situation": "정부 정책을 논의할 때",
+          "ko": "정부는 경제성장을 위한 다양한 정책을 발표했어요.",
+          "vn": "Chính phủ công bố nhiều chính sách thúc đẩy tăng trưởng kinh tế."
+        },
+        {
+          "situation": "고용과 연결할 때",
+          "ko": "경제성장이 이루어지면 일자리도 늘어나요.",
+          "vn": "Khi tăng trưởng kinh tế xảy ra, cơ hội việc làm cũng tăng."
+        },
+        {
+          "situation": "경제 보고서를 분석할 때",
+          "ko": "지난 10년간 이 나라의 경제성장은 눈부셨어요.",
+          "vn": "Sự tăng trưởng kinh tế trong 10 năm qua thật đáng chú ý."
+        },
+        {
+          "situation": "불평등 문제를 이야기할 때",
+          "ko": "경제성장이 모든 국민에게 혜택이 되어야 해요.",
+          "vn": "Tăng trưởng kinh tế cần mang lại lợi ích cho tất cả người dân."
+        },
+        {
+          "situation": "국제 비교를 할 때",
+          "ko": "개발도상국의 경제성장 속도가 선진국보다 빨라요.",
+          "vn": "Các nước đang phát triển tăng trưởng nhanh hơn các nước phát triển."
+        },
+        {
+          "situation": "환경 문제와 연결할 때",
+          "ko": "무분별한 경제성장은 환경 파괴를 가져올 수 있어요.",
+          "vn": "Tăng trưởng kinh tế thiếu kiểm soát có thể phá hoại môi trường."
+        },
+        {
+          "situation": "미래를 예측할 때",
+          "ko": "전문가들은 내년에도 경제성장이 이어질 것으로 예상해요.",
+          "vn": "Các chuyên gia dự đoán tăng trưởng kinh tế sẽ tiếp tục vào năm tới."
+        },
+        {
+          "situation": "투자 환경을 이야기할 때",
+          "ko": "안정적인 경제성장은 외국인 투자를 끌어들여요.",
+          "vn": "Tăng trưởng kinh tế ổn định thu hút đầu tư nước ngoài."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 12,
+    "word": "구조조정",
+    "pos": "명사",
+    "synonyms": [
+      "감원",
+      "조직개편"
+    ],
+    "meanings": {
+      "en": "corporate restructuring, downsizing",
+      "cn": "企业重组，裁员",
+      "vn": "tái cơ cấu doanh nghiệp"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "기업 위기를 이야기할 때",
+          "ko": "회사가 적자를 면하기 위해 구조조정을 단행했어요.",
+          "en": "The company carried out restructuring to avoid losses."
+        },
+        {
+          "situation": "인력 감축을 설명할 때",
+          "ko": "구조조정으로 인해 직원 수가 크게 줄었어요.",
+          "en": "Due to restructuring, the number of employees decreased significantly."
+        },
+        {
+          "situation": "노사 갈등을 논의할 때",
+          "ko": "노동조합이 구조조정에 반대하여 파업을 선언했어요.",
+          "en": "The labor union declared a strike in opposition to the restructuring."
+        },
+        {
+          "situation": "산업 변화를 분석할 때",
+          "ko": "디지털 전환으로 많은 산업에서 구조조정이 일어나고 있어요.",
+          "en": "Restructuring is occurring in many industries due to digital transformation."
+        },
+        {
+          "situation": "경영 전략을 이야기할 때",
+          "ko": "비핵심 사업을 정리하는 구조조정을 통해 수익성이 높아졌어요.",
+          "en": "Profitability improved through restructuring that streamlined non-core businesses."
+        },
+        {
+          "situation": "실업 문제를 논의할 때",
+          "ko": "대규모 구조조정으로 실업자가 급증했어요.",
+          "en": "Mass restructuring led to a rapid increase in unemployment."
+        },
+        {
+          "situation": "정부 지원을 이야기할 때",
+          "ko": "정부는 구조조정 피해 근로자를 지원하는 정책을 마련했어요.",
+          "en": "The government prepared policies to support workers affected by restructuring."
+        },
+        {
+          "situation": "기업 회생을 이야기할 때",
+          "ko": "성공적인 구조조정 덕분에 회사가 다시 흑자로 돌아섰어요.",
+          "en": "Thanks to successful restructuring, the company returned to profitability."
+        },
+        {
+          "situation": "변화 관리를 논의할 때",
+          "ko": "구조조정 과정에서 직원들의 심리적 지원이 중요해요.",
+          "en": "Psychological support for employees is important during the restructuring process."
+        },
+        {
+          "situation": "미래 전망을 이야기할 때",
+          "ko": "구조조정을 통해 회사가 더 경쟁력 있는 조직이 될 것이에요.",
+          "en": "Through restructuring, the company will become a more competitive organization."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "기업 위기를 이야기할 때",
+          "ko": "회사가 적자를 면하기 위해 구조조정을 단행했어요.",
+          "cn": "公司为避免亏损进行了结构调整。"
+        },
+        {
+          "situation": "인력 감축을 설명할 때",
+          "ko": "구조조정으로 인해 직원 수가 크게 줄었어요.",
+          "cn": "由于结构调整，员工人数大幅减少。"
+        },
+        {
+          "situation": "노사 갈등을 논의할 때",
+          "ko": "노동조합이 구조조정에 반대하여 파업을 선언했어요.",
+          "cn": "工会反对结构调整，宣布罢工。"
+        },
+        {
+          "situation": "산업 변화를 분석할 때",
+          "ko": "디지털 전환으로 많은 산업에서 구조조정이 일어나고 있어요.",
+          "cn": "由于数字化转型，许多行业正在进行结构调整。"
+        },
+        {
+          "situation": "경영 전략을 이야기할 때",
+          "ko": "비핵심 사업을 정리하는 구조조정을 통해 수익성이 높아졌어요.",
+          "cn": "通过剥离非核心业务的结构调整，盈利能力提高了。"
+        },
+        {
+          "situation": "실업 문제를 논의할 때",
+          "ko": "대규모 구조조정으로 실업자가 급증했어요.",
+          "cn": "大规模结构调整导致失业人数急剧增加。"
+        },
+        {
+          "situation": "정부 지원을 이야기할 때",
+          "ko": "정부는 구조조정 피해 근로자를 지원하는 정책을 마련했어요.",
+          "cn": "政府制定了支持受结构调整影响的工人的政策。"
+        },
+        {
+          "situation": "기업 회생을 이야기할 때",
+          "ko": "성공적인 구조조정 덕분에 회사가 다시 흑자로 돌아섰어요.",
+          "cn": "得益于成功的结构调整，公司重新盈利。"
+        },
+        {
+          "situation": "변화 관리를 논의할 때",
+          "ko": "구조조정 과정에서 직원들의 심리적 지원이 중요해요.",
+          "cn": "在结构调整过程中，对员工的心理支持很重要。"
+        },
+        {
+          "situation": "미래 전망을 이야기할 때",
+          "ko": "구조조정을 통해 회사가 더 경쟁력 있는 조직이 될 것이에요.",
+          "cn": "通过结构调整，公司将成为更具竞争力的组织。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "기업 위기를 이야기할 때",
+          "ko": "회사가 적자를 면하기 위해 구조조정을 단행했어요.",
+          "vn": "Công ty tiến hành tái cơ cấu để tránh thua lỗ."
+        },
+        {
+          "situation": "인력 감축을 설명할 때",
+          "ko": "구조조정으로 인해 직원 수가 크게 줄었어요.",
+          "vn": "Do tái cơ cấu, số lượng nhân viên giảm đáng kể."
+        },
+        {
+          "situation": "노사 갈등을 논의할 때",
+          "ko": "노동조합이 구조조정에 반대하여 파업을 선언했어요.",
+          "vn": "Công đoàn tuyên bố đình công để phản đối tái cơ cấu."
+        },
+        {
+          "situation": "산업 변화를 분석할 때",
+          "ko": "디지털 전환으로 많은 산업에서 구조조정이 일어나고 있어요.",
+          "vn": "Tái cơ cấu đang xảy ra trong nhiều ngành do chuyển đổi số."
+        },
+        {
+          "situation": "경영 전략을 이야기할 때",
+          "ko": "비핵심 사업을 정리하는 구조조정을 통해 수익성이 높아졌어요.",
+          "vn": "Khả năng sinh lời được cải thiện qua tái cơ cấu loại bỏ các mảng phi cốt lõi."
+        },
+        {
+          "situation": "실업 문제를 논의할 때",
+          "ko": "대규모 구조조정으로 실업자가 급증했어요.",
+          "vn": "Tái cơ cấu quy mô lớn dẫn đến số người thất nghiệp tăng vọt."
+        },
+        {
+          "situation": "정부 지원을 이야기할 때",
+          "ko": "정부는 구조조정 피해 근로자를 지원하는 정책을 마련했어요.",
+          "vn": "Chính phủ chuẩn bị chính sách hỗ trợ người lao động bị ảnh hưởng bởi tái cơ cấu."
+        },
+        {
+          "situation": "기업 회생을 이야기할 때",
+          "ko": "성공적인 구조조정 덕분에 회사가 다시 흑자로 돌아섰어요.",
+          "vn": "Nhờ tái cơ cấu thành công, công ty đã trở lại có lãi."
+        },
+        {
+          "situation": "변화 관리를 논의할 때",
+          "ko": "구조조정 과정에서 직원들의 심리적 지원이 중요해요.",
+          "vn": "Hỗ trợ tâm lý cho nhân viên rất quan trọng trong quá trình tái cơ cấu."
+        },
+        {
+          "situation": "미래 전망을 이야기할 때",
+          "ko": "구조조정을 통해 회사가 더 경쟁력 있는 조직이 될 것이에요.",
+          "vn": "Qua tái cơ cấu, công ty sẽ trở thành tổ chức cạnh tranh hơn."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 14,
+    "word": "규제완화",
+    "pos": "명사",
+    "synonyms": [
+      "규제축소",
+      "자율화"
+    ],
+    "meanings": {
+      "en": "deregulation, regulatory relaxation",
+      "cn": "放松管制，规制缓和",
+      "vn": "nới lỏng quy định, bãi bỏ quy định"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "경제 정책을 논의할 때",
+          "ko": "정부가 기업 활성화를 위해 규제완화 정책을 시행했어요.",
+          "en": "The government implemented a deregulation policy to revitalize businesses."
+        },
+        {
+          "situation": "창업 환경을 이야기할 때",
+          "ko": "규제완화 덕분에 스타트업 창업이 더 쉬워졌어요.",
+          "en": "Thanks to deregulation, starting up a startup has become easier."
+        },
+        {
+          "situation": "산업 발전을 논의할 때",
+          "ko": "금융 규제완화로 새로운 금융 서비스가 등장했어요.",
+          "en": "New financial services emerged due to financial deregulation."
+        },
+        {
+          "situation": "찬반 논쟁을 할 때",
+          "ko": "규제완화가 경제 성장에 도움이 된다는 주장이 있어요.",
+          "en": "There is an argument that deregulation helps economic growth."
+        },
+        {
+          "situation": "소비자 보호를 이야기할 때",
+          "ko": "과도한 규제완화는 소비자 보호를 약화시킬 수 있어요.",
+          "en": "Excessive deregulation can weaken consumer protection."
+        },
+        {
+          "situation": "환경 규제를 논의할 때",
+          "ko": "환경 규제완화는 기업엔 유리하지만 생태계에는 위협이 될 수 있어요.",
+          "en": "Environmental deregulation is favorable for businesses but can threaten ecosystems."
+        },
+        {
+          "situation": "노동시장을 이야기할 때",
+          "ko": "노동시장 규제완화로 비정규직이 늘어났어요.",
+          "en": "Labor market deregulation led to an increase in irregular employment."
+        },
+        {
+          "situation": "국제 경쟁력을 논의할 때",
+          "ko": "규제완화로 해외 기업의 국내 진출이 용이해졌어요.",
+          "en": "Deregulation made it easier for foreign companies to enter the domestic market."
+        },
+        {
+          "situation": "정치적 논쟁에서",
+          "ko": "규제완화 정책은 진보와 보수 간의 주요 쟁점이에요.",
+          "en": "Deregulation policy is a major issue between progressives and conservatives."
+        },
+        {
+          "situation": "의료 분야를 이야기할 때",
+          "ko": "의료 규제완화로 민간 의료 서비스가 다양해졌어요.",
+          "en": "Medical deregulation has diversified private healthcare services."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "경제 정책을 논의할 때",
+          "ko": "정부가 기업 활성화를 위해 규제완화 정책을 시행했어요.",
+          "cn": "政府实施了放松管制政策以激活企业。"
+        },
+        {
+          "situation": "창업 환경을 이야기할 때",
+          "ko": "규제완화 덕분에 스타트업 창업이 더 쉬워졌어요.",
+          "cn": "由于放松管制，创办初创企业变得更容易了。"
+        },
+        {
+          "situation": "산업 발전을 논의할 때",
+          "ko": "금융 규제완화로 새로운 금융 서비스가 등장했어요.",
+          "cn": "金融放松管制带来了新的金融服务。"
+        },
+        {
+          "situation": "찬반 논쟁을 할 때",
+          "ko": "규제완화가 경제 성장에 도움이 된다는 주장이 있어요.",
+          "cn": "有观点认为放松管制有助于经济增长。"
+        },
+        {
+          "situation": "소비자 보호를 이야기할 때",
+          "ko": "과도한 규제완화는 소비자 보호를 약화시킬 수 있어요.",
+          "cn": "过度放松管制可能削弱消费者保护。"
+        },
+        {
+          "situation": "환경 규제를 논의할 때",
+          "ko": "환경 규제완화는 기업엔 유리하지만 생태계에는 위협이 될 수 있어요.",
+          "cn": "环境放松管制对企业有利，但可能威胁生态系统。"
+        },
+        {
+          "situation": "노동시장을 이야기할 때",
+          "ko": "노동시장 규제완화로 비정규직이 늘어났어요.",
+          "cn": "劳动市场放松管制导致非正规就业增加。"
+        },
+        {
+          "situation": "국제 경쟁력을 논의할 때",
+          "ko": "규제완화로 해외 기업의 국내 진출이 용이해졌어요.",
+          "cn": "放松管制使外国企业更容易进入国内市场。"
+        },
+        {
+          "situation": "정치적 논쟁에서",
+          "ko": "규제완화 정책은 진보와 보수 간의 주요 쟁점이에요.",
+          "cn": "放松管制政策是进步派和保守派之间的主要争议点。"
+        },
+        {
+          "situation": "의료 분야를 이야기할 때",
+          "ko": "의료 규제완화로 민간 의료 서비스가 다양해졌어요.",
+          "cn": "医疗放松管制使民营医疗服务多样化。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "경제 정책을 논의할 때",
+          "ko": "정부가 기업 활성화를 위해 규제완화 정책을 시행했어요.",
+          "vn": "Chính phủ thực hiện chính sách nới lỏng quy định để kích hoạt doanh nghiệp."
+        },
+        {
+          "situation": "창업 환경을 이야기할 때",
+          "ko": "규제완화 덕분에 스타트업 창업이 더 쉬워졌어요.",
+          "vn": "Nhờ nới lỏng quy định, việc khởi nghiệp startup trở nên dễ dàng hơn."
+        },
+        {
+          "situation": "산업 발전을 논의할 때",
+          "ko": "금융 규제완화로 새로운 금융 서비스가 등장했어요.",
+          "vn": "Dịch vụ tài chính mới xuất hiện nhờ nới lỏng quy định tài chính."
+        },
+        {
+          "situation": "찬반 논쟁을 할 때",
+          "ko": "규제완화가 경제 성장에 도움이 된다는 주장이 있어요.",
+          "vn": "Có lập luận rằng nới lỏng quy định giúp tăng trưởng kinh tế."
+        },
+        {
+          "situation": "소비자 보호를 이야기할 때",
+          "ko": "과도한 규제완화는 소비자 보호를 약화시킬 수 있어요.",
+          "vn": "Nới lỏng quy định quá mức có thể làm yếu đi bảo vệ người tiêu dùng."
+        },
+        {
+          "situation": "환경 규제를 논의할 때",
+          "ko": "환경 규제완화는 기업엔 유리하지만 생태계에는 위협이 될 수 있어요.",
+          "vn": "Nới lỏng quy định môi trường có lợi cho doanh nghiệp nhưng có thể đe dọa hệ sinh thái."
+        },
+        {
+          "situation": "노동시장을 이야기할 때",
+          "ko": "노동시장 규제완화로 비정규직이 늘어났어요.",
+          "vn": "Nới lỏng quy định thị trường lao động dẫn đến tăng lao động phi chính thức."
+        },
+        {
+          "situation": "국제 경쟁력을 논의할 때",
+          "ko": "규제완화로 해외 기업의 국내 진출이 용이해졌어요.",
+          "vn": "Nới lỏng quy định giúp các công ty nước ngoài dễ dàng gia nhập thị trường trong nước hơn."
+        },
+        {
+          "situation": "정치적 논쟁에서",
+          "ko": "규제완화 정책은 진보와 보수 간의 주요 쟁점이에요.",
+          "vn": "Chính sách nới lỏng quy định là vấn đề lớn giữa phái tiến bộ và bảo thủ."
+        },
+        {
+          "situation": "의료 분야를 이야기할 때",
+          "ko": "의료 규제완화로 민간 의료 서비스가 다양해졌어요.",
+          "vn": "Nới lỏng quy định y tế đã đa dạng hóa dịch vụ chăm sóc sức khỏe tư nhân."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 32,
+    "word": "민주화",
+    "pos": "명사",
+    "synonyms": [
+      "민주주의화",
+      "자유화"
+    ],
+    "meanings": {
+      "en": "democratization",
+      "cn": "民主化",
+      "vn": "dân chủ hóa"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "역사를 이야기할 때",
+          "ko": "1980년대 한국의 민주화 운동은 큰 의미가 있어요.",
+          "en": "The democratization movement in Korea in the 1980s has great significance."
+        },
+        {
+          "situation": "정치 체제를 논의할 때",
+          "ko": "민주화 이후 국민이 직접 대통령을 선출하게 됐어요.",
+          "en": "After democratization, citizens were able to directly elect the president."
+        },
+        {
+          "situation": "시민운동을 이야기할 때",
+          "ko": "민주화를 위해 많은 시민들이 거리로 나섰어요.",
+          "en": "Many citizens took to the streets for democratization."
+        },
+        {
+          "situation": "개발도상국을 논의할 때",
+          "ko": "민주화가 경제 발전을 이끄는지에 대한 논쟁이 있어요.",
+          "en": "There is debate over whether democratization leads to economic development."
+        },
+        {
+          "situation": "언론 자유를 이야기할 때",
+          "ko": "민주화와 함께 언론의 자유도 크게 신장됐어요.",
+          "en": "Freedom of the press also greatly expanded along with democratization."
+        },
+        {
+          "situation": "교육과 연결할 때",
+          "ko": "민주화 교육을 통해 시민의식이 높아지고 있어요.",
+          "en": "Civic awareness is growing through democratization education."
+        },
+        {
+          "situation": "국제 사회를 논의할 때",
+          "ko": "국제 사회는 권위주의 국가의 민주화를 지지해요.",
+          "en": "The international community supports the democratization of authoritarian states."
+        },
+        {
+          "situation": "인권을 이야기할 때",
+          "ko": "민주화는 기본적인 인권 보장과 밀접하게 연결돼 있어요.",
+          "en": "Democratization is closely linked to the guarantee of basic human rights."
+        },
+        {
+          "situation": "사회 변화를 분석할 때",
+          "ko": "민주화 이후 시민 사회가 더욱 활성화됐어요.",
+          "en": "Civil society became more active after democratization."
+        },
+        {
+          "situation": "현재 과제를 논의할 때",
+          "ko": "형식적 민주화를 넘어 실질적 민주주의가 필요해요.",
+          "en": "We need substantive democracy beyond formal democratization."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "역사를 이야기할 때",
+          "ko": "1980년대 한국의 민주화 운동은 큰 의미가 있어요.",
+          "cn": "1980年代韩国的民主化运动具有重大意义。"
+        },
+        {
+          "situation": "정치 체제를 논의할 때",
+          "ko": "민주화 이후 국민이 직접 대통령을 선출하게 됐어요.",
+          "cn": "民主化后，国民可以直接选举总统了。"
+        },
+        {
+          "situation": "시민운동을 이야기할 때",
+          "ko": "민주화를 위해 많은 시민들이 거리로 나섰어요.",
+          "cn": "为了民主化，许多市民走上了街头。"
+        },
+        {
+          "situation": "개발도상국을 논의할 때",
+          "ko": "민주화가 경제 발전을 이끄는지에 대한 논쟁이 있어요.",
+          "cn": "关于民主化是否能推动经济发展存在争议。"
+        },
+        {
+          "situation": "언론 자유를 이야기할 때",
+          "ko": "민주화와 함께 언론의 자유도 크게 신장됐어요.",
+          "cn": "随着民主化，新闻自由也大幅提升。"
+        },
+        {
+          "situation": "교육과 연결할 때",
+          "ko": "민주화 교육을 통해 시민의식이 높아지고 있어요.",
+          "cn": "通过民主化教育，公民意识不断提高。"
+        },
+        {
+          "situation": "국제 사회를 논의할 때",
+          "ko": "국제 사회는 권위주의 국가의 민주화를 지지해요.",
+          "cn": "国际社会支持威权国家的民主化。"
+        },
+        {
+          "situation": "인권을 이야기할 때",
+          "ko": "민주화는 기본적인 인권 보장과 밀접하게 연결돼 있어요.",
+          "cn": "民主化与保障基本人权密切相关。"
+        },
+        {
+          "situation": "사회 변화를 분석할 때",
+          "ko": "민주화 이후 시민 사회가 더욱 활성화됐어요.",
+          "cn": "民主化后，公民社会更加活跃。"
+        },
+        {
+          "situation": "현재 과제를 논의할 때",
+          "ko": "형식적 민주화를 넘어 실질적 민주주의가 필요해요.",
+          "cn": "我们需要超越形式民主化的实质性民主。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "역사를 이야기할 때",
+          "ko": "1980년대 한국의 민주화 운동은 큰 의미가 있어요.",
+          "vn": "Phong trào dân chủ hóa ở Hàn Quốc vào những năm 1980 có ý nghĩa lớn."
+        },
+        {
+          "situation": "정치 체제를 논의할 때",
+          "ko": "민주화 이후 국민이 직접 대통령을 선출하게 됐어요.",
+          "vn": "Sau dân chủ hóa, người dân có thể trực tiếp bầu tổng thống."
+        },
+        {
+          "situation": "시민운동을 이야기할 때",
+          "ko": "민주화를 위해 많은 시민들이 거리로 나섰어요.",
+          "vn": "Nhiều công dân xuống đường đấu tranh cho dân chủ hóa."
+        },
+        {
+          "situation": "개발도상국을 논의할 때",
+          "ko": "민주화가 경제 발전을 이끄는지에 대한 논쟁이 있어요.",
+          "vn": "Có tranh luận về việc dân chủ hóa có dẫn đến phát triển kinh tế hay không."
+        },
+        {
+          "situation": "언론 자유를 이야기할 때",
+          "ko": "민주화와 함께 언론의 자유도 크게 신장됐어요.",
+          "vn": "Tự do báo chí cũng được mở rộng đáng kể cùng với dân chủ hóa."
+        },
+        {
+          "situation": "교육과 연결할 때",
+          "ko": "민주화 교육을 통해 시민의식이 높아지고 있어요.",
+          "vn": "Ý thức công dân đang tăng lên qua giáo dục về dân chủ hóa."
+        },
+        {
+          "situation": "국제 사회를 논의할 때",
+          "ko": "국제 사회는 권위주의 국가의 민주화를 지지해요.",
+          "vn": "Cộng đồng quốc tế ủng hộ dân chủ hóa ở các quốc gia độc tài."
+        },
+        {
+          "situation": "인권을 이야기할 때",
+          "ko": "민주화는 기본적인 인권 보장과 밀접하게 연결돼 있어요.",
+          "vn": "Dân chủ hóa gắn chặt với việc bảo đảm quyền con người cơ bản."
+        },
+        {
+          "situation": "사회 변화를 분석할 때",
+          "ko": "민주화 이후 시민 사회가 더욱 활성화됐어요.",
+          "vn": "Xã hội dân sự trở nên sôi động hơn sau dân chủ hóa."
+        },
+        {
+          "situation": "현재 과제를 논의할 때",
+          "ko": "형식적 민주화를 넘어 실질적 민주주의가 필요해요.",
+          "vn": "Chúng ta cần nền dân chủ thực chất vượt ra ngoài dân chủ hóa hình thức."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 63,
+    "word": "빈부격차",
+    "pos": "명사",
+    "synonyms": [
+      "소득불평등",
+      "양극화"
+    ],
+    "meanings": {
+      "en": "wealth gap, income inequality",
+      "cn": "贫富差距，收入不平等",
+      "vn": "khoảng cách giàu nghèo, bất bình đẳng thu nhập"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "사회 문제를 논의할 때",
+          "ko": "빈부격차 확대가 심각한 사회 문제가 되고 있어요.",
+          "en": "The widening wealth gap is becoming a serious social problem."
+        },
+        {
+          "situation": "교육 기회를 이야기할 때",
+          "ko": "빈부격차로 인해 교육 기회의 불평등이 심해지고 있어요.",
+          "en": "Educational inequality is worsening due to the wealth gap."
+        },
+        {
+          "situation": "정책 대안을 이야기할 때",
+          "ko": "빈부격차를 줄이기 위한 재분배 정책이 필요해요.",
+          "en": "Redistribution policies are needed to reduce the wealth gap."
+        },
+        {
+          "situation": "경제 통계를 분석할 때",
+          "ko": "지니계수로 한 나라의 빈부격차 수준을 측정할 수 있어요.",
+          "en": "The Gini coefficient can measure the level of wealth gap in a country."
+        },
+        {
+          "situation": "세대 간 문제를 논의할 때",
+          "ko": "부모의 경제력이 자녀의 미래를 결정하는 빈부격차가 심화되고 있어요.",
+          "en": "The wealth gap where parents' financial power determines their children's future is deepening."
+        },
+        {
+          "situation": "도시와 농촌을 이야기할 때",
+          "ko": "도시와 농촌 간 빈부격차가 여전히 크게 나타나요.",
+          "en": "The wealth gap between urban and rural areas is still significant."
+        },
+        {
+          "situation": "글로벌 문제를 논의할 때",
+          "ko": "전 세계적으로 빈부격차가 더욱 심각해지고 있어요.",
+          "en": "The wealth gap is becoming more serious worldwide."
+        },
+        {
+          "situation": "복지 제도를 이야기할 때",
+          "ko": "복지 제도 강화가 빈부격차 해소에 도움이 돼요.",
+          "en": "Strengthening the welfare system helps address the wealth gap."
+        },
+        {
+          "situation": "미래 세대를 이야기할 때",
+          "ko": "빈부격차가 고착되면 사회 이동성이 떨어져요.",
+          "en": "When the wealth gap becomes entrenched, social mobility decreases."
+        },
+        {
+          "situation": "경제 성장과 연결할 때",
+          "ko": "빈부격차 해소 없이는 지속적인 경제 성장이 어려워요.",
+          "en": "Sustainable economic growth is difficult without resolving the wealth gap."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "사회 문제를 논의할 때",
+          "ko": "빈부격차 확대가 심각한 사회 문제가 되고 있어요.",
+          "cn": "贫富差距扩大正成为严重的社会问题。"
+        },
+        {
+          "situation": "교육 기회를 이야기할 때",
+          "ko": "빈부격차로 인해 교육 기회의 불평등이 심해지고 있어요.",
+          "cn": "由于贫富差距，教育机会的不平等日益加剧。"
+        },
+        {
+          "situation": "정책 대안을 이야기할 때",
+          "ko": "빈부격차를 줄이기 위한 재분배 정책이 필요해요.",
+          "cn": "需要再分配政策来缩小贫富差距。"
+        },
+        {
+          "situation": "경제 통계를 분석할 때",
+          "ko": "지니계수로 한 나라의 빈부격차 수준을 측정할 수 있어요.",
+          "cn": "可以用基尼系数来衡量一个国家的贫富差距程度。"
+        },
+        {
+          "situation": "세대 간 문제를 논의할 때",
+          "ko": "부모의 경제력이 자녀의 미래를 결정하는 빈부격차가 심화되고 있어요.",
+          "cn": "父母的经济实力决定子女未来的贫富差距正在加剧。"
+        },
+        {
+          "situation": "도시와 농촌을 이야기할 때",
+          "ko": "도시와 농촌 간 빈부격차가 여전히 크게 나타나요.",
+          "cn": "城市与农村之间的贫富差距依然很大。"
+        },
+        {
+          "situation": "글로벌 문제를 논의할 때",
+          "ko": "전 세계적으로 빈부격차가 더욱 심각해지고 있어요.",
+          "cn": "全球范围内的贫富差距正变得更加严重。"
+        },
+        {
+          "situation": "복지 제도를 이야기할 때",
+          "ko": "복지 제도 강화가 빈부격차 해소에 도움이 돼요.",
+          "cn": "强化福利制度有助于解决贫富差距。"
+        },
+        {
+          "situation": "미래 세대를 이야기할 때",
+          "ko": "빈부격차가 고착되면 사회 이동성이 떨어져요.",
+          "cn": "贫富差距固化后，社会流动性会下降。"
+        },
+        {
+          "situation": "경제 성장과 연결할 때",
+          "ko": "빈부격차 해소 없이는 지속적인 경제 성장이 어려워요.",
+          "cn": "不解决贫富差距，可持续经济增长就很难实现。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "사회 문제를 논의할 때",
+          "ko": "빈부격차 확대가 심각한 사회 문제가 되고 있어요.",
+          "vn": "Khoảng cách giàu nghèo ngày càng nới rộng đang trở thành vấn đề xã hội nghiêm trọng."
+        },
+        {
+          "situation": "교육 기회를 이야기할 때",
+          "ko": "빈부격차로 인해 교육 기회의 불평등이 심해지고 있어요.",
+          "vn": "Bất bình đẳng về cơ hội giáo dục đang trầm trọng hơn do khoảng cách giàu nghèo."
+        },
+        {
+          "situation": "정책 대안을 이야기할 때",
+          "ko": "빈부격차를 줄이기 위한 재분배 정책이 필요해요.",
+          "vn": "Cần có chính sách phân phối lại để giảm khoảng cách giàu nghèo."
+        },
+        {
+          "situation": "경제 통계를 분석할 때",
+          "ko": "지니계수로 한 나라의 빈부격차 수준을 측정할 수 있어요.",
+          "vn": "Hệ số Gini có thể đo mức độ khoảng cách giàu nghèo của một quốc gia."
+        },
+        {
+          "situation": "세대 간 문제를 논의할 때",
+          "ko": "부모의 경제력이 자녀의 미래를 결정하는 빈부격차가 심화되고 있어요.",
+          "vn": "Khoảng cách giàu nghèo mà năng lực kinh tế của cha mẹ quyết định tương lai con cái đang sâu sắc hơn."
+        },
+        {
+          "situation": "도시와 농촌을 이야기할 때",
+          "ko": "도시와 농촌 간 빈부격차가 여전히 크게 나타나요.",
+          "vn": "Khoảng cách giàu nghèo giữa thành thị và nông thôn vẫn còn lớn."
+        },
+        {
+          "situation": "글로벌 문제를 논의할 때",
+          "ko": "전 세계적으로 빈부격차가 더욱 심각해지고 있어요.",
+          "vn": "Khoảng cách giàu nghèo đang trở nên nghiêm trọng hơn trên toàn thế giới."
+        },
+        {
+          "situation": "복지 제도를 이야기할 때",
+          "ko": "복지 제도 강화가 빈부격차 해소에 도움이 돼요.",
+          "vn": "Tăng cường hệ thống phúc lợi giúp giải quyết khoảng cách giàu nghèo."
+        },
+        {
+          "situation": "미래 세대를 이야기할 때",
+          "ko": "빈부격차가 고착되면 사회 이동성이 떨어져요.",
+          "vn": "Khi khoảng cách giàu nghèo cố định, tính di động xã hội giảm sút."
+        },
+        {
+          "situation": "경제 성장과 연결할 때",
+          "ko": "빈부격차 해소 없이는 지속적인 경제 성장이 어려워요.",
+          "vn": "Tăng trưởng kinh tế bền vững khó đạt được nếu không giải quyết khoảng cách giàu nghèo."
+        }
+      ]
+    }
+  }
+]

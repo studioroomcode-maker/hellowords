@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="theme-color" content="#0a0a0a">
+<title>Hello Words - IELTS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&family=Noto+Sans+KR:wght@700;900&family=Noto+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a0a0a; --surface:#141414; --border:#252525;
+  --accent:#e8ff47; --text:#f0f0e8; --sub:#666660; --card:#1a1a1a;
+  --b5:#4CAF7D; --b6:#4A9EFF; --b7:#FF7043;
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;}
+header{
+  position:sticky;top:0;z-index:50;background:rgba(10,10,10,.92);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border);padding:14px 20px;display:flex;align-items:center;gap:14px;
+}
+.back-btn{display:flex;align-items:center;gap:6px;color:var(--sub);font-size:14px;text-decoration:none;transition:color .2s;flex-shrink:0;}
+.back-btn:hover{color:var(--text);}
+.brand{font-family:'Instrument Serif',serif;font-style:italic;font-size:20px;color:var(--accent);}
+.nav-btns{margin-left:auto;display:flex;gap:8px;}
+.nav-btn{width:34px;height:34px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:13px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s;}
+.nav-btn:hover{border-color:#3a3a3a;background:#222;}
+.nav-btn:disabled{opacity:.3;cursor:default;}
+.content{padding:24px 20px 100px;max-width:600px;margin:0 auto;}
+.level-badge{display:inline-flex;align-items:center;gap:6px;padding:5px 12px;border-radius:20px;font-size:12px;font-weight:600;letter-spacing:.5px;margin-bottom:16px;}
+.badge-5{background:rgba(76,175,125,.15);color:var(--b5);border:1px solid rgba(76,175,125,.3);}
+.badge-6{background:rgba(74,158,255,.15);color:var(--b6);border:1px solid rgba(74,158,255,.3);}
+.badge-7{background:rgba(255,112,67,.15);color:var(--b7);border:1px solid rgba(255,112,67,.3);}
+.word-card{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:28px 24px;margin-bottom:16px;}
+.word-main{font-family:'Noto Sans KR',sans-serif;font-size:clamp(28px,10vw,56px);font-weight:900;line-height:1.1;color:var(--text);margin-bottom:8px;word-break:keep-all;overflow-wrap:break-word;letter-spacing:-0.5px;}
+.phonetic{font-size:15px;color:var(--sub);font-family:'Noto Sans','Segoe UI','Arial Unicode MS',sans-serif;margin-bottom:16px;letter-spacing:0.3px;}
+.tts-btn{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;border-radius:10px;border:1px solid var(--border);background:var(--surface);color:var(--sub);font-size:13px;cursor:pointer;transition:all .2s;margin-bottom:20px;font-family:'DM Sans',sans-serif;}
+.tts-btn:hover,.tts-btn.playing{border-color:var(--accent);color:var(--accent);}
+.tts-btn.playing{background:rgba(232,255,71,.08);}
+.divider{height:1px;background:var(--border);margin:20px 0;}
+.meaning-label{font-size:10px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:var(--sub);margin-bottom:8px;}
+.meaning-text{font-size:28px;font-weight:700;color:var(--text);line-height:1.2;margin-bottom:16px;}
+.syns-wrap{display:flex;flex-wrap:wrap;gap:6px;}
+.syn-tag{padding:4px 12px;border-radius:20px;border:1px solid var(--border);background:var(--surface);font-size:12px;color:var(--sub);}
+.section{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:22px 24px;margin-bottom:12px;}
+.section-label{font-size:10px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:var(--sub);margin-bottom:16px;}
+.example-item{padding:14px 0;border-bottom:1px solid var(--border);}
+.example-item:first-child{padding-top:0;}
+.example-item:last-child{border-bottom:none;padding-bottom:0;}
+.ex-num{font-size:10px;font-weight:700;color:var(--accent);letter-spacing:1px;margin-bottom:5px;}
+.ex-situation{display:inline-block;font-size:11px;color:var(--sub);background:rgba(255,255,255,.05);border:1px solid var(--border);border-radius:6px;padding:2px 8px;margin-bottom:7px;}
+.ex-row{display:flex;align-items:flex-start;gap:10px;}
+.ex-text{flex:1;}
+.ex-en{font-size:15px;color:var(--text);line-height:1.6;margin-bottom:4px;}
+.ex-en b{color:var(--accent);font-weight:700;}
+.ex-ko{font-size:13px;color:var(--sub);line-height:1.5;}
+.ex-speak-btn{flex-shrink:0;width:32px;height:32px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--sub);font-size:12px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s;margin-top:2px;}
+.ex-speak-btn:hover{border-color:var(--accent);color:var(--accent);}
+.ex-speak-btn.playing{border-color:var(--accent);color:var(--accent);background:rgba(232,255,71,.08);}
+.bottom-nav{position:fixed;bottom:0;left:0;right:0;background:rgba(10,10,10,.95);backdrop-filter:blur(12px);border-top:1px solid var(--border);padding:12px 20px;display:flex;gap:10px;}
+.bottom-nav-btn{flex:1;padding:13px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-family:'DM Sans',sans-serif;font-size:14px;font-weight:500;cursor:pointer;transition:all .15s;display:flex;align-items:center;justify-content:center;gap:6px;}
+.bottom-nav-btn:hover{background:#222;border-color:#3a3a3a;}
+.bottom-nav-btn.primary{background:var(--accent);color:#0a0a0a;border-color:var(--accent);font-weight:700;}
+.bottom-nav-btn.primary:hover{background:#d4eb3a;}
+.bottom-nav-btn:disabled{opacity:.3;cursor:default;}
+.error-wrap{text-align:center;padding:80px 20px;color:var(--sub);}
+.error-icon{font-size:48px;margin-bottom:16px;}
+.error-text{font-size:16px;margin-bottom:20px;}
+.error-link{display:inline-block;padding:12px 24px;border-radius:12px;background:var(--surface);border:1px solid var(--border);color:var(--text);text-decoration:none;font-size:14px;}
+</style>
+</head>
+<body>
+<header>
+  <a class="back-btn" id="backBtn" href="band.html?band=5">List</a>
+  <span class="brand">Hello Words</span>
+  <div class="nav-btns">
+    <button class="nav-btn" id="prevBtn" onclick="goWord(-1)">Prev</button>
+    <button class="nav-btn" id="nextBtn" onclick="goWord(1)">Next</button>
+  </div>
+</header>
+
+<div class="content" id="content">
+  <div class="error-wrap"><div class="error-icon">...</div><div class="error-text">Loading...</div></div>
+</div>
+
+<div class="bottom-nav" id="bottomNav" style="display:none">
+  <button class="bottom-nav-btn" onclick="goWord(-1)" id="prevBtnBottom">Prev</button>
+  <button class="bottom-nav-btn primary" id="wordSpeakBtn" onclick="speakWord()">Speak</button>
+  <button class="bottom-nav-btn" onclick="goWord(1)" id="nextBtnBottom">Next</button>
+</div>
+
+<script>
+let allWords = {};
+let wordKeys = [];
+let currentKey = '';
+
+const params = new URLSearchParams(location.search);
+const band = params.get('band') || '';
+const validBands = new Set(['5', '6', '7']);
+const targetWord = params.get('w') || '';
+
+function escapeHtml(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function escapeAttr(value) {
+  return escapeHtml(value);
+}
+
+async function init() {
+  if (!validBands.has(band)) {
+    showError('Invalid IELTS band.');
+    return;
+  }
+
+  document.getElementById('backBtn').href = `band.html?band=${encodeURIComponent(band)}`;
+
+  try {
+    const res = await fetch(`../level_data/ielts_${band}.json`);
+    if (!res.ok) throw new Error('load failed');
+    allWords = await res.json();
+    wordKeys = Object.keys(allWords).sort((a, b) => a.localeCompare(b));
+    currentKey = targetWord || wordKeys[0];
+    if (!allWords[currentKey]) {
+      showError('Word not found.');
+      return;
+    }
+    render();
+  } catch (error) {
+    showError('Failed to load words.');
+  }
+}
+
+function highlight(text, word) {
+  if (!text || !word) return escapeHtml(text || '');
+  const escapedText = escapeHtml(text);
+  const base = word.split('-').join(' ').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return escapedText.replace(
+    new RegExp(`\\b(${base}(?:s|ed|ing|ly|tion|ness|ment)?)\\b`, 'gi'),
+    '<b>$1</b>'
+  );
+}
+
+function render() {
+  const word = allWords[currentKey];
+  if (!word) {
+    showError('Word not found.');
+    return;
+  }
+
+  const index = wordKeys.indexOf(currentKey);
+  const examples = Array.isArray(word.examples) && word.examples.length ? word.examples : [{
+    situation: word.situation || '',
+    en: word.example_en || '',
+    ko: word.example_ko || ''
+  }];
+  const syns = (word.synonyms || []).map((item) => `<span class="syn-tag">${escapeHtml(item)}</span>`).join('');
+
+  document.title = `${word.word} - Hello Words IELTS Band ${band}`;
+  history.replaceState(null, '', `?band=${encodeURIComponent(band)}&w=${encodeURIComponent(currentKey)}`);
+
+  document.getElementById('prevBtn').disabled = index <= 0;
+  document.getElementById('nextBtn').disabled = index >= wordKeys.length - 1;
+  document.getElementById('prevBtnBottom').disabled = index <= 0;
+  document.getElementById('nextBtnBottom').disabled = index >= wordKeys.length - 1;
+
+  const exHtml = examples.map((example, idx) => `
+    <div class="example-item">
+      <div class="ex-num">EX ${idx + 1}</div>
+      ${example.situation ? `<div class="ex-situation">${escapeHtml(example.situation)}</div>` : ''}
+      <div class="ex-row">
+        <div class="ex-text">
+          <div class="ex-en">${highlight(example.en || '', word.word || '')}</div>
+          <div class="ex-ko">${escapeHtml(example.ko || '')}</div>
+        </div>
+        <button class="ex-speak-btn" type="button" data-speak="${escapeAttr(example.en || '')}">TTS</button>
+      </div>
+    </div>
+  `).join('');
+
+  document.getElementById('content').innerHTML = `
+    <div class="level-badge badge-${band}">IELTS Band ${band} - ${index + 1} / ${wordKeys.length}</div>
+    <div class="word-card">
+      <div class="word-main" id="wordMain">${escapeHtml(word.word || currentKey)}</div>
+      <div class="phonetic">${escapeHtml(word.phonetic || '')}</div>
+      <button class="tts-btn" id="wordTtsBtn" type="button" onclick="speakWord()">Speak word</button>
+      <div class="divider"></div>
+      <div class="meaning-label">Meaning</div>
+      <div class="meaning-text">${escapeHtml(word.meaning || '')}</div>
+      ${syns ? `<div class="syns-wrap">${syns}</div>` : ''}
+    </div>
+    <div class="section">
+      <div class="section-label">Examples ${examples.length}</div>
+      ${exHtml}
+    </div>
+  `;
+
+  document.querySelectorAll('[data-speak]').forEach((button) => {
+    button.addEventListener('click', () => speakSentence(button, button.getAttribute('data-speak') || ''));
+  });
+
+  document.getElementById('bottomNav').style.display = 'flex';
+  window.scrollTo(0, 0);
+  fitWordFont();
+}
+
+function fitWordFont() {
+  const el = document.getElementById('wordMain');
+  if (!el) return;
+  let size = parseInt(getComputedStyle(el).fontSize, 10);
+  const parent = el.parentElement;
+  while (el.scrollWidth > parent.clientWidth - 48 && size > 20) {
+    size -= 2;
+    el.style.fontSize = `${size}px`;
+  }
+}
+
+function speakWord() {
+  const word = allWords[currentKey];
+  if (word) speakText(word.word || '', document.getElementById('wordTtsBtn'));
+}
+
+function speakSentence(button, text) {
+  document.querySelectorAll('.ex-speak-btn.playing').forEach((item) => {
+    item.classList.remove('playing');
+    item.textContent = 'TTS';
+  });
+  speakText(text, button);
+}
+
+function speakText(text, button) {
+  if (!window.speechSynthesis || !text) return;
+  window.speechSynthesis.cancel();
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'en-US';
+  utterance.rate = 0.85;
+  if (button) {
+    button.classList.add('playing');
+    button.textContent = '...';
+  }
+  utterance.onend = utterance.onerror = () => {
+    if (button) {
+      button.classList.remove('playing');
+      button.textContent = button.id === 'wordTtsBtn' ? 'Speak word' : 'TTS';
+    }
+  };
+  window.speechSynthesis.speak(utterance);
+}
+
+function goWord(direction) {
+  const index = wordKeys.indexOf(currentKey);
+  const nextIndex = index + direction;
+  if (nextIndex >= 0 && nextIndex < wordKeys.length) {
+    currentKey = wordKeys[nextIndex];
+    render();
+  }
+}
+
+function showError(message) {
+  document.getElementById('content').innerHTML = `
+    <div class="error-wrap">
+      <div class="error-icon">!</div>
+      <div class="error-text">${escapeHtml(message)}</div>
+      <a class="error-link" href="band.html?band=${encodeURIComponent(band || '5')}">Back to list</a>
+    </div>
+  `;
+}
+
+init();
+</script>
+</body>
+</html>

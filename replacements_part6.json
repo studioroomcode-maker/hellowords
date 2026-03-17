@@ -1,0 +1,2078 @@
+[
+  {
+    "level": 5,
+    "id": 8,
+    "word": "통화스왑",
+    "pos": "명사",
+    "synonyms": [
+      "외환스왑",
+      "FX스왑"
+    ],
+    "meanings": {
+      "en": "currency swap, foreign exchange swap",
+      "cn": "货币互换，外汇互换",
+      "vn": "hoán đổi tiền tệ, swap ngoại hối"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "금융 정책을 이야기할 때",
+          "ko": "통화스왑은 두 나라가 서로의 통화를 교환하는 협정이에요.",
+          "en": "A currency swap is an agreement between two countries to exchange each other's currencies."
+        },
+        {
+          "situation": "외환 위기를 이야기할 때",
+          "ko": "통화스왑 협정이 외환 위기 시 안전망 역할을 해요.",
+          "en": "Currency swap agreements serve as a safety net during foreign exchange crises."
+        },
+        {
+          "situation": "한미를 이야기할 때",
+          "ko": "한국과 미국은 통화스왑 협정을 체결했어요.",
+          "en": "South Korea and the United States concluded a currency swap agreement."
+        },
+        {
+          "situation": "중앙은행을 이야기할 때",
+          "ko": "중앙은행 간 통화스왑이 금융 안정에 기여해요.",
+          "en": "Currency swaps between central banks contribute to financial stability."
+        },
+        {
+          "situation": "규모를 이야기할 때",
+          "ko": "통화스왑 한도를 확대하면 외환 보유고가 늘어나는 효과가 있어요.",
+          "en": "Expanding the currency swap limit has the effect of increasing foreign exchange reserves."
+        },
+        {
+          "situation": "신뢰를 이야기할 때",
+          "ko": "통화스왑 협정은 두 나라 간 경제적 신뢰의 표시예요.",
+          "en": "A currency swap agreement is a sign of economic trust between two countries."
+        },
+        {
+          "situation": "비상시를 이야기할 때",
+          "ko": "비상시 통화스왑을 활성화하면 유동성을 확보할 수 있어요.",
+          "en": "Activating currency swaps in emergencies can secure liquidity."
+        },
+        {
+          "situation": "글로벌을 이야기할 때",
+          "ko": "글로벌 금융 위기 때 통화스왑이 활발하게 이루어졌어요.",
+          "en": "Currency swaps were actively conducted during the global financial crisis."
+        },
+        {
+          "situation": "이자를 이야기할 때",
+          "ko": "통화스왑에는 이자 지급 조건이 포함돼요.",
+          "en": "Currency swaps include interest payment conditions."
+        },
+        {
+          "situation": "만기를 이야기할 때",
+          "ko": "통화스왑 계약의 만기가 도래하면 원래의 통화를 반환해요.",
+          "en": "When a currency swap contract matures, the original currency is returned."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "금융 정책을 이야기할 때",
+          "ko": "통화스왑은 두 나라가 서로의 통화를 교환하는 협정이에요.",
+          "cn": "货币互换은两国相互交换货币的协议。"
+        },
+        {
+          "situation": "외환 위기를 이야기할 때",
+          "ko": "통화스왑 협정이 외환 위기 시 안전망 역할을 해요.",
+          "cn": "货币互换协议在外汇危机时起到安全网的作用。"
+        },
+        {
+          "situation": "한미를 이야기할 때",
+          "ko": "한국과 미국은 통화스왑 협정을 체결했어요.",
+          "cn": "韩国与美国签订了货币互换协议。"
+        },
+        {
+          "situation": "중앙은행을 이야기할 때",
+          "ko": "중앙은행 간 통화스왑이 금융 안정에 기여해요.",
+          "cn": "央行间的货币互换有助于금융안정。"
+        },
+        {
+          "situation": "규모를 이야기할 때",
+          "ko": "통화스왑 한도를 확대하면 외환 보유고가 늘어나는 효과가 있어요.",
+          "cn": "扩大货币互换限额具有增加外汇储备的效果。"
+        },
+        {
+          "situation": "신뢰를 이야기할 때",
+          "ko": "통화스왑 협정은 두 나라 간 경제적 신뢰의 표시예요.",
+          "cn": "货币互换협정은두나라간경제신뢰的표시。"
+        },
+        {
+          "situation": "비상시를 이야기할 때",
+          "ko": "비상시 통화스왑을 활성화하면 유동성을 확보할 수 있어요.",
+          "cn": "紧急时激活货币互换可以确保流动性。"
+        },
+        {
+          "situation": "글로벌을 이야기할 때",
+          "ko": "글로벌 금융 위기 때 통화스왑이 활발하게 이루어졌어요.",
+          "cn": "全球金융위기时货币互换活跃진행。"
+        },
+        {
+          "situation": "이자를 이야기할 때",
+          "ko": "통화스왑에는 이자 지급 조건이 포함돼요.",
+          "cn": "货币互换包含利息支付条件。"
+        },
+        {
+          "situation": "만기를 이야기할 때",
+          "ko": "통화스왑 계약의 만기가 도래하면 원래의 통화를 반환해요.",
+          "cn": "货币互换합약만기到来时归还原货币。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "금융 정책을 이야기할 때",
+          "ko": "통화스왑은 두 나라가 서로의 통화를 교환하는 협정이에요.",
+          "vn": "Hoán đổi tiền tệ là thỏa thuận giữa hai quốc gia trao đổi tiền tệ của nhau."
+        },
+        {
+          "situation": "외환 위기를 이야기할 때",
+          "ko": "통화스왑 협정이 외환 위기 시 안전망 역할을 해요.",
+          "vn": "Hiệp định hoán đổi tiền tệ đóng vai trò mạng lưới an toàn trong khủng hoảng ngoại hối."
+        },
+        {
+          "situation": "한미를 이야기할 때",
+          "ko": "한국과 미국은 통화스왑 협정을 체결했어요.",
+          "vn": "Hàn Quốc và Hoa Kỳ đã ký kết hiệp định hoán đổi tiền tệ."
+        },
+        {
+          "situation": "중앙은행을 이야기할 때",
+          "ko": "중앙은행 간 통화스왑이 금융 안정에 기여해요.",
+          "vn": "Hoán đổi tiền tệ giữa các ngân hàng trung ương góp phần vào ổn định tài chính."
+        },
+        {
+          "situation": "규모를 이야기할 때",
+          "ko": "통화스왑 한도를 확대하면 외환 보유고가 늘어나는 효과가 있어요.",
+          "vn": "Mở rộng hạn mức hoán đổi tiền tệ có tác dụng tăng dự trữ ngoại hối."
+        },
+        {
+          "situation": "신뢰를 이야기할 때",
+          "ko": "통화스왑 협정은 두 나라 간 경제적 신뢰의 표시예요.",
+          "vn": "Hiệp định hoán đổi tiền tệ là dấu hiệu tin tưởng kinh tế giữa hai quốc gia."
+        },
+        {
+          "situation": "비상시를 이야기할 때",
+          "ko": "비상시 통화스왑을 활성화하면 유동성을 확보할 수 있어요.",
+          "vn": "Kích hoạt hoán đổi tiền tệ trong tình huống khẩn cấp có thể đảm bảo thanh khoản."
+        },
+        {
+          "situation": "글로벌을 이야기할 때",
+          "ko": "글로벌 금융 위기 때 통화스왑이 활발하게 이루어졌어요.",
+          "vn": "Hoán đổi tiền tệ được thực hiện tích cực trong cuộc khủng hoảng tài chính toàn cầu."
+        },
+        {
+          "situation": "이자를 이야기할 때",
+          "ko": "통화스왑에는 이자 지급 조건이 포함돼요.",
+          "vn": "Hoán đổi tiền tệ bao gồm điều kiện thanh toán lãi suất."
+        },
+        {
+          "situation": "만기를 이야기할 때",
+          "ko": "통화스왑 계약의 만기가 도래하면 원래의 통화를 반환해요.",
+          "vn": "Khi hợp đồng hoán đổi tiền tệ đáo hạn, tiền tệ gốc được hoàn trả."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 48,
+    "word": "기본권",
+    "pos": "명사",
+    "synonyms": [
+      "기본적 권리",
+      "헌법적 권리"
+    ],
+    "meanings": {
+      "en": "fundamental rights, basic rights",
+      "cn": "基本权利，基本权",
+      "vn": "quyền cơ bản, quyền hiến định"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "헌법을 이야기할 때",
+          "ko": "기본권은 헌법이 보장하는 국민의 근본적인 권리예요.",
+          "en": "Fundamental rights are the basic rights of citizens guaranteed by the Constitution."
+        },
+        {
+          "situation": "자유권을 이야기할 때",
+          "ko": "표현의 자유는 기본권 중에서도 핵심적인 권리예요.",
+          "en": "Freedom of expression is a core right among fundamental rights."
+        },
+        {
+          "situation": "평등을 이야기할 때",
+          "ko": "모든 시민은 기본권에 있어서 평등해야 해요.",
+          "en": "All citizens must be equal in fundamental rights."
+        },
+        {
+          "situation": "제한을 이야기할 때",
+          "ko": "기본권도 공공의 이익을 위해 법률에 의해 제한될 수 있어요.",
+          "en": "Fundamental rights can also be restricted by law for the public interest."
+        },
+        {
+          "situation": "사회권을 이야기할 때",
+          "ko": "교육권과 노동권도 중요한 사회적 기본권이에요.",
+          "en": "The right to education and the right to work are also important social fundamental rights."
+        },
+        {
+          "situation": "국가 의무를 이야기할 때",
+          "ko": "국가는 기본권 보장을 위한 의무를 져요.",
+          "en": "The state has an obligation to guarantee fundamental rights."
+        },
+        {
+          "situation": "침해를 이야기할 때",
+          "ko": "기본권 침해 시 헌법재판소에 소원을 제기할 수 있어요.",
+          "en": "You can file a petition to the Constitutional Court when fundamental rights are violated."
+        },
+        {
+          "situation": "인권을 이야기할 때",
+          "ko": "기본권은 인간의 존엄성을 보장하는 핵심 제도예요.",
+          "en": "Fundamental rights are a core institution that guarantees human dignity."
+        },
+        {
+          "situation": "외국인을 이야기할 때",
+          "ko": "외국인도 일부 기본권의 주체가 될 수 있어요.",
+          "en": "Foreigners can also be subjects of some fundamental rights."
+        },
+        {
+          "situation": "역사를 이야기할 때",
+          "ko": "기본권의 역사는 오랜 투쟁의 결과예요.",
+          "en": "The history of fundamental rights is the result of a long struggle."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "헌법을 이야기할 때",
+          "ko": "기본권은 헌법이 보장하는 국민의 근본적인 권리예요.",
+          "cn": "基本权利은宪法保障的国民根本性권리。"
+        },
+        {
+          "situation": "자유권을 이야기할 때",
+          "ko": "표현의 자유는 기본권 중에서도 핵심적인 권리예요.",
+          "cn": "表达自由是基本权利中的核心권리。"
+        },
+        {
+          "situation": "평등을 이야기할 때",
+          "ko": "모든 시민은 기본권에 있어서 평등해야 해요.",
+          "cn": "所有公民在基本权利上应该平等。"
+        },
+        {
+          "situation": "제한을 이야기할 때",
+          "ko": "기본권도 공공의 이익을 위해 법률에 의해 제한될 수 있어요.",
+          "cn": "基本권리也可以为了公共利益依法受到限制。"
+        },
+        {
+          "situation": "사회권을 이야기할 때",
+          "ko": "교육권과 노동권도 중요한 사회적 기본권이에요.",
+          "cn": "受教育权和劳动权也是重要的社회적기본권。"
+        },
+        {
+          "situation": "국가 의무를 이야기할 때",
+          "ko": "국가는 기본권 보장을 위한 의무를 져요.",
+          "cn": "国家负有保障基本권리의무。"
+        },
+        {
+          "situation": "침해를 이야기할 때",
+          "ko": "기본권 침해 시 헌법재판소에 소원을 제기할 수 있어요.",
+          "cn": "基本권리受到侵犯时可以向宪法法院提出申诉。"
+        },
+        {
+          "situation": "인권을 이야기할 때",
+          "ko": "기본권은 인간의 존엄성을 보장하는 핵심 제도예요.",
+          "cn": "基본권利是保障人的尊严的核心制度。"
+        },
+        {
+          "situation": "외국인을 이야기할 때",
+          "ko": "외국인도 일부 기본권의 주체가 될 수 있어요.",
+          "cn": "外国人也可以成为部分基本권리的主体。"
+        },
+        {
+          "situation": "역사를 이야기할 때",
+          "ko": "기본권의 역사는 오랜 투쟁의 결과예요.",
+          "cn": "基本권利的历史是长期斗争的结果。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "헌법을 이야기할 때",
+          "ko": "기본권은 헌법이 보장하는 국민의 근본적인 권리예요.",
+          "vn": "Quyền cơ bản là quyền căn bản của công dân được Hiến pháp đảm bảo."
+        },
+        {
+          "situation": "자유권을 이야기할 때",
+          "ko": "표현의 자유는 기본권 중에서도 핵심적인 권리예요.",
+          "vn": "Tự do biểu đạt là quyền cốt lõi trong số các quyền cơ bản."
+        },
+        {
+          "situation": "평등을 이야기할 때",
+          "ko": "모든 시민은 기본권에 있어서 평등해야 해요.",
+          "vn": "Tất cả công dân phải bình đẳng về các quyền cơ bản."
+        },
+        {
+          "situation": "제한을 이야기할 때",
+          "ko": "기본권도 공공의 이익을 위해 법률에 의해 제한될 수 있어요.",
+          "vn": "Quyền cơ bản cũng có thể bị hạn chế bởi pháp luật vì lợi ích công cộng."
+        },
+        {
+          "situation": "사회권을 이야기할 때",
+          "ko": "교육권과 노동권도 중요한 사회적 기본권이에요.",
+          "vn": "Quyền giáo dục và quyền lao động cũng là các quyền cơ bản xã hội quan trọng."
+        },
+        {
+          "situation": "국가 의무를 이야기할 때",
+          "ko": "국가는 기본권 보장을 위한 의무를 져요.",
+          "vn": "Nhà nước có nghĩa vụ đảm bảo các quyền cơ bản."
+        },
+        {
+          "situation": "침해를 이야기할 때",
+          "ko": "기본권 침해 시 헌법재판소에 소원을 제기할 수 있어요.",
+          "vn": "Bạn có thể đệ đơn lên Tòa án Hiến pháp khi các quyền cơ bản bị vi phạm."
+        },
+        {
+          "situation": "인권을 이야기할 때",
+          "ko": "기본권은 인간의 존엄성을 보장하는 핵심 제도예요.",
+          "vn": "Quyền cơ bản là thể chế cốt lõi đảm bảo phẩm giá con người."
+        },
+        {
+          "situation": "외국인을 이야기할 때",
+          "ko": "외국인도 일부 기본권의 주체가 될 수 있어요.",
+          "vn": "Người nước ngoài cũng có thể là chủ thể của một số quyền cơ bản."
+        },
+        {
+          "situation": "역사를 이야기할 때",
+          "ko": "기본권의 역사는 오랜 투쟁의 결과예요.",
+          "vn": "Lịch sử của các quyền cơ bản là kết quả của một cuộc đấu tranh lâu dài."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 51,
+    "word": "법치주의",
+    "pos": "명사",
+    "synonyms": [
+      "법치",
+      "법의 지배"
+    ],
+    "meanings": {
+      "en": "rule of law, constitutional state",
+      "cn": "法治主义，法治",
+      "vn": "nhà nước pháp quyền, pháp trị"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "민주주의를 이야기할 때",
+          "ko": "법치주의는 민주주의의 근본 원칙 중 하나예요.",
+          "en": "The rule of law is one of the fundamental principles of democracy."
+        },
+        {
+          "situation": "국가 권력을 이야기할 때",
+          "ko": "법치주의는 국가 권력도 법에 의해 제한됨을 의미해요.",
+          "en": "The rule of law means that state power is also limited by law."
+        },
+        {
+          "situation": "평등을 이야기할 때",
+          "ko": "법치주의에서는 모든 사람이 법 앞에 평등해요.",
+          "en": "Under the rule of law, everyone is equal before the law."
+        },
+        {
+          "situation": "부패를 이야기할 때",
+          "ko": "법치주의 약화가 부패와 권력 남용을 초래해요.",
+          "en": "Weakening of the rule of law leads to corruption and abuse of power."
+        },
+        {
+          "situation": "사법부를 이야기할 때",
+          "ko": "독립적인 사법부가 법치주의의 핵심이에요.",
+          "en": "An independent judiciary is the core of the rule of law."
+        },
+        {
+          "situation": "인권을 이야기할 때",
+          "ko": "법치주의는 인권 보호와 밀접하게 연결돼 있어요.",
+          "en": "The rule of law is closely connected with the protection of human rights."
+        },
+        {
+          "situation": "국제 기준을 이야기할 때",
+          "ko": "법치주의는 국제 사회가 요구하는 기본 거버넌스 원칙이에요.",
+          "en": "The rule of law is a basic governance principle required by the international community."
+        },
+        {
+          "situation": "법률 제정을 이야기할 때",
+          "ko": "법치주의는 절차에 따른 합법적인 입법을 요구해요.",
+          "en": "The rule of law requires lawful legislation following proper procedures."
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "법치주의가 잘 갖춰진 나라에 외국 투자가 몰려요.",
+          "en": "Foreign investment concentrates in countries with well-established rule of law."
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "위기 상황에서도 법치주의 원칙이 지켜져야 해요.",
+          "en": "The principles of the rule of law must be upheld even in crisis situations."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "민주주의를 이야기할 때",
+          "ko": "법치주의는 민주주의의 근본 원칙 중 하나예요.",
+          "cn": "法治主义是民主主义의근본원칙之一。"
+        },
+        {
+          "situation": "국가 권력을 이야기할 때",
+          "ko": "법치주의는 국가 권력도 법에 의해 제한됨을 의미해요.",
+          "cn": "法治主义意味着国家权력也受到法律的限制。"
+        },
+        {
+          "situation": "평등을 이야기할 때",
+          "ko": "법치주의에서는 모든 사람이 법 앞에 평등해요.",
+          "cn": "在法治主义下，所有人在法律面前都是平等的。"
+        },
+        {
+          "situation": "부패를 이야기할 때",
+          "ko": "법치주의 약화가 부패와 권력 남용을 초래해요.",
+          "cn": "法治主义弱화导致腐败和滥用권력。"
+        },
+        {
+          "situation": "사법부를 이야기할 때",
+          "ko": "독립적인 사법부가 법치주의의 핵심이에요.",
+          "cn": "独立的司法机构是法治주의의核心。"
+        },
+        {
+          "situation": "인권을 이야기할 때",
+          "ko": "법치주의는 인권 보호와 밀접하게 연결돼 있어요.",
+          "cn": "法治주의与人权保护密切相关。"
+        },
+        {
+          "situation": "국제 기준을 이야기할 때",
+          "ko": "법치주의는 국제 사회가 요구하는 기본 거버넌스 원칙이에요.",
+          "cn": "法治주义는국제사회가要求하는기본거버넌스原则。"
+        },
+        {
+          "situation": "법률 제정을 이야기할 때",
+          "ko": "법치주의는 절차에 따른 합법적인 입법을 요구해요.",
+          "cn": "法治主义요구依程序进行的합법적인立法。"
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "법치주의가 잘 갖춰진 나라에 외국 투자가 몰려요.",
+          "cn": "외국투资集中在法治주의完善的国家。"
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "위기 상황에서도 법치주의 원칙이 지켜져야 해요.",
+          "cn": "即使在危机情况下，也需要坚守法治주의원칙。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "민주주의를 이야기할 때",
+          "ko": "법치주의는 민주주의의 근본 원칙 중 하나예요.",
+          "vn": "Nhà nước pháp quyền là một trong những nguyên tắc cơ bản của dân chủ."
+        },
+        {
+          "situation": "국가 권력을 이야기할 때",
+          "ko": "법치주의는 국가 권력도 법에 의해 제한됨을 의미해요.",
+          "vn": "Nhà nước pháp quyền có nghĩa là quyền lực nhà nước cũng bị hạn chế bởi pháp luật."
+        },
+        {
+          "situation": "평등을 이야기할 때",
+          "ko": "법치주의에서는 모든 사람이 법 앞에 평등해요.",
+          "vn": "Trong nhà nước pháp quyền, mọi người bình đẳng trước pháp luật."
+        },
+        {
+          "situation": "부패를 이야기할 때",
+          "ko": "법치주의 약화가 부패와 권력 남용을 초래해요.",
+          "vn": "Sự suy yếu của nhà nước pháp quyền dẫn đến tham nhũng và lạm dụng quyền lực."
+        },
+        {
+          "situation": "사법부를 이야기할 때",
+          "ko": "독립적인 사법부가 법치주의의 핵심이에요.",
+          "vn": "Tư pháp độc lập là cốt lõi của nhà nước pháp quyền."
+        },
+        {
+          "situation": "인권을 이야기할 때",
+          "ko": "법치주의는 인권 보호와 밀접하게 연결돼 있어요.",
+          "vn": "Nhà nước pháp quyền gắn chặt với bảo vệ quyền con người."
+        },
+        {
+          "situation": "국제 기준을 이야기할 때",
+          "ko": "법치주의는 국제 사회가 요구하는 기본 거버넌스 원칙이에요.",
+          "vn": "Nhà nước pháp quyền là nguyên tắc quản trị cơ bản mà cộng đồng quốc tế yêu cầu."
+        },
+        {
+          "situation": "법률 제정을 이야기할 때",
+          "ko": "법치주의는 절차에 따른 합법적인 입법을 요구해요.",
+          "vn": "Nhà nước pháp quyền đòi hỏi lập pháp hợp pháp theo đúng thủ tục."
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "법치주의가 잘 갖춰진 나라에 외국 투자가 몰려요.",
+          "vn": "Đầu tư nước ngoài tập trung vào các quốc gia có nhà nước pháp quyền được xây dựng tốt."
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "위기 상황에서도 법치주의 원칙이 지켜져야 해요.",
+          "vn": "Nguyên tắc nhà nước pháp quyền phải được duy trì ngay cả trong tình huống khủng hoảng."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 59,
+    "word": "삼권분립",
+    "pos": "명사",
+    "synonyms": [
+      "권력분립",
+      "3권분립"
+    ],
+    "meanings": {
+      "en": "separation of powers",
+      "cn": "三权分立",
+      "vn": "tam quyền phân lập"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "헌법을 이야기할 때",
+          "ko": "삼권분립은 입법, 행정, 사법 권력을 분리하는 원칙이에요.",
+          "en": "Separation of powers is the principle of separating legislative, executive, and judicial powers."
+        },
+        {
+          "situation": "견제를 이야기할 때",
+          "ko": "삼권분립은 서로 권력을 견제하고 균형을 맞춰요.",
+          "en": "Separation of powers checks and balances each other's power."
+        },
+        {
+          "situation": "독재를 예방할 때",
+          "ko": "삼권분립이 독재를 예방하는 제도적 장치예요.",
+          "en": "Separation of powers is an institutional mechanism to prevent dictatorship."
+        },
+        {
+          "situation": "입법부를 이야기할 때",
+          "ko": "입법부인 국회가 법률을 제정하는 역할을 해요.",
+          "en": "The legislature, the National Assembly, plays the role of enacting laws."
+        },
+        {
+          "situation": "행정부를 이야기할 때",
+          "ko": "행정부인 정부가 법률을 집행하는 역할을 해요.",
+          "en": "The executive, the government, plays the role of enforcing laws."
+        },
+        {
+          "situation": "사법부를 이야기할 때",
+          "ko": "사법부인 법원이 법률을 해석하고 판결하는 역할을 해요.",
+          "en": "The judiciary, the courts, plays the role of interpreting laws and making judgments."
+        },
+        {
+          "situation": "역사를 이야기할 때",
+          "ko": "몽테스키외가 삼권분립 이론을 체계화했어요.",
+          "en": "Montesquieu systematized the theory of separation of powers."
+        },
+        {
+          "situation": "현실을 이야기할 때",
+          "ko": "현실에서 삼권분립이 완전히 이루어지기는 어려워요.",
+          "en": "It is difficult for separation of powers to be completely achieved in reality."
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "삼권분립의 균형이 깨지면 민주주의가 위협받아요.",
+          "en": "When the balance of separation of powers is broken, democracy is threatened."
+        },
+        {
+          "situation": "중요성을 이야기할 때",
+          "ko": "삼권분립은 국민의 자유와 권리를 보장하는 핵심 원리예요.",
+          "en": "Separation of powers is the core principle that guarantees the freedom and rights of citizens."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "헌법을 이야기할 때",
+          "ko": "삼권분립은 입법, 행정, 사법 권력을 분리하는 원칙이에요.",
+          "cn": "三权분립은分离立法、行政、司法权力的원칙。"
+        },
+        {
+          "situation": "견제를 이야기할 때",
+          "ko": "삼권분립은 서로 권력을 견제하고 균형을 맞춰요.",
+          "cn": "三权分립은互相制衡권력。"
+        },
+        {
+          "situation": "독재를 예방할 때",
+          "ko": "삼권분립이 독재를 예방하는 제도적 장치예요.",
+          "cn": "三权分立是防止独裁的制도적装置。"
+        },
+        {
+          "situation": "입법부를 이야기할 때",
+          "ko": "입법부인 국회가 법률을 제정하는 역할을 해요.",
+          "cn": "立법부인국회起到制定法律的作用。"
+        },
+        {
+          "situation": "행정부를 이야기할 때",
+          "ko": "행정부인 정부가 법률을 집행하는 역할을 해요.",
+          "cn": "행정부인정부起到执行法律的作用。"
+        },
+        {
+          "situation": "사법부를 이야기할 때",
+          "ko": "사법부인 법원이 법률을 해석하고 판결하는 역할을 해요.",
+          "cn": "사법부인法院起到解释法律和作出裁决的作用。"
+        },
+        {
+          "situation": "역사를 이야기할 때",
+          "ko": "몽테스키외가 삼권분립 이론을 체계화했어요.",
+          "cn": "孟德斯鸠체계화了三权分립이론。"
+        },
+        {
+          "situation": "현실을 이야기할 때",
+          "ko": "현실에서 삼권분립이 완전히 이루어지기는 어려워요.",
+          "cn": "在现실中，三권分立完全实현很难。"
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "삼권분립의 균형이 깨지면 민주주의가 위협받아요.",
+          "cn": "三권分立的균형被打破时，民主主义受到威胁。"
+        },
+        {
+          "situation": "중요성을 이야기할 때",
+          "ko": "삼권분립은 국민의 자유와 권리를 보장하는 핵심 원리예요.",
+          "cn": "三权分立是保障국民자유与권리的核心원리。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "헌법을 이야기할 때",
+          "ko": "삼권분립은 입법, 행정, 사법 권력을 분리하는 원칙이에요.",
+          "vn": "Tam quyền phân lập là nguyên tắc tách biệt quyền lập pháp, hành pháp và tư pháp."
+        },
+        {
+          "situation": "견제를 이야기할 때",
+          "ko": "삼권분립은 서로 권력을 견제하고 균형을 맞춰요.",
+          "vn": "Tam quyền phân lập kiểm soát và cân bằng quyền lực lẫn nhau."
+        },
+        {
+          "situation": "독재를 예방할 때",
+          "ko": "삼권분립이 독재를 예방하는 제도적 장치예요.",
+          "vn": "Tam quyền phân lập là cơ chế thể chế để ngăn chặn độc tài."
+        },
+        {
+          "situation": "입법부를 이야기할 때",
+          "ko": "입법부인 국회가 법률을 제정하는 역할을 해요.",
+          "vn": "Cơ quan lập pháp, tức Quốc hội, đóng vai trò ban hành luật pháp."
+        },
+        {
+          "situation": "행정부를 이야기할 때",
+          "ko": "행정부인 정부가 법률을 집행하는 역할을 해요.",
+          "vn": "Cơ quan hành pháp, tức chính phủ, đóng vai trò thi hành pháp luật."
+        },
+        {
+          "situation": "사법부를 이야기할 때",
+          "ko": "사법부인 법원이 법률을 해석하고 판결하는 역할을 해요.",
+          "vn": "Cơ quan tư pháp, tức tòa án, đóng vai trò diễn giải pháp luật và ra phán quyết."
+        },
+        {
+          "situation": "역사를 이야기할 때",
+          "ko": "몽테스키외가 삼권분립 이론을 체계화했어요.",
+          "vn": "Montesquieu đã hệ thống hóa lý thuyết tam quyền phân lập."
+        },
+        {
+          "situation": "현실을 이야기할 때",
+          "ko": "현실에서 삼권분립이 완전히 이루어지기는 어려워요.",
+          "vn": "Trên thực tế, tam quyền phân lập khó có thể đạt được hoàn toàn."
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "삼권분립의 균형이 깨지면 민주주의가 위협받아요.",
+          "vn": "Khi sự cân bằng của tam quyền phân lập bị phá vỡ, nền dân chủ bị đe dọa."
+        },
+        {
+          "situation": "중요성을 이야기할 때",
+          "ko": "삼권분립은 국민의 자유와 권리를 보장하는 핵심 원리예요.",
+          "vn": "Tam quyền phân lập là nguyên lý cốt lõi đảm bảo tự do và quyền lợi của nhân dân."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 73,
+    "word": "건강불평등",
+    "pos": "명사",
+    "synonyms": [
+      "의료 불평등",
+      "건강 격차"
+    ],
+    "meanings": {
+      "en": "health inequality, health disparity",
+      "cn": "健康不平等，医疗差距",
+      "vn": "bất bình đẳng sức khỏe, chênh lệch y tế"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "사회 문제를 이야기할 때",
+          "ko": "소득에 따른 건강불평등이 심각한 사회 문제예요.",
+          "en": "Health inequality based on income is a serious social problem."
+        },
+        {
+          "situation": "의료 접근성을 이야기할 때",
+          "ko": "저소득층이 의료 서비스에 접근하기 어려워 건강불평등이 심화돼요.",
+          "en": "Health inequality deepens as low-income groups have difficulty accessing medical services."
+        },
+        {
+          "situation": "지역을 이야기할 때",
+          "ko": "도시와 농촌 간 의료 인프라 차이가 건강불평등을 유발해요.",
+          "en": "Differences in medical infrastructure between urban and rural areas cause health inequality."
+        },
+        {
+          "situation": "교육과 연결할 때",
+          "ko": "교육 수준이 높을수록 건강 관리 능력이 좋아요.",
+          "en": "The higher the education level, the better the health management ability."
+        },
+        {
+          "situation": "정책을 이야기할 때",
+          "ko": "건강불평등 해소를 위한 공공 의료 강화가 필요해요.",
+          "en": "Strengthening public healthcare is needed to address health inequality."
+        },
+        {
+          "situation": "코로나를 이야기할 때",
+          "ko": "팬데믹이 기존의 건강불평등을 더욱 심화시켰어요.",
+          "en": "The pandemic further deepened existing health inequality."
+        },
+        {
+          "situation": "글로벌을 이야기할 때",
+          "ko": "선진국과 개발도상국 간의 건강불평등이 커요.",
+          "en": "Health inequality between developed and developing countries is large."
+        },
+        {
+          "situation": "해결을 이야기할 때",
+          "ko": "건강보험 보장 범위 확대가 건강불평등 감소에 효과적이에요.",
+          "en": "Expanding health insurance coverage is effective in reducing health inequality."
+        },
+        {
+          "situation": "예방을 이야기할 때",
+          "ko": "예방 중심의 의료 제도가 건강불평등을 줄여요.",
+          "en": "Prevention-centered medical systems reduce health inequality."
+        },
+        {
+          "situation": "연구를 이야기할 때",
+          "ko": "건강불평등 연구가 더 공정한 의료 제도 설계에 기여해요.",
+          "en": "Health inequality research contributes to designing fairer medical systems."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "사회 문제를 이야기할 때",
+          "ko": "소득에 따른 건강불평등이 심각한 사회 문제예요.",
+          "cn": "基于收入的健康불평등是严重的社회문제。"
+        },
+        {
+          "situation": "의료 접근성을 이야기할 때",
+          "ko": "저소득층이 의료 서비스에 접근하기 어려워 건강불평등이 심화돼요.",
+          "cn": "低收入群체접근医疗서비스困难，건강불평등加深。"
+        },
+        {
+          "situation": "지역을 이야기할 때",
+          "ko": "도시와 농촌 간 의료 인프라 차이가 건강불평등을 유발해요.",
+          "cn": "城乡医疗基础设施差距导致건강불평등。"
+        },
+        {
+          "situation": "교육과 연결할 때",
+          "ko": "교육 수준이 높을수록 건강 관리 능력이 좋아요.",
+          "cn": "教육수준越高，健康管理能力越好。"
+        },
+        {
+          "situation": "정책을 이야기할 때",
+          "ko": "건강불평등 해소를 위한 공공 의료 강화가 필요해요.",
+          "cn": "需要加强公共医疗以消除건강불평등。"
+        },
+        {
+          "situation": "코로나를 이야기할 때",
+          "ko": "팬데믹이 기존의 건강불평등을 더욱 심화시켰어요.",
+          "cn": "疫情进一步加深了现有的건강불평등。"
+        },
+        {
+          "situation": "글로벌을 이야기할 때",
+          "ko": "선진국과 개발도상국 간의 건강불평등이 커요.",
+          "cn": "发达国家与发展中国家之간건강불평等程度大。"
+        },
+        {
+          "situation": "해결을 이야기할 때",
+          "ko": "건강보험 보장 범위 확대가 건강불평등 감소에 효과적이에요.",
+          "cn": "扩大医疗保险保障范围对减少건강불평등有效。"
+        },
+        {
+          "situation": "예방을 이야기할 때",
+          "ko": "예방 중심의 의료 제도가 건강불평등을 줄여요.",
+          "cn": "以预防为中心的医疗制度减少건강불평등。"
+        },
+        {
+          "situation": "연구를 이야기할 때",
+          "ko": "건강불평등 연구가 더 공정한 의료 제도 설계에 기여해요.",
+          "cn": "건강불평등연구有助于设计더공정한医疗制度。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "사회 문제를 이야기할 때",
+          "ko": "소득에 따른 건강불평등이 심각한 사회 문제예요.",
+          "vn": "Bất bình đẳng sức khỏe dựa trên thu nhập là vấn đề xã hội nghiêm trọng."
+        },
+        {
+          "situation": "의료 접근성을 이야기할 때",
+          "ko": "저소득층이 의료 서비스에 접근하기 어려워 건강불평등이 심화돼요.",
+          "vn": "Bất bình đẳng sức khỏe sâu sắc hơn khi nhóm thu nhập thấp khó tiếp cận dịch vụ y tế."
+        },
+        {
+          "situation": "지역을 이야기할 때",
+          "ko": "도시와 농촌 간 의료 인프라 차이가 건강불평등을 유발해요.",
+          "vn": "Sự khác biệt về cơ sở hạ tầng y tế giữa thành thị và nông thôn gây ra bất bình đẳng sức khỏe."
+        },
+        {
+          "situation": "교육과 연결할 때",
+          "ko": "교육 수준이 높을수록 건강 관리 능력이 좋아요.",
+          "vn": "Mức độ giáo dục càng cao, khả năng quản lý sức khỏe càng tốt."
+        },
+        {
+          "situation": "정책을 이야기할 때",
+          "ko": "건강불평등 해소를 위한 공공 의료 강화가 필요해요.",
+          "vn": "Cần tăng cường y tế công cộng để giải quyết bất bình đẳng sức khỏe."
+        },
+        {
+          "situation": "코로나를 이야기할 때",
+          "ko": "팬데믹이 기존의 건강불평등을 더욱 심화시켰어요.",
+          "vn": "Đại dịch đã làm sâu sắc thêm bất bình đẳng sức khỏe hiện có."
+        },
+        {
+          "situation": "글로벌을 이야기할 때",
+          "ko": "선진국과 개발도상국 간의 건강불평등이 커요.",
+          "vn": "Bất bình đẳng sức khỏe giữa các nước phát triển và đang phát triển rất lớn."
+        },
+        {
+          "situation": "해결을 이야기할 때",
+          "ko": "건강보험 보장 범위 확대가 건강불평등 감소에 효과적이에요.",
+          "vn": "Mở rộng phạm vi bảo hiểm y tế hiệu quả trong việc giảm bất bình đẳng sức khỏe."
+        },
+        {
+          "situation": "예방을 이야기할 때",
+          "ko": "예방 중심의 의료 제도가 건강불평등을 줄여요.",
+          "vn": "Hệ thống y tế tập trung vào phòng ngừa giảm bất bình đẳng sức khỏe."
+        },
+        {
+          "situation": "연구를 이야기할 때",
+          "ko": "건강불평등 연구가 더 공정한 의료 제도 설계에 기여해요.",
+          "vn": "Nghiên cứu bất bình đẳng sức khỏe góp phần thiết kế hệ thống y tế công bằng hơn."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 122,
+    "word": "젠트리피케이션",
+    "pos": "명사",
+    "synonyms": [
+      "도시고급화",
+      "지역고급화"
+    ],
+    "meanings": {
+      "en": "gentrification",
+      "cn": "中产阶级化，高档化",
+      "vn": "sự quý tộc hóa đô thị, gentrification"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "도시 변화를 이야기할 때",
+          "ko": "젠트리피케이션은 낙후 지역이 고급화되는 현상이에요.",
+          "en": "Gentrification is the phenomenon of run-down areas becoming upscale."
+        },
+        {
+          "situation": "원주민 문제를 이야기할 때",
+          "ko": "젠트리피케이션으로 원래 거주민이 높은 임대료로 쫓겨나요.",
+          "en": "Original residents are driven out by high rents due to gentrification."
+        },
+        {
+          "situation": "상권을 이야기할 때",
+          "ko": "상권이 변화하면서 젠트리피케이션이 가속화돼요.",
+          "en": "Gentrification accelerates as commercial areas change."
+        },
+        {
+          "situation": "예술가를 이야기할 때",
+          "ko": "예술가들이 이주하면서 지역이 활성화되고 젠트리피케이션이 시작돼요.",
+          "en": "Gentrification begins as the area is revitalized by artists moving in."
+        },
+        {
+          "situation": "부동산을 이야기할 때",
+          "ko": "젠트리피케이션으로 부동산 가격이 급등해요.",
+          "en": "Real estate prices soar due to gentrification."
+        },
+        {
+          "situation": "문화를 이야기할 때",
+          "ko": "젠트리피케이션은 지역의 문화적 다양성을 감소시킬 수 있어요.",
+          "en": "Gentrification can reduce the cultural diversity of an area."
+        },
+        {
+          "situation": "정책을 이야기할 때",
+          "ko": "젠트리피케이션에 대응하기 위한 세입자 보호 정책이 필요해요.",
+          "en": "Tenant protection policies are needed to respond to gentrification."
+        },
+        {
+          "situation": "서울을 이야기할 때",
+          "ko": "서울의 여러 지역에서 젠트리피케이션 현상이 나타나고 있어요.",
+          "en": "Gentrification phenomena are appearing in various areas of Seoul."
+        },
+        {
+          "situation": "혜택과 피해를 이야기할 때",
+          "ko": "젠트리피케이션의 수혜자와 피해자가 명확하게 나뉘어요.",
+          "en": "Beneficiaries and victims of gentrification are clearly divided."
+        },
+        {
+          "situation": "연구를 이야기할 때",
+          "ko": "도시 계획 연구에서 젠트리피케이션 문제가 중요하게 다뤄져요.",
+          "en": "Gentrification issues are dealt with importantly in urban planning research."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "도시 변화를 이야기할 때",
+          "ko": "젠트리피케이션은 낙후 지역이 고급화되는 현상이에요.",
+          "cn": "젠트리피케이션는낡은지역高档化的现상。"
+        },
+        {
+          "situation": "원주민 문제를 이야기할 때",
+          "ko": "젠트리피케이션으로 원래 거주민이 높은 임대료로 쫓겨나요.",
+          "cn": "由于젠트리피케이션，原居民因高房租被迫离开。"
+        },
+        {
+          "situation": "상권을 이야기할 때",
+          "ko": "상권이 변화하면서 젠트리피케이션이 가속화돼요.",
+          "cn": "随着商业区的变화，젠트리피케이션加速。"
+        },
+        {
+          "situation": "예술가를 이야기할 때",
+          "ko": "예술가들이 이주하면서 지역이 활성화되고 젠트리피케이션이 시작돼요.",
+          "cn": "随着艺术家的移入，地区活跃起来，젠트리피케이션开始。"
+        },
+        {
+          "situation": "부동산을 이야기할 때",
+          "ko": "젠트리피케이션으로 부동산 가격이 급등해요.",
+          "cn": "由于젠트리피케이션，房地产价格暴涨。"
+        },
+        {
+          "situation": "문화를 이야기할 때",
+          "ko": "젠트리피케이션은 지역의 문화적 다양성을 감소시킬 수 있어요.",
+          "cn": "젠트리피케이션可能减少地区文화다양성。"
+        },
+        {
+          "situation": "정책을 이야기할 때",
+          "ko": "젠트리피케이션에 대응하기 위한 세입자 보호 정책이 필요해요.",
+          "cn": "需要租客保护政策来应对젠트리피케이션。"
+        },
+        {
+          "situation": "서울을 이야기할 때",
+          "ko": "서울의 여러 지역에서 젠트리피케이션 현상이 나타나고 있어요.",
+          "cn": "首尔多个地区出현젠트리피케이션현상。"
+        },
+        {
+          "situation": "혜택과 피해를 이야기할 때",
+          "ko": "젠트리피케이션의 수혜자와 피해자가 명확하게 나뉘어요.",
+          "cn": "젠트리피케이션的受益者和受害者분명히갈린다。"
+        },
+        {
+          "situation": "연구를 이야기할 때",
+          "ko": "도시 계획 연구에서 젠트리피케이션 문제가 중요하게 다뤄져요.",
+          "cn": "城市规划研究中重요하게다뤄지는젠트리피케이션问题。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "도시 변화를 이야기할 때",
+          "ko": "젠트리피케이션은 낙후 지역이 고급화되는 현상이에요.",
+          "vn": "Gentrification là hiện tượng các khu vực xuống cấp được nâng cấp thành cao cấp."
+        },
+        {
+          "situation": "원주민 문제를 이야기할 때",
+          "ko": "젠트리피케이션으로 원래 거주민이 높은 임대료로 쫓겨나요.",
+          "vn": "Do gentrification, cư dân gốc bị đẩy đi bởi tiền thuê cao."
+        },
+        {
+          "situation": "상권을 이야기할 때",
+          "ko": "상권이 변화하면서 젠트리피케이션이 가속화돼요.",
+          "vn": "Gentrification tăng tốc khi các khu thương mại thay đổi."
+        },
+        {
+          "situation": "예술가를 이야기할 때",
+          "ko": "예술가들이 이주하면서 지역이 활성화되고 젠트리피케이션이 시작돼요.",
+          "vn": "Gentrification bắt đầu khi khu vực được hồi sinh bởi các nghệ sĩ chuyển đến."
+        },
+        {
+          "situation": "부동산을 이야기할 때",
+          "ko": "젠트리피케이션으로 부동산 가격이 급등해요.",
+          "vn": "Giá bất động sản tăng vọt do gentrification."
+        },
+        {
+          "situation": "문화를 이야기할 때",
+          "ko": "젠트리피케이션은 지역의 문화적 다양성을 감소시킬 수 있어요.",
+          "vn": "Gentrification có thể giảm sự đa dạng văn hóa của một khu vực."
+        },
+        {
+          "situation": "정책을 이야기할 때",
+          "ko": "젠트리피케이션에 대응하기 위한 세입자 보호 정책이 필요해요.",
+          "vn": "Cần chính sách bảo vệ người thuê nhà để ứng phó với gentrification."
+        },
+        {
+          "situation": "서울을 이야기할 때",
+          "ko": "서울의 여러 지역에서 젠트리피케이션 현상이 나타나고 있어요.",
+          "vn": "Hiện tượng gentrification đang xuất hiện ở nhiều khu vực Seoul."
+        },
+        {
+          "situation": "혜택과 피해를 이야기할 때",
+          "ko": "젠트리피케이션의 수혜자와 피해자가 명확하게 나뉘어요.",
+          "vn": "Người hưởng lợi và nạn nhân của gentrification được phân chia rõ ràng."
+        },
+        {
+          "situation": "연구를 이야기할 때",
+          "ko": "도시 계획 연구에서 젠트리피케이션 문제가 중요하게 다뤄져요.",
+          "vn": "Vấn đề gentrification được xử lý quan trọng trong nghiên cứu quy hoạch đô thị."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 123,
+    "word": "사회적자본",
+    "pos": "명사",
+    "synonyms": [
+      "사회 자본",
+      "신뢰 자본"
+    ],
+    "meanings": {
+      "en": "social capital",
+      "cn": "社会资本",
+      "vn": "vốn xã hội"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "신뢰를 이야기할 때",
+          "ko": "사회적자본은 공동체 내의 신뢰와 협력을 나타내는 개념이에요.",
+          "en": "Social capital is a concept that represents trust and cooperation within a community."
+        },
+        {
+          "situation": "네트워크를 이야기할 때",
+          "ko": "강한 사회적자본은 사람들 간의 네트워크를 형성해요.",
+          "en": "Strong social capital forms networks between people."
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "사회적자본이 높은 나라는 경제 발전에도 유리해요.",
+          "en": "Countries with high social capital are also advantageous for economic development."
+        },
+        {
+          "situation": "거버넌스를 이야기할 때",
+          "ko": "사회적자본이 풍부하면 좋은 거버넌스가 만들어져요.",
+          "en": "When social capital is abundant, good governance is created."
+        },
+        {
+          "situation": "재난 회복을 이야기할 때",
+          "ko": "사회적자본이 강한 지역은 재난 후 빠르게 회복해요.",
+          "en": "Areas with strong social capital recover quickly after disasters."
+        },
+        {
+          "situation": "Putnam을 이야기할 때",
+          "ko": "로버트 퍼트남이 사회적자본 개념을 발전시켰어요.",
+          "en": "Robert Putnam developed the concept of social capital."
+        },
+        {
+          "situation": "약화를 이야기할 때",
+          "ko": "개인주의 확산으로 사회적자본이 약화되고 있어요.",
+          "en": "Social capital is weakening due to the spread of individualism."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "사회적자본 형성에 교육의 역할이 중요해요.",
+          "en": "The role of education is important in forming social capital."
+        },
+        {
+          "situation": "지역 공동체를 이야기할 때",
+          "ko": "지역 공동체 활동이 사회적자본을 쌓는 데 기여해요.",
+          "en": "Local community activities contribute to building social capital."
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "다양성이 높은 사회에서 사회적자본을 쌓기가 더 어려울 수 있어요.",
+          "en": "Building social capital can be more difficult in highly diverse societies."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "신뢰를 이야기할 때",
+          "ko": "사회적자본은 공동체 내의 신뢰와 협력을 나타내는 개념이에요.",
+          "cn": "사회적자본은代表共同体내부信任与合作的概念。"
+        },
+        {
+          "situation": "네트워크를 이야기할 때",
+          "ko": "강한 사회적자본은 사람들 간의 네트워크를 형성해요.",
+          "cn": "강한사회적자본形成人们之간的网络。"
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "사회적자본이 높은 나라는 경제 발전에도 유리해요.",
+          "cn": "사회적자본높은나라在경제발전上也유리。"
+        },
+        {
+          "situation": "거버넌스를 이야기할 때",
+          "ko": "사회적자본이 풍부하면 좋은 거버넌스가 만들어져요.",
+          "cn": "사회적자본풍부하면可以创造好的治理。"
+        },
+        {
+          "situation": "재난 회복을 이야기할 때",
+          "ko": "사회적자본이 강한 지역은 재난 후 빠르게 회복해요.",
+          "cn": "사회적자본强的地区在灾难후快速恢복。"
+        },
+        {
+          "situation": "Putnam을 이야기할 때",
+          "ko": "로버트 퍼트남이 사회적자본 개념을 발전시켰어요.",
+          "cn": "罗伯特·普特南发展了사회적자본概念。"
+        },
+        {
+          "situation": "약화를 이야기할 때",
+          "ko": "개인주의 확산으로 사회적자본이 약화되고 있어요.",
+          "cn": "由于个人主义的扩散，사회적자본正在弱화。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "사회적자본 형성에 교육의 역할이 중요해요.",
+          "cn": "教육在사회적자본형성上的作用很重要。"
+        },
+        {
+          "situation": "지역 공동체를 이야기할 때",
+          "ko": "지역 공동체 활동이 사회적자본을 쌓는 데 기여해요.",
+          "cn": "地区共同体活动有助于积累사회적자본。"
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "다양성이 높은 사회에서 사회적자본을 쌓기가 더 어려울 수 있어요.",
+          "cn": "在多样性高的社회中积累사회적자본可能更困难。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "신뢰를 이야기할 때",
+          "ko": "사회적자본은 공동체 내의 신뢰와 협력을 나타내는 개념이에요.",
+          "vn": "Vốn xã hội là khái niệm đại diện cho sự tin tưởng và hợp tác trong cộng đồng."
+        },
+        {
+          "situation": "네트워크를 이야기할 때",
+          "ko": "강한 사회적자본은 사람들 간의 네트워크를 형성해요.",
+          "vn": "Vốn xã hội mạnh hình thành mạng lưới giữa mọi người."
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "사회적자본이 높은 나라는 경제 발전에도 유리해요.",
+          "vn": "Các quốc gia có vốn xã hội cao cũng có lợi thế trong phát triển kinh tế."
+        },
+        {
+          "situation": "거버넌스를 이야기할 때",
+          "ko": "사회적자본이 풍부하면 좋은 거버넌스가 만들어져요.",
+          "vn": "Khi vốn xã hội dồi dào, quản trị tốt được tạo ra."
+        },
+        {
+          "situation": "재난 회복을 이야기할 때",
+          "ko": "사회적자본이 강한 지역은 재난 후 빠르게 회복해요.",
+          "vn": "Khu vực có vốn xã hội mạnh phục hồi nhanh chóng sau thảm họa."
+        },
+        {
+          "situation": "Putnam을 이야기할 때",
+          "ko": "로버트 퍼트남이 사회적자본 개념을 발전시켰어요.",
+          "vn": "Robert Putnam đã phát triển khái niệm vốn xã hội."
+        },
+        {
+          "situation": "약화를 이야기할 때",
+          "ko": "개인주의 확산으로 사회적자본이 약화되고 있어요.",
+          "vn": "Vốn xã hội đang suy yếu do sự lan rộng của chủ nghĩa cá nhân."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "사회적자본 형성에 교육의 역할이 중요해요.",
+          "vn": "Vai trò của giáo dục quan trọng trong việc hình thành vốn xã hội."
+        },
+        {
+          "situation": "지역 공동체를 이야기할 때",
+          "ko": "지역 공동체 활동이 사회적자본을 쌓는 데 기여해요.",
+          "vn": "Các hoạt động cộng đồng địa phương góp phần tích lũy vốn xã hội."
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "다양성이 높은 사회에서 사회적자본을 쌓기가 더 어려울 수 있어요.",
+          "vn": "Tích lũy vốn xã hội có thể khó khăn hơn trong các xã hội có tính đa dạng cao."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 176,
+    "word": "알고리즘편향",
+    "pos": "명사",
+    "synonyms": [
+      "AI 편향",
+      "알고리즘 차별"
+    ],
+    "meanings": {
+      "en": "algorithmic bias, AI bias",
+      "cn": "算法偏见，AI偏见",
+      "vn": "thành kiến thuật toán, sai lệch AI"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "알고리즘편향은 AI 시스템이 특정 집단에 불공정한 결과를 내는 문제예요.",
+          "en": "Algorithmic bias is the problem of AI systems producing unfair results for certain groups."
+        },
+        {
+          "situation": "데이터를 이야기할 때",
+          "ko": "편향된 훈련 데이터가 알고리즘편향을 유발해요.",
+          "en": "Biased training data causes algorithmic bias."
+        },
+        {
+          "situation": "채용을 이야기할 때",
+          "ko": "채용 알고리즘의 알고리즘편향이 차별을 강화할 수 있어요.",
+          "en": "Algorithmic bias in recruitment algorithms can reinforce discrimination."
+        },
+        {
+          "situation": "얼굴 인식을 이야기할 때",
+          "ko": "얼굴 인식 기술의 알고리즘편향이 특정 인종에 불리해요.",
+          "en": "Algorithmic bias in facial recognition technology is disadvantageous for certain races."
+        },
+        {
+          "situation": "형사사법을 이야기할 때",
+          "ko": "형사사법 시스템의 알고리즘편향이 공정성을 해칠 수 있어요.",
+          "en": "Algorithmic bias in criminal justice systems can harm fairness."
+        },
+        {
+          "situation": "해결을 이야기할 때",
+          "ko": "알고리즘편향을 해결하기 위한 다양한 기술적 방법이 연구되고 있어요.",
+          "en": "Various technical methods to address algorithmic bias are being researched."
+        },
+        {
+          "situation": "투명성을 이야기할 때",
+          "ko": "알고리즘의 투명성을 높여 알고리즘편향을 줄일 수 있어요.",
+          "en": "Algorithmic bias can be reduced by increasing the transparency of algorithms."
+        },
+        {
+          "situation": "규제를 이야기할 때",
+          "ko": "알고리즘편향 방지를 위한 AI 규제 법안이 논의되고 있어요.",
+          "en": "AI regulatory bills to prevent algorithmic bias are being discussed."
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "AI 개발팀의 다양성이 알고리즘편향 감소에 도움이 돼요.",
+          "en": "Diversity in AI development teams helps reduce algorithmic bias."
+        },
+        {
+          "situation": "윤리를 이야기할 때",
+          "ko": "알고리즘편향 문제가 AI 윤리의 핵심 이슈예요.",
+          "en": "The issue of algorithmic bias is a core issue of AI ethics."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "알고리즘편향은 AI 시스템이 특정 집단에 불공정한 결과를 내는 문제예요.",
+          "cn": "알고리즘편향是AI系统对特定群체产生不공정결果的问题。"
+        },
+        {
+          "situation": "데이터를 이야기할 때",
+          "ko": "편향된 훈련 데이터가 알고리즘편향을 유발해요.",
+          "cn": "편향된훈련데이터导致알고리즘편향。"
+        },
+        {
+          "situation": "채용을 이야기할 때",
+          "ko": "채용 알고리즘의 알고리즘편향이 차별을 강화할 수 있어요.",
+          "cn": "招聘알고리즘의알고리즘편향可以강화歧视。"
+        },
+        {
+          "situation": "얼굴 인식을 이야기할 때",
+          "ko": "얼굴 인식 기술의 알고리즘편향이 특정 인종에 불리해요.",
+          "cn": "人脸识别技术의알고리즘편향对某些种族不利。"
+        },
+        {
+          "situation": "형사사법을 이야기할 때",
+          "ko": "형사사법 시스템의 알고리즘편향이 공정성을 해칠 수 있어요.",
+          "cn": "刑사사법시스템의알고리즘편향可以损害公正性。"
+        },
+        {
+          "situation": "해결을 이야기할 때",
+          "ko": "알고리즘편향을 해결하기 위한 다양한 기술적 방법이 연구되고 있어요.",
+          "cn": "解决알고리즘편향的다양한技术方法正在研究中。"
+        },
+        {
+          "situation": "투명성을 이야기할 때",
+          "ko": "알고리즘의 투명성을 높여 알고리즘편향을 줄일 수 있어요.",
+          "cn": "通过提高算法의투명성可以减少알고리즘편향。"
+        },
+        {
+          "situation": "규제를 이야기할 때",
+          "ko": "알고리즘편향 방지를 위한 AI 규제 법안이 논의되고 있어요.",
+          "cn": "防止알고리즘편향的AI规制法案正在讨论中。"
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "AI 개발팀의 다양성이 알고리즘편향 감소에 도움이 돼요.",
+          "cn": "AI개발팀의多样性有助于减少알고리즘편향。"
+        },
+        {
+          "situation": "윤리를 이야기할 때",
+          "ko": "알고리즘편향 문제가 AI 윤리의 핵심 이슈예요.",
+          "cn": "알고리즘편향问题是AI윤리的核心议题。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "알고리즘편향은 AI 시스템이 특정 집단에 불공정한 결과를 내는 문제예요.",
+          "vn": "Thành kiến thuật toán là vấn đề hệ thống AI tạo ra kết quả không công bằng cho các nhóm cụ thể."
+        },
+        {
+          "situation": "데이터를 이야기할 때",
+          "ko": "편향된 훈련 데이터가 알고리즘편향을 유발해요.",
+          "vn": "Dữ liệu huấn luyện bị sai lệch gây ra thành kiến thuật toán."
+        },
+        {
+          "situation": "채용을 이야기할 때",
+          "ko": "채용 알고리즘의 알고리즘편향이 차별을 강화할 수 있어요.",
+          "vn": "Thành kiến thuật toán trong các thuật toán tuyển dụng có thể củng cố phân biệt đối xử."
+        },
+        {
+          "situation": "얼굴 인식을 이야기할 때",
+          "ko": "얼굴 인식 기술의 알고리즘편향이 특정 인종에 불리해요.",
+          "vn": "Thành kiến thuật toán trong công nghệ nhận dạng khuôn mặt bất lợi cho một số chủng tộc nhất định."
+        },
+        {
+          "situation": "형사사법을 이야기할 때",
+          "ko": "형사사법 시스템의 알고리즘편향이 공정성을 해칠 수 있어요.",
+          "vn": "Thành kiến thuật toán trong hệ thống tư pháp hình sự có thể gây hại cho sự công bằng."
+        },
+        {
+          "situation": "해결을 이야기할 때",
+          "ko": "알고리즘편향을 해결하기 위한 다양한 기술적 방법이 연구되고 있어요.",
+          "vn": "Nhiều phương pháp kỹ thuật để giải quyết thành kiến thuật toán đang được nghiên cứu."
+        },
+        {
+          "situation": "투명성을 이야기할 때",
+          "ko": "알고리즘의 투명성을 높여 알고리즘편향을 줄일 수 있어요.",
+          "vn": "Có thể giảm thành kiến thuật toán bằng cách tăng tính minh bạch của thuật toán."
+        },
+        {
+          "situation": "규제를 이야기할 때",
+          "ko": "알고리즘편향 방지를 위한 AI 규제 법안이 논의되고 있어요.",
+          "vn": "Dự luật quy định AI để ngăn chặn thành kiến thuật toán đang được thảo luận."
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "AI 개발팀의 다양성이 알고리즘편향 감소에 도움이 돼요.",
+          "vn": "Sự đa dạng trong các nhóm phát triển AI giúp giảm thành kiến thuật toán."
+        },
+        {
+          "situation": "윤리를 이야기할 때",
+          "ko": "알고리즘편향 문제가 AI 윤리의 핵심 이슈예요.",
+          "vn": "Vấn đề thành kiến thuật toán là vấn đề cốt lõi của đạo đức AI."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 195,
+    "word": "정서지능",
+    "pos": "명사",
+    "synonyms": [
+      "감성지능",
+      "EQ"
+    ],
+    "meanings": {
+      "en": "emotional intelligence, EQ",
+      "cn": "情绪智力，情商",
+      "vn": "trí tuệ cảm xúc, EQ"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "심리를 이야기할 때",
+          "ko": "정서지능은 자신과 타인의 감정을 인식하고 관리하는 능력이에요.",
+          "en": "Emotional intelligence is the ability to recognize and manage one's own and others' emotions."
+        },
+        {
+          "situation": "리더십을 이야기할 때",
+          "ko": "높은 정서지능이 효과적인 리더십의 핵심이에요.",
+          "en": "High emotional intelligence is the core of effective leadership."
+        },
+        {
+          "situation": "IQ와 비교할 때",
+          "ko": "IQ만큼 정서지능도 성공에 중요한 역할을 해요.",
+          "en": "Emotional intelligence plays as important a role in success as IQ."
+        },
+        {
+          "situation": "대인관계를 이야기할 때",
+          "ko": "정서지능이 높은 사람은 대인관계가 원만해요.",
+          "en": "People with high emotional intelligence have smooth interpersonal relationships."
+        },
+        {
+          "situation": "직장을 이야기할 때",
+          "ko": "직장에서 정서지능이 업무 성과에 영향을 미쳐요.",
+          "en": "Emotional intelligence affects work performance in the workplace."
+        },
+        {
+          "situation": "갈등을 이야기할 때",
+          "ko": "정서지능이 높으면 갈등을 효과적으로 해결할 수 있어요.",
+          "en": "High emotional intelligence allows you to effectively resolve conflicts."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학교에서 정서지능 교육의 중요성이 강조되고 있어요.",
+          "en": "The importance of emotional intelligence education is being emphasized in schools."
+        },
+        {
+          "situation": "개발을 이야기할 때",
+          "ko": "정서지능은 훈련과 경험을 통해 개발될 수 있어요.",
+          "en": "Emotional intelligence can be developed through training and experience."
+        },
+        {
+          "situation": "Goleman을 이야기할 때",
+          "ko": "대니얼 골먼이 정서지능 개념을 대중화했어요.",
+          "en": "Daniel Goleman popularized the concept of emotional intelligence."
+        },
+        {
+          "situation": "부모를 이야기할 때",
+          "ko": "부모의 정서지능이 자녀 발달에 영향을 미쳐요.",
+          "en": "Parents' emotional intelligence affects children's development."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "심리를 이야기할 때",
+          "ko": "정서지능은 자신과 타인의 감정을 인식하고 관리하는 능력이에요.",
+          "cn": "정서지능은识별和管理自己与他人情感的能力。"
+        },
+        {
+          "situation": "리더십을 이야기할 때",
+          "ko": "높은 정서지능이 효과적인 리더십의 핵심이에요.",
+          "cn": "높은정서지능是有效领导力의核心。"
+        },
+        {
+          "situation": "IQ와 비교할 때",
+          "ko": "IQ만큼 정서지능도 성공에 중요한 역할을 해요.",
+          "cn": "정서지능像IQ一样在成功中扮演重要角色。"
+        },
+        {
+          "situation": "대인관계를 이야기할 때",
+          "ko": "정서지능이 높은 사람은 대인관계가 원만해요.",
+          "cn": "정서지능높은사람的人际关系融洽。"
+        },
+        {
+          "situation": "직장을 이야기할 때",
+          "ko": "직장에서 정서지능이 업무 성과에 영향을 미쳐요.",
+          "cn": "在职场中，정서지능影响工作表현。"
+        },
+        {
+          "situation": "갈등을 이야기할 때",
+          "ko": "정서지능이 높으면 갈등을 효과적으로 해결할 수 있어요.",
+          "cn": "정서지능高的话可以有효적으로解决矛盾。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학교에서 정서지능 교육의 중요성이 강조되고 있어요.",
+          "cn": "在学校，정서지능교육의重要性正被강조。"
+        },
+        {
+          "situation": "개발을 이야기할 때",
+          "ko": "정서지능은 훈련과 경험을 통해 개발될 수 있어요.",
+          "cn": "정서지능可以通过训练和经验得到发展。"
+        },
+        {
+          "situation": "Goleman을 이야기할 때",
+          "ko": "대니얼 골먼이 정서지능 개념을 대중화했어요.",
+          "cn": "丹尼尔·戈尔曼대중화了정서지능概念。"
+        },
+        {
+          "situation": "부모를 이야기할 때",
+          "ko": "부모의 정서지능이 자녀 발달에 영향을 미쳐요.",
+          "cn": "父母의정서지능影响子女의발달。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "심리를 이야기할 때",
+          "ko": "정서지능은 자신과 타인의 감정을 인식하고 관리하는 능력이에요.",
+          "vn": "Trí tuệ cảm xúc là khả năng nhận biết và quản lý cảm xúc của bản thân và người khác."
+        },
+        {
+          "situation": "리더십을 이야기할 때",
+          "ko": "높은 정서지능이 효과적인 리더십의 핵심이에요.",
+          "vn": "Trí tuệ cảm xúc cao là cốt lõi của lãnh đạo hiệu quả."
+        },
+        {
+          "situation": "IQ와 비교할 때",
+          "ko": "IQ만큼 정서지능도 성공에 중요한 역할을 해요.",
+          "vn": "Trí tuệ cảm xúc đóng vai trò quan trọng trong thành công ngang với IQ."
+        },
+        {
+          "situation": "대인관계를 이야기할 때",
+          "ko": "정서지능이 높은 사람은 대인관계가 원만해요.",
+          "vn": "Người có trí tuệ cảm xúc cao có mối quan hệ con người hài hòa."
+        },
+        {
+          "situation": "직장을 이야기할 때",
+          "ko": "직장에서 정서지능이 업무 성과에 영향을 미쳐요.",
+          "vn": "Trí tuệ cảm xúc ảnh hưởng đến hiệu suất làm việc tại nơi làm việc."
+        },
+        {
+          "situation": "갈등을 이야기할 때",
+          "ko": "정서지능이 높으면 갈등을 효과적으로 해결할 수 있어요.",
+          "vn": "Trí tuệ cảm xúc cao cho phép bạn giải quyết xung đột hiệu quả."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학교에서 정서지능 교육의 중요성이 강조되고 있어요.",
+          "vn": "Tầm quan trọng của giáo dục trí tuệ cảm xúc đang được nhấn mạnh ở trường học."
+        },
+        {
+          "situation": "개발을 이야기할 때",
+          "ko": "정서지능은 훈련과 경험을 통해 개발될 수 있어요.",
+          "vn": "Trí tuệ cảm xúc có thể được phát triển qua đào tạo và kinh nghiệm."
+        },
+        {
+          "situation": "Goleman을 이야기할 때",
+          "ko": "대니얼 골먼이 정서지능 개념을 대중화했어요.",
+          "vn": "Daniel Goleman đã phổ biến hóa khái niệm trí tuệ cảm xúc."
+        },
+        {
+          "situation": "부모를 이야기할 때",
+          "ko": "부모의 정서지능이 자녀 발달에 영향을 미쳐요.",
+          "vn": "Trí tuệ cảm xúc của cha mẹ ảnh hưởng đến sự phát triển của trẻ."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 200,
+    "word": "거버넌스",
+    "pos": "명사",
+    "synonyms": [
+      "통치구조",
+      "지배구조"
+    ],
+    "meanings": {
+      "en": "governance, system of governance",
+      "cn": "治理结构，公司治理",
+      "vn": "quản trị, cơ cấu quản lý"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "공공 행정을 이야기할 때",
+          "ko": "좋은 거버넌스는 효율적이고 투명한 정부 운영을 의미해요.",
+          "en": "Good governance means efficient and transparent government operation."
+        },
+        {
+          "situation": "기업을 이야기할 때",
+          "ko": "기업 거버넌스 강화로 투명한 경영이 이루어져요.",
+          "en": "Transparent management is achieved through strengthening corporate governance."
+        },
+        {
+          "situation": "UN을 이야기할 때",
+          "ko": "글로벌 거버넌스는 국제 문제를 공동으로 해결하는 체계예요.",
+          "en": "Global governance is a system for collectively solving international problems."
+        },
+        {
+          "situation": "시민 참여를 이야기할 때",
+          "ko": "거버넌스에 시민 참여를 높이는 것이 중요해요.",
+          "en": "Increasing citizen participation in governance is important."
+        },
+        {
+          "situation": "부패를 이야기할 때",
+          "ko": "거버넌스 개혁으로 부패를 줄일 수 있어요.",
+          "en": "Corruption can be reduced through governance reform."
+        },
+        {
+          "situation": "지방을 이야기할 때",
+          "ko": "지방 거버넌스 강화가 분권화를 촉진해요.",
+          "en": "Strengthening local governance promotes decentralization."
+        },
+        {
+          "situation": "디지털을 이야기할 때",
+          "ko": "디지털 거버넌스가 공공 서비스 효율성을 높여요.",
+          "en": "Digital governance improves the efficiency of public services."
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "위기 상황에서 거버넌스 역량이 중요하게 드러나요.",
+          "en": "Governance capacity becomes important in crisis situations."
+        },
+        {
+          "situation": "평가를 이야기할 때",
+          "ko": "세계은행이 각국의 거버넌스 수준을 평가해요.",
+          "en": "The World Bank evaluates the governance level of each country."
+        },
+        {
+          "situation": "다층적을 이야기할 때",
+          "ko": "현대 거버넌스는 다양한 주체가 협력하는 다층적 구조를 가져요.",
+          "en": "Modern governance has a multi-layered structure where various actors cooperate."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "공공 행정을 이야기할 때",
+          "ko": "좋은 거버넌스는 효율적이고 투명한 정부 운영을 의미해요.",
+          "cn": "좋은거버넌스意味着高效透明的政府운영。"
+        },
+        {
+          "situation": "기업을 이야기할 때",
+          "ko": "기업 거버넌스 강화로 투명한 경영이 이루어져요.",
+          "cn": "通过강화기업거버넌스实现透明경영。"
+        },
+        {
+          "situation": "UN을 이야기할 때",
+          "ko": "글로벌 거버넌스는 국제 문제를 공동으로 해결하는 체계예요.",
+          "cn": "全球거버넌스是共同解决国际问题的체계。"
+        },
+        {
+          "situation": "시민 참여를 이야기할 때",
+          "ko": "거버넌스에 시민 참여를 높이는 것이 중요해요.",
+          "cn": "在거버넌스中提高市民参与度很重要。"
+        },
+        {
+          "situation": "부패를 이야기할 때",
+          "ko": "거버넌스 개혁으로 부패를 줄일 수 있어요.",
+          "cn": "通过거버넌스개혁可以减少腐败。"
+        },
+        {
+          "situation": "지방을 이야기할 때",
+          "ko": "지방 거버넌스 강화가 분권화를 촉진해요.",
+          "cn": "강화지방거버넌스促进分권화。"
+        },
+        {
+          "situation": "디지털을 이야기할 때",
+          "ko": "디지털 거버넌스가 공공 서비스 효율성을 높여요.",
+          "cn": "数字거버넌스提高공공서비스효율。"
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "위기 상황에서 거버넌스 역량이 중요하게 드러나요.",
+          "cn": "在危机情况下，거버넌스역량变得重요。"
+        },
+        {
+          "situation": "평가를 이야기할 때",
+          "ko": "세계은행이 각국의 거버넌스 수준을 평가해요.",
+          "cn": "世界银행평가각국거버넌스수준。"
+        },
+        {
+          "situation": "다층적을 이야기할 때",
+          "ko": "현대 거버넌스는 다양한 주체가 협력하는 다층적 구조를 가져요.",
+          "cn": "现代거버넌스具有多种主体협력的多층적구조。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "공공 행정을 이야기할 때",
+          "ko": "좋은 거버넌스는 효율적이고 투명한 정부 운영을 의미해요.",
+          "vn": "Quản trị tốt có nghĩa là vận hành chính phủ hiệu quả và minh bạch."
+        },
+        {
+          "situation": "기업을 이야기할 때",
+          "ko": "기업 거버넌스 강화로 투명한 경영이 이루어져요.",
+          "vn": "Quản lý minh bạch được thực hiện qua việc tăng cường quản trị doanh nghiệp."
+        },
+        {
+          "situation": "UN을 이야기할 때",
+          "ko": "글로벌 거버넌스는 국제 문제를 공동으로 해결하는 체계예요.",
+          "vn": "Quản trị toàn cầu là hệ thống giải quyết chung các vấn đề quốc tế."
+        },
+        {
+          "situation": "시민 참여를 이야기할 때",
+          "ko": "거버넌스에 시민 참여를 높이는 것이 중요해요.",
+          "vn": "Tăng cường sự tham gia của công dân trong quản trị là quan trọng."
+        },
+        {
+          "situation": "부패를 이야기할 때",
+          "ko": "거버넌스 개혁으로 부패를 줄일 수 있어요.",
+          "vn": "Có thể giảm tham nhũng qua cải cách quản trị."
+        },
+        {
+          "situation": "지방을 이야기할 때",
+          "ko": "지방 거버넌스 강화가 분권화를 촉진해요.",
+          "vn": "Tăng cường quản trị địa phương thúc đẩy phân quyền."
+        },
+        {
+          "situation": "디지털을 이야기할 때",
+          "ko": "디지털 거버넌스가 공공 서비스 효율성을 높여요.",
+          "vn": "Quản trị số nâng cao hiệu quả dịch vụ công."
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "위기 상황에서 거버넌스 역량이 중요하게 드러나요.",
+          "vn": "Năng lực quản trị trở nên quan trọng trong các tình huống khủng hoảng."
+        },
+        {
+          "situation": "평가를 이야기할 때",
+          "ko": "세계은행이 각국의 거버넌스 수준을 평가해요.",
+          "vn": "Ngân hàng Thế giới đánh giá mức độ quản trị của từng quốc gia."
+        },
+        {
+          "situation": "다층적을 이야기할 때",
+          "ko": "현대 거버넌스는 다양한 주체가 협력하는 다층적 구조를 가져요.",
+          "vn": "Quản trị hiện đại có cấu trúc đa tầng mà nhiều chủ thể hợp tác với nhau."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 253,
+    "word": "다자주의",
+    "pos": "명사",
+    "synonyms": [
+      "다자주의",
+      "다자협력"
+    ],
+    "meanings": {
+      "en": "multilateralism",
+      "cn": "多边主义",
+      "vn": "chủ nghĩa đa phương"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "국제 관계를 이야기할 때",
+          "ko": "다자주의는 여러 나라가 공동으로 문제를 해결하는 접근법이에요.",
+          "en": "Multilateralism is an approach where multiple countries jointly solve problems."
+        },
+        {
+          "situation": "UN을 이야기할 때",
+          "ko": "유엔은 다자주의의 대표적인 국제 기구예요.",
+          "en": "The United Nations is a representative international organization of multilateralism."
+        },
+        {
+          "situation": "무역을 이야기할 때",
+          "ko": "WTO를 통한 다자주의 무역 체계가 국제 무역을 촉진해요.",
+          "en": "The multilateral trade system through the WTO promotes international trade."
+        },
+        {
+          "situation": "기후를 이야기할 때",
+          "ko": "기후 변화 대응은 다자주의 협력이 필수적이에요.",
+          "en": "Multilateral cooperation is essential in responding to climate change."
+        },
+        {
+          "situation": "보호무역과 대비할 때",
+          "ko": "보호무역주의 확산이 다자주의를 위협하고 있어요.",
+          "en": "The spread of protectionism is threatening multilateralism."
+        },
+        {
+          "situation": "핵을 이야기할 때",
+          "ko": "핵 비확산을 위한 다자주의 체제가 필요해요.",
+          "en": "A multilateral regime for nuclear non-proliferation is needed."
+        },
+        {
+          "situation": "안보를 이야기할 때",
+          "ko": "지역 안보는 다자주의 협력으로 더 효과적으로 유지돼요.",
+          "en": "Regional security is more effectively maintained through multilateral cooperation."
+        },
+        {
+          "situation": "COVID를 이야기할 때",
+          "ko": "팬데믹 대응에서 다자주의의 중요성이 부각됐어요.",
+          "en": "The importance of multilateralism was highlighted in the pandemic response."
+        },
+        {
+          "situation": "한계를 이야기할 때",
+          "ko": "다자주의 의사 결정은 시간이 오래 걸리는 단점이 있어요.",
+          "en": "Multilateral decision-making has the disadvantage of taking a long time."
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "다자주의 강화가 글로벌 문제 해결의 열쇠예요.",
+          "en": "Strengthening multilateralism is the key to solving global problems."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "국제 관계를 이야기할 때",
+          "ko": "다자주의는 여러 나라가 공동으로 문제를 해결하는 접근법이에요.",
+          "cn": "다자주의는多国共同解决问题的접근법。"
+        },
+        {
+          "situation": "UN을 이야기할 때",
+          "ko": "유엔은 다자주의의 대표적인 국제 기구예요.",
+          "cn": "联合国是다자주의的代表性国际机构。"
+        },
+        {
+          "situation": "무역을 이야기할 때",
+          "ko": "WTO를 통한 다자주의 무역 체계가 국제 무역을 촉진해요.",
+          "cn": "通过WTO的다자주의贸易体系促进国际贸易。"
+        },
+        {
+          "situation": "기후를 이야기할 때",
+          "ko": "기후 변화 대응은 다자주의 협력이 필수적이에요.",
+          "cn": "应对气候变化需要다자주의협력。"
+        },
+        {
+          "situation": "보호무역과 대비할 때",
+          "ko": "보호무역주의 확산이 다자주의를 위협하고 있어요.",
+          "cn": "保护主义의확산正威胁다자주의。"
+        },
+        {
+          "situation": "핵을 이야기할 때",
+          "ko": "핵 비확산을 위한 다자주의 체제가 필요해요.",
+          "cn": "需要다자주의체제应对核불확산。"
+        },
+        {
+          "situation": "안보를 이야기할 때",
+          "ko": "지역 안보는 다자주의 협력으로 더 효과적으로 유지돼요.",
+          "cn": "区域안보通过다자주의협력更有效维持。"
+        },
+        {
+          "situation": "COVID를 이야기할 때",
+          "ko": "팬데믹 대응에서 다자주의의 중요성이 부각됐어요.",
+          "cn": "在疫情应对中，다자주의的重要性得到了凸显。"
+        },
+        {
+          "situation": "한계를 이야기할 때",
+          "ko": "다자주의 의사 결정은 시간이 오래 걸리는 단점이 있어요.",
+          "cn": "다자주의意思决定有耗时长的缺点。"
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "다자주의 강화가 글로벌 문제 해결의 열쇠예요.",
+          "cn": "강화다자주의是解决全球问题的关键。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "국제 관계를 이야기할 때",
+          "ko": "다자주의는 여러 나라가 공동으로 문제를 해결하는 접근법이에요.",
+          "vn": "Chủ nghĩa đa phương là cách tiếp cận mà nhiều quốc gia cùng giải quyết vấn đề."
+        },
+        {
+          "situation": "UN을 이야기할 때",
+          "ko": "유엔은 다자주의의 대표적인 국제 기구예요.",
+          "vn": "Liên Hợp Quốc là tổ chức quốc tế tiêu biểu của chủ nghĩa đa phương."
+        },
+        {
+          "situation": "무역을 이야기할 때",
+          "ko": "WTO를 통한 다자주의 무역 체계가 국제 무역을 촉진해요.",
+          "vn": "Hệ thống thương mại đa phương thông qua WTO thúc đẩy thương mại quốc tế."
+        },
+        {
+          "situation": "기후를 이야기할 때",
+          "ko": "기후 변화 대응은 다자주의 협력이 필수적이에요.",
+          "vn": "Hợp tác đa phương là thiết yếu trong ứng phó với biến đổi khí hậu."
+        },
+        {
+          "situation": "보호무역과 대비할 때",
+          "ko": "보호무역주의 확산이 다자주의를 위협하고 있어요.",
+          "vn": "Sự lan rộng của chủ nghĩa bảo hộ thương mại đang đe dọa chủ nghĩa đa phương."
+        },
+        {
+          "situation": "핵을 이야기할 때",
+          "ko": "핵 비확산을 위한 다자주의 체제가 필요해요.",
+          "vn": "Cần có chế độ đa phương cho không phổ biến vũ khí hạt nhân."
+        },
+        {
+          "situation": "안보를 이야기할 때",
+          "ko": "지역 안보는 다자주의 협력으로 더 효과적으로 유지돼요.",
+          "vn": "An ninh khu vực được duy trì hiệu quả hơn qua hợp tác đa phương."
+        },
+        {
+          "situation": "COVID를 이야기할 때",
+          "ko": "팬데믹 대응에서 다자주의의 중요성이 부각됐어요.",
+          "vn": "Tầm quan trọng của chủ nghĩa đa phương được làm nổi bật trong ứng phó đại dịch."
+        },
+        {
+          "situation": "한계를 이야기할 때",
+          "ko": "다자주의 의사 결정은 시간이 오래 걸리는 단점이 있어요.",
+          "vn": "Ra quyết định đa phương có nhược điểm là mất nhiều thời gian."
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "다자주의 강화가 글로벌 문제 해결의 열쇠예요.",
+          "vn": "Tăng cường chủ nghĩa đa phương là chìa khóa giải quyết các vấn đề toàn cầu."
+        }
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "id": 286,
+    "word": "안보전략",
+    "pos": "명사",
+    "synonyms": [
+      "국가안보전략",
+      "방위전략"
+    ],
+    "meanings": {
+      "en": "security strategy, national security strategy",
+      "cn": "安全战略，国家安全战略",
+      "vn": "chiến lược an ninh, chiến lược quốc phòng"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "국방을 이야기할 때",
+          "ko": "국가 안보전략은 국가의 안전을 보장하기 위한 종합 계획이에요.",
+          "en": "National security strategy is a comprehensive plan to ensure national security."
+        },
+        {
+          "situation": "동맹을 이야기할 때",
+          "ko": "한미 동맹은 한국 안보전략의 핵심 축이에요.",
+          "en": "The Korea-US alliance is the core axis of South Korea's security strategy."
+        },
+        {
+          "situation": "사이버를 이야기할 때",
+          "ko": "현대 안보전략에서 사이버 보안이 중요한 요소가 됐어요.",
+          "en": "Cybersecurity has become an important element of modern security strategy."
+        },
+        {
+          "situation": "외교를 이야기할 때",
+          "ko": "안보전략은 군사력뿐 아니라 외교력도 포함해요.",
+          "en": "Security strategy includes not only military power but also diplomatic power."
+        },
+        {
+          "situation": "억지를 이야기할 때",
+          "ko": "핵 억지력이 일부 국가들의 안보전략 핵심이에요.",
+          "en": "Nuclear deterrence is the core of some countries' security strategies."
+        },
+        {
+          "situation": "비전통 안보를 이야기할 때",
+          "ko": "기후변화, 전염병도 현대 안보전략에 포함돼요.",
+          "en": "Climate change and infectious diseases are also included in modern security strategies."
+        },
+        {
+          "situation": "예산을 이야기할 때",
+          "ko": "안보전략 실행을 위해 국방 예산이 증가하고 있어요.",
+          "en": "Defense budgets are increasing to implement security strategies."
+        },
+        {
+          "situation": "지역을 이야기할 때",
+          "ko": "동북아시아 안보전략은 복잡한 외교 관계를 반영해요.",
+          "en": "Northeast Asian security strategies reflect complex diplomatic relationships."
+        },
+        {
+          "situation": "공세적/방어적을 이야기할 때",
+          "ko": "공세적 안보전략과 방어적 안보전략의 균형이 필요해요.",
+          "en": "Balance between offensive and defensive security strategies is needed."
+        },
+        {
+          "situation": "평가를 이야기할 때",
+          "ko": "주기적인 안보전략 평가로 변화하는 위협에 대응해요.",
+          "en": "We respond to changing threats through periodic security strategy assessments."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "국방을 이야기할 때",
+          "ko": "국가 안보전략은 국가의 안전을 보장하기 위한 종합 계획이에요.",
+          "cn": "国家안보전략是确保国家安전的综합计划。"
+        },
+        {
+          "situation": "동맹을 이야기할 때",
+          "ko": "한미 동맹은 한국 안보전략의 핵심 축이에요.",
+          "cn": "한미동맹是韩国안보전략的核心轴。"
+        },
+        {
+          "situation": "사이버를 이야기할 때",
+          "ko": "현대 안보전략에서 사이버 보안이 중요한 요소가 됐어요.",
+          "cn": "网络安全已成为현대안보전략의重要요소。"
+        },
+        {
+          "situation": "외교를 이야기할 때",
+          "ko": "안보전략은 군사력뿐 아니라 외교력도 포함해요.",
+          "cn": "안보전략不仅包含军事력，还包含外交력。"
+        },
+        {
+          "situation": "억지를 이야기할 때",
+          "ko": "핵 억지력이 일부 국가들의 안보전략 핵심이에요.",
+          "cn": "핵 억지력是一些国家안보전략的核심。"
+        },
+        {
+          "situation": "비전통 안보를 이야기할 때",
+          "ko": "기후변화, 전염병도 현대 안보전략에 포함돼요.",
+          "cn": "气候变화, 传染病也包含在현대안보전략中。"
+        },
+        {
+          "situation": "예산을 이야기할 때",
+          "ko": "안보전략 실행을 위해 국방 예산이 증가하고 있어요.",
+          "cn": "为实施안보전략，국방예산正在增加。"
+        },
+        {
+          "situation": "지역을 이야기할 때",
+          "ko": "동북아시아 안보전략은 복잡한 외교 관계를 반영해요.",
+          "cn": "东北아시아안보전략反映了复杂의외교관계。"
+        },
+        {
+          "situation": "공세적/방어적을 이야기할 때",
+          "ko": "공세적 안보전략과 방어적 안보전략의 균형이 필요해요.",
+          "cn": "需要공세적안보전략与방어적안보전략의균형。"
+        },
+        {
+          "situation": "평가를 이야기할 때",
+          "ko": "주기적인 안보전략 평가로 변화하는 위협에 대응해요.",
+          "cn": "通过定期안보전략평가应对변화하는威胁。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "국방을 이야기할 때",
+          "ko": "국가 안보전략은 국가의 안전을 보장하기 위한 종합 계획이에요.",
+          "vn": "Chiến lược an ninh quốc gia là kế hoạch toàn diện để đảm bảo an ninh quốc gia."
+        },
+        {
+          "situation": "동맹을 이야기할 때",
+          "ko": "한미 동맹은 한국 안보전략의 핵심 축이에요.",
+          "vn": "Liên minh Hàn-Mỹ là trục cốt lõi của chiến lược an ninh Hàn Quốc."
+        },
+        {
+          "situation": "사이버를 이야기할 때",
+          "ko": "현대 안보전략에서 사이버 보안이 중요한 요소가 됐어요.",
+          "vn": "An ninh mạng đã trở thành yếu tố quan trọng trong chiến lược an ninh hiện đại."
+        },
+        {
+          "situation": "외교를 이야기할 때",
+          "ko": "안보전략은 군사력뿐 아니라 외교력도 포함해요.",
+          "vn": "Chiến lược an ninh bao gồm không chỉ sức mạnh quân sự mà còn sức mạnh ngoại giao."
+        },
+        {
+          "situation": "억지를 이야기할 때",
+          "ko": "핵 억지력이 일부 국가들의 안보전략 핵심이에요.",
+          "vn": "Răn đe hạt nhân là cốt lõi của chiến lược an ninh của một số quốc gia."
+        },
+        {
+          "situation": "비전통 안보를 이야기할 때",
+          "ko": "기후변화, 전염병도 현대 안보전략에 포함돼요.",
+          "vn": "Biến đổi khí hậu và dịch bệnh cũng được bao gồm trong chiến lược an ninh hiện đại."
+        },
+        {
+          "situation": "예산을 이야기할 때",
+          "ko": "안보전략 실행을 위해 국방 예산이 증가하고 있어요.",
+          "vn": "Ngân sách quốc phòng đang tăng lên để thực hiện chiến략an ninh."
+        },
+        {
+          "situation": "지역을 이야기할 때",
+          "ko": "동북아시아 안보전략은 복잡한 외교 관계를 반영해요.",
+          "vn": "Chiến lược an ninh Đông Bắc Á phản ánh các mối quan hệ ngoại giao phức tạp."
+        },
+        {
+          "situation": "공세적/방어적을 이야기할 때",
+          "ko": "공세적 안보전략과 방어적 안보전략의 균형이 필요해요.",
+          "vn": "Cần cân bằng giữa chiến lược an ninh tấn công và phòng thủ."
+        },
+        {
+          "situation": "평가를 이야기할 때",
+          "ko": "주기적인 안보전략 평가로 변화하는 위협에 대응해요.",
+          "vn": "Chúng ta ứng phó với các mối đe dọa thay đổi qua đánh giá chiến lược an ninh định kỳ."
+        }
+      ]
+    }
+  }
+]

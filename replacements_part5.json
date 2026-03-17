@@ -1,0 +1,2770 @@
+[
+  {
+    "level": 4,
+    "id": 257,
+    "word": "대중문화",
+    "pos": "명사",
+    "synonyms": [
+      "팝컬처",
+      "Popular Culture"
+    ],
+    "meanings": {
+      "en": "popular culture, mass culture",
+      "cn": "大众文化，流行文化",
+      "vn": "văn hóa đại chúng, văn hóa pop"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "문화를 이야기할 때",
+          "ko": "대중문화는 많은 사람들이 즐기는 문화 현상이에요.",
+          "en": "Popular culture is a cultural phenomenon enjoyed by many people."
+        },
+        {
+          "situation": "K-pop을 이야기할 때",
+          "ko": "K-pop이 세계 대중문화에 큰 영향을 미치고 있어요.",
+          "en": "K-pop is having a great influence on global popular culture."
+        },
+        {
+          "situation": "미디어를 이야기할 때",
+          "ko": "TV와 SNS가 대중문화를 형성하는 주요 매체예요.",
+          "en": "TV and SNS are the main media that shape popular culture."
+        },
+        {
+          "situation": "영향을 이야기할 때",
+          "ko": "대중문화는 사람들의 가치관과 생활 방식에 영향을 줘요.",
+          "en": "Popular culture influences people's values and lifestyles."
+        },
+        {
+          "situation": "산업을 이야기할 때",
+          "ko": "대중문화 산업이 국가 경제에 크게 기여하고 있어요.",
+          "en": "The popular culture industry is greatly contributing to the national economy."
+        },
+        {
+          "situation": "비판을 이야기할 때",
+          "ko": "대중문화가 획일화를 초래한다는 비판도 있어요.",
+          "en": "There is also criticism that popular culture leads to uniformity."
+        },
+        {
+          "situation": "세대를 이야기할 때",
+          "ko": "각 세대마다 즐기는 대중문화가 달라요.",
+          "en": "The popular culture enjoyed differs for each generation."
+        },
+        {
+          "situation": "글로벌화를 이야기할 때",
+          "ko": "인터넷으로 대중문화가 전 세계로 빠르게 퍼져요.",
+          "en": "Popular culture spreads quickly around the world through the internet."
+        },
+        {
+          "situation": "예술과 비교할 때",
+          "ko": "대중문화와 고급 예술의 경계가 점점 흐려지고 있어요.",
+          "en": "The boundary between popular culture and high art is gradually blurring."
+        },
+        {
+          "situation": "정체성을 이야기할 때",
+          "ko": "대중문화는 공동체의 정체성 형성에 기여해요.",
+          "en": "Popular culture contributes to forming the identity of a community."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "문화를 이야기할 때",
+          "ko": "대중문화는 많은 사람들이 즐기는 문화 현상이에요.",
+          "cn": "大众文化是许多人享受的文化现象。"
+        },
+        {
+          "situation": "K-pop을 이야기할 때",
+          "ko": "K-pop이 세계 대중문화에 큰 영향을 미치고 있어요.",
+          "cn": "K-pop对全球大众文化产生了很大影响。"
+        },
+        {
+          "situation": "미디어를 이야기할 때",
+          "ko": "TV와 SNS가 대중문화를 형성하는 주요 매체예요.",
+          "cn": "电视和SNS是形成大众文化的主要媒体。"
+        },
+        {
+          "situation": "영향을 이야기할 때",
+          "ko": "대중문화는 사람들의 가치관과 생활 방식에 영향을 줘요.",
+          "cn": "大众文化影响人们的价值观和生活方式。"
+        },
+        {
+          "situation": "산업을 이야기할 때",
+          "ko": "대중문화 산업이 국가 경제에 크게 기여하고 있어요.",
+          "cn": "大众文化产业对国家经济做出了重大贡献。"
+        },
+        {
+          "situation": "비판을 이야기할 때",
+          "ko": "대중문화가 획일화를 초래한다는 비판도 있어요.",
+          "cn": "也有观点批评大众文化导致了千篇一律。"
+        },
+        {
+          "situation": "세대를 이야기할 때",
+          "ko": "각 세대마다 즐기는 대중문화가 달라요.",
+          "cn": "每个世代享受的大众文화各不相同。"
+        },
+        {
+          "situation": "글로벌화를 이야기할 때",
+          "ko": "인터넷으로 대중문화가 전 세계로 빠르게 퍼져요.",
+          "cn": "通过互联网，大众文化迅速在全球传播。"
+        },
+        {
+          "situation": "예술과 비교할 때",
+          "ko": "대중문화와 고급 예술의 경계가 점점 흐려지고 있어요.",
+          "cn": "大众文化与高雅艺术的界限正在逐渐模糊。"
+        },
+        {
+          "situation": "정체성을 이야기할 때",
+          "ko": "대중문화는 공동체의 정체성 형성에 기여해요.",
+          "cn": "大众文化有助于形成共同体的认同感。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "문화를 이야기할 때",
+          "ko": "대중문화는 많은 사람들이 즐기는 문화 현상이에요.",
+          "vn": "Văn hóa đại chúng là hiện tượng văn hóa được nhiều người thưởng thức."
+        },
+        {
+          "situation": "K-pop을 이야기할 때",
+          "ko": "K-pop이 세계 대중문화에 큰 영향을 미치고 있어요.",
+          "vn": "K-pop đang có ảnh hưởng lớn đến văn hóa đại chúng toàn cầu."
+        },
+        {
+          "situation": "미디어를 이야기할 때",
+          "ko": "TV와 SNS가 대중문화를 형성하는 주요 매체예요.",
+          "vn": "TV và SNS là phương tiện chính hình thành văn h화 đại chúng."
+        },
+        {
+          "situation": "영향을 이야기할 때",
+          "ko": "대중문화는 사람들의 가치관과 생활 방식에 영향을 줘요.",
+          "vn": "Văn hóa đại chúng ảnh hưởng đến quan điểm giá trị và lối sống của mọi người."
+        },
+        {
+          "situation": "산업을 이야기할 때",
+          "ko": "대중문화 산업이 국가 경제에 크게 기여하고 있어요.",
+          "vn": "Ngành văn hóa đại chúng đang đóng góp lớn cho nền kinh tế quốc gia."
+        },
+        {
+          "situation": "비판을 이야기할 때",
+          "ko": "대중문화가 획일화를 초래한다는 비판도 있어요.",
+          "vn": "Cũng có phê bình rằng văn hóa đại chúng dẫn đến sự đồng nhất."
+        },
+        {
+          "situation": "세대를 이야기할 때",
+          "ko": "각 세대마다 즐기는 대중문화가 달라요.",
+          "vn": "Văn hóa đại chúng được thưởng thức khác nhau ở mỗi thế hệ."
+        },
+        {
+          "situation": "글로벌화를 이야기할 때",
+          "ko": "인터넷으로 대중문화가 전 세계로 빠르게 퍼져요.",
+          "vn": "Văn hóa đại chúng lan rộng nhanh chóng ra toàn thế giới qua internet."
+        },
+        {
+          "situation": "예술과 비교할 때",
+          "ko": "대중문화와 고급 예술의 경계가 점점 흐려지고 있어요.",
+          "vn": "Ranh giới giữa văn hóa đại chúng và nghệ thuật cao cấp đang dần mờ đi."
+        },
+        {
+          "situation": "정체성을 이야기할 때",
+          "ko": "대중문화는 공동체의 정체성 형성에 기여해요.",
+          "vn": "Văn hóa đại chúng góp phần hình thành bản sắc của cộng đồng."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 261,
+    "word": "문화산업",
+    "pos": "명사",
+    "synonyms": [
+      "콘텐츠산업",
+      "창의산업"
+    ],
+    "meanings": {
+      "en": "cultural industry, creative industry",
+      "cn": "文化产业，创意产业",
+      "vn": "ngành công nghiệp văn hóa, ngành sáng tạo"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "문화산업이 현대 경제에서 중요한 위치를 차지해요.",
+          "en": "The cultural industry occupies an important position in the modern economy."
+        },
+        {
+          "situation": "한류를 이야기할 때",
+          "ko": "한류 콘텐츠가 한국 문화산업을 성장시키고 있어요.",
+          "en": "Hallyu content is growing South Korea's cultural industry."
+        },
+        {
+          "situation": "일자리를 이야기할 때",
+          "ko": "문화산업은 창의적인 인재들에게 많은 일자리를 제공해요.",
+          "en": "The cultural industry provides many jobs for creative talents."
+        },
+        {
+          "situation": "정부 지원을 이야기할 때",
+          "ko": "정부가 문화산업 육성을 위한 다양한 정책을 시행해요.",
+          "en": "The government implements various policies to foster the cultural industry."
+        },
+        {
+          "situation": "디지털화를 이야기할 때",
+          "ko": "디지털 기술이 문화산업의 판도를 바꾸고 있어요.",
+          "en": "Digital technology is changing the landscape of the cultural industry."
+        },
+        {
+          "situation": "영화를 이야기할 때",
+          "ko": "영화는 대표적인 문화산업 분야 중 하나예요.",
+          "en": "Film is one of the representative fields of the cultural industry."
+        },
+        {
+          "situation": "수출을 이야기할 때",
+          "ko": "문화산업 수출로 국가 이미지가 높아지고 있어요.",
+          "en": "The national image is improving through cultural industry exports."
+        },
+        {
+          "situation": "IP를 이야기할 때",
+          "ko": "강력한 지식재산권 보호가 문화산업 발전의 기반이에요.",
+          "en": "Strong intellectual property protection is the foundation of cultural industry development."
+        },
+        {
+          "situation": "소비를 이야기할 때",
+          "ko": "사람들이 문화산업 콘텐츠 소비에 더 많은 시간을 써요.",
+          "en": "People spend more time consuming cultural industry content."
+        },
+        {
+          "situation": "투자를 이야기할 때",
+          "ko": "문화산업에 대한 민간 투자가 증가하고 있어요.",
+          "en": "Private investment in the cultural industry is increasing."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "문화산업이 현대 경제에서 중요한 위치를 차지해요.",
+          "cn": "文化产业在现代经济中占据重要地位。"
+        },
+        {
+          "situation": "한류를 이야기할 때",
+          "ko": "한류 콘텐츠가 한국 문화산업을 성장시키고 있어요.",
+          "cn": "韩流内容正在推动韩国文化产业发展。"
+        },
+        {
+          "situation": "일자리를 이야기할 때",
+          "ko": "문화산업은 창의적인 인재들에게 많은 일자리를 제공해요.",
+          "cn": "文化产业为创意人才提供了大量工作岗位。"
+        },
+        {
+          "situation": "정부 지원을 이야기할 때",
+          "ko": "정부가 문화산업 육성을 위한 다양한 정책을 시행해요.",
+          "cn": "政府实施多项政策培育文화产业。"
+        },
+        {
+          "situation": "디지털화를 이야기할 때",
+          "ko": "디지털 기술이 문화산업의 판도를 바꾸고 있어요.",
+          "cn": "数字技术正在改变文化产业的格局。"
+        },
+        {
+          "situation": "영화를 이야기할 때",
+          "ko": "영화는 대표적인 문화산업 분야 중 하나예요.",
+          "cn": "电影是代表性文화产业领域之一。"
+        },
+        {
+          "situation": "수출을 이야기할 때",
+          "ko": "문화산업 수출로 국가 이미지가 높아지고 있어요.",
+          "cn": "通过文化产业出口，国家形象不断提升。"
+        },
+        {
+          "situation": "IP를 이야기할 때",
+          "ko": "강력한 지식재산권 보호가 문화산업 발전의 기반이에요.",
+          "cn": "强有力的知识产权保护是文化产业发展的基础。"
+        },
+        {
+          "situation": "소비를 이야기할 때",
+          "ko": "사람들이 문화산업 콘텐츠 소비에 더 많은 시간을 써요.",
+          "cn": "人们花更多时间消费文化产业内容。"
+        },
+        {
+          "situation": "투자를 이야기할 때",
+          "ko": "문화산업에 대한 민간 투자가 증가하고 있어요.",
+          "cn": "对文化产业的私人投资正在增加。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "문화산업이 현대 경제에서 중요한 위치를 차지해요.",
+          "vn": "Ngành công nghiệp văn hóa chiếm vị trí quan trọng trong nền kinh tế hiện đại."
+        },
+        {
+          "situation": "한류를 이야기할 때",
+          "ko": "한류 콘텐츠가 한국 문화산업을 성장시키고 있어요.",
+          "vn": "Nội dung Hallyu đang phát triển ngành công nghiệp văn hóa Hàn Quốc."
+        },
+        {
+          "situation": "일자리를 이야기할 때",
+          "ko": "문화산업은 창의적인 인재들에게 많은 일자리를 제공해요.",
+          "vn": "Ngành công nghiệp văn hóa cung cấp nhiều việc làm cho người tài sáng tạo."
+        },
+        {
+          "situation": "정부 지원을 이야기할 때",
+          "ko": "정부가 문화산업 육성을 위한 다양한 정책을 시행해요.",
+          "vn": "Chính phủ thực hiện nhiều chính sách để phát triển ngành công nghiệp văn hóa."
+        },
+        {
+          "situation": "디지털화를 이야기할 때",
+          "ko": "디지털 기술이 문화산업의 판도를 바꾸고 있어요.",
+          "vn": "Công nghệ số đang thay đổi cục diện của ngành công nghiệp văn h화."
+        },
+        {
+          "situation": "영화를 이야기할 때",
+          "ko": "영화는 대표적인 문화산업 분야 중 하나예요.",
+          "vn": "Điện ảnh là một trong những lĩnh vực tiêu biểu của ngành công nghi업 văn hóa."
+        },
+        {
+          "situation": "수출을 이야기할 때",
+          "ko": "문화산업 수출로 국가 이미지가 높아지고 있어요.",
+          "vn": "Hình ảnh quốc gia đang được nâng cao qua xuất khẩu ngành công nghiệp văn hóa."
+        },
+        {
+          "situation": "IP를 이야기할 때",
+          "ko": "강력한 지식재산권 보호가 문화산업 발전의 기반이에요.",
+          "vn": "Bảo vệ sở hữu trí tuệ mạnh mẽ là nền tảng phát triển ngành công nghiệp văn hóa."
+        },
+        {
+          "situation": "소비를 이야기할 때",
+          "ko": "사람들이 문화산업 콘텐츠 소비에 더 많은 시간을 써요.",
+          "vn": "Mọi người dành nhiều thời gian hơn để tiêu thụ nội dung ngành công nghiệp văn hóa."
+        },
+        {
+          "situation": "투자를 이야기할 때",
+          "ko": "문화산업에 대한 민간 투자가 증가하고 있어요.",
+          "vn": "Đầu tư tư nhân vào ngành công nghiệp văn hóa đang tăng lên."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 263,
+    "word": "영상제작",
+    "pos": "명사",
+    "synonyms": [
+      "동영상 제작",
+      "비디오 제작"
+    ],
+    "meanings": {
+      "en": "video production, film production",
+      "cn": "影像制作，视频制作",
+      "vn": "sản xuất video, sản xuất phim"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "콘텐츠를 이야기할 때",
+          "ko": "유튜브 시대에 영상제작 능력이 필수 기술이 됐어요.",
+          "en": "Video production skills have become essential in the YouTube era."
+        },
+        {
+          "situation": "방송을 이야기할 때",
+          "ko": "전문적인 영상제작팀이 고품질 콘텐츠를 만들어요.",
+          "en": "A professional video production team creates high-quality content."
+        },
+        {
+          "situation": "장비를 이야기할 때",
+          "ko": "영상제작에는 카메라, 조명, 음향 장비가 필요해요.",
+          "en": "Video production requires cameras, lighting, and audio equipment."
+        },
+        {
+          "situation": "편집을 이야기할 때",
+          "ko": "영상제작에서 편집 과정이 매우 중요해요.",
+          "en": "The editing process is very important in video production."
+        },
+        {
+          "situation": "마케팅을 이야기할 때",
+          "ko": "기업들이 마케팅을 위한 영상제작에 투자를 늘리고 있어요.",
+          "en": "Companies are increasing investment in video production for marketing."
+        },
+        {
+          "situation": "모바일을 이야기할 때",
+          "ko": "스마트폰으로도 고품질 영상제작이 가능해졌어요.",
+          "en": "High-quality video production has become possible with smartphones."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "영상제작 기술을 배우는 학생이 늘고 있어요.",
+          "en": "More students are learning video production skills."
+        },
+        {
+          "situation": "드라마를 이야기할 때",
+          "ko": "한국 드라마의 영상제작 품질이 세계적으로 인정받고 있어요.",
+          "en": "The video production quality of Korean dramas is being recognized worldwide."
+        },
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "AI 기술이 영상제작 과정을 혁신하고 있어요.",
+          "en": "AI technology is revolutionizing the video production process."
+        },
+        {
+          "situation": "커리어를 이야기할 때",
+          "ko": "영상제작 분야는 창의적인 직업을 원하는 사람들에게 인기 있어요.",
+          "en": "The video production field is popular among those who want creative careers."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "콘텐츠를 이야기할 때",
+          "ko": "유튜브 시대에 영상제작 능력이 필수 기술이 됐어요.",
+          "cn": "在YouTube时代，影像制作能力已成为必备技能。"
+        },
+        {
+          "situation": "방송을 이야기할 때",
+          "ko": "전문적인 영상제작팀이 고품질 콘텐츠를 만들어요.",
+          "cn": "专业影像制作团队制作高质量内容。"
+        },
+        {
+          "situation": "장비를 이야기할 때",
+          "ko": "영상제작에는 카메라, 조명, 음향 장비가 필요해요.",
+          "cn": "影像制作需要摄像机、照明和音响设备。"
+        },
+        {
+          "situation": "편집을 이야기할 때",
+          "ko": "영상제작에서 편집 과정이 매우 중요해요.",
+          "cn": "在影像制作中，剪辑过程非常重要。"
+        },
+        {
+          "situation": "마케팅을 이야기할 때",
+          "ko": "기업들이 마케팅을 위한 영상제작에 투자를 늘리고 있어요.",
+          "cn": "企业正在增加对营销用影像制作的投资。"
+        },
+        {
+          "situation": "모바일을 이야기할 때",
+          "ko": "스마트폰으로도 고품질 영상제작이 가능해졌어요.",
+          "cn": "用智能手机也可以进行高质量影像制作了。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "영상제작 기술을 배우는 학생이 늘고 있어요.",
+          "cn": "学习影像制作技术的学生越来越多。"
+        },
+        {
+          "situation": "드라마를 이야기할 때",
+          "ko": "한국 드라마의 영상제작 품질이 세계적으로 인정받고 있어요.",
+          "cn": "韩国电视剧的影像制作质量得到了全球认可。"
+        },
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "AI 기술이 영상제작 과정을 혁신하고 있어요.",
+          "cn": "人工智能技术正在革新影像制作流程。"
+        },
+        {
+          "situation": "커리어를 이야기할 때",
+          "ko": "영상제작 분야는 창의적인 직업을 원하는 사람들에게 인기 있어요.",
+          "cn": "影像制作领域在希望从事创意职业的人中很受欢迎。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "콘텐츠를 이야기할 때",
+          "ko": "유튜브 시대에 영상제작 능력이 필수 기술이 됐어요.",
+          "vn": "Kỹ năng sản xuất video đã trở thành kỹ năng thiết yếu trong kỷ nguyên YouTube."
+        },
+        {
+          "situation": "방송을 이야기할 때",
+          "ko": "전문적인 영상제작팀이 고품질 콘텐츠를 만들어요.",
+          "vn": "Đội sản xuất video chuyên nghiệp tạo ra nội dung chất lượng cao."
+        },
+        {
+          "situation": "장비를 이야기할 때",
+          "ko": "영상제작에는 카메라, 조명, 음향 장비가 필요해요.",
+          "vn": "Sản xuất video cần camera, thiết bị chiếu sáng và âm thanh."
+        },
+        {
+          "situation": "편집을 이야기할 때",
+          "ko": "영상제작에서 편집 과정이 매우 중요해요.",
+          "vn": "Quá trình chỉnh sửa rất quan trọng trong sản xuất video."
+        },
+        {
+          "situation": "마케팅을 이야기할 때",
+          "ko": "기업들이 마케팅을 위한 영상제작에 투자를 늘리고 있어요.",
+          "vn": "Các công ty đang tăng đầu tư vào sản xuất video phục vụ marketing."
+        },
+        {
+          "situation": "모바일을 이야기할 때",
+          "ko": "스마트폰으로도 고품질 영상제작이 가능해졌어요.",
+          "vn": "Sản xuất video chất lượng cao đã trở nên khả thi bằng smartphone."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "영상제작 기술을 배우는 학생이 늘고 있어요.",
+          "vn": "Ngày càng nhiều học sinh học kỹ năng sản xuất video."
+        },
+        {
+          "situation": "드라마를 이야기할 때",
+          "ko": "한국 드라마의 영상제작 품질이 세계적으로 인정받고 있어요.",
+          "vn": "Chất lượng sản xuất video của phim truyền hình Hàn Quốc đang được công nhận trên toàn thế giới."
+        },
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "AI 기술이 영상제작 과정을 혁신하고 있어요.",
+          "vn": "Công nghệ AI đang cách mạng hóa quá trình sản xuất video."
+        },
+        {
+          "situation": "커리어를 이야기할 때",
+          "ko": "영상제작 분야는 창의적인 직업을 원하는 사람들에게 인기 있어요.",
+          "vn": "Lĩnh vực sản xuất video phổ biến với những người muốn có nghề nghiệp sáng tạo."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 265,
+    "word": "창작활동",
+    "pos": "명사",
+    "synonyms": [
+      "창작",
+      "예술 활동"
+    ],
+    "meanings": {
+      "en": "creative activity, artistic creation",
+      "cn": "创作活动，艺术创作",
+      "vn": "hoạt động sáng tạo, hoạt động nghệ thuật"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "예술을 이야기할 때",
+          "ko": "창작활동은 자신의 감정과 생각을 표현하는 방법이에요.",
+          "en": "Creative activity is a way to express one's emotions and thoughts."
+        },
+        {
+          "situation": "복지를 이야기할 때",
+          "ko": "창작활동이 정신 건강에 긍정적인 영향을 미쳐요.",
+          "en": "Creative activity has a positive effect on mental health."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학교에서 창작활동을 통해 학생들의 창의성이 발달해요.",
+          "en": "Students' creativity develops through creative activities at school."
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "예술가들이 창작활동에 전념할 수 있도록 지원이 필요해요.",
+          "en": "Support is needed so that artists can devote themselves to creative activities."
+        },
+        {
+          "situation": "취미로 이야기할 때",
+          "ko": "창작활동을 취미로 즐기는 사람이 점점 늘고 있어요.",
+          "en": "More and more people are enjoying creative activities as a hobby."
+        },
+        {
+          "situation": "디지털을 이야기할 때",
+          "ko": "디지털 도구로 다양한 창작활동이 가능해졌어요.",
+          "en": "Various creative activities have become possible with digital tools."
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "창작활동이 경제적 가치를 창출하는 시대예요.",
+          "en": "It is an era where creative activities create economic value."
+        },
+        {
+          "situation": "커뮤니티를 이야기할 때",
+          "ko": "창작활동 커뮤니티에서 예술가들이 서로 교류해요.",
+          "en": "Artists interact with each other in creative activity communities."
+        },
+        {
+          "situation": "치유를 이야기할 때",
+          "ko": "그림이나 글쓰기 같은 창작활동이 스트레스 해소에 도움돼요.",
+          "en": "Creative activities like drawing or writing help relieve stress."
+        },
+        {
+          "situation": "저작권을 이야기할 때",
+          "ko": "창작활동의 결과물은 저작권법으로 보호받아요.",
+          "en": "The results of creative activities are protected by copyright law."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "예술을 이야기할 때",
+          "ko": "창작활동은 자신의 감정과 생각을 표현하는 방법이에요.",
+          "cn": "创作活动是表达自身情感和想法的方法。"
+        },
+        {
+          "situation": "복지를 이야기할 때",
+          "ko": "창작활동이 정신 건강에 긍정적인 영향을 미쳐요.",
+          "cn": "创作活动对心理健康有积极影响。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학교에서 창작활동을 통해 학생들의 창의성이 발달해요.",
+          "cn": "在学校通过创作活动，学生的创造力得到了发展。"
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "예술가들이 창작활동에 전념할 수 있도록 지원이 필요해요.",
+          "cn": "需要支持，让艺术家能够专注于创작활동。"
+        },
+        {
+          "situation": "취미로 이야기할 때",
+          "ko": "창작활동을 취미로 즐기는 사람이 점점 늘고 있어요.",
+          "cn": "越来越多的人把创作活동当作爱好。"
+        },
+        {
+          "situation": "디지털을 이야기할 때",
+          "ko": "디지털 도구로 다양한 창작활동이 가능해졌어요.",
+          "cn": "通过数字工具，多样的创作活动成为可能。"
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "창작활동이 경제적 가치를 창출하는 시대예요.",
+          "cn": "这是创作活동创造经济价值的时代。"
+        },
+        {
+          "situation": "커뮤니티를 이야기할 때",
+          "ko": "창작활동 커뮤니티에서 예술가들이 서로 교류해요.",
+          "cn": "在创作活동社区，艺术家们相互交流。"
+        },
+        {
+          "situation": "치유를 이야기할 때",
+          "ko": "그림이나 글쓰기 같은 창작활동이 스트레스 해소에 도움돼요.",
+          "cn": "绘画或写作等创作活동有助于缓解压力。"
+        },
+        {
+          "situation": "저작권을 이야기할 때",
+          "ko": "창작활동의 결과물은 저작권법으로 보호받아요.",
+          "cn": "创作活动的成果受版权法保护。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "예술을 이야기할 때",
+          "ko": "창작활동은 자신의 감정과 생각을 표현하는 방법이에요.",
+          "vn": "Hoạt động sáng tạo là cách thể hiện cảm xúc và suy nghĩ của bản thân."
+        },
+        {
+          "situation": "복지를 이야기할 때",
+          "ko": "창작활동이 정신 건강에 긍정적인 영향을 미쳐요.",
+          "vn": "Hoạt động sáng tạo có tác động tích cực đến sức khỏe tâm thần."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학교에서 창작활동을 통해 학생들의 창의성이 발달해요.",
+          "vn": "Sự sáng tạo của học sinh phát triển qua các hoạt động sáng tạo ở trường."
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "예술가들이 창작활동에 전념할 수 있도록 지원이 필요해요.",
+          "vn": "Cần hỗ trợ để các nghệ sĩ có thể tận tâm với hoạt động sáng tạo."
+        },
+        {
+          "situation": "취미로 이야기할 때",
+          "ko": "창작활동을 취미로 즐기는 사람이 점점 늘고 있어요.",
+          "vn": "Ngày càng nhiều người thưởng thức hoạt động sáng tạo như một sở thích."
+        },
+        {
+          "situation": "디지털을 이야기할 때",
+          "ko": "디지털 도구로 다양한 창작활동이 가능해졌어요.",
+          "vn": "Nhiều hoạt động sáng tạo đa dạng đã trở nên khả thi với các công cụ số."
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "창작활동이 경제적 가치를 창출하는 시대예요.",
+          "vn": "Đây là thời đại mà hoạt động sáng tạo tạo ra giá trị kinh tế."
+        },
+        {
+          "situation": "커뮤니티를 이야기할 때",
+          "ko": "창작활동 커뮤니티에서 예술가들이 서로 교류해요.",
+          "vn": "Các nghệ sĩ giao lưu với nhau trong cộng đồng hoạt động sáng tạo."
+        },
+        {
+          "situation": "치유를 이야기할 때",
+          "ko": "그림이나 글쓰기 같은 창작활동이 스트레스 해소에 도움돼요.",
+          "vn": "Các hoạt động sáng tạo như vẽ hoặc viết lách giúp giảm căng thẳng."
+        },
+        {
+          "situation": "저작권을 이야기할 때",
+          "ko": "창작활동의 결과물은 저작권법으로 보호받아요.",
+          "vn": "Kết quả của hoạt động sáng tạo được bảo vệ bởi luật bản quyền."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 266,
+    "word": "공연예술",
+    "pos": "명사",
+    "synonyms": [
+      "퍼포밍아츠",
+      "공연"
+    ],
+    "meanings": {
+      "en": "performing arts, live performance",
+      "cn": "表演艺术，演艺",
+      "vn": "nghệ thuật biểu diễn, nghệ thuật sân khấu"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "예술 분야를 설명할 때",
+          "ko": "공연예술에는 연극, 무용, 음악 공연 등이 포함돼요.",
+          "en": "Performing arts include theater, dance, and musical performances."
+        },
+        {
+          "situation": "관람을 이야기할 때",
+          "ko": "공연예술을 직접 관람하면 영상과 다른 감동이 있어요.",
+          "en": "Watching performing arts live gives a different emotion than watching a recording."
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "정부의 공연예술 지원이 문화 발전에 기여해요.",
+          "en": "Government support for performing arts contributes to cultural development."
+        },
+        {
+          "situation": "관객을 이야기할 때",
+          "ko": "공연예술의 매력은 관객과 직접 소통하는 데 있어요.",
+          "en": "The charm of performing arts lies in directly communicating with the audience."
+        },
+        {
+          "situation": "직업을 이야기할 때",
+          "ko": "공연예술가로 성공하려면 끊임없는 연습이 필요해요.",
+          "en": "Endless practice is needed to succeed as a performing artist."
+        },
+        {
+          "situation": "축제를 이야기할 때",
+          "ko": "공연예술 축제가 도시의 문화 활력을 높여요.",
+          "en": "Performing arts festivals enhance the cultural vitality of cities."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "어린이들이 공연예술 교육을 통해 감수성을 키워요.",
+          "en": "Children develop sensitivity through performing arts education."
+        },
+        {
+          "situation": "기술을 이야기할 때",
+          "ko": "첨단 기술이 공연예술의 표현 방식을 넓혀줘요.",
+          "en": "Advanced technology broadens the expressive methods of performing arts."
+        },
+        {
+          "situation": "콘텐츠를 이야기할 때",
+          "ko": "한국의 공연예술 콘텐츠가 세계 시장에서 주목받고 있어요.",
+          "en": "Korean performing arts content is attracting attention in the global market."
+        },
+        {
+          "situation": "힐링을 이야기할 때",
+          "ko": "공연예술은 일상의 스트레스를 해소하는 문화적 치유 수단이에요.",
+          "en": "Performing arts is a cultural healing means to relieve everyday stress."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "예술 분야를 설명할 때",
+          "ko": "공연예술에는 연극, 무용, 음악 공연 등이 포함돼요.",
+          "cn": "表演艺术包括戏剧、舞蹈、音乐演出等。"
+        },
+        {
+          "situation": "관람을 이야기할 때",
+          "ko": "공연예술을 직접 관람하면 영상과 다른 감동이 있어요.",
+          "cn": "现场观看表演艺术与看影像有不同的感动。"
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "정부의 공연예술 지원이 문화 발전에 기여해요.",
+          "cn": "政府对表演艺术的支持有助于文化发展。"
+        },
+        {
+          "situation": "관객을 이야기할 때",
+          "ko": "공연예술의 매력은 관객과 직접 소통하는 데 있어요.",
+          "cn": "表演艺术的魅力在于与观众直接沟통。"
+        },
+        {
+          "situation": "직업을 이야기할 때",
+          "ko": "공연예술가로 성공하려면 끊임없는 연습이 필요해요.",
+          "cn": "要想成为成功的表演艺术家，需要不断练习。"
+        },
+        {
+          "situation": "축제를 이야기할 때",
+          "ko": "공연예술 축제가 도시의 문화 활력을 높여요.",
+          "cn": "表演艺术节提升了城市的文화活力。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "어린이들이 공연예술 교육을 통해 감수성을 키워요.",
+          "cn": "孩子们通过表演艺术教育培养感受力。"
+        },
+        {
+          "situation": "기술을 이야기할 때",
+          "ko": "첨단 기술이 공연예술의 표현 방식을 넓혀줘요.",
+          "cn": "先进技术拓宽了表演艺术的表现方式。"
+        },
+        {
+          "situation": "콘텐츠를 이야기할 때",
+          "ko": "한국의 공연예술 콘텐츠가 세계 시장에서 주목받고 있어요.",
+          "cn": "韩国表演艺术内容正受到全球市场的关注。"
+        },
+        {
+          "situation": "힐링을 이야기할 때",
+          "ko": "공연예술은 일상의 스트레스를 해소하는 문화적 치유 수단이에요.",
+          "cn": "表演艺术是消除日常压力的文化治愈手段。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "예술 분야를 설명할 때",
+          "ko": "공연예술에는 연극, 무용, 음악 공연 등이 포함돼요.",
+          "vn": "Nghệ thuật biểu diễn bao gồm kịch, múa, biểu diễn âm nhạc, v.v."
+        },
+        {
+          "situation": "관람을 이야기할 때",
+          "ko": "공연예술을 직접 관람하면 영상과 다른 감동이 있어요.",
+          "vn": "Xem trực tiếp nghệ thuật biểu diễn mang lại cảm xúc khác với khi xem qua màn hình."
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "정부의 공연예술 지원이 문화 발전에 기여해요.",
+          "vn": "Hỗ trợ của chính phủ cho nghệ thuật biểu diễn góp phần vào phát triển văn hóa."
+        },
+        {
+          "situation": "관객을 이야기할 때",
+          "ko": "공연예술의 매력은 관객과 직접 소통하는 데 있어요.",
+          "vn": "Sức hút của nghệ thuật biểu diễn nằm ở việc giao tiếp trực tiếp với khán giả."
+        },
+        {
+          "situation": "직업을 이야기할 때",
+          "ko": "공연예술가로 성공하려면 끊임없는 연습이 필요해요.",
+          "vn": "Cần luyện tập không ngừng để thành công với tư cách là nghệ sĩ biểu diễn."
+        },
+        {
+          "situation": "축제를 이야기할 때",
+          "ko": "공연예술 축제가 도시의 문화 활력을 높여요.",
+          "vn": "Lễ hội nghệ thuật biểu diễn nâng cao sức sống văn hóa của đô thị."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "어린이들이 공연예술 교육을 통해 감수성을 키워요.",
+          "vn": "Trẻ em phát triển cảm xúc qua giáo dục nghệ thuật biểu diễn."
+        },
+        {
+          "situation": "기술을 이야기할 때",
+          "ko": "첨단 기술이 공연예술의 표현 방식을 넓혀줘요.",
+          "vn": "Công nghệ tiên tiến mở rộng phương thức biểu đạt của nghệ thuật biểu diễn."
+        },
+        {
+          "situation": "콘텐츠를 이야기할 때",
+          "ko": "한국의 공연예술 콘텐츠가 세계 시장에서 주목받고 있어요.",
+          "vn": "Nội dung nghệ thuật biểu diễn Hàn Quốc đang được chú ý trên thị trường toàn cầu."
+        },
+        {
+          "situation": "힐링을 이야기할 때",
+          "ko": "공연예술은 일상의 스트레스를 해소하는 문화적 치유 수단이에요.",
+          "vn": "Nghệ thuật biểu diễn là phương tiện chữa lành văn hóa để giải tỏa căng thẳng hàng ngày."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 273,
+    "word": "창작자",
+    "pos": "명사",
+    "synonyms": [
+      "크리에이터",
+      "제작자"
+    ],
+    "meanings": {
+      "en": "creator, content creator",
+      "cn": "创作者，内容创作者",
+      "vn": "người sáng tạo, nhà sáng tạo nội dung"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "유튜브를 이야기할 때",
+          "ko": "많은 창작자들이 유튜브에서 자신의 콘텐츠를 공유해요.",
+          "en": "Many creators share their content on YouTube."
+        },
+        {
+          "situation": "수익을 이야기할 때",
+          "ko": "창작자들이 자신의 콘텐츠로 수익을 창출할 수 있어요.",
+          "en": "Creators can generate revenue from their content."
+        },
+        {
+          "situation": "저작권을 이야기할 때",
+          "ko": "창작자의 창작물은 저작권으로 보호받아야 해요.",
+          "en": "A creator's work should be protected by copyright."
+        },
+        {
+          "situation": "플랫폼을 이야기할 때",
+          "ko": "다양한 플랫폼이 창작자들에게 기회를 제공해요.",
+          "en": "Various platforms provide opportunities to creators."
+        },
+        {
+          "situation": "팬을 이야기할 때",
+          "ko": "충성도 높은 팬이 창작자를 지속적으로 후원해요.",
+          "en": "Loyal fans continuously support creators."
+        },
+        {
+          "situation": "창작을 이야기할 때",
+          "ko": "독창적인 콘텐츠가 창작자를 성공으로 이끌어요.",
+          "en": "Original content leads creators to success."
+        },
+        {
+          "situation": "협업을 이야기할 때",
+          "ko": "창작자들이 서로 협업하여 새로운 콘텐츠를 만들어요.",
+          "en": "Creators collaborate with each other to create new content."
+        },
+        {
+          "situation": "번아웃을 이야기할 때",
+          "ko": "창작자들이 꾸준한 콘텐츠 생산 압박으로 번아웃을 겪어요.",
+          "en": "Creators experience burnout from the pressure to consistently produce content."
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "창작자 경제가 새로운 비즈니스 모델로 주목받고 있어요.",
+          "en": "The creator economy is attracting attention as a new business model."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "창작자가 되기 위한 교육 프로그램이 다양해졌어요.",
+          "en": "Education programs to become a creator have become diverse."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "유튜브를 이야기할 때",
+          "ko": "많은 창작자들이 유튜브에서 자신의 콘텐츠를 공유해요.",
+          "cn": "很多创작자들이 YouTube에서 자신의 콘텐츠를 공유해요."
+        },
+        {
+          "situation": "수익을 이야기할 때",
+          "ko": "창작자들이 자신의 콘텐츠로 수익을 창출할 수 있어요.",
+          "cn": "创作者可以从自己的内容中创造收益。"
+        },
+        {
+          "situation": "저작권을 이야기할 때",
+          "ko": "창작자의 창작물은 저작권으로 보호받아야 해요.",
+          "cn": "创作者的作品应受到版权保护。"
+        },
+        {
+          "situation": "플랫폼을 이야기할 때",
+          "ko": "다양한 플랫폼이 창작자들에게 기회를 제공해요.",
+          "cn": "各种平台为创作者提供机会。"
+        },
+        {
+          "situation": "팬을 이야기할 때",
+          "ko": "충성도 높은 팬이 창작자를 지속적으로 후원해요.",
+          "cn": "忠诚度高的粉丝持续支持创作者。"
+        },
+        {
+          "situation": "창작을 이야기할 때",
+          "ko": "독창적인 콘텐츠가 창작자를 성공으로 이끌어요.",
+          "cn": "独创性内容引导创作者走向成功。"
+        },
+        {
+          "situation": "협업을 이야기할 때",
+          "ko": "창작자들이 서로 협업하여 새로운 콘텐츠를 만들어요.",
+          "cn": "创作者们相互合作创作新的内容。"
+        },
+        {
+          "situation": "번아웃을 이야기할 때",
+          "ko": "창작자들이 꾸준한 콘텐츠 생산 압박으로 번아웃을 겪어요.",
+          "cn": "创作者因持续产内容的压力而经历倦怠。"
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "창작자 경제가 새로운 비즈니스 모델로 주목받고 있어요.",
+          "cn": "创作者经济作为新的商业模式受到关注。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "창작자가 되기 위한 교육 프로그램이 다양해졌어요.",
+          "cn": "成为创作者的教育项目多样化了。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "유튜브를 이야기할 때",
+          "ko": "많은 창작자들이 유튜브에서 자신의 콘텐츠를 공유해요.",
+          "vn": "Nhiều người sáng tạo chia sẻ nội dung của họ trên YouTube."
+        },
+        {
+          "situation": "수익을 이야기할 때",
+          "ko": "창작자들이 자신의 콘텐츠로 수익을 창출할 수 있어요.",
+          "vn": "Người sáng tạo có thể tạo ra doanh thu từ nội dung của mình."
+        },
+        {
+          "situation": "저작권을 이야기할 때",
+          "ko": "창작자의 창작물은 저작권으로 보호받아야 해요.",
+          "vn": "Tác phẩm của người sáng tạo phải được bảo vệ bởi bản quyền."
+        },
+        {
+          "situation": "플랫폼을 이야기할 때",
+          "ko": "다양한 플랫폼이 창작자들에게 기회를 제공해요.",
+          "vn": "Các nền tảng đa dạng cung cấp cơ hội cho người sáng tạo."
+        },
+        {
+          "situation": "팬을 이야기할 때",
+          "ko": "충성도 높은 팬이 창작자를 지속적으로 후원해요.",
+          "vn": "Những người hâm mộ trung thành liên tục ủng hộ người sáng tạo."
+        },
+        {
+          "situation": "창작을 이야기할 때",
+          "ko": "독창적인 콘텐츠가 창작자를 성공으로 이끌어요.",
+          "vn": "Nội dung độc đáo dẫn dắt người sáng tạo đến thành công."
+        },
+        {
+          "situation": "협업을 이야기할 때",
+          "ko": "창작자들이 서로 협업하여 새로운 콘텐츠를 만들어요.",
+          "vn": "Người sáng tạo hợp tác với nhau để tạo ra nội dung mới."
+        },
+        {
+          "situation": "번아웃을 이야기할 때",
+          "ko": "창작자들이 꾸준한 콘텐츠 생산 압박으로 번아웃을 겪어요.",
+          "vn": "Người sáng tạo trải qua kiệt sức do áp lực sản xuất nội dung liên tục."
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "창작자 경제가 새로운 비즈니스 모델로 주목받고 있어요.",
+          "vn": "Nền kinh tế sáng tạo đang được chú ý như một mô hình kinh doanh mới."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "창작자가 되기 위한 교육 프로그램이 다양해졌어요.",
+          "vn": "Các chương trình giáo dục để trở thành người sáng tạo đã trở nên đa dạng."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 274,
+    "word": "서사구조",
+    "pos": "명사",
+    "synonyms": [
+      "이야기구조",
+      "내러티브구조"
+    ],
+    "meanings": {
+      "en": "narrative structure, story structure",
+      "cn": "叙事结构，故事结构",
+      "vn": "cấu trúc tường thuật, cấu trúc câu chuyện"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "문학을 이야기할 때",
+          "ko": "소설의 서사구조를 분석하면 작가의 의도를 파악할 수 있어요.",
+          "en": "Analyzing the narrative structure of a novel allows you to understand the author's intent."
+        },
+        {
+          "situation": "영화를 이야기할 때",
+          "ko": "훌륭한 영화는 잘 짜인 서사구조를 가지고 있어요.",
+          "en": "A great film has a well-constructed narrative structure."
+        },
+        {
+          "situation": "시작과 끝을 이야기할 때",
+          "ko": "서사구조의 기본은 발단, 전개, 결말이에요.",
+          "en": "The basics of narrative structure are beginning, development, and conclusion."
+        },
+        {
+          "situation": "게임을 이야기할 때",
+          "ko": "스토리 게임에서도 서사구조가 플레이어 경험에 영향을 줘요.",
+          "en": "Narrative structure also affects player experience in story games."
+        },
+        {
+          "situation": "광고를 이야기할 때",
+          "ko": "효과적인 광고는 감동적인 서사구조를 활용해요.",
+          "en": "Effective advertising utilizes a moving narrative structure."
+        },
+        {
+          "situation": "문화 차이를 이야기할 때",
+          "ko": "문화에 따라 선호하는 서사구조가 달라요.",
+          "en": "The preferred narrative structure differs depending on the culture."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "창작 수업에서 서사구조 분석을 가르쳐요.",
+          "en": "Narrative structure analysis is taught in creative writing classes."
+        },
+        {
+          "situation": "전통을 이야기할 때",
+          "ko": "전통 설화에는 고유한 서사구조가 담겨 있어요.",
+          "en": "Traditional folk tales contain unique narrative structures."
+        },
+        {
+          "situation": "비선형을 이야기할 때",
+          "ko": "현대 소설은 비선형적 서사구조를 자주 사용해요.",
+          "en": "Modern novels frequently use non-linear narrative structures."
+        },
+        {
+          "situation": "분석 방법을 이야기할 때",
+          "ko": "서사구조 분석은 문학 연구의 핵심 방법론이에요.",
+          "en": "Narrative structure analysis is a core methodology in literary research."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "문학을 이야기할 때",
+          "ko": "소설의 서사구조를 분석하면 작가의 의도를 파악할 수 있어요.",
+          "cn": "分析小说的叙事结构可以把握作者的意图。"
+        },
+        {
+          "situation": "영화를 이야기할 때",
+          "ko": "훌륭한 영화는 잘 짜인 서사구조를 가지고 있어요.",
+          "cn": "出色的电影具有精心构建的叙事结构。"
+        },
+        {
+          "situation": "시작과 끝을 이야기할 때",
+          "ko": "서사구조의 기본은 발단, 전개, 결말이에요.",
+          "cn": "叙事结构的基础是起承转合。"
+        },
+        {
+          "situation": "게임을 이야기할 때",
+          "ko": "스토리 게임에서도 서사구조가 플레이어 경험에 영향을 줘요.",
+          "cn": "在故事游戏中，叙事结构也影响玩家的体验。"
+        },
+        {
+          "situation": "광고를 이야기할 때",
+          "ko": "효과적인 광고는 감동적인 서사구조를 활용해요.",
+          "cn": "有效的广告利用了感人的叙事结构。"
+        },
+        {
+          "situation": "문화 차이를 이야기할 때",
+          "ko": "문화에 따라 선호하는 서사구조가 달라요.",
+          "cn": "不同文化偏好不同的叙事结构。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "창작 수업에서 서사구조 분석을 가르쳐요.",
+          "cn": "在创意写作课中教授叙事结构分析。"
+        },
+        {
+          "situation": "전통을 이야기할 때",
+          "ko": "전통 설화에는 고유한 서사구조가 담겨 있어요.",
+          "cn": "传统民间故事包含独特的叙사결구조。"
+        },
+        {
+          "situation": "비선형을 이야기할 때",
+          "ko": "현대 소설은 비선형적 서사구조를 자주 사용해요.",
+          "cn": "现代小说经常使用非线性叙事结构。"
+        },
+        {
+          "situation": "분석 방법을 이야기할 때",
+          "ko": "서사구조 분석은 문학 연구의 핵심 방법론이에요.",
+          "cn": "叙事结构分析是文学研究的核心方法论。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "문학을 이야기할 때",
+          "ko": "소설의 서사구조를 분석하면 작가의 의도를 파악할 수 있어요.",
+          "vn": "Phân tích cấu trúc tường thuật của tiểu thuyết giúp nắm bắt ý định của tác giả."
+        },
+        {
+          "situation": "영화를 이야기할 때",
+          "ko": "훌륭한 영화는 잘 짜인 서사구조를 가지고 있어요.",
+          "vn": "Bộ phim xuất sắc có cấu trúc tường thuật được xây dựng tốt."
+        },
+        {
+          "situation": "시작과 끝을 이야기할 때",
+          "ko": "서사구조의 기본은 발단, 전개, 결말이에요.",
+          "vn": "Cơ bản của cấu trúc tường thuật là mở đầu, phát triển và kết thúc."
+        },
+        {
+          "situation": "게임을 이야기할 때",
+          "ko": "스토리 게임에서도 서사구조가 플레이어 경험에 영향을 줘요.",
+          "vn": "Cấu trúc tường thuật cũng ảnh hưởng đến trải nghiệm người chơi trong game câu chuyện."
+        },
+        {
+          "situation": "광고를 이야기할 때",
+          "ko": "효과적인 광고는 감동적인 서사구조를 활용해요.",
+          "vn": "Quảng cáo hiệu quả tận dụng cấu trúc tường thuật cảm động."
+        },
+        {
+          "situation": "문화 차이를 이야기할 때",
+          "ko": "문화에 따라 선호하는 서사구조가 달라요.",
+          "vn": "Cấu trúc tường thuật được ưa thích khác nhau tùy theo văn hóa."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "창작 수업에서 서사구조 분석을 가르쳐요.",
+          "vn": "Phân tích cấu trúc tường thuật được dạy trong các lớp viết sáng tạo."
+        },
+        {
+          "situation": "전통을 이야기할 때",
+          "ko": "전통 설화에는 고유한 서사구조가 담겨 있어요.",
+          "vn": "Truyện dân gian truyền thống chứa đựng các cấu trúc tường thuật độc đáo."
+        },
+        {
+          "situation": "비선형을 이야기할 때",
+          "ko": "현대 소설은 비선형적 서사구조를 자주 사용해요.",
+          "vn": "Tiểu thuyết hiện đại thường xuyên sử dụng cấu trúc tường thuật phi tuyến tính."
+        },
+        {
+          "situation": "분석 방법을 이야기할 때",
+          "ko": "서사구조 분석은 문학 연구의 핵심 방법론이에요.",
+          "vn": "Phân tích cấu trúc tường thuật là phương pháp luận cốt lõi trong nghiên cứu văn học."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 280,
+    "word": "문학비평",
+    "pos": "명사",
+    "synonyms": [
+      "문예비평",
+      "비평"
+    ],
+    "meanings": {
+      "en": "literary criticism",
+      "cn": "文学评论，文艺批评",
+      "vn": "phê bình văn học"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "문학을 분석할 때",
+          "ko": "문학비평은 문학 작품을 다양한 관점에서 분석하는 학문이에요.",
+          "en": "Literary criticism is the study of analyzing literary works from various perspectives."
+        },
+        {
+          "situation": "작품을 이야기할 때",
+          "ko": "문학비평을 통해 작품의 깊은 의미를 이해할 수 있어요.",
+          "en": "You can understand the deep meaning of a work through literary criticism."
+        },
+        {
+          "situation": "이론을 이야기할 때",
+          "ko": "페미니즘 문학비평이 작품 속 젠더 문제를 분석해요.",
+          "en": "Feminist literary criticism analyzes gender issues in works."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "대학 문학 강의에서 문학비평 방법론을 배워요.",
+          "en": "Literary criticism methodology is studied in university literature courses."
+        },
+        {
+          "situation": "시대를 반영할 때",
+          "ko": "문학비평은 작품이 쓰인 시대를 반영해요.",
+          "en": "Literary criticism reflects the era in which a work was written."
+        },
+        {
+          "situation": "독자를 이야기할 때",
+          "ko": "독자 반응 비평은 독자의 해석에 초점을 맞춰요.",
+          "en": "Reader response criticism focuses on the reader's interpretation."
+        },
+        {
+          "situation": "비평가를 이야기할 때",
+          "ko": "문학비평가의 평가가 작품의 명성에 영향을 미쳐요.",
+          "en": "A literary critic's evaluation affects the reputation of a work."
+        },
+        {
+          "situation": "문화를 이야기할 때",
+          "ko": "문학비평은 사회와 문화를 이해하는 창문이에요.",
+          "en": "Literary criticism is a window to understanding society and culture."
+        },
+        {
+          "situation": "비교를 이야기할 때",
+          "ko": "비교 문학비평은 여러 문화의 문학을 비교 분석해요.",
+          "en": "Comparative literary criticism comparatively analyzes literature from multiple cultures."
+        },
+        {
+          "situation": "현대를 이야기할 때",
+          "ko": "현대 문학비평은 더욱 다양한 방법론을 적용해요.",
+          "en": "Modern literary criticism applies more diverse methodologies."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "문학을 분석할 때",
+          "ko": "문학비평은 문학 작품을 다양한 관점에서 분석하는 학문이에요.",
+          "cn": "文学评론是从多种角度分析文学作品的学问。"
+        },
+        {
+          "situation": "작품을 이야기할 때",
+          "ko": "문학비평을 통해 작품의 깊은 의미를 이해할 수 있어요.",
+          "cn": "通过文学评论可以理解作品的深层含义。"
+        },
+        {
+          "situation": "이론을 이야기할 때",
+          "ko": "페미니즘 문학비평이 작품 속 젠더 문제를 분석해요.",
+          "cn": "女权主义文学评론分析作品中的性别问题。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "대학 문학 강의에서 문학비평 방법론을 배워요.",
+          "cn": "在大学文학讲座中学习文학评론方法论。"
+        },
+        {
+          "situation": "시대를 반영할 때",
+          "ko": "문학비평은 작품이 쓰인 시대를 반영해요.",
+          "cn": "文学评론反映了作品创作的时代。"
+        },
+        {
+          "situation": "독자를 이야기할 때",
+          "ko": "독자 반응 비평은 독자의 해석에 초점을 맞춰요.",
+          "cn": "读者反应批评论关注读者的解读。"
+        },
+        {
+          "situation": "비평가를 이야기할 때",
+          "ko": "문학비평가의 평가가 작품의 명성에 영향을 미쳐요.",
+          "cn": "文학评론家的评价影响作品的声誉。"
+        },
+        {
+          "situation": "문화를 이야기할 때",
+          "ko": "문학비평은 사회와 문화를 이해하는 창문이에요.",
+          "cn": "文학评론是理解社会和文化的窗口。"
+        },
+        {
+          "situation": "비교를 이야기할 때",
+          "ko": "비교 문학비평은 여러 문화의 문학을 비교 분석해요.",
+          "cn": "比较文학评论对多种文화的文学进行比较分析。"
+        },
+        {
+          "situation": "현대를 이야기할 때",
+          "ko": "현대 문학비평은 더욱 다양한 방법론을 적용해요.",
+          "cn": "现代文학评论运用了更多样的方法论。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "문학을 분석할 때",
+          "ko": "문학비평은 문학 작품을 다양한 관점에서 분석하는 학문이에요.",
+          "vn": "Phê bình văn học là môn học phân tích tác phẩm văn học từ nhiều góc độ."
+        },
+        {
+          "situation": "작품을 이야기할 때",
+          "ko": "문학비평을 통해 작품의 깊은 의미를 이해할 수 있어요.",
+          "vn": "Bạn có thể hiểu ý nghĩa sâu xa của tác phẩm qua phê bình văn학."
+        },
+        {
+          "situation": "이론을 이야기할 때",
+          "ko": "페미니즘 문학비평이 작품 속 젠더 문제를 분석해요.",
+          "vn": "Phê bình văn học nữ quyền phân tích các vấn đề giới tính trong tác phẩm."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "대학 문학 강의에서 문학비평 방법론을 배워요.",
+          "vn": "Phương pháp luận phê bình văn học được học trong các khóa học văn학 đại học."
+        },
+        {
+          "situation": "시대를 반영할 때",
+          "ko": "문학비평은 작품이 쓰인 시대를 반영해요.",
+          "vn": "Phê bình văn học phản ánh thời đại mà tác phẩm được viết."
+        },
+        {
+          "situation": "독자를 이야기할 때",
+          "ko": "독자 반응 비평은 독자의 해석에 초점을 맞춰요.",
+          "vn": "Phê bình phản hồi của người đọc tập trung vào cách diễn giải của người đọc."
+        },
+        {
+          "situation": "비평가를 이야기할 때",
+          "ko": "문학비평가의 평가가 작품의 명성에 영향을 미쳐요.",
+          "vn": "Đánh giá của nhà phê bình văn học ảnh hưởng đến danh tiếng của tác phẩm."
+        },
+        {
+          "situation": "문화를 이야기할 때",
+          "ko": "문학비평은 사회와 문화를 이해하는 창문이에요.",
+          "vn": "Phê bình văn học là cửa sổ để hiểu xã hội và văn hóa."
+        },
+        {
+          "situation": "비교를 이야기할 때",
+          "ko": "비교 문학비평은 여러 문화의 문학을 비교 분석해요.",
+          "vn": "Phê bình văn học so sánh phân tích so sánh văn học của nhiều nền văn hóa."
+        },
+        {
+          "situation": "현대를 이야기할 때",
+          "ko": "현대 문학비평은 더욱 다양한 방법론을 적용해요.",
+          "vn": "Phê bình văn học hiện đại áp dụng các phương pháp luận ngày càng đa dạng."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 282,
+    "word": "예술교육",
+    "pos": "명사",
+    "synonyms": [
+      "예술 교육",
+      "Arts Education"
+    ],
+    "meanings": {
+      "en": "arts education",
+      "cn": "艺术教育",
+      "vn": "giáo dục nghệ thuật"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "예술교육은 학생들의 창의성과 감수성을 키워요.",
+          "en": "Arts education develops students' creativity and sensitivity."
+        },
+        {
+          "situation": "학교를 이야기할 때",
+          "ko": "학교에서 미술, 음악, 연극 등 다양한 예술교육이 이루어져요.",
+          "en": "Various arts education such as art, music, and drama takes place at school."
+        },
+        {
+          "situation": "중요성을 이야기할 때",
+          "ko": "예술교육이 전인 교육의 핵심 요소예요.",
+          "en": "Arts education is a core element of holistic education."
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "정부가 예술교육 프로그램에 대한 지원을 늘렸어요.",
+          "en": "The government increased support for arts education programs."
+        },
+        {
+          "situation": "직업을 이야기할 때",
+          "ko": "예술교육을 통해 전문 예술가를 양성해요.",
+          "en": "Professional artists are trained through arts education."
+        },
+        {
+          "situation": "사회를 이야기할 때",
+          "ko": "예술교육은 사회 구성원의 문화적 소양을 높여요.",
+          "en": "Arts education raises the cultural literacy of society members."
+        },
+        {
+          "situation": "치료를 이야기할 때",
+          "ko": "예술교육은 예술치료의 기반이 되기도 해요.",
+          "en": "Arts education also forms the basis of art therapy."
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "다양한 문화의 예술교육이 상호 이해를 높여요.",
+          "en": "Arts education from diverse cultures promotes mutual understanding."
+        },
+        {
+          "situation": "기술을 이야기할 때",
+          "ko": "디지털 기술을 활용한 예술교육이 확산되고 있어요.",
+          "en": "Arts education utilizing digital technology is spreading."
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "AI 시대에 예술교육의 중요성이 더욱 커지고 있어요.",
+          "en": "The importance of arts education is growing even more in the AI era."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "예술교육은 학생들의 창의성과 감수성을 키워요.",
+          "cn": "艺术教육培养了学생들的创造力和感受力。"
+        },
+        {
+          "situation": "학교를 이야기할 때",
+          "ko": "학교에서 미술, 음악, 연극 등 다양한 예술교육이 이루어져요.",
+          "cn": "学校开展了绘画、音乐、戏剧等多样化艺术교육。"
+        },
+        {
+          "situation": "중요성을 이야기할 때",
+          "ko": "예술교육이 전인 교육의 핵심 요소예요.",
+          "cn": "艺术교육是全人教育的核心要素。"
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "정부가 예술교육 프로그램에 대한 지원을 늘렸어요.",
+          "cn": "政府增加了对艺术교육项目的支持。"
+        },
+        {
+          "situation": "직업을 이야기할 때",
+          "ko": "예술교육을 통해 전문 예술가를 양성해요.",
+          "cn": "通过艺术교육培养了专业艺术家。"
+        },
+        {
+          "situation": "사회를 이야기할 때",
+          "ko": "예술교육은 사회 구성원의 문화적 소양을 높여요.",
+          "cn": "艺术교육提升了社会成员的文化素养。"
+        },
+        {
+          "situation": "치료를 이야기할 때",
+          "ko": "예술교육은 예술치료의 기반이 되기도 해요.",
+          "cn": "艺术教育也成为艺术治疗的基础。"
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "다양한 문화의 예술교육이 상호 이해를 높여요.",
+          "cn": "多元文화的艺术教育提升了相互理解。"
+        },
+        {
+          "situation": "기술을 이야기할 때",
+          "ko": "디지털 기술을 활용한 예술교육이 확산되고 있어요.",
+          "cn": "利用数字技术的艺术教育正在推广。"
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "AI 시대에 예술교육의 중요성이 더욱 커지고 있어요.",
+          "cn": "在人工智能时代，艺术교육的重要性越来越大。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "예술교육은 학생들의 창의성과 감수성을 키워요.",
+          "vn": "Giáo dục nghệ thuật phát triển tính sáng tạo và cảm xúc của học sinh."
+        },
+        {
+          "situation": "학교를 이야기할 때",
+          "ko": "학교에서 미술, 음악, 연극 등 다양한 예술교육이 이루어져요.",
+          "vn": "Giáo dục nghệ thuật đa dạng như mỹ thuật, âm nhạc và kịch diễn ra ở trường."
+        },
+        {
+          "situation": "중요성을 이야기할 때",
+          "ko": "예술교육이 전인 교육의 핵심 요소예요.",
+          "vn": "Giáo dục nghệ thuật là yếu tố cốt lõi của giáo dục toàn diện."
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "정부가 예술교육 프로그램에 대한 지원을 늘렸어요.",
+          "vn": "Chính phủ đã tăng cường hỗ trợ cho các chương trình giáo dục nghệ thuật."
+        },
+        {
+          "situation": "직업을 이야기할 때",
+          "ko": "예술교육을 통해 전문 예술가를 양성해요.",
+          "vn": "Các nghệ sĩ chuyên nghiệp được đào tạo qua giáo dục nghệ thuật."
+        },
+        {
+          "situation": "사회를 이야기할 때",
+          "ko": "예술교육은 사회 구성원의 문화적 소양을 높여요.",
+          "vn": "Giáo dục nghệ thuật nâng cao năng lực văn hóa của các thành viên xã hội."
+        },
+        {
+          "situation": "치료를 이야기할 때",
+          "ko": "예술교육은 예술치료의 기반이 되기도 해요.",
+          "vn": "Giáo dục nghệ thuật cũng là nền tảng của liệu pháp nghệ thuật."
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "다양한 문화의 예술교육이 상호 이해를 높여요.",
+          "vn": "Giáo dục nghệ thuật từ các nền văn hóa đa dạng thúc đẩy sự hiểu biết lẫn nhau."
+        },
+        {
+          "situation": "기술을 이야기할 때",
+          "ko": "디지털 기술을 활용한 예술교육이 확산되고 있어요.",
+          "vn": "Giáo dục nghệ thuật tận dụng công nghệ số đang lan rộng."
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "AI 시대에 예술교육의 중요성이 더욱 커지고 있어요.",
+          "vn": "Tầm quan trọng của giáo dục nghệ thuật đang ngày càng lớn hơn trong kỷ nguyên AI."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 285,
+    "word": "예술행정",
+    "pos": "명사",
+    "synonyms": [
+      "문화행정",
+      "예술 경영"
+    ],
+    "meanings": {
+      "en": "arts administration, cultural management",
+      "cn": "艺术行政，文化管理",
+      "vn": "quản lý nghệ thuật, hành chính văn hóa"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "직업을 소개할 때",
+          "ko": "예술행정가는 예술 기관의 운영을 담당해요.",
+          "en": "Arts administrators are responsible for managing arts institutions."
+        },
+        {
+          "situation": "예산을 이야기할 때",
+          "ko": "예술행정에서 예산 관리가 중요한 역할을 해요.",
+          "en": "Budget management plays an important role in arts administration."
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "예술행정 전문가가 예술가들의 창작 활동을 지원해요.",
+          "en": "Arts administration professionals support artists' creative activities."
+        },
+        {
+          "situation": "기관을 이야기할 때",
+          "ko": "박물관, 미술관 운영에 예술행정 전문 지식이 필요해요.",
+          "en": "Expertise in arts administration is needed for operating museums and art galleries."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "예술행정 전문가를 양성하는 대학원 과정이 있어요.",
+          "en": "There are graduate programs to train arts administration professionals."
+        },
+        {
+          "situation": "정책을 이야기할 때",
+          "ko": "문화부에서 예술행정 정책을 수립하고 시행해요.",
+          "en": "The Ministry of Culture establishes and implements arts administration policies."
+        },
+        {
+          "situation": "마케팅을 이야기할 때",
+          "ko": "예술행정에는 공연 홍보와 관객 개발도 포함돼요.",
+          "en": "Arts administration also includes performance promotion and audience development."
+        },
+        {
+          "situation": "국제 협력을 이야기할 때",
+          "ko": "국제 예술행정 협력으로 문화 교류가 활발해져요.",
+          "en": "Cultural exchange becomes active through international arts administration cooperation."
+        },
+        {
+          "situation": "수익을 이야기할 때",
+          "ko": "예술행정에서 재정 자립을 위한 수익 모델 개발이 중요해요.",
+          "en": "Developing revenue models for financial independence is important in arts administration."
+        },
+        {
+          "situation": "공익을 이야기할 때",
+          "ko": "예술행정은 공익과 예술 가치를 동시에 추구해요.",
+          "en": "Arts administration pursues public interest and artistic values simultaneously."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "직업을 소개할 때",
+          "ko": "예술행정가는 예술 기관의 운영을 담당해요.",
+          "cn": "艺术행정官负责艺术机构的运营。"
+        },
+        {
+          "situation": "예산을 이야기할 때",
+          "ko": "예술행정에서 예산 관리가 중요한 역할을 해요.",
+          "cn": "在艺术행정中，预算管理起着重要作用。"
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "예술행정 전문가가 예술가들의 창작 활동을 지원해요.",
+          "cn": "艺术행정专家支持艺术家的创作活动。"
+        },
+        {
+          "situation": "기관을 이야기할 때",
+          "ko": "박물관, 미술관 운영에 예술행정 전문 지식이 필요해요.",
+          "cn": "博物馆、美术馆的运营需要艺术행政专业知识。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "예술행정 전문가를 양성하는 대학원 과정이 있어요.",
+          "cn": "有培养艺术행정专家的研究生课程。"
+        },
+        {
+          "situation": "정책을 이야기할 때",
+          "ko": "문화부에서 예술행정 정책을 수립하고 시행해요.",
+          "cn": "文化部制定并实施艺术행정政策。"
+        },
+        {
+          "situation": "마케팅을 이야기할 때",
+          "ko": "예술행정에는 공연 홍보와 관객 개발도 포함돼요.",
+          "cn": "艺术행정还包括演출推广和观众开发。"
+        },
+        {
+          "situation": "국제 협력을 이야기할 때",
+          "ko": "국제 예술행정 협력으로 문화 교류가 활발해져요.",
+          "cn": "通过国际艺术행정合作，文化交流变得活跃。"
+        },
+        {
+          "situation": "수익을 이야기할 때",
+          "ko": "예술행정에서 재정 자립을 위한 수익 모델 개발이 중요해요.",
+          "cn": "在艺术행정中，开发实现财政自立的收益模式很重要。"
+        },
+        {
+          "situation": "공익을 이야기할 때",
+          "ko": "예술행정은 공익과 예술 가치를 동시에 추구해요.",
+          "cn": "艺术행정同时追求公共利益和艺术价值。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "직업을 소개할 때",
+          "ko": "예술행정가는 예술 기관의 운영을 담당해요.",
+          "vn": "Nhà quản lý nghệ thuật chịu trách nhiệm vận hành các tổ chức nghệ thuật."
+        },
+        {
+          "situation": "예산을 이야기할 때",
+          "ko": "예술행정에서 예산 관리가 중요한 역할을 해요.",
+          "vn": "Quản lý ngân sách đóng vai trò quan trọng trong hành chính nghệ thuật."
+        },
+        {
+          "situation": "지원을 이야기할 때",
+          "ko": "예술행정 전문가가 예술가들의 창작 활동을 지원해요.",
+          "vn": "Chuyên gia hành chính nghệ thuật hỗ trợ hoạt động sáng tạo của nghệ sĩ."
+        },
+        {
+          "situation": "기관을 이야기할 때",
+          "ko": "박물관, 미술관 운영에 예술행정 전문 지식이 필요해요.",
+          "vn": "Chuyên môn hành chính nghệ thuật cần thiết để vận hành bảo tàng và phòng tranh."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "예술행정 전문가를 양성하는 대학원 과정이 있어요.",
+          "vn": "Có chương trình sau đại học để đào tạo các chuyên gia hành chính nghệ thuật."
+        },
+        {
+          "situation": "정책을 이야기할 때",
+          "ko": "문화부에서 예술행정 정책을 수립하고 시행해요.",
+          "vn": "Bộ Văn hóa xây dựng và thực hiện chính sách hành chính nghệ thuật."
+        },
+        {
+          "situation": "마케팅을 이야기할 때",
+          "ko": "예술행정에는 공연 홍보와 관객 개발도 포함돼요.",
+          "vn": "Hành chính nghệ thuật cũng bao gồm quảng bá biểu diễn và phát triển khán giả."
+        },
+        {
+          "situation": "국제 협력을 이야기할 때",
+          "ko": "국제 예술행정 협력으로 문화 교류가 활발해져요.",
+          "vn": "Trao đổi văn hóa trở nên sôi động qua hợp tác hành chính nghệ thuật quốc tế."
+        },
+        {
+          "situation": "수익을 이야기할 때",
+          "ko": "예술행정에서 재정 자립을 위한 수익 모델 개발이 중요해요.",
+          "vn": "Phát triển mô hình doanh thu để độc lập tài chính là quan trọng trong hành chính nghệ thuật."
+        },
+        {
+          "situation": "공익을 이야기할 때",
+          "ko": "예술행정은 공익과 예술 가치를 동시에 추구해요.",
+          "vn": "Hành chính nghệ thuật theo đuổi lợi ích công cộng và giá trị nghệ thuật đồng thời."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 286,
+    "word": "전통예술",
+    "pos": "명사",
+    "synonyms": [
+      "전통 예술",
+      "민속 예술"
+    ],
+    "meanings": {
+      "en": "traditional art, folk art",
+      "cn": "传统艺术，民俗艺术",
+      "vn": "nghệ thuật truyền thống, nghệ thuật dân gian"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "문화유산을 이야기할 때",
+          "ko": "전통예술은 조상들의 지혜와 미적 감각이 담긴 문화유산이에요.",
+          "en": "Traditional art is a cultural heritage that contains the wisdom and aesthetic sense of ancestors."
+        },
+        {
+          "situation": "보존을 이야기할 때",
+          "ko": "전통예술을 보존하고 계승하는 노력이 필요해요.",
+          "en": "Efforts to preserve and inherit traditional art are needed."
+        },
+        {
+          "situation": "판소리를 이야기할 때",
+          "ko": "판소리는 유네스코가 인정한 한국의 대표 전통예술이에요.",
+          "en": "Pansori is South Korea's representative traditional art recognized by UNESCO."
+        },
+        {
+          "situation": "현대화를 이야기할 때",
+          "ko": "전통예술이 현대적으로 재해석되어 젊은 세대에게 다가가고 있어요.",
+          "en": "Traditional art is being reinterpreted in a modern way to reach younger generations."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학교에서 전통예술 교육이 이루어지면 문화 정체성을 키울 수 있어요.",
+          "en": "Cultural identity can be developed when traditional art education takes place in schools."
+        },
+        {
+          "situation": "관광을 이야기할 때",
+          "ko": "전통예술 공연이 외국인 관광객에게 큰 인기를 끌어요.",
+          "en": "Traditional art performances are very popular among foreign tourists."
+        },
+        {
+          "situation": "국악을 이야기할 때",
+          "ko": "국악은 한국 전통예술의 중요한 부분이에요.",
+          "en": "Korean traditional music is an important part of Korean traditional art."
+        },
+        {
+          "situation": "기능인을 이야기할 때",
+          "ko": "전통예술 기능보유자들의 기술을 계승해야 해요.",
+          "en": "The skills of traditional art holders must be inherited."
+        },
+        {
+          "situation": "세계화를 이야기할 때",
+          "ko": "전통예술의 세계화로 한국 문화의 위상이 높아졌어요.",
+          "en": "The status of Korean culture has risen through the globalization of traditional art."
+        },
+        {
+          "situation": "융합을 이야기할 때",
+          "ko": "전통예술과 현대 예술의 융합으로 새로운 장르가 생겨났어요.",
+          "en": "New genres have emerged through the fusion of traditional and modern art."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "문화유산을 이야기할 때",
+          "ko": "전통예술은 조상들의 지혜와 미적 감각이 담긴 문화유산이에요.",
+          "cn": "传统艺术是蕴含祖先智慧和审美感觉的文化遗산。"
+        },
+        {
+          "situation": "보존을 이야기할 때",
+          "ko": "전통예술을 보존하고 계승하는 노력이 필요해요.",
+          "cn": "需要努力保护和传承传统艺术。"
+        },
+        {
+          "situation": "판소리를 이야기할 때",
+          "ko": "판소리는 유네스코가 인정한 한국의 대표 전통예술이에요.",
+          "cn": "판소리是联合国教科文组织认定的韩国代表性传统艺术。"
+        },
+        {
+          "situation": "현대화를 이야기할 때",
+          "ko": "전통예술이 현대적으로 재해석되어 젊은 세대에게 다가가고 있어요.",
+          "cn": "传统艺术被现代重新诠释，正向年轻一代靠拢。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학교에서 전통예술 교육이 이루어지면 문화 정체성을 키울 수 있어요.",
+          "cn": "在学校进行传统艺术교육可以培养文화认同感。"
+        },
+        {
+          "situation": "관광을 이야기할 때",
+          "ko": "전통예술 공연이 외국인 관광객에게 큰 인기를 끌어요.",
+          "cn": "传统艺术演出在外国游客中很受欢迎。"
+        },
+        {
+          "situation": "국악을 이야기할 때",
+          "ko": "국악은 한국 전통예술의 중요한 부분이에요.",
+          "cn": "国乐是韩国传统艺术的重要部分。"
+        },
+        {
+          "situation": "기능인을 이야기할 때",
+          "ko": "전통예술 기능보유자들의 기술을 계승해야 해요.",
+          "cn": "需要传承传统艺术技능保유者的技艺。"
+        },
+        {
+          "situation": "세계화를 이야기할 때",
+          "ko": "전통예술의 세계화로 한국 문화의 위상이 높아졌어요.",
+          "cn": "通过传统艺术的全球화，韩国文화地位提高了。"
+        },
+        {
+          "situation": "융합을 이야기할 때",
+          "ko": "전통예술과 현대 예술의 융합으로 새로운 장르가 생겨났어요.",
+          "cn": "传统艺术与现代艺术的融合催생了新的장르。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "문화유산을 이야기할 때",
+          "ko": "전통예술은 조상들의 지혜와 미적 감각이 담긴 문화유산이에요.",
+          "vn": "Nghệ thuật truyền thống là di sản văn hóa chứa đựng trí tuệ và cảm quan thẩm mỹ của tổ tiên."
+        },
+        {
+          "situation": "보존을 이야기할 때",
+          "ko": "전통예술을 보존하고 계승하는 노력이 필요해요.",
+          "vn": "Cần có nỗ lực để bảo tồn và kế thừa nghệ thuật truyền thống."
+        },
+        {
+          "situation": "판소리를 이야기할 때",
+          "ko": "판소리는 유네스코가 인정한 한국의 대표 전통예술이에요.",
+          "vn": "Pansori là nghệ thuật truyền thống tiêu biểu của Hàn Quốc được UNESCO công nhận."
+        },
+        {
+          "situation": "현대화를 이야기할 때",
+          "ko": "전통예술이 현대적으로 재해석되어 젊은 세대에게 다가가고 있어요.",
+          "vn": "Nghệ thuật truyền thống đang được tái diễn giải theo cách hiện đại để tiếp cận thế hệ trẻ."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학교에서 전통예술 교육이 이루어지면 문화 정체성을 키울 수 있어요.",
+          "vn": "Bản sắc văn hóa có thể được phát triển khi giáo dục nghệ thuật truyền thống diễn ra ở trường."
+        },
+        {
+          "situation": "관광을 이야기할 때",
+          "ko": "전통예술 공연이 외국인 관광객에게 큰 인기를 끌어요.",
+          "vn": "Biểu diễn nghệ thuật truyền thống rất được ưa thích trong du khách nước ngoài."
+        },
+        {
+          "situation": "국악을 이야기할 때",
+          "ko": "국악은 한국 전통예술의 중요한 부분이에요.",
+          "vn": "Nhạc truyền thống Hàn Quốc là phần quan trọng của nghệ thuật truyền thống Hàn Quốc."
+        },
+        {
+          "situation": "기능인을 이야기할 때",
+          "ko": "전통예술 기능보유자들의 기술을 계승해야 해요.",
+          "vn": "Kỹ thuật của những người nắm giữ nghệ thuật truyền thống phải được kế thừa."
+        },
+        {
+          "situation": "세계화를 이야기할 때",
+          "ko": "전통예술의 세계화로 한국 문화의 위상이 높아졌어요.",
+          "vn": "Vị thế của văn hóa Hàn Quốc đã được nâng cao qua toàn cầu hóa nghệ thuật truyền thống."
+        },
+        {
+          "situation": "융합을 이야기할 때",
+          "ko": "전통예술과 현대 예술의 융합으로 새로운 장르가 생겨났어요.",
+          "vn": "Các thể loại mới đã xuất hiện qua sự kết hợp của nghệ thuật truyền thống và nghệ thuật hiện đại."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 290,
+    "word": "문학상",
+    "pos": "명사",
+    "synonyms": [
+      "문학 상",
+      "Literary Prize"
+    ],
+    "meanings": {
+      "en": "literary award, literary prize",
+      "cn": "文学奖",
+      "vn": "giải thưởng văn học"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "수상을 이야기할 때",
+          "ko": "노벨 문학상은 세계에서 가장 권위 있는 문학상이에요.",
+          "en": "The Nobel Prize in Literature is the most prestigious literary award in the world."
+        },
+        {
+          "situation": "작가를 이야기할 때",
+          "ko": "문학상 수상이 작가의 명성을 높여줘요.",
+          "en": "Winning a literary award raises an author's reputation."
+        },
+        {
+          "situation": "독자를 이야기할 때",
+          "ko": "문학상 수상작은 독자들의 관심을 많이 받아요.",
+          "en": "Literary award-winning works receive a lot of attention from readers."
+        },
+        {
+          "situation": "심사를 이야기할 때",
+          "ko": "문학상 심사는 문학적 가치와 사회적 의미를 종합적으로 평가해요.",
+          "en": "Literary award judging comprehensively evaluates literary value and social significance."
+        },
+        {
+          "situation": "한국 문학을 이야기할 때",
+          "ko": "한국 작가가 국제 문학상을 받으면 국가적 자랑이 돼요.",
+          "en": "It becomes a national pride when a Korean author wins an international literary award."
+        },
+        {
+          "situation": "신인을 이야기할 때",
+          "ko": "신인 문학상은 새로운 작가를 발굴하는 기회예요.",
+          "en": "Newcomer literary awards are an opportunity to discover new authors."
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "다양한 장르와 주제의 문학상이 운영되고 있어요.",
+          "en": "Literary awards for various genres and themes are being operated."
+        },
+        {
+          "situation": "논란을 이야기할 때",
+          "ko": "문학상 수상자 선정 과정에서 논란이 생기기도 해요.",
+          "en": "Controversies sometimes arise during the selection process of literary award recipients."
+        },
+        {
+          "situation": "번역을 이야기할 때",
+          "ko": "번역을 통해 문학상 수상작이 세계로 알려져요.",
+          "en": "Literary award-winning works become known to the world through translation."
+        },
+        {
+          "situation": "영향을 이야기할 때",
+          "ko": "권위 있는 문학상은 문학의 흐름에 영향을 미쳐요.",
+          "en": "Prestigious literary awards influence the trends of literature."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "수상을 이야기할 때",
+          "ko": "노벨 문학상은 세계에서 가장 권위 있는 문학상이에요.",
+          "cn": "诺贝尔문학상是世界上最权威的文학奖。"
+        },
+        {
+          "situation": "작가를 이야기할 때",
+          "ko": "문학상 수상이 작가의 명성을 높여줘요.",
+          "cn": "获得文학奖提升了作家的名声。"
+        },
+        {
+          "situation": "독자를 이야기할 때",
+          "ko": "문학상 수상작은 독자들의 관심을 많이 받아요.",
+          "cn": "문학상수상작受到读者的广泛关注。"
+        },
+        {
+          "situation": "심사를 이야기할 때",
+          "ko": "문학상 심사는 문학적 가치와 사회적 의미를 종합적으로 평가해요.",
+          "cn": "문학상审查综합性地评价文学价值和社会意义。"
+        },
+        {
+          "situation": "한국 문학을 이야기할 때",
+          "ko": "한국 작가가 국제 문학상을 받으면 국가적 자랑이 돼요.",
+          "cn": "当韩国作家获得국际문학상时，会成为国家的自豪。"
+        },
+        {
+          "situation": "신인을 이야기할 때",
+          "ko": "신인 문학상은 새로운 작가를 발굴하는 기회예요.",
+          "cn": "新人文学奖是발굴新작가的机会。"
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "다양한 장르와 주제의 문학상이 운영되고 있어요.",
+          "cn": "涵盖多种体裁和主题的문학상正在运营。"
+        },
+        {
+          "situation": "논란을 이야기할 때",
+          "ko": "문학상 수상자 선정 과정에서 논란이 생기기도 해요.",
+          "cn": "文학상得奖者的선정过程中有时会产生논란。"
+        },
+        {
+          "situation": "번역을 이야기할 때",
+          "ko": "번역을 통해 문학상 수상작이 세계로 알려져요.",
+          "cn": "通过翻译，문학상수상작被世界所了解。"
+        },
+        {
+          "situation": "영향을 이야기할 때",
+          "ko": "권위 있는 문학상은 문학의 흐름에 영향을 미쳐요.",
+          "cn": "权威的문학상影响文학的潮流。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "수상을 이야기할 때",
+          "ko": "노벨 문학상은 세계에서 가장 권위 있는 문학상이에요.",
+          "vn": "Giải Nobel Văn학là giải thưởng văn học uy tín nhất thế giới."
+        },
+        {
+          "situation": "작가를 이야기할 때",
+          "ko": "문학상 수상이 작가의 명성을 높여줘요.",
+          "vn": "Giành được giải thưởng văn học nâng cao danh tiếng của tác giả."
+        },
+        {
+          "situation": "독자를 이야기할 때",
+          "ko": "문학상 수상작은 독자들의 관심을 많이 받아요.",
+          "vn": "Tác phẩm đoạt giải thưởng văn학nhận được nhiều sự quan tâm của độc giả."
+        },
+        {
+          "situation": "심사를 이야기할 때",
+          "ko": "문학상 심사는 문학적 가치와 사회적 의미를 종합적으로 평가해요.",
+          "vn": "Xét chọn giải thưởng văn học đánh giá toàn diện giá trị văn학 và ý nghĩa xã hội."
+        },
+        {
+          "situation": "한국 문학을 이야기할 때",
+          "ko": "한국 작가가 국제 문학상을 받으면 국가적 자랑이 돼요.",
+          "vn": "Đó là niềm tự hào quốc gia khi tác giả Hàn Quốc nhận giải thưởng văn học quốc tế."
+        },
+        {
+          "situation": "신인을 이야기할 때",
+          "ko": "신인 문학상은 새로운 작가를 발굴하는 기회예요.",
+          "vn": "Giải thưởng văn học tân binh là cơ hội khám phá các tác giả mới."
+        },
+        {
+          "situation": "다양성을 이야기할 때",
+          "ko": "다양한 장르와 주제의 문학상이 운영되고 있어요.",
+          "vn": "Các giải thưởng văn học cho nhiều thể loại và chủ đề khác nhau đang được vận hành."
+        },
+        {
+          "situation": "논란을 이야기할 때",
+          "ko": "문학상 수상자 선정 과정에서 논란이 생기기도 해요.",
+          "vn": "Đôi khi có tranh cãi trong quá trình lựa chọn người nhận giải thưởng văn학."
+        },
+        {
+          "situation": "번역을 이야기할 때",
+          "ko": "번역을 통해 문학상 수상작이 세계로 알려져요.",
+          "vn": "Tác phẩm đoạt giải thưởng văn학được thế giới biết đến qua dịch thuật."
+        },
+        {
+          "situation": "영향을 이야기할 때",
+          "ko": "권위 있는 문학상은 문학의 흐름에 영향을 미쳐요.",
+          "vn": "Giải thưởng văn học uy tín ảnh hưởng đến xu hướng của văn học."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 291,
+    "word": "교통혼잡",
+    "pos": "명사",
+    "synonyms": [
+      "교통체증",
+      "정체"
+    ],
+    "meanings": {
+      "en": "traffic congestion, traffic jam",
+      "cn": "交通拥堵，堵车",
+      "vn": "tắc đường, ùn tắc giao thông"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "출퇴근을 이야기할 때",
+          "ko": "출퇴근 시간에 교통혼잡이 심해서 이동이 불편해요.",
+          "en": "Traffic congestion is severe during rush hours making commuting inconvenient."
+        },
+        {
+          "situation": "대도시를 이야기할 때",
+          "ko": "대도시에서는 교통혼잡이 일상적인 문제예요.",
+          "en": "Traffic congestion is a daily problem in large cities."
+        },
+        {
+          "situation": "해결책을 논의할 때",
+          "ko": "대중교통 이용 확대가 교통혼잡을 줄이는 방법이에요.",
+          "en": "Expanding the use of public transportation is a way to reduce traffic congestion."
+        },
+        {
+          "situation": "경제적 손실을 이야기할 때",
+          "ko": "교통혼잡으로 인한 경제적 손실이 매우 커요.",
+          "en": "The economic losses due to traffic congestion are very large."
+        },
+        {
+          "situation": "스트레스를 이야기할 때",
+          "ko": "교통혼잡은 운전자들에게 심한 스트레스를 줘요.",
+          "en": "Traffic congestion causes severe stress for drivers."
+        },
+        {
+          "situation": "정책을 논의할 때",
+          "ko": "혼잡 통행료 제도가 교통혼잡 해소에 효과적이에요.",
+          "en": "Congestion pricing systems are effective in alleviating traffic congestion."
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "교통혼잡으로 배기가스가 증가해 대기오염이 심해져요.",
+          "en": "Air pollution worsens as exhaust emissions increase due to traffic congestion."
+        },
+        {
+          "situation": "스마트 교통을 이야기할 때",
+          "ko": "스마트 신호 시스템이 교통혼잡을 줄이는 데 도움이 돼요.",
+          "en": "Smart traffic signal systems help reduce traffic congestion."
+        },
+        {
+          "situation": "재택근무를 이야기할 때",
+          "ko": "재택근무 확산이 출퇴근 교통혼잡을 완화했어요.",
+          "en": "The spread of remote work alleviated commuting traffic congestion."
+        },
+        {
+          "situation": "도시 계획을 이야기할 때",
+          "ko": "교통혼잡을 예방하는 도시 계획이 중요해요.",
+          "en": "Urban planning that prevents traffic congestion is important."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "출퇴근을 이야기할 때",
+          "ko": "출퇴근 시간에 교통혼잡이 심해서 이동이 불편해요.",
+          "cn": "上下班时间交通拥堵严重，出行不便。"
+        },
+        {
+          "situation": "대도시를 이야기할 때",
+          "ko": "대도시에서는 교통혼잡이 일상적인 문제예요.",
+          "cn": "在大城市，交通拥堵是日常问题。"
+        },
+        {
+          "situation": "해결책을 논의할 때",
+          "ko": "대중교통 이용 확대가 교통혼잡을 줄이는 방법이에요.",
+          "cn": "扩大公共交通使用是减少交通拥堵的方法。"
+        },
+        {
+          "situation": "경제적 손실을 이야기할 때",
+          "ko": "교통혼잡으로 인한 경제적 손실이 매우 커요.",
+          "cn": "因交通拥堵造成的经제적손실非常大。"
+        },
+        {
+          "situation": "스트레스를 이야기할 때",
+          "ko": "교통혼잡은 운전자들에게 심한 스트레스를 줘요.",
+          "cn": "交通拥堵给驾驶员带来严重压力。"
+        },
+        {
+          "situation": "정책을 논의할 때",
+          "ko": "혼잡 통행료 제도가 교통혼잡 해소에 효과적이에요.",
+          "cn": "拥堵收费制度对缓解交通拥堵有效。"
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "교통혼잡으로 배기가스가 증가해 대기오염이 심해져요.",
+          "cn": "交通拥堵导致废气增加，空气污染加剧。"
+        },
+        {
+          "situation": "스마트 교통을 이야기할 때",
+          "ko": "스마트 신호 시스템이 교통혼잡을 줄이는 데 도움이 돼요.",
+          "cn": "智能交通信号系统有助于减少交通拥堵。"
+        },
+        {
+          "situation": "재택근무를 이야기할 때",
+          "ko": "재택근무 확산이 출퇴근 교통혼잡을 완화했어요.",
+          "cn": "远程办公的普及缓解了上下班交通拥堵。"
+        },
+        {
+          "situation": "도시 계획을 이야기할 때",
+          "ko": "교통혼잡을 예방하는 도시 계획이 중요해요.",
+          "cn": "预防交通拥堵的城市규划很重요。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "출퇴근을 이야기할 때",
+          "ko": "출퇴근 시간에 교통혼잡이 심해서 이동이 불편해요.",
+          "vn": "Tắc đường nghiêm trọng vào giờ cao điểm khiến việc đi lại bất tiện."
+        },
+        {
+          "situation": "대도시를 이야기할 때",
+          "ko": "대도시에서는 교통혼잡이 일상적인 문제예요.",
+          "vn": "Tắc đường là vấn đề hàng ngày ở các thành phố lớn."
+        },
+        {
+          "situation": "해결책을 논의할 때",
+          "ko": "대중교통 이용 확대가 교통혼잡을 줄이는 방법이에요.",
+          "vn": "Mở rộng sử dụng giao thông công cộng là cách giảm tắc đường."
+        },
+        {
+          "situation": "경제적 손실을 이야기할 때",
+          "ko": "교통혼잡으로 인한 경제적 손실이 매우 커요.",
+          "vn": "Thiệt hại kinh tế do tắc đường rất lớn."
+        },
+        {
+          "situation": "스트레스를 이야기할 때",
+          "ko": "교통혼잡은 운전자들에게 심한 스트레스를 줘요.",
+          "vn": "Tắc đường gây căng thẳng nghiêm trọng cho người lái xe."
+        },
+        {
+          "situation": "정책을 논의할 때",
+          "ko": "혼잡 통행료 제도가 교통혼잡 해소에 효과적이에요.",
+          "vn": "Hệ thống thu phí tắc đường hiệu quả trong việc giảm ùn tắc giao thông."
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "교통혼잡으로 배기가스가 증가해 대기오염이 심해져요.",
+          "vn": "Ô nhiễm không khí tệ hơn khi khí thải tăng do tắc đường."
+        },
+        {
+          "situation": "스마트 교통을 이야기할 때",
+          "ko": "스마트 신호 시스템이 교통혼잡을 줄이는 데 도움이 돼요.",
+          "vn": "Hệ thống đèn giao thông thông minh giúp giảm tắc đường."
+        },
+        {
+          "situation": "재택근무를 이야기할 때",
+          "ko": "재택근무 확산이 출퇴근 교통혼잡을 완화했어요.",
+          "vn": "Sự lan rộng của làm việc từ xa đã giảm bớt tắc đường giờ cao điểm."
+        },
+        {
+          "situation": "도시 계획을 이야기할 때",
+          "ko": "교통혼잡을 예방하는 도시 계획이 중요해요.",
+          "vn": "Quy hoạch đô thị ngăn ngừa tắc đường là quan trọng."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 293,
+    "word": "극복",
+    "pos": "명사/동사",
+    "synonyms": [
+      "이겨냄",
+      "타파"
+    ],
+    "meanings": {
+      "en": "overcoming, to overcome",
+      "cn": "克服，战胜",
+      "vn": "vượt qua, khắc phục"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "어려움을 이야기할 때",
+          "ko": "어려움을 극복하고 목표를 달성한 이야기가 감동적이에요.",
+          "en": "The story of overcoming difficulties and achieving goals is moving."
+        },
+        {
+          "situation": "역경을 이야기할 때",
+          "ko": "역경을 극복한 경험이 사람을 더 강하게 만들어요.",
+          "en": "The experience of overcoming adversity makes a person stronger."
+        },
+        {
+          "situation": "질병을 이야기할 때",
+          "ko": "오랜 투병 끝에 병을 극복했어요.",
+          "en": "The illness was overcome after a long battle."
+        },
+        {
+          "situation": "두려움을 이야기할 때",
+          "ko": "두려움을 극복하는 것이 성장의 첫 걸음이에요.",
+          "en": "Overcoming fear is the first step to growth."
+        },
+        {
+          "situation": "언어 장벽을 이야기할 때",
+          "ko": "끊임없는 노력으로 언어 장벽을 극복했어요.",
+          "en": "The language barrier was overcome through constant effort."
+        },
+        {
+          "situation": "사회 문제를 이야기할 때",
+          "ko": "사회 문제를 극복하기 위한 공동의 노력이 필요해요.",
+          "en": "Joint efforts are needed to overcome social problems."
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "경제 위기를 극복하기 위해 전 국민이 힘을 모았어요.",
+          "en": "The entire nation joined forces to overcome the economic crisis."
+        },
+        {
+          "situation": "실패를 이야기할 때",
+          "ko": "실패를 극복하는 과정에서 많은 것을 배워요.",
+          "en": "You learn a lot in the process of overcoming failure."
+        },
+        {
+          "situation": "자기 계발을 이야기할 때",
+          "ko": "자신의 한계를 극복하는 것이 자기 계발의 본질이에요.",
+          "en": "Overcoming one's limitations is the essence of self-development."
+        },
+        {
+          "situation": "스포츠를 이야기할 때",
+          "ko": "선수가 부상을 극복하고 대회에 복귀했어요.",
+          "en": "The athlete returned to competition after overcoming injury."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "어려움을 이야기할 때",
+          "ko": "어려움을 극복하고 목표를 달성한 이야기가 감동적이에요.",
+          "cn": "克服困难实现目标的故事令人感动。"
+        },
+        {
+          "situation": "역경을 이야기할 때",
+          "ko": "역경을 극복한 경험이 사람을 더 강하게 만들어요.",
+          "cn": "克服逆境的经历使人变得更强大。"
+        },
+        {
+          "situation": "질병을 이야기할 때",
+          "ko": "오랜 투병 끝에 병을 극복했어요.",
+          "cn": "经过长期与病魔搏斗，终于克服了疾病。"
+        },
+        {
+          "situation": "두려움을 이야기할 때",
+          "ko": "두려움을 극복하는 것이 성장의 첫 걸음이에요.",
+          "cn": "克服恐惧是成长的第一步。"
+        },
+        {
+          "situation": "언어 장벽을 이야기할 때",
+          "ko": "끊임없는 노력으로 언어 장벽을 극복했어요.",
+          "cn": "通过不懈的努력克服了语言障碍。"
+        },
+        {
+          "situation": "사회 문제를 이야기할 때",
+          "ko": "사회 문제를 극복하기 위한 공동의 노력이 필요해요.",
+          "cn": "克服社会问题需要共同的努力。"
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "경제 위기를 극복하기 위해 전 국민이 힘을 모았어요.",
+          "cn": "为了克服经济危机，全体国민齐心协力。"
+        },
+        {
+          "situation": "실패를 이야기할 때",
+          "ko": "실패를 극복하는 과정에서 많은 것을 배워요.",
+          "cn": "在克服失败的过程中学到了很多。"
+        },
+        {
+          "situation": "자기 계발을 이야기할 때",
+          "ko": "자신의 한계를 극복하는 것이 자기 계발의 본질이에요.",
+          "cn": "克服自身局限是自我发展的本质。"
+        },
+        {
+          "situation": "스포츠를 이야기할 때",
+          "ko": "선수가 부상을 극복하고 대회에 복귀했어요.",
+          "cn": "运动员克服伤病复출대회。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "어려움을 이야기할 때",
+          "ko": "어려움을 극복하고 목표를 달성한 이야기가 감동적이에요.",
+          "vn": "Câu chuyện vượt qua khó khăn và đạt được mục tiêu thật cảm động."
+        },
+        {
+          "situation": "역경을 이야기할 때",
+          "ko": "역경을 극복한 경험이 사람을 더 강하게 만들어요.",
+          "vn": "Kinh nghiệm vượt qua nghịch cảnh khiến người ta trở nên mạnh mẽ hơn."
+        },
+        {
+          "situation": "질병을 이야기할 때",
+          "ko": "오랜 투병 끝에 병을 극복했어요.",
+          "vn": "Căn bệnh đã được vượt qua sau một cuộc chiến dài."
+        },
+        {
+          "situation": "두려움을 이야기할 때",
+          "ko": "두려움을 극복하는 것이 성장의 첫 걸음이에요.",
+          "vn": "Vượt qua nỗi sợ hãi là bước đầu tiên để phát triển."
+        },
+        {
+          "situation": "언어 장벽을 이야기할 때",
+          "ko": "끊임없는 노력으로 언어 장벽을 극복했어요.",
+          "vn": "Rào cản ngôn ngữ đã được vượt qua qua nỗ lực không ngừng."
+        },
+        {
+          "situation": "사회 문제를 이야기할 때",
+          "ko": "사회 문제를 극복하기 위한 공동의 노력이 필요해요.",
+          "vn": "Cần nỗ lực chung để vượt qua các vấn đề xã hội."
+        },
+        {
+          "situation": "위기를 이야기할 때",
+          "ko": "경제 위기를 극복하기 위해 전 국민이 힘을 모았어요.",
+          "vn": "Toàn dân đoàn kết để vượt qua cuộc khủng hoảng kinh tế."
+        },
+        {
+          "situation": "실패를 이야기할 때",
+          "ko": "실패를 극복하는 과정에서 많은 것을 배워요.",
+          "vn": "Bạn học được nhiều điều trong quá trình vượt qua thất bại."
+        },
+        {
+          "situation": "자기 계발을 이야기할 때",
+          "ko": "자신의 한계를 극복하는 것이 자기 계발의 본질이에요.",
+          "vn": "Vượt qua giới hạn của bản thân là bản chất của sự phát triển cá nhân."
+        },
+        {
+          "situation": "스포츠를 이야기할 때",
+          "ko": "선수가 부상을 극복하고 대회에 복귀했어요.",
+          "vn": "Vận động viên trở lại thi đấu sau khi vượt qua chấn thương."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 294,
+    "word": "사회현상",
+    "pos": "명사",
+    "synonyms": [
+      "사회 현상",
+      "사회적 현상"
+    ],
+    "meanings": {
+      "en": "social phenomenon, social trend",
+      "cn": "社会现象，社会趋势",
+      "vn": "hiện tượng xã hội, xu hướng xã hội"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "분석할 때",
+          "ko": "저출산은 현대 사회에서 심각한 사회현상이에요.",
+          "en": "Low birth rate is a serious social phenomenon in modern society."
+        },
+        {
+          "situation": "이해를 이야기할 때",
+          "ko": "사회현상을 이해하면 미래를 예측하는 데 도움이 돼요.",
+          "en": "Understanding social phenomena helps predict the future."
+        },
+        {
+          "situation": "원인을 분석할 때",
+          "ko": "다양한 요인이 복합적으로 작용해서 사회현상이 발생해요.",
+          "en": "Social phenomena occur when various factors work in complex ways."
+        },
+        {
+          "situation": "연구를 이야기할 때",
+          "ko": "사회학자들이 새로운 사회현상을 연구하고 있어요.",
+          "en": "Sociologists are researching new social phenomena."
+        },
+        {
+          "situation": "미디어를 이야기할 때",
+          "ko": "SNS가 새로운 사회현상을 만들어 내고 있어요.",
+          "en": "SNS is creating new social phenomena."
+        },
+        {
+          "situation": "세대를 이야기할 때",
+          "ko": "세대 간 차이도 주요 사회현상 중 하나예요.",
+          "en": "The gap between generations is also one of the major social phenomena."
+        },
+        {
+          "situation": "글로벌을 이야기할 때",
+          "ko": "세계화로 인해 비슷한 사회현상이 전 세계에서 나타나요.",
+          "en": "Similar social phenomena appear worldwide due to globalization."
+        },
+        {
+          "situation": "변화를 이야기할 때",
+          "ko": "사회현상은 시대에 따라 계속 변화해요.",
+          "en": "Social phenomena continue to change according to the times."
+        },
+        {
+          "situation": "대응을 이야기할 때",
+          "ko": "부정적인 사회현상에 대응하는 정책이 필요해요.",
+          "en": "Policies to respond to negative social phenomena are needed."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학생들이 사회현상을 비판적으로 분석하는 능력을 키워야 해요.",
+          "en": "Students need to develop the ability to critically analyze social phenomena."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "분석할 때",
+          "ko": "저출산은 현대 사회에서 심각한 사회현상이에요.",
+          "cn": "低출산率是现代社회의严重사회현상。"
+        },
+        {
+          "situation": "이해를 이야기할 때",
+          "ko": "사회현상을 이해하면 미래를 예측하는 데 도움이 돼요.",
+          "cn": "理解社会현象有助于预测未来。"
+        },
+        {
+          "situation": "원인을 분석할 때",
+          "ko": "다양한 요인이 복합적으로 작용해서 사회현상이 발생해요.",
+          "cn": "多种因素复합작用时産生사회현象。"
+        },
+        {
+          "situation": "연구를 이야기할 때",
+          "ko": "사회학자들이 새로운 사회현상을 연구하고 있어요.",
+          "cn": "社회학者들이연구新的사회현상。"
+        },
+        {
+          "situation": "미디어를 이야기할 때",
+          "ko": "SNS가 새로운 사회현상을 만들어 내고 있어요.",
+          "cn": "SNS正在催生新的사회현象。"
+        },
+        {
+          "situation": "세대를 이야기할 때",
+          "ko": "세대 간 차이도 주요 사회현상 중 하나예요.",
+          "cn": "代际差异也是重要사회현상之一。"
+        },
+        {
+          "situation": "글로벌을 이야기할 때",
+          "ko": "세계화로 인해 비슷한 사회현상이 전 세계에서 나타나요.",
+          "cn": "由于全球化，类似的사회현象在全球出현。"
+        },
+        {
+          "situation": "변화를 이야기할 때",
+          "ko": "사회현상은 시대에 따라 계속 변화해요.",
+          "cn": "사회현象随时代不断변화。"
+        },
+        {
+          "situation": "대응을 이야기할 때",
+          "ko": "부정적인 사회현상에 대응하는 정책이 필요해요.",
+          "cn": "需要应对负面사회현상的政策。"
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학생들이 사회현상을 비판적으로 분석하는 능력을 키워야 해요.",
+          "cn": "学생들应该培养批判性分析사회현상的能力。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "분석할 때",
+          "ko": "저출산은 현대 사회에서 심각한 사회현상이에요.",
+          "vn": "Tỷ lệ sinh thấp là hiện tượng xã hội nghiêm trọng trong xã hội hiện đại."
+        },
+        {
+          "situation": "이해를 이야기할 때",
+          "ko": "사회현상을 이해하면 미래를 예측하는 데 도움이 돼요.",
+          "vn": "Hiểu các hiện tượng xã hội giúp dự đoán tương lai."
+        },
+        {
+          "situation": "원인을 분석할 때",
+          "ko": "다양한 요인이 복합적으로 작용해서 사회현상이 발생해요.",
+          "vn": "Các hiện tượng xã hội xảy ra khi nhiều yếu tố tác động phức tạp."
+        },
+        {
+          "situation": "연구를 이야기할 때",
+          "ko": "사회학자들이 새로운 사회현상을 연구하고 있어요.",
+          "vn": "Các nhà xã hội học đang nghiên cứu các hiện tượng xã hội mới."
+        },
+        {
+          "situation": "미디어를 이야기할 때",
+          "ko": "SNS가 새로운 사회현상을 만들어 내고 있어요.",
+          "vn": "SNS đang tạo ra các hiện tượng xã hội mới."
+        },
+        {
+          "situation": "세대를 이야기할 때",
+          "ko": "세대 간 차이도 주요 사회현상 중 하나예요.",
+          "vn": "Khoảng cách giữa các thế hệ cũng là một trong những hiện tượng xã hội chính."
+        },
+        {
+          "situation": "글로벌을 이야기할 때",
+          "ko": "세계화로 인해 비슷한 사회현상이 전 세계에서 나타나요.",
+          "vn": "Các hiện tượng xã hội tương tự xuất hiện trên toàn thế giới do toàn cầu화."
+        },
+        {
+          "situation": "변화를 이야기할 때",
+          "ko": "사회현상은 시대에 따라 계속 변화해요.",
+          "vn": "Các hiện tượng xã hội liên tục thay đổi theo thời đại."
+        },
+        {
+          "situation": "대응을 이야기할 때",
+          "ko": "부정적인 사회현상에 대응하는 정책이 필요해요.",
+          "vn": "Cần có chính sách ứng phó với các hiện tượng xã hội tiêu cực."
+        },
+        {
+          "situation": "교육을 이야기할 때",
+          "ko": "학생들이 사회현상을 비판적으로 분석하는 능력을 키워야 해요.",
+          "vn": "Học sinh cần phát triển khả năng phân tích phê phán các hiện tượng xã hội."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 297,
+    "word": "공유경제",
+    "pos": "명사",
+    "synonyms": [
+      "공유 경제",
+      "쉐어링이코노미"
+    ],
+    "meanings": {
+      "en": "sharing economy, gig economy",
+      "cn": "共享经济",
+      "vn": "kinh tế chia sẻ"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "플랫폼을 이야기할 때",
+          "ko": "에어비앤비와 우버가 공유경제의 대표적인 사례예요.",
+          "en": "Airbnb and Uber are representative examples of the sharing economy."
+        },
+        {
+          "situation": "자원 활용을 이야기할 때",
+          "ko": "공유경제는 유휴 자원을 효율적으로 활용하는 경제 모델이에요.",
+          "en": "The sharing economy is an economic model that efficiently utilizes idle resources."
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "공유경제는 자원 낭비를 줄여 환경에 도움이 돼요.",
+          "en": "The sharing economy helps the environment by reducing resource waste."
+        },
+        {
+          "situation": "일자리를 이야기할 때",
+          "ko": "공유경제가 전통적인 일자리를 위협한다는 비판도 있어요.",
+          "en": "There is also criticism that the sharing economy threatens traditional jobs."
+        },
+        {
+          "situation": "소비를 이야기할 때",
+          "ko": "소유 대신 공유를 선택하는 소비 패턴이 확산됐어요.",
+          "en": "Consumption patterns of choosing sharing instead of owning have spread."
+        },
+        {
+          "situation": "규제를 이야기할 때",
+          "ko": "공유경제 플랫폼에 대한 적절한 규제가 필요해요.",
+          "en": "Appropriate regulations on sharing economy platforms are needed."
+        },
+        {
+          "situation": "신뢰를 이야기할 때",
+          "ko": "공유경제는 참여자 간의 신뢰를 기반으로 해요.",
+          "en": "The sharing economy is based on trust between participants."
+        },
+        {
+          "situation": "도시를 이야기할 때",
+          "ko": "도시에서 자전거 공유경제가 활발하게 운영되고 있어요.",
+          "en": "Bicycle sharing economy is actively operating in cities."
+        },
+        {
+          "situation": "성장을 이야기할 때",
+          "ko": "공유경제 시장이 빠르게 성장하고 있어요.",
+          "en": "The sharing economy market is growing rapidly."
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "공유경제는 미래 경제의 중요한 부분이 될 거예요.",
+          "en": "The sharing economy will become an important part of the future economy."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "플랫폼을 이야기할 때",
+          "ko": "에어비앤비와 우버가 공유경제의 대표적인 사례예요.",
+          "cn": "Airbnb和Uber是共享经济的代表案例。"
+        },
+        {
+          "situation": "자원 활용을 이야기할 때",
+          "ko": "공유경제는 유휴 자원을 효율적으로 활용하는 경제 모델이에요.",
+          "cn": "共享经济是高效利用闲置资源的경제모델。"
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "공유경제는 자원 낭비를 줄여 환경에 도움이 돼요.",
+          "cn": "共享经济减少资源浪费，有益于环境。"
+        },
+        {
+          "situation": "일자리를 이야기할 때",
+          "ko": "공유경제가 전통적인 일자리를 위협한다는 비판도 있어요.",
+          "cn": "也有批评认为共享经济威胁传统工作岗位。"
+        },
+        {
+          "situation": "소비를 이야기할 때",
+          "ko": "소유 대신 공유를 선택하는 소비 패턴이 확산됐어요.",
+          "cn": "选择共享而非拥有的消费模式扩展了。"
+        },
+        {
+          "situation": "규제를 이야기할 때",
+          "ko": "공유경제 플랫폼에 대한 적절한 규제가 필요해요.",
+          "cn": "需要对共享경제平台进行适当규제。"
+        },
+        {
+          "situation": "신뢰를 이야기할 때",
+          "ko": "공유경제는 참여자 간의 신뢰를 기반으로 해요.",
+          "cn": "共享경제以参与者之间的信任为基础。"
+        },
+        {
+          "situation": "도시를 이야기할 때",
+          "ko": "도시에서 자전거 공유경제가 활발하게 운영되고 있어요.",
+          "cn": "在城市里，자전거共享经济正在积极运营。"
+        },
+        {
+          "situation": "성장을 이야기할 때",
+          "ko": "공유경제 시장이 빠르게 성장하고 있어요.",
+          "cn": "共享경済市场正在迅速增长。"
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "공유경제는 미래 경제의 중요한 부분이 될 거예요.",
+          "cn": "共享경济将成为未来经济的重要组成部분。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "플랫폼을 이야기할 때",
+          "ko": "에어비앤비와 우버가 공유경제의 대표적인 사례예요.",
+          "vn": "Airbnb và Uber là những ví dụ điển hình của kinh tế chia sẻ."
+        },
+        {
+          "situation": "자원 활용을 이야기할 때",
+          "ko": "공유경제는 유휴 자원을 효율적으로 활용하는 경제 모델이에요.",
+          "vn": "Kinh tế chia sẻ là mô hình kinh tế tận dụng hiệu quả tài nguyên nhàn rỗi."
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "공유경제는 자원 낭비를 줄여 환경에 도움이 돼요.",
+          "vn": "Kinh tế chia sẻ có lợi cho môi trường bằng cách giảm lãng phí tài nguyên."
+        },
+        {
+          "situation": "일자리를 이야기할 때",
+          "ko": "공유경제가 전통적인 일자리를 위협한다는 비판도 있어요.",
+          "vn": "Cũng có phê bình rằng kinh tế chia sẻ đe dọa các công việc truyền thống."
+        },
+        {
+          "situation": "소비를 이야기할 때",
+          "ko": "소유 대신 공유를 선택하는 소비 패턴이 확산됐어요.",
+          "vn": "Mô hình tiêu dùng lựa chọn chia sẻ thay vì sở hữu đã lan rộng."
+        },
+        {
+          "situation": "규제를 이야기할 때",
+          "ko": "공유경제 플랫폼에 대한 적절한 규제가 필요해요.",
+          "vn": "Cần có quy định phù hợp đối với các nền tảng kinh tế chia sẻ."
+        },
+        {
+          "situation": "신뢰를 이야기할 때",
+          "ko": "공유경제는 참여자 간의 신뢰를 기반으로 해요.",
+          "vn": "Kinh tế chia sẻ dựa trên sự tin tưởng giữa những người tham gia."
+        },
+        {
+          "situation": "도시를 이야기할 때",
+          "ko": "도시에서 자전거 공유경제가 활발하게 운영되고 있어요.",
+          "vn": "Kinh tế chia sẻ xe đạp đang hoạt động tích cực ở các thành phố."
+        },
+        {
+          "situation": "성장을 이야기할 때",
+          "ko": "공유경제 시장이 빠르게 성장하고 있어요.",
+          "vn": "Thị trường kinh tế chia sẻ đang phát triển nhanh chóng."
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "공유경제는 미래 경제의 중요한 부분이 될 거예요.",
+          "vn": "Kinh tế chia sẻ sẽ trở thành phần quan trọng của nền kinh tế tương lai."
+        }
+      ]
+    }
+  }
+]

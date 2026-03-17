@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="theme-color" content="#0a0a0a">
+<title>Hello Words — TOPIK</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#0a0a0a; --surface:#141414; --border:#252525;
+  --accent:#e8ff47; --text:#f0f0e8; --sub:#666660; --card:#1a1a1a;
+  --c1:#4CAF7D; --c2:#4CAF7D; --c3:#4A9EFF; --c4:#4A9EFF; --c5:#FF7043; --c6:#FF7043;
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;}
+
+header{
+  position:sticky;top:0;z-index:50;
+  background:rgba(10,10,10,.92);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border);
+  padding:14px 20px;display:flex;align-items:center;gap:12px;
+}
+.back-btn{display:flex;align-items:center;gap:6px;color:var(--sub);font-size:14px;cursor:pointer;text-decoration:none;transition:color .2s;flex-shrink:0;}
+.back-btn:hover{color:var(--text);}
+.brand{font-family:'Instrument Serif',serif;font-style:italic;font-size:20px;color:var(--accent);}
+.search-wrap{flex:1;position:relative;}
+.search-wrap input{
+  width:100%;background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  color:var(--text);font-family:'DM Sans',sans-serif;font-size:14px;
+  padding:9px 14px 9px 36px;outline:none;transition:border-color .2s;
+}
+.search-wrap input:focus{border-color:var(--accent);}
+.search-wrap input::placeholder{color:var(--sub);}
+.search-icon{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--sub);font-size:14px;pointer-events:none;}
+
+.tabs{display:flex;gap:8px;padding:14px 20px 10px;overflow-x:auto;scrollbar-width:none;}
+.tabs::-webkit-scrollbar{display:none;}
+.tab{flex-shrink:0;padding:7px 16px;border-radius:20px;border:1.5px solid var(--border);background:transparent;color:var(--sub);font-family:'DM Sans',sans-serif;font-size:13px;font-weight:500;cursor:pointer;transition:all .2s;}
+.tab.active{border-color:var(--accent);color:var(--accent);background:rgba(232,255,71,.08);}
+.tab:hover:not(.active){border-color:#444;color:var(--text);}
+
+.list-wrap{padding:8px 20px 40px;}
+.list-section{margin-bottom:28px;}
+.list-section-title{font-size:11px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:var(--sub);margin-bottom:10px;padding-left:4px;}
+
+.word-item{
+  display:flex;align-items:center;gap:12px;
+  padding:13px 14px;background:var(--card);border:1px solid var(--border);border-radius:12px;
+  margin-bottom:6px;cursor:pointer;transition:all .15s;text-decoration:none;color:inherit;
+}
+.word-item:hover{border-color:#3a3a3a;background:#202020;transform:translateX(2px);}
+.word-item:active{transform:scale(.98);}
+.level-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+.dot-1,.dot-2{background:var(--c1);}
+.dot-3,.dot-4{background:var(--c3);}
+.dot-5,.dot-6{background:var(--c5);}
+.word-ko{font-size:15px;font-weight:700;color:var(--text);flex:1;font-family:'Noto Sans KR',sans-serif;}
+.word-meaning{font-size:13px;color:var(--sub);text-align:right;max-width:45%;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.empty{text-align:center;padding:60px 20px;color:var(--sub);}
+.empty-icon{font-size:36px;margin-bottom:12px;}
+.empty-text{font-size:15px;}
+</style>
+</head>
+<body>
+
+<header>
+  <a class="back-btn" href="../../..">‹ 홈</a>
+  <span class="brand">Hello Words</span>
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="search" id="searchInput" placeholder="한국어 단어 검색..." oninput="onSearch(this.value)">
+  </div>
+</header>
+
+<div class="tabs" id="tabs">
+  <button class="tab active" onclick="filterLevel('all',this)">전체 <span id="cntAll"></span></button>
+  <button class="tab" onclick="filterLevel('1',this)">1급 <span id="cnt1"></span></button>
+  <button class="tab" onclick="filterLevel('2',this)">2급 <span id="cnt2"></span></button>
+  <button class="tab" onclick="filterLevel('3',this)">3급 <span id="cnt3"></span></button>
+  <button class="tab" onclick="filterLevel('4',this)">4급 <span id="cnt4"></span></button>
+  <button class="tab" onclick="filterLevel('5',this)">5급 <span id="cnt5"></span></button>
+  <button class="tab" onclick="filterLevel('6',this)">6급 <span id="cnt6"></span></button>
+</div>
+
+<div class="list-wrap" id="listWrap">
+  <div class="empty"><div class="empty-icon">⏳</div><div class="empty-text">불러오는 중...</div></div>
+</div>
+
+<script>
+let allWords = {};
+let currentLevel = 'all';
+let searchQuery = '';
+
+async function init() {
+  const res = await fetch('words_data.json');
+  allWords = await res.json();
+
+  const c = {1:0,2:0,3:0,4:0,5:0,6:0};
+  Object.values(allWords).forEach(w => { if(c[w.level]!==undefined) c[w.level]++; });
+  let total = 0;
+  [1,2,3,4,5,6].forEach(lv => {
+    document.getElementById('cnt'+lv).textContent = `(${c[lv]})`;
+    total += c[lv];
+  });
+  document.getElementById('cntAll').textContent = `(${total})`;
+  render();
+}
+
+function filterLevel(level, btn) {
+  currentLevel = level;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+function onSearch(q) { searchQuery = q; render(); }
+
+function render() {
+  const wrap = document.getElementById('listWrap');
+  const q = searchQuery.toLowerCase();
+
+  let filtered = Object.entries(allWords).filter(([key, w]) => {
+    const levelOk = currentLevel === 'all' || w.level === currentLevel;
+    const searchOk = !q || w.word.includes(q) || (w.meaning||'').toLowerCase().includes(q);
+    return levelOk && searchOk;
+  });
+
+  filtered.sort((a, b) => {
+    const la = parseInt(a[1].level), lb = parseInt(b[1].level);
+    if (la !== lb) return la - lb;
+    return a[1].word.localeCompare(b[1].word, 'ko');
+  });
+
+  if (filtered.length === 0) {
+    wrap.innerHTML = '<div class="empty"><div class="empty-icon">🔍</div><div class="empty-text">검색 결과가 없어요</div></div>';
+    return;
+  }
+
+  const groups = {};
+  filtered.forEach(([key, w]) => {
+    if (!groups[w.level]) groups[w.level] = [];
+    groups[w.level].push([key, w]);
+  });
+
+  const levelNames = {'1':'TOPIK 1급','2':'TOPIK 2급','3':'TOPIK 3급','4':'TOPIK 4급','5':'TOPIK 5급','6':'TOPIK 6급'};
+  const dotClass = {'1':'dot-1','2':'dot-2','3':'dot-3','4':'dot-4','5':'dot-5','6':'dot-6'};
+
+  let html = '';
+  ['1','2','3','4','5','6'].forEach(lv => {
+    if (!groups[lv]) return;
+    if (currentLevel === 'all') {
+      html += `<div class="list-section"><div class="list-section-title">${levelNames[lv]}</div>`;
+    } else {
+      html += '<div class="list-section">';
+    }
+    groups[lv].forEach(([key, w]) => {
+      const meaning = (w.meaning||'').length > 20 ? w.meaning.slice(0,20)+'…' : (w.meaning||'');
+      html += `<a class="word-item" href="word.html?w=${encodeURIComponent(key)}">
+        <div class="level-dot ${dotClass[lv]}"></div>
+        <div class="word-ko">${w.word}</div>
+        <div class="word-meaning">${meaning}</div>
+      </a>`;
+    });
+    html += '</div>';
+  });
+
+  wrap.innerHTML = html;
+}
+
+init();
+</script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="theme-color" content="#0a0a0a">
+<title>Hello Words - IELTS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a0a0a; --surface:#141414; --border:#252525;
+  --accent:#e8ff47; --text:#f0f0e8; --sub:#666660; --card:#1a1a1a;
+  --b5:#4CAF7D; --b6:#4A9EFF; --b7:#FF7043;
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;}
+header{
+  position:sticky;top:0;z-index:50;background:rgba(10,10,10,.92);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border);padding:16px 20px;display:flex;align-items:center;gap:12px;
+}
+.back-btn{display:flex;align-items:center;gap:6px;color:var(--sub);font-size:14px;text-decoration:none;transition:color .2s;}
+.back-btn:hover{color:var(--text);}
+.brand{font-family:'Instrument Serif',serif;font-style:italic;font-size:24px;color:var(--accent);}
+.brand-sub{font-size:13px;color:var(--sub);margin-left:4px;}
+.content{padding:32px 20px 60px;max-width:560px;margin:0 auto;}
+.hero{text-align:center;padding:32px 0 28px;}
+.hero-title{font-family:'Instrument Serif',serif;font-style:italic;font-size:40px;color:var(--accent);line-height:1.1;margin-bottom:10px;}
+.hero-sub{font-size:15px;color:var(--sub);line-height:1.7;}
+.section-label{font-size:10px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:var(--sub);margin-bottom:12px;}
+.product-card{
+  background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;margin-bottom:10px;
+  display:flex;align-items:center;gap:16px;text-decoration:none;color:inherit;transition:all .15s;
+}
+.product-card:hover{border-color:#3a3a3a;background:#202020;transform:translateX(2px);}
+.product-icon{width:48px;height:48px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;}
+.product-info{flex:1;}
+.product-name{font-size:16px;font-weight:600;color:var(--text);margin-bottom:3px;}
+.product-desc{font-size:13px;color:var(--sub);}
+.product-badge{font-size:11px;font-weight:600;padding:3px 10px;border-radius:20px;border:1px solid;white-space:nowrap;flex-shrink:0;}
+.divider{height:1px;background:var(--border);margin:24px 0;}
+.info-box{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px 18px;}
+.info-text{font-size:13px;color:var(--sub);line-height:1.7;}
+</style>
+</head>
+<body>
+<header>
+  <a class="back-btn" href="../index.html">Back</a>
+  <span class="brand">Hello Words</span>
+  <span class="brand-sub">IELTS series</span>
+</header>
+
+<div class="content">
+  <div class="hero">
+    <div class="hero-title">IELTS</div>
+    <div class="hero-sub">Open a band page to browse all 300 words first,<br>then move into each word detail page.</div>
+  </div>
+
+  <div class="section-label">Band Select</div>
+
+  <a class="product-card" href="band.html?band=5">
+    <div class="product-icon" style="background:rgba(76,175,125,.1);color:#4CAF7D;">5</div>
+    <div class="product-info">
+      <div class="product-name">IELTS Band 5</div>
+      <div class="product-desc">300 words with 10 example sentences each.</div>
+    </div>
+    <div class="product-badge" style="color:#4CAF7D;border-color:rgba(76,175,125,.3);background:rgba(76,175,125,.08);">300</div>
+  </a>
+
+  <a class="product-card" href="band.html?band=6">
+    <div class="product-icon" style="background:rgba(74,158,255,.1);color:#4A9EFF;">6</div>
+    <div class="product-info">
+      <div class="product-name">IELTS Band 6</div>
+      <div class="product-desc">300 words with 10 example sentences each.</div>
+    </div>
+    <div class="product-badge" style="color:#4A9EFF;border-color:rgba(74,158,255,.3);background:rgba(74,158,255,.08);">300</div>
+  </a>
+
+  <a class="product-card" href="band.html?band=7">
+    <div class="product-icon" style="background:rgba(255,112,67,.1);color:#FF7043;">7</div>
+    <div class="product-info">
+      <div class="product-name">IELTS Band 7</div>
+      <div class="product-desc">300 words with 10 example sentences each.</div>
+    </div>
+    <div class="product-badge" style="color:#FF7043;border-color:rgba(255,112,67,.3);background:rgba(255,112,67,.08);">300</div>
+  </a>
+
+  <div class="divider"></div>
+
+  <div class="info-box">
+    <div class="info-text">Each band now has its own list page, so the detail page can return to the correct IELTS band list instead of the site home.</div>
+  </div>
+</div>
+</body>
+</html>

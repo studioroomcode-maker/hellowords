@@ -1,0 +1,1905 @@
+[
+  {
+    "level": 4,
+    "id": 173,
+    "word": "직업교육",
+    "pos": "명사",
+    "synonyms": [
+      "직업훈련",
+      "기술교육"
+    ],
+    "meanings": {
+      "en": "vocational education, vocational training",
+      "cn": "职业教育，职业培训",
+      "vn": "giáo dục nghề nghiệp, đào tạo nghề"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "진로를 논의할 때",
+          "ko": "직업교육을 통해 전문 기술을 배울 수 있어요.",
+          "en": "You can learn professional skills through vocational education."
+        },
+        {
+          "situation": "취업 준비를 이야기할 때",
+          "ko": "직업교육 이수 후 취업률이 크게 높아졌어요.",
+          "en": "The employment rate increased significantly after completing vocational education."
+        },
+        {
+          "situation": "정책을 논의할 때",
+          "ko": "정부는 직업교육 예산을 대폭 늘렸어요.",
+          "en": "The government significantly increased the vocational education budget."
+        },
+        {
+          "situation": "현장 실습을 이야기할 때",
+          "ko": "직업교육은 이론과 실습을 함께 가르쳐요.",
+          "en": "Vocational education teaches both theory and practice."
+        },
+        {
+          "situation": "청소년을 이야기할 때",
+          "ko": "청소년을 위한 직업교육 프로그램이 다양하게 운영돼요.",
+          "en": "Various vocational education programs for youth are being operated."
+        },
+        {
+          "situation": "성인 교육을 이야기할 때",
+          "ko": "직장인도 직업교육을 통해 새로운 기술을 익힐 수 있어요.",
+          "en": "Working adults can also acquire new skills through vocational education."
+        },
+        {
+          "situation": "디지털 시대를 논의할 때",
+          "ko": "디지털 전환 시대에 맞는 직업교육이 필요해요.",
+          "en": "Vocational education suited to the digital transformation era is needed."
+        },
+        {
+          "situation": "글로벌 경쟁력을 논의할 때",
+          "ko": "직업교육의 질이 국가 산업 경쟁력과 직결돼요.",
+          "en": "The quality of vocational education is directly related to national industrial competitiveness."
+        },
+        {
+          "situation": "소외 계층을 이야기할 때",
+          "ko": "취약 계층을 위한 직업교육 지원 사업이 확대됐어요.",
+          "en": "Vocational education support programs for vulnerable groups have expanded."
+        },
+        {
+          "situation": "산업 수요를 이야기할 때",
+          "ko": "기업과 연계한 직업교육이 취업과 직접 연결돼요.",
+          "en": "Vocational education linked with companies is directly connected to employment."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "진로를 논의할 때",
+          "ko": "직업교육을 통해 전문 기술을 배울 수 있어요.",
+          "cn": "通过职业教育可以学习专业技能。"
+        },
+        {
+          "situation": "취업 준비를 이야기할 때",
+          "ko": "직업교육 이수 후 취업률이 크게 높아졌어요.",
+          "cn": "完成职业教育后，就业率大幅提高。"
+        },
+        {
+          "situation": "정책을 논의할 때",
+          "ko": "정부는 직업교육 예산을 대폭 늘렸어요.",
+          "cn": "政府大幅增加了职业教育预算。"
+        },
+        {
+          "situation": "현장 실습을 이야기할 때",
+          "ko": "직업교육은 이론과 실습을 함께 가르쳐요.",
+          "cn": "职业教育同时教授理论和实践。"
+        },
+        {
+          "situation": "청소년을 이야기할 때",
+          "ko": "청소년을 위한 직업교육 프로그램이 다양하게 운영돼요.",
+          "cn": "面向青少年的职业教育项目多种多样。"
+        },
+        {
+          "situation": "성인 교육을 이야기할 때",
+          "ko": "직장인도 직업교육을 통해 새로운 기술을 익힐 수 있어요.",
+          "cn": "在职人员也可以通过职业教育学习新技能。"
+        },
+        {
+          "situation": "디지털 시대를 논의할 때",
+          "ko": "디지털 전환 시대에 맞는 직업교육이 필요해요.",
+          "cn": "需要适合数字化转型时代的职业教育。"
+        },
+        {
+          "situation": "글로벌 경쟁력을 논의할 때",
+          "ko": "직업교육의 질이 국가 산업 경쟁력과 직결돼요.",
+          "cn": "职业教育的质量与国家产业竞争力直接相关。"
+        },
+        {
+          "situation": "소외 계층을 이야기할 때",
+          "ko": "취약 계층을 위한 직업교육 지원 사업이 확대됐어요.",
+          "cn": "面向弱势群体的职业教育支持项目得到了扩展。"
+        },
+        {
+          "situation": "산업 수요를 이야기할 때",
+          "ko": "기업과 연계한 직업교육이 취업과 직접 연결돼요.",
+          "cn": "与企业联动的职业教育直接与就业挂钩。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "진로를 논의할 때",
+          "ko": "직업교육을 통해 전문 기술을 배울 수 있어요.",
+          "vn": "Bạn có thể học kỹ năng chuyên môn qua giáo dục nghề nghiệp."
+        },
+        {
+          "situation": "취업 준비를 이야기할 때",
+          "ko": "직업교육 이수 후 취업률이 크게 높아졌어요.",
+          "vn": "Tỷ lệ có việc làm tăng đáng kể sau khi hoàn thành giáo dục nghề nghiệp."
+        },
+        {
+          "situation": "정책을 논의할 때",
+          "ko": "정부는 직업교육 예산을 대폭 늘렸어요.",
+          "vn": "Chính phủ đã tăng đáng kể ngân sách giáo dục nghề nghiệp."
+        },
+        {
+          "situation": "현장 실습을 이야기할 때",
+          "ko": "직업교육은 이론과 실습을 함께 가르쳐요.",
+          "vn": "Giáo dục nghề nghiệp dạy cả lý thuyết lẫn thực hành."
+        },
+        {
+          "situation": "청소년을 이야기할 때",
+          "ko": "청소년을 위한 직업교육 프로그램이 다양하게 운영돼요.",
+          "vn": "Nhiều chương trình giáo dục nghề nghiệp dành cho thanh thiếu niên đang được vận hành."
+        },
+        {
+          "situation": "성인 교육을 이야기할 때",
+          "ko": "직장인도 직업교육을 통해 새로운 기술을 익힐 수 있어요.",
+          "vn": "Người đi làm cũng có thể học kỹ năng mới qua giáo dục nghề nghiệp."
+        },
+        {
+          "situation": "디지털 시대를 논의할 때",
+          "ko": "디지털 전환 시대에 맞는 직업교육이 필요해요.",
+          "vn": "Cần có giáo dục nghề nghiệp phù hợp với thời đại chuyển đổi số."
+        },
+        {
+          "situation": "글로벌 경쟁력을 논의할 때",
+          "ko": "직업교육의 질이 국가 산업 경쟁력과 직결돼요.",
+          "vn": "Chất lượng giáo dục nghề nghiệp gắn liền trực tiếp với năng lực cạnh tranh công nghiệp quốc gia."
+        },
+        {
+          "situation": "소외 계층을 이야기할 때",
+          "ko": "취약 계층을 위한 직업교육 지원 사업이 확대됐어요.",
+          "vn": "Chương trình hỗ trợ giáo dục nghề nghiệp cho nhóm dễ bị tổn thương đã được mở rộng."
+        },
+        {
+          "situation": "산업 수요를 이야기할 때",
+          "ko": "기업과 연계한 직업교육이 취업과 직접 연결돼요.",
+          "vn": "Giáo dục nghề nghiệp liên kết với doanh nghiệp gắn trực tiếp với việc làm."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 177,
+    "word": "사회기반시설",
+    "pos": "명사",
+    "synonyms": [
+      "인프라",
+      "기간시설"
+    ],
+    "meanings": {
+      "en": "infrastructure, social infrastructure",
+      "cn": "社会基础设施，基础设施",
+      "vn": "cơ sở hạ tầng xã hội, hạ tầng"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "도시 계획을 논의할 때",
+          "ko": "충분한 사회기반시설이 갖춰져야 도시가 발전할 수 있어요.",
+          "en": "Cities can develop only when sufficient infrastructure is in place."
+        },
+        {
+          "situation": "경제 개발을 논의할 때",
+          "ko": "사회기반시설 투자는 경제 성장의 토대가 돼요.",
+          "en": "Infrastructure investment forms the foundation of economic growth."
+        },
+        {
+          "situation": "교통 시스템을 이야기할 때",
+          "ko": "도로, 철도, 항만 등 교통 사회기반시설이 중요해요.",
+          "en": "Transportation infrastructure such as roads, railways, and ports is important."
+        },
+        {
+          "situation": "개발도상국을 논의할 때",
+          "ko": "개발도상국은 사회기반시설 부족으로 어려움을 겪어요.",
+          "en": "Developing countries face difficulties due to insufficient infrastructure."
+        },
+        {
+          "situation": "재난 복구를 이야기할 때",
+          "ko": "자연재해로 파괴된 사회기반시설 복구가 최우선 과제예요.",
+          "en": "Restoring infrastructure destroyed by natural disasters is the top priority."
+        },
+        {
+          "situation": "디지털 인프라를 이야기할 때",
+          "ko": "고속 인터넷망은 현대 사회의 핵심 사회기반시설이에요.",
+          "en": "High-speed internet networks are a key infrastructure of modern society."
+        },
+        {
+          "situation": "민간 투자를 논의할 때",
+          "ko": "사회기반시설 확충을 위해 민관 협력이 필요해요.",
+          "en": "Public-private cooperation is needed to expand infrastructure."
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "친환경 사회기반시설이 지속가능한 도시 발전에 기여해요.",
+          "en": "Eco-friendly infrastructure contributes to sustainable urban development."
+        },
+        {
+          "situation": "노후화를 이야기할 때",
+          "ko": "노후화된 사회기반시설 교체에 막대한 비용이 들어요.",
+          "en": "Replacing aging infrastructure costs an enormous amount."
+        },
+        {
+          "situation": "스마트 시티를 논의할 때",
+          "ko": "스마트 사회기반시설이 도시의 효율성을 크게 높여요.",
+          "en": "Smart infrastructure greatly increases urban efficiency."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "도시 계획을 논의할 때",
+          "ko": "충분한 사회기반시설이 갖춰져야 도시가 발전할 수 있어요.",
+          "cn": "只有具备充足的社会基础设施，城市才能发展。"
+        },
+        {
+          "situation": "경제 개발을 논의할 때",
+          "ko": "사회기반시설 투자는 경제 성장의 토대가 돼요.",
+          "cn": "社会基础设施投资是经济增长的基础。"
+        },
+        {
+          "situation": "교통 시스템을 이야기할 때",
+          "ko": "도로, 철도, 항만 등 교통 사회기반시설이 중요해요.",
+          "cn": "道路、铁路、港口等交通社会基础设施很重要。"
+        },
+        {
+          "situation": "개발도상국을 논의할 때",
+          "ko": "개발도상국은 사회기반시설 부족으로 어려움을 겪어요.",
+          "cn": "发展中国家因社会基础设施不足而面临困难。"
+        },
+        {
+          "situation": "재난 복구를 이야기할 때",
+          "ko": "자연재해로 파괴된 사회기반시설 복구가 최우선 과제예요.",
+          "cn": "恢复被自然灾害破坏的社会基础设施是首要任务。"
+        },
+        {
+          "situation": "디지털 인프라를 이야기할 때",
+          "ko": "고속 인터넷망은 현대 사회의 핵심 사회기반시설이에요.",
+          "cn": "高速互联网是现代社会核心的社会基础设施。"
+        },
+        {
+          "situation": "민간 투자를 논의할 때",
+          "ko": "사회기반시설 확충을 위해 민관 협력이 필요해요.",
+          "cn": "扩充社会基础设施需要公私合作。"
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "친환경 사회기반시설이 지속가능한 도시 발전에 기여해요.",
+          "cn": "环保社会基础设施有助于可持续城市发展。"
+        },
+        {
+          "situation": "노후화를 이야기할 때",
+          "ko": "노후화된 사회기반시설 교체에 막대한 비용이 들어요.",
+          "cn": "更换老化的社会基础设施需要巨额费用。"
+        },
+        {
+          "situation": "스마트 시티를 논의할 때",
+          "ko": "스마트 사회기반시설이 도시의 효율성을 크게 높여요.",
+          "cn": "智慧社会基础设施大幅提高了城市效率。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "도시 계획을 논의할 때",
+          "ko": "충분한 사회기반시설이 갖춰져야 도시가 발전할 수 있어요.",
+          "vn": "Thành phố chỉ có thể phát triển khi có đủ cơ sở hạ tầng xã hội."
+        },
+        {
+          "situation": "경제 개발을 논의할 때",
+          "ko": "사회기반시설 투자는 경제 성장의 토대가 돼요.",
+          "vn": "Đầu tư cơ sở hạ tầng là nền tảng của tăng trưởng kinh tế."
+        },
+        {
+          "situation": "교통 시스템을 이야기할 때",
+          "ko": "도로, 철도, 항만 등 교통 사회기반시설이 중요해요.",
+          "vn": "Cơ sở hạ tầng giao thông như đường bộ, đường sắt và cảng biển rất quan trọng."
+        },
+        {
+          "situation": "개발도상국을 논의할 때",
+          "ko": "개발도상국은 사회기반시설 부족으로 어려움을 겪어요.",
+          "vn": "Các nước đang phát triển gặp khó khăn do thiếu cơ sở hạ tầng xã hội."
+        },
+        {
+          "situation": "재난 복구를 이야기할 때",
+          "ko": "자연재해로 파괴된 사회기반시설 복구가 최우선 과제예요.",
+          "vn": "Khôi phục cơ sở hạ tầng bị phá hủy bởi thiên tai là ưu tiên hàng đầu."
+        },
+        {
+          "situation": "디지털 인프라를 이야기할 때",
+          "ko": "고속 인터넷망은 현대 사회의 핵심 사회기반시설이에요.",
+          "vn": "Mạng internet tốc độ cao là cơ sở hạ tầng cốt lõi của xã h회 현대."
+        },
+        {
+          "situation": "민간 투자를 논의할 때",
+          "ko": "사회기반시설 확충을 위해 민관 협력이 필요해요.",
+          "vn": "Cần hợp tác công tư để mở rộng cơ sở hạ tầng."
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "친환경 사회기반시설이 지속가능한 도시 발전에 기여해요.",
+          "vn": "Cơ sở hạ tầng thân thiện môi trường góp phần vào phát triển đô thị bền vững."
+        },
+        {
+          "situation": "노후화를 이야기할 때",
+          "ko": "노후화된 사회기반시설 교체에 막대한 비용이 들어요.",
+          "vn": "Thay thế cơ sở hạ tầng xuống cấp tốn chi phí khổng lồ."
+        },
+        {
+          "situation": "스마트 시티를 논의할 때",
+          "ko": "스마트 사회기반시설이 도시의 효율성을 크게 높여요.",
+          "vn": "Cơ sở hạ tầng thông minh nâng cao đáng kể hiệu quả đô thị."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 181,
+    "word": "무역협정",
+    "pos": "명사",
+    "synonyms": [
+      "통상협정",
+      "FTA"
+    ],
+    "meanings": {
+      "en": "trade agreement, free trade agreement",
+      "cn": "贸易协定，自由贸易协定",
+      "vn": "hiệp định thương mại, FTA"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "경제 외교를 논의할 때",
+          "ko": "두 나라는 자유 무역협정을 체결하기로 합의했어요.",
+          "en": "The two countries agreed to conclude a free trade agreement."
+        },
+        {
+          "situation": "수출 시장을 이야기할 때",
+          "ko": "무역협정 체결로 수출 기업들의 관세 부담이 줄었어요.",
+          "en": "The tariff burden on export companies decreased after the trade agreement was concluded."
+        },
+        {
+          "situation": "협상 과정을 이야기할 때",
+          "ko": "무역협정 협상은 수년에 걸쳐 진행됐어요.",
+          "en": "Trade agreement negotiations took place over several years."
+        },
+        {
+          "situation": "국내 산업을 논의할 때",
+          "ko": "무역협정으로 인해 경쟁력 없는 국내 산업이 타격을 받을 수 있어요.",
+          "en": "Domestic industries without competitiveness may be hurt by trade agreements."
+        },
+        {
+          "situation": "소비자를 이야기할 때",
+          "ko": "무역협정으로 수입품 가격이 낮아져 소비자 혜택이 늘었어요.",
+          "en": "Consumers benefited more as imported goods prices fell due to trade agreements."
+        },
+        {
+          "situation": "지역 통합을 논의할 때",
+          "ko": "역내 무역협정은 지역 경제 통합을 촉진해요.",
+          "en": "Regional trade agreements promote regional economic integration."
+        },
+        {
+          "situation": "보호무역을 이야기할 때",
+          "ko": "보호무역주의 강화로 새로운 무역협정 체결이 어려워졌어요.",
+          "en": "The strengthening of protectionism has made it harder to conclude new trade agreements."
+        },
+        {
+          "situation": "서비스 무역을 논의할 때",
+          "ko": "최근 무역협정은 상품뿐 아니라 서비스 분야도 포함해요.",
+          "en": "Recent trade agreements cover not only goods but also services."
+        },
+        {
+          "situation": "지식재산권을 이야기할 때",
+          "ko": "현대 무역협정에는 지식재산권 보호 조항도 포함돼요.",
+          "en": "Modern trade agreements also include provisions for intellectual property protection."
+        },
+        {
+          "situation": "다자 협정을 논의할 때",
+          "ko": "양자 무역협정 외에도 다자간 무역협정이 중요해요.",
+          "en": "Multilateral trade agreements are important in addition to bilateral ones."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "경제 외교를 논의할 때",
+          "ko": "두 나라는 자유 무역협정을 체결하기로 합의했어요.",
+          "cn": "两国同意签订自由贸易协定。"
+        },
+        {
+          "situation": "수출 시장을 이야기할 때",
+          "ko": "무역협정 체결로 수출 기업들의 관세 부담이 줄었어요.",
+          "cn": "贸易协定签订后，出口企业的关税负担减轻了。"
+        },
+        {
+          "situation": "협상 과정을 이야기할 때",
+          "ko": "무역협정 협상은 수년에 걸쳐 진행됐어요.",
+          "cn": "贸易协定谈判进行了数年。"
+        },
+        {
+          "situation": "국내 산업을 논의할 때",
+          "ko": "무역협정으로 인해 경쟁력 없는 국내 산업이 타격을 받을 수 있어요.",
+          "cn": "贸易协定可能使缺乏竞争力的国内产业受到冲击。"
+        },
+        {
+          "situation": "소비자를 이야기할 때",
+          "ko": "무역협정으로 수입품 가격이 낮아져 소비자 혜택이 늘었어요.",
+          "cn": "贸易协定使进口商品价格下降，消费者受益增加。"
+        },
+        {
+          "situation": "지역 통합을 논의할 때",
+          "ko": "역내 무역협정은 지역 경제 통합을 촉진해요.",
+          "cn": "区域贸易协定促进了地区经济一体化。"
+        },
+        {
+          "situation": "보호무역을 이야기할 때",
+          "ko": "보호무역주의 강화로 새로운 무역협정 체결이 어려워졌어요.",
+          "cn": "随着保护主义的加强，签订新贸易协定变得更加困难。"
+        },
+        {
+          "situation": "서비스 무역을 논의할 때",
+          "ko": "최근 무역협정은 상품뿐 아니라 서비스 분야도 포함해요.",
+          "cn": "近来的贸易协定不仅涵盖商品，还包括服务领域。"
+        },
+        {
+          "situation": "지식재산권을 이야기할 때",
+          "ko": "현대 무역협정에는 지식재산권 보호 조항도 포함돼요.",
+          "cn": "现代贸易协定还包含知识产权保护条款。"
+        },
+        {
+          "situation": "다자 협정을 논의할 때",
+          "ko": "양자 무역협정 외에도 다자간 무역협정이 중요해요.",
+          "cn": "除双边贸易协定外，多边贸易协定也很重要。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "경제 외교를 논의할 때",
+          "ko": "두 나라는 자유 무역협정을 체결하기로 합의했어요.",
+          "vn": "Hai nước đồng ý ký kết hiệp định thương mại tự do."
+        },
+        {
+          "situation": "수출 시장을 이야기할 때",
+          "ko": "무역협정 체결로 수출 기업들의 관세 부담이 줄었어요.",
+          "vn": "Gánh nặng thuế quan của các công ty xuất khẩu giảm sau khi hiệp định thương mại được ký kết."
+        },
+        {
+          "situation": "협상 과정을 이야기할 때",
+          "ko": "무역협정 협상은 수년에 걸쳐 진행됐어요.",
+          "vn": "Đàm phán hiệp định thương mại đã diễn ra trong nhiều năm."
+        },
+        {
+          "situation": "국내 산업을 논의할 때",
+          "ko": "무역협정으로 인해 경쟁력 없는 국내 산업이 타격을 받을 수 있어요.",
+          "vn": "Các ngành công nghiệp trong nước thiếu cạnh tranh có thể bị ảnh hưởng bởi hiệp định thương mại."
+        },
+        {
+          "situation": "소비자를 이야기할 때",
+          "ko": "무역협정으로 수입품 가격이 낮아져 소비자 혜택이 늘었어요.",
+          "vn": "Người tiêu dùng được hưởng lợi nhiều hơn khi giá hàng nhập khẩu giảm do hiệp định thương mại."
+        },
+        {
+          "situation": "지역 통합을 논의할 때",
+          "ko": "역내 무역협정은 지역 경제 통합을 촉진해요.",
+          "vn": "Hiệp định thương mại khu vực thúc đẩy hội nhập kinh tế khu vực."
+        },
+        {
+          "situation": "보호무역을 이야기할 때",
+          "ko": "보호무역주의 강화로 새로운 무역협정 체결이 어려워졌어요.",
+          "vn": "Sự tăng cường chủ nghĩa bảo hộ thương mại khiến việc ký kết hiệp định thương mại mới trở nên khó khăn hơn."
+        },
+        {
+          "situation": "서비스 무역을 논의할 때",
+          "ko": "최근 무역협정은 상품뿐 아니라 서비스 분야도 포함해요.",
+          "vn": "Các hiệp định thương mại gần đây bao gồm không chỉ hàng hóa mà còn cả lĩnh vực dịch vụ."
+        },
+        {
+          "situation": "지식재산권을 이야기할 때",
+          "ko": "현대 무역협정에는 지식재산권 보호 조항도 포함돼요.",
+          "vn": "Các hiệp định thương mại hiện đại cũng bao gồm các điều khoản bảo vệ sở hữu trí tuệ."
+        },
+        {
+          "situation": "다자 협정을 논의할 때",
+          "ko": "양자 무역협정 외에도 다자간 무역협정이 중요해요.",
+          "vn": "Hiệp định thương mại đa phương cũng quan trọng ngoài các hiệp định song phương."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 182,
+    "word": "복지수당",
+    "pos": "명사",
+    "synonyms": [
+      "수당",
+      "지원금"
+    ],
+    "meanings": {
+      "en": "welfare benefit, allowance",
+      "cn": "福利补贴，津贴",
+      "vn": "trợ cấp phúc lợi, phụ cấp"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "사회 보호를 이야기할 때",
+          "ko": "저소득 가구는 정부로부터 복지수당을 받을 수 있어요.",
+          "en": "Low-income households can receive welfare benefits from the government."
+        },
+        {
+          "situation": "신청 절차를 설명할 때",
+          "ko": "복지수당을 받으려면 주민센터에 신청서를 제출해야 해요.",
+          "en": "To receive welfare benefits, you must submit an application at the community center."
+        },
+        {
+          "situation": "수급 자격을 이야기할 때",
+          "ko": "소득과 재산 기준을 충족해야 복지수당을 받을 수 있어요.",
+          "en": "You must meet income and asset standards to receive welfare benefits."
+        },
+        {
+          "situation": "예산을 논의할 때",
+          "ko": "복지수당 지출이 정부 예산의 상당 부분을 차지해요.",
+          "en": "Welfare benefit spending accounts for a significant portion of the government budget."
+        },
+        {
+          "situation": "아동을 이야기할 때",
+          "ko": "아동 복지수당이 가정의 양육 부담을 줄여줘요.",
+          "en": "Child welfare benefits reduce the childcare burden on families."
+        },
+        {
+          "situation": "노인을 이야기할 때",
+          "ko": "노인 복지수당으로 어르신들의 생활이 안정됐어요.",
+          "en": "The lives of elderly people have stabilized thanks to elderly welfare benefits."
+        },
+        {
+          "situation": "부정 수급을 이야기할 때",
+          "ko": "복지수당 부정 수급 문제를 막기 위한 점검이 필요해요.",
+          "en": "Inspections are needed to prevent fraudulent receipt of welfare benefits."
+        },
+        {
+          "situation": "개혁을 논의할 때",
+          "ko": "복지수당 제도를 더 효율적으로 운영하기 위한 개혁이 논의됐어요.",
+          "en": "Reform to operate the welfare benefit system more efficiently was discussed."
+        },
+        {
+          "situation": "장애인을 이야기할 때",
+          "ko": "장애인 복지수당이 자립 생활을 돕고 있어요.",
+          "en": "Disability welfare benefits are helping people with disabilities live independently."
+        },
+        {
+          "situation": "국제 비교를 할 때",
+          "ko": "선진국일수록 복지수당 종류와 금액이 다양하고 많아요.",
+          "en": "The more developed the country, the more varied and generous the welfare benefits."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "사회 보호를 이야기할 때",
+          "ko": "저소득 가구는 정부로부터 복지수당을 받을 수 있어요.",
+          "cn": "低收入家庭可以从政府获得福利补贴。"
+        },
+        {
+          "situation": "신청 절차를 설명할 때",
+          "ko": "복지수당을 받으려면 주민센터에 신청서를 제출해야 해요.",
+          "cn": "要领取福利补贴，需要向社区中心提交申请书。"
+        },
+        {
+          "situation": "수급 자격을 이야기할 때",
+          "ko": "소득과 재산 기준을 충족해야 복지수당을 받을 수 있어요.",
+          "cn": "必须满足收入和财产标准才能获得福利补贴。"
+        },
+        {
+          "situation": "예산을 논의할 때",
+          "ko": "복지수당 지출이 정부 예산의 상당 부분을 차지해요.",
+          "cn": "福利补贴支出占政府预算的相当大一部分。"
+        },
+        {
+          "situation": "아동을 이야기할 때",
+          "ko": "아동 복지수당이 가정의 양육 부담을 줄여줘요.",
+          "cn": "儿童福利补贴减轻了家庭的育儿负担。"
+        },
+        {
+          "situation": "노인을 이야기할 때",
+          "ko": "노인 복지수당으로 어르신들의 생활이 안정됐어요.",
+          "cn": "得益于老年人福利补贴，老人们的生活稳定了。"
+        },
+        {
+          "situation": "부정 수급을 이야기할 때",
+          "ko": "복지수당 부정 수급 문제를 막기 위한 점검이 필요해요.",
+          "cn": "需要检查以防止福利补贴的不当受领。"
+        },
+        {
+          "situation": "개혁을 논의할 때",
+          "ko": "복지수당 제도를 더 효율적으로 운영하기 위한 개혁이 논의됐어요.",
+          "cn": "讨论了更高效运营福利补贴制度的改革。"
+        },
+        {
+          "situation": "장애인을 이야기할 때",
+          "ko": "장애인 복지수당이 자립 생활을 돕고 있어요.",
+          "cn": "残疾人福利补贴正在帮助他们独立生活。"
+        },
+        {
+          "situation": "국제 비교를 할 때",
+          "ko": "선진국일수록 복지수당 종류와 금액이 다양하고 많아요.",
+          "cn": "越是发达国家，福利补贴的种类和金额越多越丰厚。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "사회 보호를 이야기할 때",
+          "ko": "저소득 가구는 정부로부터 복지수당을 받을 수 있어요.",
+          "vn": "Hộ gia đình thu nhập thấp có thể nhận trợ cấp phúc lợi từ chính phủ."
+        },
+        {
+          "situation": "신청 절차를 설명할 때",
+          "ko": "복지수당을 받으려면 주민센터에 신청서를 제출해야 해요.",
+          "vn": "Để nhận trợ cấp phúc lợi, bạn phải nộp đơn tại trung tâm cộng đồng."
+        },
+        {
+          "situation": "수급 자격을 이야기할 때",
+          "ko": "소득과 재산 기준을 충족해야 복지수당을 받을 수 있어요.",
+          "vn": "Bạn phải đáp ứng tiêu chuẩn thu nhập và tài sản để nhận trợ cấp phúc lợi."
+        },
+        {
+          "situation": "예산을 논의할 때",
+          "ko": "복지수당 지출이 정부 예산의 상당 부분을 차지해요.",
+          "vn": "Chi tiêu trợ cấp phúc lợi chiếm một phần đáng kể trong ngân sách chính phủ."
+        },
+        {
+          "situation": "아동을 이야기할 때",
+          "ko": "아동 복지수당이 가정의 양육 부담을 줄여줘요.",
+          "vn": "Trợ cấp phúc lợi trẻ em giảm gánh nặng nuôi con cho gia đình."
+        },
+        {
+          "situation": "노인을 이야기할 때",
+          "ko": "노인 복지수당으로 어르신들의 생활이 안정됐어요.",
+          "vn": "Cuộc sống của người cao tuổi được ổn định nhờ trợ cấp phúc lợi người cao tuổi."
+        },
+        {
+          "situation": "부정 수급을 이야기할 때",
+          "ko": "복지수당 부정 수급 문제를 막기 위한 점검이 필요해요.",
+          "vn": "Cần kiểm tra để ngăn chặn nhận trái phép trợ cấp phúc lợi."
+        },
+        {
+          "situation": "개혁을 논의할 때",
+          "ko": "복지수당 제도를 더 효율적으로 운영하기 위한 개혁이 논의됐어요.",
+          "vn": "Cải cách để vận hành hệ thống trợ cấp phúc lợi hiệu quả hơn đã được thảo luận."
+        },
+        {
+          "situation": "장애인을 이야기할 때",
+          "ko": "장애인 복지수당이 자립 생활을 돕고 있어요.",
+          "vn": "Trợ cấp phúc lợi người khuyết tật đang giúp họ sống tự lập."
+        },
+        {
+          "situation": "국제 비교를 할 때",
+          "ko": "선진국일수록 복지수당 종류와 금액이 다양하고 많아요.",
+          "vn": "Quốc gia càng phát triển thì trợ cấp phúc lợi càng đa dạng và nhiều hơn."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 183,
+    "word": "공공서비스",
+    "pos": "명사",
+    "synonyms": [
+      "공공 서비스",
+      "행정 서비스"
+    ],
+    "meanings": {
+      "en": "public service, government service",
+      "cn": "公共服务，行政服务",
+      "vn": "dịch vụ công, dịch vụ công cộng"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "행정을 이야기할 때",
+          "ko": "시민들은 다양한 공공서비스를 주민센터에서 이용할 수 있어요.",
+          "en": "Citizens can use various public services at community centers."
+        },
+        {
+          "situation": "디지털화를 논의할 때",
+          "ko": "공공서비스 디지털화로 행정 처리가 편리해졌어요.",
+          "en": "Administrative processing has become convenient with the digitalization of public services."
+        },
+        {
+          "situation": "민영화를 논의할 때",
+          "ko": "일부 공공서비스 민영화가 서비스 질 저하를 가져올 수 있어요.",
+          "en": "Privatization of some public services can lead to a decline in service quality."
+        },
+        {
+          "situation": "접근성을 이야기할 때",
+          "ko": "모든 시민이 동등하게 공공서비스를 이용할 수 있어야 해요.",
+          "en": "All citizens should be able to use public services equally."
+        },
+        {
+          "situation": "예산을 논의할 때",
+          "ko": "공공서비스 예산 삭감이 서비스 질에 영향을 미쳐요.",
+          "en": "Budget cuts for public services affect service quality."
+        },
+        {
+          "situation": "교통을 이야기할 때",
+          "ko": "대중교통은 중요한 공공서비스 중 하나예요.",
+          "en": "Public transportation is one of the important public services."
+        },
+        {
+          "situation": "의료를 이야기할 때",
+          "ko": "의료 공공서비스 강화로 국민 건강이 향상됐어요.",
+          "en": "National health improved with the strengthening of public medical services."
+        },
+        {
+          "situation": "만족도를 이야기할 때",
+          "ko": "공공서비스 만족도 조사를 통해 서비스 개선점을 찾아요.",
+          "en": "We find areas for service improvement through public service satisfaction surveys."
+        },
+        {
+          "situation": "지방 격차를 논의할 때",
+          "ko": "농촌 지역 공공서비스 접근성 개선이 필요해요.",
+          "en": "Improving access to public services in rural areas is necessary."
+        },
+        {
+          "situation": "AI 활용을 논의할 때",
+          "ko": "인공지능을 활용한 공공서비스가 점점 늘어나고 있어요.",
+          "en": "Public services utilizing artificial intelligence are increasingly growing."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "행정을 이야기할 때",
+          "ko": "시민들은 다양한 공공서비스를 주민센터에서 이용할 수 있어요.",
+          "cn": "市民可以在居民中心享受多种公共服务。"
+        },
+        {
+          "situation": "디지털화를 논의할 때",
+          "ko": "공공서비스 디지털화로 행정 처리가 편리해졌어요.",
+          "cn": "公共服务数字化使行政处理更加便利。"
+        },
+        {
+          "situation": "민영화를 논의할 때",
+          "ko": "일부 공공서비스 민영화가 서비스 질 저하를 가져올 수 있어요.",
+          "cn": "部分公共服务私有化可能导致服务质量下降。"
+        },
+        {
+          "situation": "접근성을 이야기할 때",
+          "ko": "모든 시민이 동등하게 공공서비스를 이용할 수 있어야 해요.",
+          "cn": "所有市民应该能够平等地享受公共服务。"
+        },
+        {
+          "situation": "예산을 논의할 때",
+          "ko": "공공서비스 예산 삭감이 서비스 질에 영향을 미쳐요.",
+          "cn": "公共服务预算削减影响服务质量。"
+        },
+        {
+          "situation": "교통을 이야기할 때",
+          "ko": "대중교통은 중요한 공공서비스 중 하나예요.",
+          "cn": "公共交通是重要的公共服务之一。"
+        },
+        {
+          "situation": "의료를 이야기할 때",
+          "ko": "의료 공공서비스 강화로 국민 건강이 향상됐어요.",
+          "cn": "医疗公共服务加强后，国民健康得到了改善。"
+        },
+        {
+          "situation": "만족도를 이야기할 때",
+          "ko": "공공서비스 만족도 조사를 통해 서비스 개선점을 찾아요.",
+          "cn": "通过公共服务满意度调查寻找服务改进点。"
+        },
+        {
+          "situation": "지방 격차를 논의할 때",
+          "ko": "농촌 지역 공공서비스 접근성 개선이 필요해요.",
+          "cn": "需要改善农村地区公共服务的可及性。"
+        },
+        {
+          "situation": "AI 활용을 논의할 때",
+          "ko": "인공지능을 활용한 공공서비스가 점점 늘어나고 있어요.",
+          "cn": "利用人工智能的公共服务越来越多。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "행정을 이야기할 때",
+          "ko": "시민들은 다양한 공공서비스를 주민센터에서 이용할 수 있어요.",
+          "vn": "Người dân có thể sử dụng nhiều dịch vụ công tại trung tâm cộng đồng."
+        },
+        {
+          "situation": "디지털화를 논의할 때",
+          "ko": "공공서비스 디지털화로 행정 처리가 편리해졌어요.",
+          "vn": "Xử lý hành chính trở nên thuận tiện với số hóa dịch vụ công."
+        },
+        {
+          "situation": "민영화를 논의할 때",
+          "ko": "일부 공공서비스 민영화가 서비스 질 저하를 가져올 수 있어요.",
+          "vn": "Tư nhân hóa một số dịch vụ công có thể dẫn đến giảm chất lượng dịch vụ."
+        },
+        {
+          "situation": "접근성을 이야기할 때",
+          "ko": "모든 시민이 동등하게 공공서비스를 이용할 수 있어야 해요.",
+          "vn": "Tất cả công dân phải có thể sử dụng dịch vụ công một cách bình đẳng."
+        },
+        {
+          "situation": "예산을 논의할 때",
+          "ko": "공공서비스 예산 삭감이 서비스 질에 영향을 미쳐요.",
+          "vn": "Cắt giảm ngân sách dịch vụ công ảnh hưởng đến chất lượng dịch vụ."
+        },
+        {
+          "situation": "교통을 이야기할 때",
+          "ko": "대중교통은 중요한 공공서비스 중 하나예요.",
+          "vn": "Giao thông công cộng là một trong những dịch vụ công quan trọng."
+        },
+        {
+          "situation": "의료를 이야기할 때",
+          "ko": "의료 공공서비스 강화로 국민 건강이 향상됐어요.",
+          "vn": "Sức khỏe quốc dân được cải thiện khi dịch vụ y tế công được tăng cường."
+        },
+        {
+          "situation": "만족도를 이야기할 때",
+          "ko": "공공서비스 만족도 조사를 통해 서비스 개선점을 찾아요.",
+          "vn": "Chúng tôi tìm điểm cải thiện dịch vụ thông qua khảo sát hài lòng với dịch vụ công."
+        },
+        {
+          "situation": "지방 격차를 논의할 때",
+          "ko": "농촌 지역 공공서비스 접근성 개선이 필요해요.",
+          "vn": "Cần cải thiện khả năng tiếp cận dịch vụ công ở vùng nông thôn."
+        },
+        {
+          "situation": "AI 활용을 논의할 때",
+          "ko": "인공지능을 활용한 공공서비스가 점점 늘어나고 있어요.",
+          "vn": "Dịch vụ công tận dụng trí tuệ nhân tạo ngày càng tăng lên."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 184,
+    "word": "노동시장",
+    "pos": "명사",
+    "synonyms": [
+      "고용시장",
+      "취업시장"
+    ],
+    "meanings": {
+      "en": "labor market, job market",
+      "cn": "劳动市场，就业市场",
+      "vn": "thị trường lao động, thị trường việc làm"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "취업 현황을 이야기할 때",
+          "ko": "청년 노동시장 진입이 점점 어려워지고 있어요.",
+          "en": "It is becoming increasingly difficult for youth to enter the labor market."
+        },
+        {
+          "situation": "임금을 논의할 때",
+          "ko": "노동시장에서 공급이 수요를 초과하면 임금이 낮아져요.",
+          "en": "When supply exceeds demand in the labor market, wages decrease."
+        },
+        {
+          "situation": "고용 정책을 이야기할 때",
+          "ko": "정부가 노동시장 활성화를 위한 정책을 발표했어요.",
+          "en": "The government announced policies to invigorate the labor market."
+        },
+        {
+          "situation": "디지털 전환을 논의할 때",
+          "ko": "자동화로 인해 노동시장 구조가 변화하고 있어요.",
+          "en": "The structure of the labor market is changing due to automation."
+        },
+        {
+          "situation": "외국인 노동자를 이야기할 때",
+          "ko": "외국인 노동자 유입이 노동시장에 영향을 미쳐요.",
+          "en": "The inflow of foreign workers affects the labor market."
+        },
+        {
+          "situation": "유연성을 논의할 때",
+          "ko": "노동시장 유연성이 기업의 경쟁력에 영향을 줘요.",
+          "en": "Labor market flexibility affects corporate competitiveness."
+        },
+        {
+          "situation": "임금 격차를 이야기할 때",
+          "ko": "성별 임금 격차는 노동시장의 불평등을 보여줘요.",
+          "en": "The gender wage gap reveals inequality in the labor market."
+        },
+        {
+          "situation": "고령화를 논의할 때",
+          "ko": "고령화로 노동시장에서 고령 근로자 비율이 높아지고 있어요.",
+          "en": "The proportion of older workers in the labor market is increasing due to aging."
+        },
+        {
+          "situation": "기술 부족을 이야기할 때",
+          "ko": "IT 분야에서 노동시장의 기술 인력 부족이 심각해요.",
+          "en": "The shortage of skilled workers in the IT sector's labor market is serious."
+        },
+        {
+          "situation": "경기와 연결할 때",
+          "ko": "경기 침체기에는 노동시장이 얼어붙어요.",
+          "en": "The labor market freezes during a recession."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "취업 현황을 이야기할 때",
+          "ko": "청년 노동시장 진입이 점점 어려워지고 있어요.",
+          "cn": "青年进入劳动市场越来越困难。"
+        },
+        {
+          "situation": "임금을 논의할 때",
+          "ko": "노동시장에서 공급이 수요를 초과하면 임금이 낮아져요.",
+          "cn": "劳动市场供过于求时，工资会降低。"
+        },
+        {
+          "situation": "고용 정책을 이야기할 때",
+          "ko": "정부가 노동시장 활성화를 위한 정책을 발표했어요.",
+          "cn": "政府宣布了激活劳动市场的政策。"
+        },
+        {
+          "situation": "디지털 전환을 논의할 때",
+          "ko": "자동화로 인해 노동시장 구조가 변화하고 있어요.",
+          "cn": "由于自动化，劳动市场结构正在发生变化。"
+        },
+        {
+          "situation": "외국인 노동자를 이야기할 때",
+          "ko": "외국인 노동자 유입이 노동시장에 영향을 미쳐요.",
+          "cn": "外籍劳动者的涌入影响着劳动市场。"
+        },
+        {
+          "situation": "유연성을 논의할 때",
+          "ko": "노동시장 유연성이 기업의 경쟁력에 영향을 줘요.",
+          "cn": "劳动市场灵活性影响企业竞争力。"
+        },
+        {
+          "situation": "임금 격차를 이야기할 때",
+          "ko": "성별 임금 격차는 노동시장의 불평등을 보여줘요.",
+          "cn": "性别工资差距显示了劳动市场的不平等。"
+        },
+        {
+          "situation": "고령화를 논의할 때",
+          "ko": "고령화로 노동시장에서 고령 근로자 비율이 높아지고 있어요.",
+          "cn": "随着老龄化，劳动市场中老年员工比例升高。"
+        },
+        {
+          "situation": "기술 부족을 이야기할 때",
+          "ko": "IT 분야에서 노동시장의 기술 인력 부족이 심각해요.",
+          "cn": "IT领域劳动市场的技术人才短缺问题严重。"
+        },
+        {
+          "situation": "경기와 연결할 때",
+          "ko": "경기 침체기에는 노동시장이 얼어붙어요.",
+          "cn": "经济衰退期，劳动市场冻结。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "취업 현황을 이야기할 때",
+          "ko": "청년 노동시장 진입이 점점 어려워지고 있어요.",
+          "vn": "Việc gia nhập thị trường lao động của thanh niên ngày càng khó khăn hơn."
+        },
+        {
+          "situation": "임금을 논의할 때",
+          "ko": "노동시장에서 공급이 수요를 초과하면 임금이 낮아져요.",
+          "vn": "Khi cung vượt cầu trong thị trường lao동, lương giảm xuống."
+        },
+        {
+          "situation": "고용 정책을 이야기할 때",
+          "ko": "정부가 노동시장 활성화를 위한 정책을 발표했어요.",
+          "vn": "Chính phủ công bố chính sách để kích hoạt thị trường lao động."
+        },
+        {
+          "situation": "디지털 전환을 논의할 때",
+          "ko": "자동화로 인해 노동시장 구조가 변화하고 있어요.",
+          "vn": "Cơ cấu thị trường lao động đang thay đổi do tự động hóa."
+        },
+        {
+          "situation": "외국인 노동자를 이야기할 때",
+          "ko": "외국인 노동자 유입이 노동시장에 영향을 미쳐요.",
+          "vn": "Dòng chảy lao động nước ngoài ảnh hưởng đến thị trường lao động."
+        },
+        {
+          "situation": "유연성을 논의할 때",
+          "ko": "노동시장 유연성이 기업의 경쟁력에 영향을 줘요.",
+          "vn": "Tính linh hoạt của thị trường lao động ảnh hưởng đến năng lực cạnh tranh của doanh nghiệp."
+        },
+        {
+          "situation": "임금 격차를 이야기할 때",
+          "ko": "성별 임금 격차는 노동시장의 불평등을 보여줘요.",
+          "vn": "Khoảng cách lương giới tính cho thấy sự bất bình đẳng trong thị trường lao động."
+        },
+        {
+          "situation": "고령화를 논의할 때",
+          "ko": "고령화로 노동시장에서 고령 근로자 비율이 높아지고 있어요.",
+          "vn": "Tỷ lệ lao động lớn tuổi trong thị trường lao động tăng lên do già hóa."
+        },
+        {
+          "situation": "기술 부족을 이야기할 때",
+          "ko": "IT 분야에서 노동시장의 기술 인력 부족이 심각해요.",
+          "vn": "Tình trạng thiếu hụt lao động kỹ thuật trong thị trường lao động lĩnh vực IT rất nghiêm trọng."
+        },
+        {
+          "situation": "경기와 연결할 때",
+          "ko": "경기 침체기에는 노동시장이 얼어붙어요.",
+          "vn": "Thị trường lao động đóng băng trong thời kỳ suy thoái kinh tế."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 185,
+    "word": "인적자원",
+    "pos": "명사",
+    "synonyms": [
+      "인재",
+      "인력"
+    ],
+    "meanings": {
+      "en": "human resources, human capital",
+      "cn": "人力资源，人才",
+      "vn": "nguồn nhân lực, vốn con người"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "기업 경영을 이야기할 때",
+          "ko": "기업의 가장 중요한 자산은 인적자원이에요.",
+          "en": "The most important asset of a company is its human resources."
+        },
+        {
+          "situation": "교육 투자를 논의할 때",
+          "ko": "인적자원 개발을 위한 교육 투자가 필수적이에요.",
+          "en": "Educational investment for human resource development is essential."
+        },
+        {
+          "situation": "채용을 이야기할 때",
+          "ko": "회사는 우수한 인적자원을 확보하기 위해 경쟁하고 있어요.",
+          "en": "Companies are competing to secure excellent human resources."
+        },
+        {
+          "situation": "국가 발전을 논의할 때",
+          "ko": "한 나라의 발전은 인적자원의 질에 달려 있어요.",
+          "en": "A country's development depends on the quality of its human resources."
+        },
+        {
+          "situation": "HR을 이야기할 때",
+          "ko": "인적자원 관리는 직원의 역량을 최대화하는 것을 목표로 해요.",
+          "en": "Human resource management aims to maximize employee competency."
+        },
+        {
+          "situation": "글로벌 경쟁을 이야기할 때",
+          "ko": "글로벌 기업들이 우수 인적자원 유치를 위해 경쟁해요.",
+          "en": "Global companies compete to attract excellent human resources."
+        },
+        {
+          "situation": "다양성을 논의할 때",
+          "ko": "다양한 인적자원이 조직의 창의성을 높여요.",
+          "en": "Diverse human resources enhance organizational creativity."
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "인적자원 개발이 경제 발전의 핵심 요소예요.",
+          "en": "Human resource development is a key factor in economic development."
+        },
+        {
+          "situation": "이민 정책을 이야기할 때",
+          "ko": "해외 우수 인적자원을 유치하는 이민 정책이 도입됐어요.",
+          "en": "Immigration policies to attract excellent overseas human resources were introduced."
+        },
+        {
+          "situation": "은퇴를 논의할 때",
+          "ko": "숙련된 인적자원의 조기 은퇴는 기업에 큰 손실이에요.",
+          "en": "Early retirement of skilled human resources is a great loss to companies."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "기업 경영을 이야기할 때",
+          "ko": "기업의 가장 중요한 자산은 인적자원이에요.",
+          "cn": "企业最重要的资产是人力资源。"
+        },
+        {
+          "situation": "교육 투자를 논의할 때",
+          "ko": "인적자원 개발을 위한 교육 투자가 필수적이에요.",
+          "cn": "为开发人力资源进行教育投资是必不可少的。"
+        },
+        {
+          "situation": "채용을 이야기할 때",
+          "ko": "회사는 우수한 인적자원을 확보하기 위해 경쟁하고 있어요.",
+          "cn": "各公司正在竞争以获取优秀的人力资源。"
+        },
+        {
+          "situation": "국가 발전을 논의할 때",
+          "ko": "한 나라의 발전은 인적자원의 질에 달려 있어요.",
+          "cn": "一个国家的发展取决于人力资源的质量。"
+        },
+        {
+          "situation": "HR을 이야기할 때",
+          "ko": "인적자원 관리는 직원의 역량을 최대화하는 것을 목표로 해요.",
+          "cn": "人力资源管理旨在最大化员工能力。"
+        },
+        {
+          "situation": "글로벌 경쟁을 이야기할 때",
+          "ko": "글로벌 기업들이 우수 인적자원 유치를 위해 경쟁해요.",
+          "cn": "全球企业竞相吸引优秀人力资源。"
+        },
+        {
+          "situation": "다양성을 논의할 때",
+          "ko": "다양한 인적자원이 조직의 창의성을 높여요.",
+          "cn": "多元化的人力资源提升了组织的创造力。"
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "인적자원 개발이 경제 발전의 핵심 요소예요.",
+          "cn": "人力资源开发是经济发展的核心要素。"
+        },
+        {
+          "situation": "이민 정책을 이야기할 때",
+          "ko": "해외 우수 인적자원을 유치하는 이민 정책이 도입됐어요.",
+          "cn": "引进了吸引海外优秀人力资源的移民政策。"
+        },
+        {
+          "situation": "은퇴를 논의할 때",
+          "ko": "숙련된 인적자원의 조기 은퇴는 기업에 큰 손실이에요.",
+          "cn": "熟练人力资源的提前退休对企业是巨大损失。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "기업 경영을 이야기할 때",
+          "ko": "기업의 가장 중요한 자산은 인적자원이에요.",
+          "vn": "Tài sản quan trọng nhất của doanh nghiệp là nguồn nhân lực."
+        },
+        {
+          "situation": "교육 투자를 논의할 때",
+          "ko": "인적자원 개발을 위한 교육 투자가 필수적이에요.",
+          "vn": "Đầu tư giáo dục để phát triển nguồn nhân lực là điều cần thiết."
+        },
+        {
+          "situation": "채용을 이야기할 때",
+          "ko": "회사는 우수한 인적자원을 확보하기 위해 경쟁하고 있어요.",
+          "vn": "Các công ty đang cạnh tranh để đảm bảo nguồn nhân lực xuất sắc."
+        },
+        {
+          "situation": "국가 발전을 논의할 때",
+          "ko": "한 나라의 발전은 인적자원의 질에 달려 있어요.",
+          "vn": "Sự phát triển của một quốc gia phụ thuộc vào chất lượng nguồn nhân lực."
+        },
+        {
+          "situation": "HR을 이야기할 때",
+          "ko": "인적자원 관리는 직원의 역량을 최대화하는 것을 목표로 해요.",
+          "vn": "Quản lý nguồn nhân lực nhằm tối đa hóa năng lực của nhân viên."
+        },
+        {
+          "situation": "글로벌 경쟁을 이야기할 때",
+          "ko": "글로벌 기업들이 우수 인적자원 유치를 위해 경쟁해요.",
+          "vn": "Các công ty toàn cầu cạnh tranh để thu hút nguồn nhân lực xuất sắc."
+        },
+        {
+          "situation": "다양성을 논의할 때",
+          "ko": "다양한 인적자원이 조직의 창의성을 높여요.",
+          "vn": "Nguồn nhân lực đa dạng nâng cao tính sáng tạo của tổ chức."
+        },
+        {
+          "situation": "경제를 이야기할 때",
+          "ko": "인적자원 개발이 경제 발전의 핵심 요소예요.",
+          "vn": "Phát triển nguồn nhân lực là yếu tố then chốt trong phát triển kinh tế."
+        },
+        {
+          "situation": "이민 정책을 이야기할 때",
+          "ko": "해외 우수 인적자원을 유치하는 이민 정책이 도입됐어요.",
+          "vn": "Chính sách nhập cư để thu hút nguồn nhân lực xuất sắc nước ngoài đã được đưa ra."
+        },
+        {
+          "situation": "은퇴를 논의할 때",
+          "ko": "숙련된 인적자원의 조기 은퇴는 기업에 큰 손실이에요.",
+          "vn": "Nghỉ hưu sớm của nguồn nhân lực lành nghề là tổn thất lớn cho doanh nghiệp."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 198,
+    "word": "기술혁신",
+    "pos": "명사",
+    "synonyms": [
+      "기술 혁명",
+      "혁신 기술"
+    ],
+    "meanings": {
+      "en": "technological innovation, tech innovation",
+      "cn": "技术创新，科技革新",
+      "vn": "đổi mới công nghệ, cách mạng công nghệ"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "산업 변화를 이야기할 때",
+          "ko": "기술혁신이 산업 구조를 빠르게 변화시키고 있어요.",
+          "en": "Technological innovation is rapidly changing the industrial structure."
+        },
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "인공지능이 기술혁신의 중심에 서 있어요.",
+          "en": "Artificial intelligence is at the center of technological innovation."
+        },
+        {
+          "situation": "기업 경쟁력을 논의할 때",
+          "ko": "기술혁신이 기업의 경쟁력을 결정하는 핵심 요소가 됐어요.",
+          "en": "Technological innovation has become a key factor determining corporate competitiveness."
+        },
+        {
+          "situation": "연구 개발을 이야기할 때",
+          "ko": "기술혁신을 위해 R&D 투자를 늘려야 해요.",
+          "en": "We need to increase R&D investment for technological innovation."
+        },
+        {
+          "situation": "사회 변화를 이야기할 때",
+          "ko": "기술혁신이 우리의 생활 방식을 크게 바꿔 놓았어요.",
+          "en": "Technological innovation has greatly changed our way of life."
+        },
+        {
+          "situation": "스타트업을 이야기할 때",
+          "ko": "스타트업이 기술혁신의 주요 동력이 되고 있어요.",
+          "en": "Startups are becoming a major driver of technological innovation."
+        },
+        {
+          "situation": "일자리를 논의할 때",
+          "ko": "기술혁신은 일자리를 없애기도 하고 새로 만들기도 해요.",
+          "en": "Technological innovation both eliminates and creates jobs."
+        },
+        {
+          "situation": "윤리를 이야기할 때",
+          "ko": "기술혁신과 함께 기술 윤리에 대한 논의가 필요해요.",
+          "en": "Discussion of technology ethics is needed along with technological innovation."
+        },
+        {
+          "situation": "국가 전략을 논의할 때",
+          "ko": "국가 차원의 기술혁신 전략이 필요한 시대예요.",
+          "en": "This is an era when a national-level technological innovation strategy is needed."
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "기술혁신이 미래 사회의 모습을 만들어가고 있어요.",
+          "en": "Technological innovation is shaping the future of society."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "산업 변화를 이야기할 때",
+          "ko": "기술혁신이 산업 구조를 빠르게 변화시키고 있어요.",
+          "cn": "技术创新正在迅速改变产业结构。"
+        },
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "인공지능이 기술혁신의 중심에 서 있어요.",
+          "cn": "人工智能站在技术创新的核心位置。"
+        },
+        {
+          "situation": "기업 경쟁력을 논의할 때",
+          "ko": "기술혁신이 기업의 경쟁력을 결정하는 핵심 요소가 됐어요.",
+          "cn": "技术创新已成为决定企业竞争力的核心要素。"
+        },
+        {
+          "situation": "연구 개발을 이야기할 때",
+          "ko": "기술혁신을 위해 R&D 투자를 늘려야 해요.",
+          "cn": "需要增加研发投资以推动技术创新。"
+        },
+        {
+          "situation": "사회 변화를 이야기할 때",
+          "ko": "기술혁신이 우리의 생활 방식을 크게 바꿔 놓았어요.",
+          "cn": "技术创新极大地改变了我们的生活方式。"
+        },
+        {
+          "situation": "스타트업을 이야기할 때",
+          "ko": "스타트업이 기술혁신의 주요 동력이 되고 있어요.",
+          "cn": "初创企业正在成为技术创新的主要动力。"
+        },
+        {
+          "situation": "일자리를 논의할 때",
+          "ko": "기술혁신은 일자리를 없애기도 하고 새로 만들기도 해요.",
+          "cn": "技术创新既消灭工作岗位，也创造新的工作岗位。"
+        },
+        {
+          "situation": "윤리를 이야기할 때",
+          "ko": "기술혁신과 함께 기술 윤리에 대한 논의가 필요해요.",
+          "cn": "随着技术创新，需要讨论技术伦理。"
+        },
+        {
+          "situation": "국가 전략을 논의할 때",
+          "ko": "국가 차원의 기술혁신 전략이 필요한 시대예요.",
+          "cn": "这是需要国家层面技术创新战略的时代。"
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "기술혁신이 미래 사회의 모습을 만들어가고 있어요.",
+          "cn": "技术创新正在塑造未来社会的面貌。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "산업 변화를 이야기할 때",
+          "ko": "기술혁신이 산업 구조를 빠르게 변화시키고 있어요.",
+          "vn": "Đổi mới công nghệ đang thay đổi nhanh chóng cơ cấu công nghiệp."
+        },
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "인공지능이 기술혁신의 중심에 서 있어요.",
+          "vn": "Trí tuệ nhân tạo đứng ở trung tâm của đổi mới công nghệ."
+        },
+        {
+          "situation": "기업 경쟁력을 논의할 때",
+          "ko": "기술혁신이 기업의 경쟁력을 결정하는 핵심 요소가 됐어요.",
+          "vn": "Đổi mới công nghệ đã trở thành yếu tố then chốt quyết định năng lực cạnh tranh của doanh nghiệp."
+        },
+        {
+          "situation": "연구 개발을 이야기할 때",
+          "ko": "기술혁신을 위해 R&D 투자를 늘려야 해요.",
+          "vn": "Cần tăng đầu tư R&D để đổi mới công nghệ."
+        },
+        {
+          "situation": "사회 변화를 이야기할 때",
+          "ko": "기술혁신이 우리의 생활 방식을 크게 바꿔 놓았어요.",
+          "vn": "Đổi mới công nghệ đã thay đổi đáng kể cách sống của chúng ta."
+        },
+        {
+          "situation": "스타트업을 이야기할 때",
+          "ko": "스타트업이 기술혁신의 주요 동력이 되고 있어요.",
+          "vn": "Startup đang trở thành động lực chính của đổi mới công nghệ."
+        },
+        {
+          "situation": "일자리를 논의할 때",
+          "ko": "기술혁신은 일자리를 없애기도 하고 새로 만들기도 해요.",
+          "vn": "Đổi mới công nghệ vừa xóa bỏ vừa tạo ra việc làm."
+        },
+        {
+          "situation": "윤리를 이야기할 때",
+          "ko": "기술혁신과 함께 기술 윤리에 대한 논의가 필요해요.",
+          "vn": "Cần thảo luận về đạo đức công nghệ cùng với đổi mới công nghệ."
+        },
+        {
+          "situation": "국가 전략을 논의할 때",
+          "ko": "국가 차원의 기술혁신 전략이 필요한 시대예요.",
+          "vn": "Đây là thời đại cần chiến lược đổi mới công nghệ ở cấp quốc gia."
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "기술혁신이 미래 사회의 모습을 만들어가고 있어요.",
+          "vn": "Đổi mới công nghệ đang định hình diện mạo xã hội tương lai."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 205,
+    "word": "스마트시티",
+    "pos": "명사",
+    "synonyms": [
+      "스마트 도시",
+      "지능형 도시"
+    ],
+    "meanings": {
+      "en": "smart city",
+      "cn": "智慧城市",
+      "vn": "thành phố thông minh"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "도시 계획을 이야기할 때",
+          "ko": "스마트시티는 ICT 기술로 도시 문제를 해결하는 것을 목표로 해요.",
+          "en": "Smart cities aim to solve urban problems with ICT technology."
+        },
+        {
+          "situation": "교통을 이야기할 때",
+          "ko": "스마트시티에서는 실시간 교통 정보로 혼잡을 줄여요.",
+          "en": "In smart cities, congestion is reduced with real-time traffic information."
+        },
+        {
+          "situation": "에너지를 논의할 때",
+          "ko": "스마트시티는 에너지 사용량을 효율적으로 관리해요.",
+          "en": "Smart cities efficiently manage energy consumption."
+        },
+        {
+          "situation": "공공 안전을 이야기할 때",
+          "ko": "스마트시티의 CCTV 네트워크가 범죄 예방에 도움이 돼요.",
+          "en": "The CCTV network in smart cities helps prevent crime."
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "스마트시티 기술로 도시 환경 오염을 줄일 수 있어요.",
+          "en": "Urban environmental pollution can be reduced with smart city technology."
+        },
+        {
+          "situation": "시민 서비스를 이야기할 때",
+          "ko": "스마트시티에서는 모바일 앱으로 다양한 시민 서비스를 이용해요.",
+          "en": "In smart cities, various citizen services are used through mobile apps."
+        },
+        {
+          "situation": "투자를 논의할 때",
+          "ko": "스마트시티 구축에 막대한 초기 투자가 필요해요.",
+          "en": "A huge initial investment is needed to build a smart city."
+        },
+        {
+          "situation": "개인정보를 논의할 때",
+          "ko": "스마트시티 데이터 수집과 개인정보 보호 간의 균형이 중요해요.",
+          "en": "Balance between data collection in smart cities and personal information protection is important."
+        },
+        {
+          "situation": "해외 사례를 이야기할 때",
+          "ko": "싱가포르는 세계적으로 선도적인 스마트시티 모델이에요.",
+          "en": "Singapore is a globally leading smart city model."
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "스마트시티가 미래 도시 생활의 표준이 될 것이에요.",
+          "en": "Smart cities will become the standard for future urban living."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "도시 계획을 이야기할 때",
+          "ko": "스마트시티는 ICT 기술로 도시 문제를 해결하는 것을 목표로 해요.",
+          "cn": "智慧城市以ICT技术解决城市问题为目标。"
+        },
+        {
+          "situation": "교통을 이야기할 때",
+          "ko": "스마트시티에서는 실시간 교통 정보로 혼잡을 줄여요.",
+          "cn": "智慧城市利用实时交通信息减少拥堵。"
+        },
+        {
+          "situation": "에너지를 논의할 때",
+          "ko": "스마트시티는 에너지 사용량을 효율적으로 관리해요.",
+          "cn": "智慧城市高效管理能源使用量。"
+        },
+        {
+          "situation": "공공 안전을 이야기할 때",
+          "ko": "스마트시티의 CCTV 네트워크가 범죄 예방에 도움이 돼요.",
+          "cn": "智慧城市的CCTV网络有助于犯罪预防。"
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "스마트시티 기술로 도시 환경 오염을 줄일 수 있어요.",
+          "cn": "利用智慧城市技术可以减少城市环境污染。"
+        },
+        {
+          "situation": "시민 서비스를 이야기할 때",
+          "ko": "스마트시티에서는 모바일 앱으로 다양한 시민 서비스를 이용해요.",
+          "cn": "在智慧城市中，通过手机应用使用多种市民服务。"
+        },
+        {
+          "situation": "투자를 논의할 때",
+          "ko": "스마트시티 구축에 막대한 초기 투자가 필요해요.",
+          "cn": "建设智慧城市需要巨额初期投资。"
+        },
+        {
+          "situation": "개인정보를 논의할 때",
+          "ko": "스마트시티 데이터 수집과 개인정보 보호 간의 균형이 중요해요.",
+          "cn": "智慧城市数据收集与个人信息保护之间的平衡很重要。"
+        },
+        {
+          "situation": "해외 사례를 이야기할 때",
+          "ko": "싱가포르는 세계적으로 선도적인 스마트시티 모델이에요.",
+          "cn": "新加坡是全球领先的智慧城市模型。"
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "스마트시티가 미래 도시 생활의 표준이 될 것이에요.",
+          "cn": "智慧城市将成为未来城市生活的标准。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "도시 계획을 이야기할 때",
+          "ko": "스마트시티는 ICT 기술로 도시 문제를 해결하는 것을 목표로 해요.",
+          "vn": "Thành phố thông minh nhằm giải quyết các vấn đề đô thị bằng công nghệ ICT."
+        },
+        {
+          "situation": "교통을 이야기할 때",
+          "ko": "스마트시티에서는 실시간 교통 정보로 혼잡을 줄여요.",
+          "vn": "Trong thành phố thông minh, ùn tắc được giảm bớt bằng thông tin giao thông thời gian thực."
+        },
+        {
+          "situation": "에너지를 논의할 때",
+          "ko": "스마트시티는 에너지 사용량을 효율적으로 관리해요.",
+          "vn": "Thành phố thông minh quản lý hiệu quả mức tiêu thụ năng lượng."
+        },
+        {
+          "situation": "공공 안전을 이야기할 때",
+          "ko": "스마트시티의 CCTV 네트워크가 범죄 예방에 도움이 돼요.",
+          "vn": "Mạng lưới CCTV trong thành phố thông minh giúp ngăn ngừa tội phạm."
+        },
+        {
+          "situation": "환경을 이야기할 때",
+          "ko": "스마트시티 기술로 도시 환경 오염을 줄일 수 있어요.",
+          "vn": "Ô nhiễm môi trường đô thị có thể giảm bằng công nghệ thành phố thông minh."
+        },
+        {
+          "situation": "시민 서비스를 이야기할 때",
+          "ko": "스마트시티에서는 모바일 앱으로 다양한 시민 서비스를 이용해요.",
+          "vn": "Trong thành phố thông minh, nhiều dịch vụ công dân được sử dụng qua ứng dụng di động."
+        },
+        {
+          "situation": "투자를 논의할 때",
+          "ko": "스마트시티 구축에 막대한 초기 투자가 필요해요.",
+          "vn": "Cần đầu tư ban đầu khổng lồ để xây dựng thành phố thông minh."
+        },
+        {
+          "situation": "개인정보를 논의할 때",
+          "ko": "스마트시티 데이터 수집과 개인정보 보호 간의 균형이 중요해요.",
+          "vn": "Sự cân bằng giữa thu thập dữ liệu trong thành phố thông minh và bảo vệ thông tin cá nhân là quan trọng."
+        },
+        {
+          "situation": "해외 사례를 이야기할 때",
+          "ko": "싱가포르는 세계적으로 선도적인 스마트시티 모델이에요.",
+          "vn": "Singapore là mô hình thành phố thông minh dẫn đầu thế giới."
+        },
+        {
+          "situation": "미래를 이야기할 때",
+          "ko": "스마트시티가 미래 도시 생활의 표준이 될 것이에요.",
+          "vn": "Thành phố thông minh sẽ trở thành tiêu chuẩn cho cuộc sống đô thị trong tương lai."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 208,
+    "word": "데이터보호",
+    "pos": "명사",
+    "synonyms": [
+      "개인정보보호",
+      "정보보안"
+    ],
+    "meanings": {
+      "en": "data protection, privacy protection",
+      "cn": "数据保护，个人信息保护",
+      "vn": "bảo vệ dữ liệu, bảo vệ thông tin cá nhân"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "법률을 이야기할 때",
+          "ko": "유럽의 GDPR은 강력한 데이터보호 법률이에요.",
+          "en": "Europe's GDPR is a strong data protection law."
+        },
+        {
+          "situation": "기업 의무를 이야기할 때",
+          "ko": "기업은 고객 데이터보호를 위한 시스템을 갖춰야 해요.",
+          "en": "Companies must have systems in place for customer data protection."
+        },
+        {
+          "situation": "해킹을 이야기할 때",
+          "ko": "사이버 공격으로 개인 데이터가 유출될 수 있어서 데이터보호가 중요해요.",
+          "en": "Data protection is important because personal data can be leaked through cyberattacks."
+        },
+        {
+          "situation": "디지털 경제를 이야기할 때",
+          "ko": "디지털 경제에서 데이터보호는 기본 권리가 됐어요.",
+          "en": "Data protection has become a fundamental right in the digital economy."
+        },
+        {
+          "situation": "동의를 이야기할 때",
+          "ko": "개인정보 수집 전에 반드시 당사자의 동의를 받아야 해요.",
+          "en": "Consent from the individual must be obtained before collecting personal information."
+        },
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "AI 시대에 데이터보호 이슈가 더욱 중요해지고 있어요.",
+          "en": "Data protection issues are becoming more important in the AI era."
+        },
+        {
+          "situation": "해외 전송을 이야기할 때",
+          "ko": "국가 간 데이터 전송 시 데이터보호 규정이 적용돼요.",
+          "en": "Data protection regulations apply when transferring data between countries."
+        },
+        {
+          "situation": "아동을 이야기할 때",
+          "ko": "아동의 개인정보는 특별한 데이터보호를 받아야 해요.",
+          "en": "Children's personal information must receive special data protection."
+        },
+        {
+          "situation": "직장을 이야기할 때",
+          "ko": "직원의 개인 데이터보호도 사용자의 의무 중 하나예요.",
+          "en": "Protecting employees' personal data is also one of the employer's obligations."
+        },
+        {
+          "situation": "위반을 이야기할 때",
+          "ko": "데이터보호 위반 시 대규모 과징금이 부과될 수 있어요.",
+          "en": "Large fines can be imposed for data protection violations."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "법률을 이야기할 때",
+          "ko": "유럽의 GDPR은 강력한 데이터보호 법률이에요.",
+          "cn": "欧洲的GDPR是强有力的数据保护法律。"
+        },
+        {
+          "situation": "기업 의무를 이야기할 때",
+          "ko": "기업은 고객 데이터보호를 위한 시스템을 갖춰야 해요.",
+          "cn": "企业需要建立客户数据保护系统。"
+        },
+        {
+          "situation": "해킹을 이야기할 때",
+          "ko": "사이버 공격으로 개인 데이터가 유출될 수 있어서 데이터보호가 중요해요.",
+          "cn": "由于个人数据可能通过网络攻击泄露，数据保护很重要。"
+        },
+        {
+          "situation": "디지털 경제를 이야기할 때",
+          "ko": "디지털 경제에서 데이터보호는 기본 권리가 됐어요.",
+          "cn": "在数字经济中，数据保护已成为基本权利。"
+        },
+        {
+          "situation": "동의를 이야기할 때",
+          "ko": "개인정보 수집 전에 반드시 당사자의 동의를 받아야 해요.",
+          "cn": "收集个人信息前必须获得当事人的同意。"
+        },
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "AI 시대에 데이터보호 이슈가 더욱 중요해지고 있어요.",
+          "cn": "人工智能时代，数据保护问题变得更加重要。"
+        },
+        {
+          "situation": "해외 전송을 이야기할 때",
+          "ko": "국가 간 데이터 전송 시 데이터보호 규정이 적용돼요.",
+          "cn": "数据跨境传输时需遵守数据保护规定。"
+        },
+        {
+          "situation": "아동을 이야기할 때",
+          "ko": "아동의 개인정보는 특별한 데이터보호를 받아야 해요.",
+          "cn": "儿童个人信息应受到特别的数据保护。"
+        },
+        {
+          "situation": "직장을 이야기할 때",
+          "ko": "직원의 개인 데이터보호도 사용자의 의무 중 하나예요.",
+          "cn": "保护员工个人数据也是雇主的义务之一。"
+        },
+        {
+          "situation": "위반을 이야기할 때",
+          "ko": "데이터보호 위반 시 대규모 과징금이 부과될 수 있어요.",
+          "cn": "违反数据保护规定时，可能会被处以大额罚款。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "법률을 이야기할 때",
+          "ko": "유럽의 GDPR은 강력한 데이터보호 법률이에요.",
+          "vn": "GDPR của châu Âu là luật bảo vệ dữ liệu mạnh mẽ."
+        },
+        {
+          "situation": "기업 의무를 이야기할 때",
+          "ko": "기업은 고객 데이터보호를 위한 시스템을 갖춰야 해요.",
+          "vn": "Doanh nghiệp phải có hệ thống bảo vệ dữ liệu khách hàng."
+        },
+        {
+          "situation": "해킹을 이야기할 때",
+          "ko": "사이버 공격으로 개인 데이터가 유출될 수 있어서 데이터보호가 중요해요.",
+          "vn": "Bảo vệ dữ liệu quan trọng vì dữ liệu cá nhân có thể bị rò rỉ qua tấn công mạng."
+        },
+        {
+          "situation": "디지털 경제를 이야기할 때",
+          "ko": "디지털 경제에서 데이터보호는 기본 권리가 됐어요.",
+          "vn": "Bảo vệ dữ liệu đã trở thành quyền cơ bản trong nền kinh tế số."
+        },
+        {
+          "situation": "동의를 이야기할 때",
+          "ko": "개인정보 수집 전에 반드시 당사자의 동의를 받아야 해요.",
+          "vn": "Phải có được sự đồng ý của cá nhân trước khi thu thập thông tin cá nhân."
+        },
+        {
+          "situation": "AI를 이야기할 때",
+          "ko": "AI 시대에 데이터보호 이슈가 더욱 중요해지고 있어요.",
+          "vn": "Vấn đề bảo vệ dữ liệu ngày càng trở nên quan trọng hơn trong kỷ nguyên AI."
+        },
+        {
+          "situation": "해외 전송을 이야기할 때",
+          "ko": "국가 간 데이터 전송 시 데이터보호 규정이 적용돼요.",
+          "vn": "Quy định bảo vệ dữ liệu được áp dụng khi truyền dữ liệu giữa các quốc gia."
+        },
+        {
+          "situation": "아동을 이야기할 때",
+          "ko": "아동의 개인정보는 특별한 데이터보호를 받아야 해요.",
+          "vn": "Thông tin cá nhân của trẻ em phải được bảo vệ dữ liệu đặc biệt."
+        },
+        {
+          "situation": "직장을 이야기할 때",
+          "ko": "직원의 개인 데이터보호도 사용자의 의무 중 하나예요.",
+          "vn": "Bảo vệ dữ liệu cá nhân của nhân viên cũng là một trong những nghĩa vụ của người sử dụng lao động."
+        },
+        {
+          "situation": "위반을 이야기할 때",
+          "ko": "데이터보호 위반 시 대규모 과징금이 부과될 수 있어요.",
+          "vn": "Có thể bị phạt tiền lớn khi vi phạm bảo vệ dữ liệu."
+        }
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "id": 215,
+    "word": "방송매체",
+    "pos": "명사",
+    "synonyms": [
+      "방송",
+      "미디어"
+    ],
+    "meanings": {
+      "en": "broadcast media, broadcasting media",
+      "cn": "广播媒体，电视媒体",
+      "vn": "phương tiện truyền thông phát sóng, truyền thông"
+    },
+    "examples_by_lang": {
+      "en": [
+        {
+          "situation": "미디어 환경을 이야기할 때",
+          "ko": "방송매체가 여론 형성에 큰 영향을 미쳐요.",
+          "en": "Broadcast media has a great influence on shaping public opinion."
+        },
+        {
+          "situation": "TV를 이야기할 때",
+          "ko": "공중파 방송매체는 여전히 많은 사람들이 이용해요.",
+          "en": "Many people still use terrestrial broadcast media."
+        },
+        {
+          "situation": "규제를 이야기할 때",
+          "ko": "방송매체는 공정성 원칙을 준수해야 해요.",
+          "en": "Broadcast media must adhere to the principle of fairness."
+        },
+        {
+          "situation": "디지털 전환을 논의할 때",
+          "ko": "방송매체도 디지털 플랫폼으로 전환하고 있어요.",
+          "en": "Broadcast media is also transitioning to digital platforms."
+        },
+        {
+          "situation": "광고를 이야기할 때",
+          "ko": "방송매체 광고 시장이 디지털 광고에 밀리고 있어요.",
+          "en": "The broadcast media advertising market is being pushed out by digital advertising."
+        },
+        {
+          "situation": "공영 방송을 이야기할 때",
+          "ko": "공영 방송매체는 공익을 위한 프로그램을 제공해야 해요.",
+          "en": "Public broadcast media must provide programs for the public good."
+        },
+        {
+          "situation": "미디어 리터러시를 논의할 때",
+          "ko": "방송매체 정보를 비판적으로 받아들이는 능력이 필요해요.",
+          "en": "The ability to critically accept information from broadcast media is needed."
+        },
+        {
+          "situation": "언론 자유를 이야기할 때",
+          "ko": "방송매체의 독립성이 민주주의의 초석이에요.",
+          "en": "The independence of broadcast media is a cornerstone of democracy."
+        },
+        {
+          "situation": "글로벌 경쟁을 이야기할 때",
+          "ko": "한류 콘텐츠가 글로벌 방송매체에서 큰 인기를 끌고 있어요.",
+          "en": "Korean Wave content is gaining great popularity in global broadcast media."
+        },
+        {
+          "situation": "OTT를 이야기할 때",
+          "ko": "OTT 서비스의 성장으로 전통 방송매체가 위기를 맞고 있어요.",
+          "en": "Traditional broadcast media is facing a crisis due to the growth of OTT services."
+        }
+      ],
+      "cn": [
+        {
+          "situation": "미디어 환경을 이야기할 때",
+          "ko": "방송매체가 여론 형성에 큰 영향을 미쳐요.",
+          "cn": "广播媒体对舆论形成有很大影响。"
+        },
+        {
+          "situation": "TV를 이야기할 때",
+          "ko": "공중파 방송매체는 여전히 많은 사람들이 이용해요.",
+          "cn": "很多人仍然使用地面广播媒体。"
+        },
+        {
+          "situation": "규제를 이야기할 때",
+          "ko": "방송매체는 공정성 원칙을 준수해야 해요.",
+          "cn": "广播媒体必须遵守公平原则。"
+        },
+        {
+          "situation": "디지털 전환을 논의할 때",
+          "ko": "방송매체도 디지털 플랫폼으로 전환하고 있어요.",
+          "cn": "广播媒体也在向数字平台转型。"
+        },
+        {
+          "situation": "광고를 이야기할 때",
+          "ko": "방송매체 광고 시장이 디지털 광고에 밀리고 있어요.",
+          "cn": "广播媒体广告市场正被数字广告挤压。"
+        },
+        {
+          "situation": "공영 방송을 이야기할 때",
+          "ko": "공영 방송매체는 공익을 위한 프로그램을 제공해야 해요.",
+          "cn": "公营广播媒体应该提供公益节目。"
+        },
+        {
+          "situation": "미디어 리터러시를 논의할 때",
+          "ko": "방송매체 정보를 비판적으로 받아들이는 능력이 필요해요.",
+          "cn": "需要批判性接受广播媒体信息的能力。"
+        },
+        {
+          "situation": "언론 자유를 이야기할 때",
+          "ko": "방송매체의 독립성이 민주주의의 초석이에요.",
+          "cn": "广播媒体的独立性是民主主义的基石。"
+        },
+        {
+          "situation": "글로벌 경쟁을 이야기할 때",
+          "ko": "한류 콘텐츠가 글로벌 방송매체에서 큰 인기를 끌고 있어요.",
+          "cn": "韩流内容在全球广播媒体上大受欢迎。"
+        },
+        {
+          "situation": "OTT를 이야기할 때",
+          "ko": "OTT 서비스의 성장으로 전통 방송매체가 위기를 맞고 있어요.",
+          "cn": "随着OTT服务的增长，传统广播媒体正面临危机。"
+        }
+      ],
+      "vn": [
+        {
+          "situation": "미디어 환경을 이야기할 때",
+          "ko": "방송매체가 여론 형성에 큰 영향을 미쳐요.",
+          "vn": "Phương tiện truyền thông phát sóng có ảnh hưởng lớn đến việc hình thành dư luận."
+        },
+        {
+          "situation": "TV를 이야기할 때",
+          "ko": "공중파 방송매체는 여전히 많은 사람들이 이용해요.",
+          "vn": "Nhiều người vẫn sử dụng phương tiện truyền thông phát sóng mặt đất."
+        },
+        {
+          "situation": "규제를 이야기할 때",
+          "ko": "방송매체는 공정성 원칙을 준수해야 해요.",
+          "vn": "Phương tiện truyền thông phát sóng phải tuân thủ nguyên tắc công bằng."
+        },
+        {
+          "situation": "디지털 전환을 논의할 때",
+          "ko": "방송매체도 디지털 플랫폼으로 전환하고 있어요.",
+          "vn": "Phương tiện truyền thông phát sóng cũng đang chuyển đổi sang nền tảng số."
+        },
+        {
+          "situation": "광고를 이야기할 때",
+          "ko": "방송매체 광고 시장이 디지털 광고에 밀리고 있어요.",
+          "vn": "Thị trường quảng cáo phương tiện truyền thông phát sóng đang bị quảng cáo số lấn át."
+        },
+        {
+          "situation": "공영 방송을 이야기할 때",
+          "ko": "공영 방송매체는 공익을 위한 프로그램을 제공해야 해요.",
+          "vn": "Phương tiện truyền thông phát sóng công cộng phải cung cấp chương trình vì lợi ích công."
+        },
+        {
+          "situation": "미디어 리터러시를 논의할 때",
+          "ko": "방송매체 정보를 비판적으로 받아들이는 능력이 필요해요.",
+          "vn": "Cần có khả năng tiếp nhận thông tin từ phương tiện truyền thông phát sóng một cách phê phán."
+        },
+        {
+          "situation": "언론 자유를 이야기할 때",
+          "ko": "방송매체의 독립성이 민주주의의 초석이에요.",
+          "vn": "Sự độc lập của phương tiện truyền thông phát sóng là nền tảng của nền dân chủ."
+        },
+        {
+          "situation": "글로벌 경쟁을 이야기할 때",
+          "ko": "한류 콘텐츠가 글로벌 방송매체에서 큰 인기를 끌고 있어요.",
+          "vn": "Nội dung Hallyu đang rất được yêu thích trên phương tiện truyền thông phát sóng toàn cầu."
+        },
+        {
+          "situation": "OTT를 이야기할 때",
+          "ko": "OTT 서비스의 성장으로 전통 방송매체가 위기를 맞고 있어요.",
+          "vn": "Phương tiện truyền thông phát sóng truyền thống đang đối mặt với khủng hoảng do sự phát triển của dịch vụ OTT."
+        }
+      ]
+    }
+  }
+]

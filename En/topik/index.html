@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="theme-color" content="#0a0a0a">
+<title>Hello Words - TOPIK</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a0a0a; --surface:#141414; --border:#252525;
+  --accent:#e8ff47; --text:#f0f0e8; --sub:#666660; --card:#1a1a1a;
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;}
+header{
+  position:sticky;top:0;z-index:50;background:rgba(10,10,10,.92);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border);padding:16px 20px;display:flex;align-items:center;gap:12px;
+}
+.back-btn{display:flex;align-items:center;gap:6px;color:var(--sub);font-size:14px;text-decoration:none;transition:color .2s;}
+.back-btn:hover{color:var(--text);}
+.brand{font-family:'Instrument Serif',serif;font-style:italic;font-size:24px;color:var(--accent);}
+.brand-sub{font-size:13px;color:var(--sub);}
+.content{padding:32px 20px 60px;max-width:620px;margin:0 auto;}
+.hero{text-align:center;padding:28px 0 32px;}
+.hero-title{font-family:'Instrument Serif',serif;font-style:italic;font-size:40px;color:var(--accent);line-height:1.08;margin-bottom:10px;}
+.hero-sub{font-size:15px;color:var(--sub);line-height:1.65;}
+.section-label{font-size:10px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:var(--sub);margin-bottom:12px;}
+.product-card{
+  display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--border);
+  border-radius:18px;padding:20px;margin-bottom:12px;transition:all .15s;
+}
+.product-card:hover{border-color:#3a3a3a;background:#202020;transform:translateX(2px);}
+.product-top{display:flex;align-items:center;gap:14px;margin-bottom:14px;}
+.product-icon{width:50px;height:50px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:700;flex-shrink:0;}
+.product-info{flex:1;min-width:0;}
+.product-name{font-size:17px;font-weight:600;color:var(--text);margin-bottom:4px;}
+.product-desc{font-size:13px;color:var(--sub);line-height:1.5;}
+.product-badge{font-size:11px;font-weight:700;padding:4px 10px;border-radius:999px;border:1px solid;white-space:nowrap;flex-shrink:0;}
+.level-links{display:flex;flex-wrap:wrap;gap:8px;}
+.level-link{
+  padding:8px 12px;border-radius:10px;border:1px solid var(--border);background:var(--surface);
+  font-size:13px;font-weight:500;color:var(--text);text-decoration:none;transition:all .15s;
+}
+.level-link:hover{border-color:#3a3a3a;background:#242424;}
+.info-box{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:16px 18px;margin-top:8px;}
+.info-text{font-size:13px;color:var(--sub);line-height:1.7;}
+</style>
+</head>
+<body>
+<header>
+  <a class="back-btn" href="../index.html">Back</a>
+  <span class="brand">Hello Words</span>
+  <span class="brand-sub">TOPIK series</span>
+</header>
+
+<div class="content">
+  <div class="hero">
+    <div class="hero-title">TOPIK</div>
+    <div class="hero-sub">Choose a translation language first,<br>then open the level list with all 300 words.</div>
+  </div>
+
+  <div class="section-label">Language Editions</div>
+
+  <div class="product-card">
+    <div class="product-top">
+      <div class="product-icon" style="background:rgba(74,158,255,.1);color:#4A9EFF;">EN</div>
+      <div class="product-info">
+        <div class="product-name">TOPIK Korean-English</div>
+        <div class="product-desc">Levels 1 to 6 with English meanings and translated example sentences.</div>
+      </div>
+      <div class="product-badge" style="color:#4A9EFF;border-color:rgba(74,158,255,.3);background:rgba(74,158,255,.08);">EN</div>
+    </div>
+    <div class="level-links">
+      <a class="level-link" href="level.html?lang=en&level=1">TOPIK 1</a>
+      <a class="level-link" href="level.html?lang=en&level=2">TOPIK 2</a>
+      <a class="level-link" href="level.html?lang=en&level=3">TOPIK 3</a>
+      <a class="level-link" href="level.html?lang=en&level=4">TOPIK 4</a>
+      <a class="level-link" href="level.html?lang=en&level=5">TOPIK 5</a>
+      <a class="level-link" href="level.html?lang=en&level=6">TOPIK 6</a>
+    </div>
+  </div>
+
+  <div class="product-card">
+    <div class="product-top">
+      <div class="product-icon" style="background:rgba(255,112,67,.1);color:#FF7043;">CN</div>
+      <div class="product-info">
+        <div class="product-name">TOPIK Korean-Chinese</div>
+        <div class="product-desc">Levels 1 to 6 with Chinese meanings and translated example sentences.</div>
+      </div>
+      <div class="product-badge" style="color:#FF7043;border-color:rgba(255,112,67,.3);background:rgba(255,112,67,.08);">CN</div>
+    </div>
+    <div class="level-links">
+      <a class="level-link" href="level.html?lang=cn&level=1">TOPIK 1</a>
+      <a class="level-link" href="level.html?lang=cn&level=2">TOPIK 2</a>
+      <a class="level-link" href="level.html?lang=cn&level=3">TOPIK 3</a>
+      <a class="level-link" href="level.html?lang=cn&level=4">TOPIK 4</a>
+      <a class="level-link" href="level.html?lang=cn&level=5">TOPIK 5</a>
+      <a class="level-link" href="level.html?lang=cn&level=6">TOPIK 6</a>
+    </div>
+  </div>
+
+  <div class="product-card">
+    <div class="product-top">
+      <div class="product-icon" style="background:rgba(255,198,61,.1);color:#FFC63D;">JP</div>
+      <div class="product-info">
+        <div class="product-name">TOPIK Korean-Japanese</div>
+        <div class="product-desc">Levels 1 to 6 with Japanese meanings and translated example sentences.</div>
+      </div>
+      <div class="product-badge" style="color:#FFC63D;border-color:rgba(255,198,61,.3);background:rgba(255,198,61,.08);">JP</div>
+    </div>
+    <div class="level-links">
+      <a class="level-link" href="level.html?lang=jp&level=1">TOPIK 1</a>
+      <a class="level-link" href="level.html?lang=jp&level=2">TOPIK 2</a>
+      <a class="level-link" href="level.html?lang=jp&level=3">TOPIK 3</a>
+      <a class="level-link" href="level.html?lang=jp&level=4">TOPIK 4</a>
+      <a class="level-link" href="level.html?lang=jp&level=5">TOPIK 5</a>
+      <a class="level-link" href="level.html?lang=jp&level=6">TOPIK 6</a>
+    </div>
+  </div>
+
+  <div class="product-card">
+    <div class="product-top">
+      <div class="product-icon" style="background:rgba(76,175,125,.1);color:#4CAF7D;">VN</div>
+      <div class="product-info">
+        <div class="product-name">TOPIK Korean-Vietnamese</div>
+        <div class="product-desc">Levels 1 to 6 with Vietnamese meanings and translated example sentences.</div>
+      </div>
+      <div class="product-badge" style="color:#4CAF7D;border-color:rgba(76,175,125,.3);background:rgba(76,175,125,.08);">VN</div>
+    </div>
+    <div class="level-links">
+      <a class="level-link" href="level.html?lang=vn&level=1">TOPIK 1</a>
+      <a class="level-link" href="level.html?lang=vn&level=2">TOPIK 2</a>
+      <a class="level-link" href="level.html?lang=vn&level=3">TOPIK 3</a>
+      <a class="level-link" href="level.html?lang=vn&level=4">TOPIK 4</a>
+      <a class="level-link" href="level.html?lang=vn&level=5">TOPIK 5</a>
+      <a class="level-link" href="level.html?lang=vn&level=6">TOPIK 6</a>
+    </div>
+  </div>
+
+  <div class="info-box">
+    <div class="info-text">Each language edition follows the same structure: language select -> level list -> word detail. The detail page now returns to the correct language and level list.</div>
+  </div>
+</div>
+</body>
+</html>
