@@ -870,7 +870,7 @@
   "관람": {
     "word": "관람",
     "pos": "명사",
-    "meaning": "xem, thưởng lãm (sự kiện, triển lãm, thi đấu)",
+    "meaning": "xem, thưởng lãm",
     "synonyms": [
       "감상",
       "구경"
@@ -2237,7 +2237,7 @@
   "막차": {
     "word": "막차",
     "pos": "명사",
-    "meaning": "chuyến xe cuối cùng trong ngày (tàu điện ngầm, xe buýt...)",
+    "meaning": "chuyến xe cuối cùng trong ngày",
     "synonyms": [
       "마지막 차",
       "종차"
@@ -8696,7 +8696,7 @@
   "건조하다": {
     "word": "건조하다",
     "pos": "형용사",
-    "meaning": "khô (không khí, da, thời tiết)",
+    "meaning": "khô",
     "synonyms": [
       "메마르다"
     ],
@@ -8757,7 +8757,7 @@
   "고소하다": {
     "word": "고소하다",
     "pos": "형용사",
-    "meaning": "thơm béo ngậy, thơm mùi hạt rang (mô tả hương vị phong phú dễ chịu)",
+    "meaning": "thơm béo ngậy, thơm mùi hạt rang",
     "synonyms": [
       "구수하다",
       "향기롭다"
@@ -9941,7 +9941,7 @@
   "공유": {
     "word": "공유",
     "pos": "명사",
-    "meaning": "chia sẻ (nội dung, thông tin)",
+    "meaning": "chia sẻ",
     "synonyms": [
       "나눔",
       "분배"
@@ -13246,7 +13246,7 @@
   "수필": {
     "word": "수필",
     "pos": "명사",
-    "meaning": "tản văn; bút ký (thể loại văn học)",
+    "meaning": "tản văn; bút ký",
     "synonyms": [
       "에세이",
       "산문"

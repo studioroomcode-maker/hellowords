@@ -989,7 +989,7 @@
       "id": 17,
       "word": "년",
       "pos": "명사",
-      "meaning": "năm (đơn vị thời gian)",
+      "meaning": "năm",
       "synonyms": [
         "해"
       ],
@@ -3183,7 +3183,7 @@
       "id": 53,
       "word": "다녀오다",
       "pos": "동사",
-      "meaning": "đi rồi về, trở về (sau khi đến một nơi nào đó)",
+      "meaning": "đi rồi về, trở về",
       "synonyms": [
         "돌아오다",
         "갔다 오다"
@@ -9448,7 +9448,7 @@
       "id": 155,
       "word": "들어오다",
       "pos": "동사",
-      "meaning": "vào, đi vào (về phía người nói)",
+      "meaning": "vào, đi vào",
       "synonyms": [
         "입장하다"
       ],
@@ -9999,7 +9999,7 @@
       "id": 164,
       "word": "따라오다",
       "pos": "동사",
-      "meaning": "đi theo (về phía người nói)",
+      "meaning": "đi theo",
       "synonyms": [
         "뒤따라오다"
       ],
@@ -13373,7 +13373,7 @@
       "id": 219,
       "word": "맞아요",
       "pos": "동사",
-      "meaning": "Đúng rồi. (thể thông thường)",
+      "meaning": "Đúng rồi.",
       "synonyms": [
         "그래요",
         "옳아요"
@@ -16220,7 +16220,7 @@
       "id": 265,
       "word": "무궁화",
       "pos": "명사",
-      "meaning": "hoa hồng sư tử (quốc hoa Hàn Quốc)",
+      "meaning": "hoa hồng sư tử",
       "synonyms": [
         "목근화"
       ],
@@ -18093,7 +18093,7 @@
       "id": 295,
       "word": "미터",
       "pos": "명사",
-      "meaning": "mét (đơn vị đo độ dài)",
+      "meaning": "mét",
       "synonyms": [
         "m",
         "길이 단위"

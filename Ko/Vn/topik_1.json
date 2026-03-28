@@ -4654,7 +4654,7 @@
       "id": 77,
       "word": "것",
       "pos": "명사",
-      "meaning": "cái, thứ, điều (danh từ hình thức)",
+      "meaning": "cái, thứ, điều",
       "synonyms": [
         "물건",
         "일"
@@ -5448,7 +5448,7 @@
       "id": 90,
       "word": "경주",
       "pos": "명사",
-      "meaning": "Gyeongju (thành phố lịch sử)",
+      "meaning": "Gyeongju",
       "synonyms": [],
       "examples": [
         {
@@ -6058,7 +6058,7 @@
       "id": 100,
       "word": "계시다",
       "pos": "동사",
-      "meaning": "có mặt, ở (kính ngữ của 있다)",
+      "meaning": "có mặt, ở",
       "synonyms": [
         "있으시다"
       ],
@@ -6481,7 +6481,7 @@
       "id": 107,
       "word": "고마웠습니다",
       "pos": "감탄사",
-      "meaning": "cảm ơn (quá khứ, lịch sự)",
+      "meaning": "cảm ơn",
       "synonyms": [
         "감사했습니다"
       ],
@@ -6664,7 +6664,7 @@
       "id": 110,
       "word": "고모",
       "pos": "명사",
-      "meaning": "cô (em gái/chị gái của cha)",
+      "meaning": "cô",
       "synonyms": [],
       "examples": [
         {
@@ -9390,7 +9390,7 @@
       "id": 155,
       "word": "교회",
       "pos": "명사",
-      "meaning": "nhà thờ (Thiên Chúa giáo)",
+      "meaning": "nhà thờ",
       "synonyms": [],
       "examples": [
         {
@@ -10419,7 +10419,7 @@
       "id": 172,
       "word": "권",
       "pos": "명사",
-      "meaning": "~ quyển (đơn vị đếm sách)",
+      "meaning": "~ quyển",
       "synonyms": [],
       "examples": [
         {
@@ -11404,7 +11404,7 @@
       "id": 188,
       "word": "그램",
       "pos": "명사",
-      "meaning": "gam (đơn vị khối lượng)",
+      "meaning": "gam",
       "synonyms": [
         "g"
       ],
@@ -14544,7 +14544,7 @@
       "id": 239,
       "word": "김밥",
       "pos": "명사",
-      "meaning": "kimbap (cơm cuộn Hàn Quốc)",
+      "meaning": "kimbap",
       "synonyms": [],
       "examples": [
         {
@@ -14603,7 +14603,7 @@
       "id": 240,
       "word": "김치",
       "pos": "명사",
-      "meaning": "kimchi (dưa cải Hàn Quốc)",
+      "meaning": "kimchi",
       "synonyms": [],
       "examples": [
         {

@@ -1335,7 +1335,7 @@
     "word": "건조하다",
     "phonetic": "geonjohada",
     "pos": "형용사",
-    "meaning": "khô (không khí, da, thời tiết)",
+    "meaning": "khô",
     "synonyms": [
       "메마르다"
     ],
@@ -1802,7 +1802,7 @@
     "word": "고소하다",
     "phonetic": "gosohada",
     "pos": "형용사",
-    "meaning": "thơm béo ngậy, thơm mùi hạt rang (mô tả hương vị phong phú dễ chịu)",
+    "meaning": "thơm béo ngậy, thơm mùi hạt rang",
     "synonyms": [
       "구수하다",
       "향기롭다"
@@ -1936,7 +1936,7 @@
     "word": "담백하다",
     "phonetic": "dambaekhada",
     "pos": "형용사",
-    "meaning": "thanh đạm, nhẹ nhàng, dịu (hương vị không béo hoặc gia vị nặng)",
+    "meaning": "thanh đạm, nhẹ nhàng, dịu",
     "synonyms": [
       "깔끔하다",
       "개운하다"
@@ -3008,7 +3008,7 @@
     "word": "겉절이",
     "phonetic": "geotjeori",
     "pos": "명사",
-    "meaning": "kim chi tươi (không lên men, ăn ngay sau khi trộn gia vị)",
+    "meaning": "kim chi tươi",
     "synonyms": [
       "생김치",
       "즉석 김치"
@@ -3680,7 +3680,7 @@
     "word": "막차",
     "phonetic": "makcha",
     "pos": "명사",
-    "meaning": "chuyến xe cuối cùng trong ngày (tàu điện ngầm, xe buýt...)",
+    "meaning": "chuyến xe cuối cùng trong ngày",
     "synonyms": [
       "마지막 차",
       "종차"
@@ -7713,7 +7713,7 @@
     "word": "인터뷰",
     "phonetic": "inteobyu",
     "pos": "명사",
-    "meaning": "phỏng vấn (xin việc hoặc truyền thông)",
+    "meaning": "phỏng vấn",
     "synonyms": [
       "면접",
       "인터뷰"
@@ -9393,7 +9393,7 @@
     "word": "취득",
     "phonetic": "chwideuk",
     "pos": "명사",
-    "meaning": "đạt được; lấy được (bằng cấp, chứng chỉ)",
+    "meaning": "đạt được; lấy được",
     "synonyms": [
       "획득",
       "취함"
@@ -18572,7 +18572,7 @@
     "word": "관람",
     "phonetic": "gwanram",
     "pos": "명사",
-    "meaning": "xem, thưởng lãm (sự kiện, triển lãm, thi đấu)",
+    "meaning": "xem, thưởng lãm",
     "synonyms": [
       "감상",
       "구경"
