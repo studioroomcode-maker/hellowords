@@ -1,0 +1,121 @@
+{
+  "description": "HelloWords 시험별 단어 데이터 & PDF 정리 폴더",
+  "site": "https://studioroomkr.com",
+  "exams": {
+    "TOPIK": {
+      "description": "Test of Proficiency in Korean (한국어능력시험)",
+      "levels": [1, 2, 3, 4, 5, 6],
+      "languages": {
+        "EN": {
+          "description": "영어 번역",
+          "data": [
+            "TOPIK/EN/topik_1.json",
+            "TOPIK/EN/topik_2.json",
+            "TOPIK/EN/topik_3.json",
+            "TOPIK/EN/topik_4.json",
+            "TOPIK/EN/topik_5.json",
+            "TOPIK/EN/topik_6.json"
+          ],
+          "pdf": ["PDF/TOPIK/EN/HelloWords_TOPIK_EN_1_2.pdf"]
+        },
+        "CN": {
+          "description": "중국어 번역",
+          "data": [
+            "TOPIK/CN/topik_1.json",
+            "TOPIK/CN/topik_2.json",
+            "TOPIK/CN/topik_3.json",
+            "TOPIK/CN/topik_4.json",
+            "TOPIK/CN/topik_5.json",
+            "TOPIK/CN/topik_6.json"
+          ]
+        },
+        "JP": {
+          "description": "일본어 번역",
+          "data": [
+            "TOPIK/JP/topik_1.json",
+            "TOPIK/JP/topik_2.json",
+            "TOPIK/JP/topik_3.json",
+            "TOPIK/JP/topik_4.json",
+            "TOPIK/JP/topik_5.json",
+            "TOPIK/JP/topik_6.json"
+          ],
+          "pdf": [
+            "PDF/TOPIK/JP/HelloWords_TOPIK_JP_1.pdf",
+            "PDF/TOPIK/JP/HelloWords_TOPIK_JP_2.pdf",
+            "PDF/TOPIK/JP/HelloWords_TOPIK_JP_3.pdf",
+            "PDF/TOPIK/JP/HelloWords_TOPIK_JP_4.pdf",
+            "PDF/TOPIK/JP/HelloWords_TOPIK_JP_5.pdf",
+            "PDF/TOPIK/JP/HelloWords_TOPIK_JP_6.pdf"
+          ]
+        },
+        "VN": {
+          "description": "베트남어 번역",
+          "data": [
+            "TOPIK/VN/topik_1.json",
+            "TOPIK/VN/topik_2.json",
+            "TOPIK/VN/topik_3.json",
+            "TOPIK/VN/topik_4.json",
+            "TOPIK/VN/topik_5.json",
+            "TOPIK/VN/topik_6.json"
+          ]
+        }
+      }
+    },
+    "TOEIC": {
+      "description": "Test of English for International Communication",
+      "levels": [600, 700, 800],
+      "data": [
+        "TOEIC/toeic_600.json",
+        "TOEIC/toeic_700.json",
+        "TOEIC/toeic_800.json"
+      ],
+      "pdf": [
+        "PDF/TOEIC/HelloWords_TOEIC_600.pdf",
+        "PDF/TOEIC/HelloWords_TOEIC_700.pdf",
+        "PDF/TOEIC/HelloWords_TOEIC_800.pdf"
+      ]
+    },
+    "IELTS": {
+      "description": "International English Language Testing System",
+      "levels": [5, 6, 7],
+      "data": [
+        "IELTS/ielts_5.json",
+        "IELTS/ielts_6.json",
+        "IELTS/ielts_7.json"
+      ],
+      "pdf": [
+        "PDF/IELTS/HelloWords_IELTS_5.pdf",
+        "PDF/IELTS/HelloWords_IELTS_6.pdf",
+        "PDF/IELTS/HelloWords_IELTS_7.pdf"
+      ]
+    },
+    "JLPT": {
+      "description": "Japanese Language Proficiency Test (일본어능력시험)",
+      "levels": ["N1", "N2", "N3"],
+      "data": [
+        "JLPT/jlpt_N1.json",
+        "JLPT/jlpt_N2.json",
+        "JLPT/jlpt_N3.json"
+      ],
+      "pdf": [
+        "PDF/JLPT/HelloWords_JLPT_N1.pdf",
+        "PDF/JLPT/HelloWords_JLPT_N2.pdf",
+        "PDF/JLPT/HelloWords_JLPT_N3.pdf"
+      ]
+    },
+    "HSK": {
+      "description": "汉语水平考试 (중국어능력시험)",
+      "levels": [3, 4, 5],
+      "data": [
+        "HSK/hsk_3.json",
+        "HSK/hsk_4.json",
+        "HSK/hsk_5.json"
+      ],
+      "pdf": [
+        "PDF/HSK/HelloWords_HSK_3.pdf",
+        "PDF/HSK/HelloWords_HSK_4.pdf",
+        "PDF/HSK/HelloWords_HSK_5.pdf"
+      ]
+    }
+  }
+}
