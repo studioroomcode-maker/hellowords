@@ -1551,7 +1551,7 @@
     "word": "내정간섭",
     "phonetic": "naejeongganseop",
     "pos": "명사",
-    "meaning": "can thiệp nội chính; can thiệp vào công việc nội bộ",
+    "meaning": "can thiệp nội chính",
     "synonyms": [
       "내정침해",
       "내정개입"
@@ -8336,7 +8336,7 @@
     "word": "보건위생",
     "phonetic": "bogeonwisaeng",
     "pos": "명사",
-    "meaning": "vệ sinh y tế / vệ sinh sức khỏe cộng đồng",
+    "meaning": "vệ sinh y tế",
     "synonyms": [
       "위생",
       "공중위생",
@@ -9007,7 +9007,7 @@
     "word": "피어리뷰",
     "phonetic": "pieoribyu",
     "pos": "명사",
-    "meaning": "phản biện đồng nghiệp; bình duyệt khoa học",
+    "meaning": "phản biện đồng nghiệp, bình duyệt khoa học",
     "synonyms": [
       "동료 심사",
       "전문가 검토"
@@ -9476,7 +9476,7 @@
     "word": "박사과정",
     "phonetic": "baksagwajeong",
     "pos": "명사",
-    "meaning": "chương trình tiến sĩ; chương trình nghiên cứu sinh",
+    "meaning": "chương trình tiến sĩ",
     "synonyms": [
       "박사 프로그램",
       "박사 코스"
@@ -9610,7 +9610,7 @@
     "word": "지도교수",
     "phonetic": "jidogyosu",
     "pos": "명사",
-    "meaning": "giáo sư hướng dẫn; người hướng dẫn học thuật",
+    "meaning": "giáo sư hướng dẫn",
     "synonyms": [
       "논문 지도교수",
       "학위 지도교수"
@@ -10012,7 +10012,7 @@
     "word": "사례연구",
     "phonetic": "saryeyeongu",
     "pos": "명사",
-    "meaning": "nghiên cứu tình huống; nghiên cứu trường hợp",
+    "meaning": "nghiên cứu tình huống, nghiên cứu trường hợp",
     "synonyms": [
       "케이스 스터디",
       "사례 분석"
@@ -11352,7 +11352,7 @@
     "word": "환경협약",
     "phonetic": "hwangyeonghyeobyak",
     "pos": "명사",
-    "meaning": "công ước môi trường; hiệp định môi trường",
+    "meaning": "công ước môi trường, hiệp định môi trường",
     "synonyms": [
       "환경조약",
       "국제환경협정"
@@ -11821,7 +11821,7 @@
     "word": "도시집중",
     "phonetic": "dosijipjung",
     "pos": "명사",
-    "meaning": "tập trung dân số vào đô thị; tập trung hóa đô thị",
+    "meaning": "tập trung dân số vào đô thị",
     "synonyms": [
       "도시화",
       "도시 과밀"
@@ -11956,7 +11956,7 @@
     "word": "사회이동성",
     "phonetic": "sahoeidongseong",
     "pos": "명사",
-    "meaning": "tính lưu động xã hội; khả năng dịch chuyển giai tầng",
+    "meaning": "tính lưu động xã hội",
     "synonyms": [
       "계층 이동성",
       "신분 이동"
@@ -12428,7 +12428,7 @@
     "word": "지방소멸",
     "phonetic": "jibangsomyeol",
     "pos": "명사",
-    "meaning": "sự biến mất của các vùng địa phương; suy tàn địa phương",
+    "meaning": "sự biến mất của các vùng địa phương, suy tàn địa phương",
     "synonyms": [
       "지역 소멸",
       "농촌 소멸",
@@ -12699,7 +12699,7 @@
     "word": "사회적유동성",
     "phonetic": "sahoejeogyudongseong",
     "pos": "명사",
-    "meaning": "tính lưu động xã hội / khả năng dịch chuyển xã hội",
+    "meaning": "tính lưu động xã hội",
     "synonyms": [
       "사회 유동성",
       "계층 유동성",
@@ -12903,7 +12903,7 @@
     "word": "인구절벽",
     "phonetic": "ingujeolbyeok",
     "pos": "명사",
-    "meaning": "vách đá nhân khẩu / sụt giảm dân số đột ngột",
+    "meaning": "vách đá nhân khẩu",
     "synonyms": [
       "인구 급감",
       "인구 급락",
@@ -13445,7 +13445,7 @@
     "word": "감성지능",
     "phonetic": "gamseongjineung",
     "pos": "명사",
-    "meaning": "Trí tuệ cảm xúc; khả năng nhận biết, hiểu và quản lý cảm xúc của bản thân và người khác",
+    "meaning": "Trí tuệ cảm xúc",
     "synonyms": [
       "정서지능",
       "EQ"
@@ -13512,7 +13512,7 @@
     "word": "고급문화",
     "phonetic": "gogeupmunhwa",
     "pos": "명사",
-    "meaning": "Văn hóa cao cấp; các hình thức nghệ thuật và văn hóa được coi là tinh tế, thuộc tầng lớp thượng lưu",
+    "meaning": "Văn hóa cao cấp",
     "synonyms": [
       "엘리트문화",
       "순수예술"
@@ -13579,7 +13579,7 @@
     "word": "대중문화비평",
     "phonetic": "daejungmunhwabipyeong",
     "pos": "명사",
-    "meaning": "Phê bình văn hóa đại chúng; hoạt động phân tích và đánh giá các hiện tượng văn hóa phổ biến",
+    "meaning": "Phê bình văn hóa đại chúng",
     "synonyms": [
       "문화비평",
       "팝컬처비평"
@@ -13646,7 +13646,7 @@
     "word": "문화다양성",
     "phonetic": "munhwadayangseong",
     "pos": "명사",
-    "meaning": "Đa dạng văn hóa; sự tồn tại và công nhận nhiều nền văn hóa khác nhau trong xã hội",
+    "meaning": "Đa dạng văn hóa",
     "synonyms": [
       "문화적 다양성",
       "다문화주의"
@@ -13713,7 +13713,7 @@
     "word": "문화산업화",
     "phonetic": "munhwasaneophwa",
     "pos": "명사",
-    "meaning": "Công nghiệp hóa văn hóa; quá trình biến các sản phẩm văn hóa thành hàng hóa thương mại",
+    "meaning": "Công nghiệp hóa văn hóa",
     "synonyms": [
       "문화의 상업화",
       "컬처 인더스트리"
@@ -13780,7 +13780,7 @@
     "word": "문화정체성",
     "phonetic": "munhwajeongcheseong",
     "pos": "명사",
-    "meaning": "Bản sắc văn hóa; ý thức thuộc về một nền văn hóa cụ thể và các đặc điểm văn hóa riêng biệt",
+    "meaning": "Bản sắc văn hóa",
     "synonyms": [
       "문화적 정체성",
       "민족정체성"
@@ -13847,7 +13847,7 @@
     "word": "미학적",
     "phonetic": "mihakjeok",
     "pos": "형용사",
-    "meaning": "Thuộc về mỹ học; liên quan đến cái đẹp và nghệ thuật, mang tính thẩm mỹ",
+    "meaning": "Thuộc về mỹ học",
     "synonyms": [
       "심미적",
       "예술적"
@@ -13914,7 +13914,7 @@
     "word": "서브컬처",
     "phonetic": "seobeukeolcheo",
     "pos": "명사",
-    "meaning": "Tiểu văn hóa; nền văn hóa của một nhóm nhỏ trong xã hội, thường khác biệt với văn hóa chủ đạo",
+    "meaning": "Tiểu văn hóa",
     "synonyms": [
       "하위문화",
       "부분문화"
@@ -13981,7 +13981,7 @@
     "word": "소비문화",
     "phonetic": "sobimunhwa",
     "pos": "명사",
-    "meaning": "Văn hóa tiêu dùng; lối sống và giá trị xã hội đặt trung tâm vào việc mua sắm và tiêu thụ hàng hóa",
+    "meaning": "Văn hóa tiêu dùng",
     "synonyms": [
       "소비주의",
       "컨슈머리즘"
@@ -14048,7 +14048,7 @@
     "word": "시각예술",
     "phonetic": "sigagyesul",
     "pos": "명사",
-    "meaning": "Nghệ thuật thị giác; các loại hình nghệ thuật được cảm nhận bằng mắt như hội họa, điêu khắc, nhiếp ảnh",
+    "meaning": "Nghệ thuật thị giác",
     "synonyms": [
       "비주얼아트",
       "조형예술"
@@ -14115,7 +14115,7 @@
     "word": "예술성",
     "phonetic": "yesulseong",
     "pos": "명사",
-    "meaning": "Tính nghệ thuật; phẩm chất hoặc mức độ nghệ thuật của một tác phẩm hay người sáng tạo",
+    "meaning": "Tính nghệ thuật",
     "synonyms": [
       "예술적 가치",
       "작품성"
@@ -14182,7 +14182,7 @@
     "word": "원작성",
     "phonetic": "wonjakseong",
     "pos": "명사",
-    "meaning": "Tính nguyên tác; đặc tính của tác phẩm gốc, chưa bị sao chép hay chuyển thể",
+    "meaning": "Tính nguyên tác",
     "synonyms": [
       "오리지널리티",
       "독창성"
@@ -14249,7 +14249,7 @@
     "word": "장르혼합",
     "phonetic": "jangreuhonhap",
     "pos": "명사",
-    "meaning": "Hỗn hợp thể loại; sự kết hợp và pha trộn giữa các thể loại nghệ thuật khác nhau",
+    "meaning": "Hỗn hợp thể loại",
     "synonyms": [
       "장르퓨전",
       "혼종성"
@@ -14316,7 +14316,7 @@
     "word": "창작의도",
     "phonetic": "changjaguido",
     "pos": "명사",
-    "meaning": "Ý định sáng tác; mục đích hoặc ý nghĩa mà tác giả muốn truyền đạt qua tác phẩm",
+    "meaning": "Ý định sáng tác",
     "synonyms": [
       "작가의도",
       "창작목적"
@@ -14383,7 +14383,7 @@
     "word": "콘텐츠생태계",
     "phonetic": "kontencheusaengtaegye",
     "pos": "명사",
-    "meaning": "Hệ sinh thái nội dung; hệ thống tổng thể bao gồm việc sản xuất, phân phối và tiêu thụ nội dung",
+    "meaning": "Hệ sinh thái nội dung",
     "synonyms": [
       "미디어생태계",
       "디지털생태계"
@@ -14450,7 +14450,7 @@
     "word": "탈식민주의",
     "phonetic": "talsikminjuui",
     "pos": "명사",
-    "meaning": "Chủ nghĩa hậu thực dân; lý thuyết phê phán di sản của chủ nghĩa thực dân và thúc đẩy giải phóng thuộc địa",
+    "meaning": "Chủ nghĩa hậu thực dân",
     "synonyms": [
       "포스트콜로니얼리즘",
       "반식민주의"
@@ -14517,7 +14517,7 @@
     "word": "포스트모더니즘",
     "phonetic": "poseuteumodeonijeum",
     "pos": "명사",
-    "meaning": "Chủ nghĩa hậu hiện đại; phong trào tư tưởng và nghệ thuật phê phán và vượt qua chủ nghĩa hiện đại",
+    "meaning": "Chủ nghĩa hậu hiện đại",
     "synonyms": [
       "탈근대주의",
       "후기현대주의"
@@ -14584,7 +14584,7 @@
     "word": "해석학",
     "phonetic": "haeseokhak",
     "pos": "명사",
-    "meaning": "Thông diễn học; ngành học nghiên cứu về lý thuyết và phương pháp giải thích văn bản và ý nghĩa",
+    "meaning": "Thông diễn học",
     "synonyms": [
       "hermeneutics",
       "텍스트해석론"
@@ -14651,7 +14651,7 @@
     "word": "문화자본",
     "phonetic": "munhwajabon",
     "pos": "명사",
-    "meaning": "Vốn văn hóa; kiến thức, kỹ năng và giáo dục tạo nên lợi thế xã hội cho cá nhân",
+    "meaning": "Vốn văn hóa",
     "synonyms": [
       "cultural capital",
       "문화적 자산"
@@ -14718,7 +14718,7 @@
     "word": "상호텍스트성",
     "phonetic": "sanghotekseuteuseong",
     "pos": "명사",
-    "meaning": "Liên văn bản tính; mối quan hệ giữa các văn bản, nơi một văn bản tham chiếu hoặc phản chiếu các văn bản khác",
+    "meaning": "Liên văn bản tính",
     "synonyms": [
       "intertextuality",
       "텍스트간성"
@@ -14785,7 +14785,7 @@
     "word": "재현정치",
     "phonetic": "jaehyeonjeongchi",
     "pos": "명사",
-    "meaning": "Chính trị biểu đạt; việc phân tích cách các nhóm xã hội được biểu đạt trong văn hóa và truyền thông",
+    "meaning": "Chính trị biểu đạt",
     "synonyms": [
       "재현의 정치학",
       "표현의 정치"
@@ -14852,7 +14852,7 @@
     "word": "미메시스",
     "phonetic": "mimesiseu",
     "pos": "명사",
-    "meaning": "Mimesis; khái niệm triết học và nghệ thuật về sự mô phỏng hay tái hiện thực tại",
+    "meaning": "Mimesis",
     "synonyms": [
       "모방론",
       "재현"
@@ -14919,7 +14919,7 @@
     "word": "아방가르드",
     "phonetic": "abanggareudeu",
     "pos": "명사",
-    "meaning": "Tiền vệ; phong trào nghệ thuật thực nghiệm và cấp tiến, đi tiên phong trong việc phá vỡ các quy ước truyền thống",
+    "meaning": "Tiền vệ",
     "synonyms": [
       "전위예술",
       "실험예술"
@@ -14986,7 +14986,7 @@
     "word": "문화헤게모니",
     "phonetic": "munhwahegemoni",
     "pos": "명사",
-    "meaning": "Bá quyền văn hóa; sự thống trị của một nhóm xã hội thông qua việc áp đặt giá trị và tư tưởng văn hóa",
+    "meaning": "Bá quyền văn hóa",
     "synonyms": [
       "문화적 패권",
       "그람시 헤게모니"
@@ -15053,7 +15053,7 @@
     "word": "예술제도",
     "phonetic": "yesuljedo",
     "pos": "명사",
-    "meaning": "Thể chế nghệ thuật; hệ thống các tổ chức và quy tắc xã hội xác định và đánh giá nghệ thuật",
+    "meaning": "Thể chế nghệ thuật",
     "synonyms": [
       "미술제도",
       "예술기관"
@@ -15120,7 +15120,7 @@
     "word": "경영전략",
     "phonetic": "gyeongyeongjeonryak",
     "pos": "명사",
-    "meaning": "Chiến lược kinh doanh; kế hoạch dài hạn xác định hướng phát triển và cạnh tranh của doanh nghiệp",
+    "meaning": "Chiến lược kinh doanh",
     "synonyms": [
       "비즈니스전략",
       "사업전략"
@@ -15187,7 +15187,7 @@
     "word": "조직문화",
     "phonetic": "jojikmunhwa",
     "pos": "명사",
-    "meaning": "Văn hóa tổ chức; các giá trị, quy tắc và hành vi chung được chia sẻ trong một tổ chức",
+    "meaning": "Văn hóa tổ chức",
     "synonyms": [
       "기업문화",
       "사내문화"
@@ -15254,7 +15254,7 @@
     "word": "인적자원관리",
     "phonetic": "injeokjawongwanri",
     "pos": "명사",
-    "meaning": "Quản trị nguồn nhân lực; hoạt động quản lý con người trong tổ chức bao gồm tuyển dụng, đào tạo và phát triển",
+    "meaning": "Quản trị nguồn nhân lực",
     "synonyms": [
       "HRM",
       "인사관리"
@@ -15321,7 +15321,7 @@
     "word": "성과관리",
     "phonetic": "seonggwagwanri",
     "pos": "명사",
-    "meaning": "Quản lý hiệu suất; quá trình đặt mục tiêu, đánh giá và cải thiện hiệu suất làm việc của cá nhân và tổ chức",
+    "meaning": "Quản lý hiệu suất",
     "synonyms": [
       "성과평가",
       "퍼포먼스 관리"
@@ -15388,7 +15388,7 @@
     "word": "리더십",
     "phonetic": "rideosip",
     "pos": "명사",
-    "meaning": "Lãnh đạo; khả năng hướng dẫn, ảnh hưởng và tạo động lực cho người khác nhằm đạt mục tiêu chung",
+    "meaning": "Lãnh đạo",
     "synonyms": [
       "지도력",
       "통솔력"
@@ -15455,7 +15455,7 @@
     "word": "의사결정",
     "phonetic": "uisagyeoljeong",
     "pos": "명사",
-    "meaning": "Ra quyết định; quá trình lựa chọn giữa các phương án để giải quyết vấn đề hoặc đạt mục tiêu",
+    "meaning": "Ra quyết định",
     "synonyms": [
       "결정",
       "판단"
@@ -15522,7 +15522,7 @@
     "word": "기업지배구조",
     "phonetic": "gieopjibaegujo",
     "pos": "명사",
-    "meaning": "Quản trị doanh nghiệp; hệ thống quy tắc và thực hành điều chỉnh cách thức quản lý và kiểm soát công ty",
+    "meaning": "Quản trị doanh nghiệp",
     "synonyms": [
       "corporate governance",
       "지배구조"
@@ -15589,7 +15589,7 @@
     "word": "이사회",
     "phonetic": "isahoe",
     "pos": "명사",
-    "meaning": "Hội đồng quản trị; cơ quan quản lý cao nhất của công ty, giám sát và định hướng hoạt động của doanh nghiệp",
+    "meaning": "Hội đồng quản trị",
     "synonyms": [
       "board of directors",
       "이사진"
@@ -15656,7 +15656,7 @@
     "word": "주주가치",
     "phonetic": "jujugachi",
     "pos": "명사",
-    "meaning": "Giá trị cổ đông; lợi ích tài chính mà doanh nghiệp tạo ra cho các cổ đông của mình",
+    "meaning": "Giá trị cổ đông",
     "synonyms": [
       "shareholder value",
       "주주이익"
@@ -15723,7 +15723,7 @@
     "word": "사회적책임",
     "phonetic": "sahoejeokchaegim",
     "pos": "명사",
-    "meaning": "Trách nhiệm xã hội; nghĩa vụ của doanh nghiệp đối với xã hội và môi trường ngoài việc tạo lợi nhuận",
+    "meaning": "Trách nhiệm xã hội",
     "synonyms": [
       "CSR",
       "기업의 사회적 책임"
@@ -15790,7 +15790,7 @@
     "word": "공급망관리",
     "phonetic": "gonggeupmanggwanri",
     "pos": "명사",
-    "meaning": "Quản lý chuỗi cung ứng; hoạt động quản lý toàn bộ quá trình từ nguyên liệu đến sản phẩm cuối cùng",
+    "meaning": "Quản lý chuỗi cung ứng",
     "synonyms": [
       "SCM",
       "supply chain management"
@@ -15857,7 +15857,7 @@
     "word": "마케팅전략",
     "phonetic": "maketingjeonryak",
     "pos": "명사",
-    "meaning": "Chiến lược marketing; kế hoạch tiếp cận thị trường mục tiêu và đạt mục tiêu bán hàng của doanh nghiệp",
+    "meaning": "Chiến lược marketing",
     "synonyms": [
       "마케팅계획",
       "시장전략"
@@ -15924,7 +15924,7 @@
     "word": "브랜드가치",
     "phonetic": "beuraendeugachi",
     "pos": "명사",
-    "meaning": "Giá trị thương hiệu; giá trị kinh tế và uy tín mà một thương hiệu mang lại cho doanh nghiệp",
+    "meaning": "Giá trị thương hiệu",
     "synonyms": [
       "brand value",
       "브랜드자산"
@@ -15991,7 +15991,7 @@
     "word": "고객만족",
     "phonetic": "gogaekmanjok",
     "pos": "명사",
-    "meaning": "Sự hài lòng của khách hàng; mức độ đáp ứng kỳ vọng của khách hàng đối với sản phẩm hoặc dịch vụ",
+    "meaning": "Sự hài lòng của khách hàng",
     "synonyms": [
       "고객 만족도",
       "CS"
@@ -16058,7 +16058,7 @@
     "word": "혁신경영",
     "phonetic": "hyeoksingyeongyeong",
     "pos": "명사",
-    "meaning": "Quản lý đổi mới; phương pháp quản lý tập trung vào việc tạo ra và ứng dụng các ý tưởng mới trong tổ chức",
+    "meaning": "Quản lý đổi mới",
     "synonyms": [
       "이노베이션 경영",
       "창의경영"
@@ -16125,7 +16125,7 @@
     "word": "합병인수",
     "phonetic": "hapbyeonginsu",
     "pos": "명사",
-    "meaning": "Mua bán và sáp nhập doanh nghiệp; hoạt động một công ty mua lại hoặc kết hợp với công ty khác",
+    "meaning": "Mua bán và sáp nhập doanh nghiệp",
     "synonyms": [
       "M&A",
       "인수합병"
@@ -16192,7 +16192,7 @@
     "word": "사업다각화",
     "phonetic": "saeopdagakhwa",
     "pos": "명사",
-    "meaning": "Đa dạng hóa kinh doanh; chiến lược mở rộng hoạt động sang các lĩnh vực kinh doanh mới để giảm rủi ro",
+    "meaning": "Đa dạng hóa kinh doanh",
     "synonyms": [
       "비즈니스 다각화",
       "사업다양화"
@@ -16259,7 +16259,7 @@
     "word": "글로벌화",
     "phonetic": "geulrobeolhwa",
     "pos": "명사",
-    "meaning": "Toàn cầu hóa; quá trình hội nhập và kết nối ngày càng sâu rộng giữa các nền kinh tế, văn hóa và xã hội trên thế giới",
+    "meaning": "Toàn cầu hóa",
     "synonyms": [
       "세계화",
       "globalization"
@@ -16326,7 +16326,7 @@
     "word": "수익구조",
     "phonetic": "suikgujo",
     "pos": "명사",
-    "meaning": "Cơ cấu doanh thu; cách thức một doanh nghiệp tạo ra và phân bổ nguồn thu nhập",
+    "meaning": "Cơ cấu doanh thu",
     "synonyms": [
       "수익모델",
       "revenue structure"
@@ -16393,7 +16393,7 @@
     "word": "원가관리",
     "phonetic": "wongagwanri",
     "pos": "명사",
-    "meaning": "Quản lý chi phí; hoạt động kiểm soát và tối ưu hóa các chi phí trong quá trình sản xuất và kinh doanh",
+    "meaning": "Quản lý chi phí",
     "synonyms": [
       "비용관리",
       "원가절감"
@@ -16460,7 +16460,7 @@
     "word": "재무제표",
     "phonetic": "jaemujepyo",
     "pos": "명사",
-    "meaning": "Báo cáo tài chính; tài liệu kế toán trình bày tình hình tài chính và kết quả hoạt động của doanh nghiệp",
+    "meaning": "Báo cáo tài chính",
     "synonyms": [
       "financial statement",
       "재무보고서"
@@ -16527,7 +16527,7 @@
     "word": "손익분기",
     "phonetic": "sonikbungi",
     "pos": "명사",
-    "meaning": "Điểm hòa vốn; mức doanh thu tại đó tổng thu nhập bằng tổng chi phí, không lãi không lỗ",
+    "meaning": "Điểm hòa vốn",
     "synonyms": [
       "break-even",
       "손익분기점"
@@ -16594,7 +16594,7 @@
     "word": "투자회수",
     "phonetic": "tujahoesu",
     "pos": "명사",
-    "meaning": "Thu hồi vốn đầu tư; việc lấy lại số tiền đã đầu tư thông qua lợi nhuận hoặc doanh thu",
+    "meaning": "Thu hồi vốn đầu tư",
     "synonyms": [
       "ROI",
       "투자 회수율"
@@ -16661,7 +16661,7 @@
     "word": "기업가치",
     "phonetic": "gieopgachi",
     "pos": "명사",
-    "meaning": "Giá trị doanh nghiệp; tổng giá trị kinh tế và thị trường của một công ty",
+    "meaning": "Giá trị doanh nghiệp",
     "synonyms": [
       "enterprise value",
       "회사가치"
@@ -16728,7 +16728,7 @@
     "word": "벤처투자",
     "phonetic": "bencheotuja",
     "pos": "명사",
-    "meaning": "Đầu tư mạo hiểm; hình thức đầu tư vào các công ty khởi nghiệp có tiềm năng tăng trưởng cao nhưng rủi ro lớn",
+    "meaning": "Đầu tư mạo hiểm",
     "synonyms": [
       "벤처캐피털",
       "VC투자"
@@ -16795,7 +16795,7 @@
     "word": "디지털미디어",
     "phonetic": "dijiteolmidieo",
     "pos": "명사",
-    "meaning": "Phương tiện truyền thông kỹ thuật số; các loại hình truyền thông sử dụng công nghệ kỹ thuật số để tạo và phân phối nội dung",
+    "meaning": "Phương tiện truyền thông kỹ thuật số",
     "synonyms": [
       "디지털매체",
       "뉴미디어"
@@ -16862,7 +16862,7 @@
     "word": "미디어생태계",
     "phonetic": "midieosaengtaegye",
     "pos": "명사",
-    "meaning": "Hệ sinh thái truyền thông; hệ thống tổng thể của các tổ chức, công nghệ và người dùng tạo thành môi trường truyền thông",
+    "meaning": "Hệ sinh thái truyền thông",
     "synonyms": [
       "미디어환경",
       "media ecosystem"
@@ -16996,7 +16996,7 @@
     "word": "필터버블",
     "phonetic": "pilteobeobeul",
     "pos": "명사",
-    "meaning": "Bong bóng lọc; hiện tượng người dùng chỉ được tiếp xúc với thông tin phù hợp với quan điểm của mình do thuật toán cá nhân hóa",
+    "meaning": "Bong bóng lọc",
     "synonyms": [
       "filter bubble",
       "정보 거품"
@@ -17063,7 +17063,7 @@
     "word": "에코챔버",
     "phonetic": "ekochaembeo",
     "pos": "명사",
-    "meaning": "Buồng vang; hiện tượng trong môi trường thông tin mà mọi người chỉ nghe thấy những ý kiến đồng thuận với quan điểm của mình",
+    "meaning": "Buồng vang",
     "synonyms": [
       "echo chamber",
       "반향실 효과"
@@ -17130,7 +17130,7 @@
     "word": "정보격차",
     "phonetic": "jeongbogyeokcha",
     "pos": "명사",
-    "meaning": "Khoảng cách thông tin số; sự chênh lệch về khả năng tiếp cận và sử dụng thông tin kỹ thuật số giữa các nhóm người",
+    "meaning": "Khoảng cách thông tin số",
     "synonyms": [
       "디지털 디바이드",
       "digital divide"
@@ -17197,7 +17197,7 @@
     "word": "디지털리터러시",
     "phonetic": "dijiteolriteoreosi",
     "pos": "명사",
-    "meaning": "Năng lực số; khả năng tìm kiếm, đánh giá và sử dụng thông tin và công nghệ kỹ thuật số một cách hiệu quả",
+    "meaning": "Năng lực số",
     "synonyms": [
       "디지털 문해력",
       "digital literacy"
@@ -17264,7 +17264,7 @@
     "word": "사이버공간",
     "phonetic": "saibeogonggan",
     "pos": "명사",
-    "meaning": "Không gian mạng; môi trường ảo được tạo ra bởi mạng lưới máy tính và internet",
+    "meaning": "Không gian mạng",
     "synonyms": [
       "cyberspace",
       "가상공간"
@@ -17331,7 +17331,7 @@
     "word": "개인정보보호",
     "phonetic": "gaeinjeongboboho",
     "pos": "명사",
-    "meaning": "Bảo vệ dữ liệu cá nhân; việc bảo vệ thông tin cá nhân khỏi bị truy cập, sử dụng hoặc tiết lộ trái phép",
+    "meaning": "Bảo vệ dữ liệu cá nhân",
     "synonyms": [
       "정보보호",
       "프라이버시 보호"
@@ -17398,7 +17398,7 @@
     "word": "데이터주권",
     "phonetic": "deiteojugwon",
     "pos": "명사",
-    "meaning": "Chủ quyền dữ liệu; quyền kiểm soát dữ liệu của cá nhân hoặc quốc gia, đặc biệt trong bối cảnh kỹ thuật số",
+    "meaning": "Chủ quyền dữ liệu",
     "synonyms": [
       "data sovereignty",
       "데이터 자기결정권"
@@ -17465,7 +17465,7 @@
     "word": "플랫폼독점",
     "phonetic": "peulraetpomdokjeom",
     "pos": "명사",
-    "meaning": "Độc quyền nền tảng; hiện tượng một số nền tảng kỹ thuật số lớn kiểm soát thị trường và loại bỏ cạnh tranh",
+    "meaning": "Độc quyền nền tảng",
     "synonyms": [
       "플랫폼 지배",
       "플랫폼 과점"
@@ -17532,7 +17532,7 @@
     "word": "미디어다양성",
     "phonetic": "midieodayangseong",
     "pos": "명사",
-    "meaning": "Đa dạng truyền thông; sự tồn tại của nhiều nguồn tin, quan điểm và hình thức truyền thông khác nhau trong xã hội",
+    "meaning": "Đa dạng truyền thông",
     "synonyms": [
       "미디어 다원성",
       "media diversity"
@@ -17599,7 +17599,7 @@
     "word": "여론형성",
     "phonetic": "yeoronhyeongseong",
     "pos": "명사",
-    "meaning": "Hình thành dư luận; quá trình mà các quan điểm và thái độ của công chúng về các vấn đề xã hội được tạo ra",
+    "meaning": "Hình thành dư luận",
     "synonyms": [
       "여론 형성",
       "public opinion formation"
@@ -17666,7 +17666,7 @@
     "word": "의제설정",
     "phonetic": "uijeseoljeong",
     "pos": "명사",
-    "meaning": "Thiết lập chương trình nghị sự; khả năng của truyền thông trong việc xác định những vấn đề nào được công chúng chú ý",
+    "meaning": "Thiết lập chương trình nghị sự",
     "synonyms": [
       "아젠다 세팅",
       "agenda-setting"
@@ -17733,7 +17733,7 @@
     "word": "프레이밍효과",
     "phonetic": "peureiminghyogwa",
     "pos": "명사",
-    "meaning": "Hiệu ứng đóng khung; ảnh hưởng của cách trình bày thông tin đến nhận thức và quyết định của người nhận",
+    "meaning": "Hiệu ứng đóng khung",
     "synonyms": [
       "framing effect",
       "틀짓기 효과"
@@ -17800,7 +17800,7 @@
     "word": "미디어비판",
     "phonetic": "midieobipan",
     "pos": "명사",
-    "meaning": "Phê bình truyền thông; hoạt động phân tích và đánh giá nội dung, cấu trúc và tác động của các phương tiện truyền thông",
+    "meaning": "Phê bình truyền thông",
     "synonyms": [
       "미디어 비평",
       "media criticism"
@@ -17867,7 +17867,7 @@
     "word": "저널리즘윤리",
     "phonetic": "jeoneolrijeumyunri",
     "pos": "명사",
-    "meaning": "Đạo đức báo chí; các nguyên tắc và tiêu chuẩn đạo đức hướng dẫn hành vi của các nhà báo",
+    "meaning": "Đạo đức báo chí",
     "synonyms": [
       "언론윤리",
       "journalism ethics"
@@ -17934,7 +17934,7 @@
     "word": "팩트체크",
     "phonetic": "paekteuchekeu",
     "pos": "명사",
-    "meaning": "Kiểm chứng thực tế; quá trình xác minh độ chính xác của các tuyên bố và thông tin được đưa ra",
+    "meaning": "Kiểm chứng thực tế",
     "synonyms": [
       "사실확인",
       "fact-checking"
@@ -18001,7 +18001,7 @@
     "word": "허위정보",
     "phonetic": "heowijeongbo",
     "pos": "명사",
-    "meaning": "Thông tin sai lệch; thông tin không chính xác hoặc bịa đặt được tạo ra và lan truyền với mục đích gây hiểu lầm",
+    "meaning": "Thông tin sai lệch",
     "synonyms": [
       "disinformation",
       "가짜 뉴스"
@@ -18068,7 +18068,7 @@
     "word": "정보조작",
     "phonetic": "jeongbojojak",
     "pos": "명사",
-    "meaning": "Thao túng thông tin; hành động có chủ ý thay đổi hoặc xuyên tạc thông tin để gây hiểu lầm hoặc ảnh hưởng đến ý kiến",
+    "meaning": "Thao túng thông tin",
     "synonyms": [
       "information manipulation",
       "여론조작"
@@ -18135,7 +18135,7 @@
     "word": "디지털시민",
     "phonetic": "dijiteolsimin",
     "pos": "명사",
-    "meaning": "Công dân số; người tham gia tích cực và có trách nhiệm vào các hoạt động trong môi trường kỹ thuật số",
+    "meaning": "Công dân số",
     "synonyms": [
       "digital citizen",
       "온라인 시민"
@@ -18202,7 +18202,7 @@
     "word": "온라인공론장",
     "phonetic": "onraingongronjang",
     "pos": "명사",
-    "meaning": "Không gian thảo luận công cộng trực tuyến; môi trường trực tuyến nơi công dân thảo luận về các vấn đề công cộng",
+    "meaning": "Không gian thảo luận công cộng trực tuyến",
     "synonyms": [
       "온라인 공공영역",
       "디지털 공론장"
@@ -18269,7 +18269,7 @@
     "word": "미디어규제",
     "phonetic": "midieogyuje",
     "pos": "명사",
-    "meaning": "Quy định truyền thông; các chính sách và luật pháp kiểm soát hoạt động của các phương tiện truyền thông",
+    "meaning": "Quy định truyền thông",
     "synonyms": [
       "언론규제",
       "media regulation"
@@ -18336,7 +18336,7 @@
     "word": "콘텐츠생산",
     "phonetic": "kontencheusaengsan",
     "pos": "명사",
-    "meaning": "Sản xuất nội dung; quá trình tạo ra và phát triển các sản phẩm thông tin, giải trí và văn hóa",
+    "meaning": "Sản xuất nội dung",
     "synonyms": [
       "콘텐츠 제작",
       "content production"
@@ -18403,7 +18403,7 @@
     "word": "인플루언서마케팅",
     "phonetic": "inpeulrueonseomaketing",
     "pos": "명사",
-    "meaning": "Marketing người có ảnh hưởng; chiến lược marketing sử dụng những người có lượng theo dõi lớn trên mạng xã hội để quảng bá sản phẩm",
+    "meaning": "Marketing người có ảnh hưởng",
     "synonyms": [
       "influencer marketing",
       "인플루언서 광고"
@@ -18470,7 +18470,7 @@
     "word": "존재론",
     "phonetic": "jonjaeron",
     "pos": "명사",
-    "meaning": "Bản thể luận; ngành triết học nghiên cứu về bản chất của sự tồn tại và thực tại",
+    "meaning": "Bản thể luận",
     "synonyms": [
       "ontology",
       "존재 철학"
@@ -18537,7 +18537,7 @@
     "word": "인식론",
     "phonetic": "insikron",
     "pos": "명사",
-    "meaning": "Nhận thức luận; ngành triết học nghiên cứu về bản chất, nguồn gốc và giới hạn của tri thức",
+    "meaning": "Nhận thức luận",
     "synonyms": [
       "epistemology",
       "지식론"
@@ -18604,7 +18604,7 @@
     "word": "윤리학",
     "phonetic": "yunrihak",
     "pos": "명사",
-    "meaning": "Đạo đức học; ngành triết học nghiên cứu về bản chất của đạo đức, các tiêu chuẩn hành vi đúng và sai",
+    "meaning": "Đạo đức học",
     "synonyms": [
       "도덕학",
       "ethics"
@@ -18671,7 +18671,7 @@
     "word": "도덕철학",
     "phonetic": "dodeokcheolhak",
     "pos": "명사",
-    "meaning": "Triết học đạo đức; nghiên cứu triết học về bản chất của đạo đức, đức hạnh và các nguyên tắc hành động đúng đắn",
+    "meaning": "Triết học đạo đức",
     "synonyms": [
       "moral philosophy",
       "윤리학"
@@ -18738,7 +18738,7 @@
     "word": "공리주의",
     "phonetic": "gongrijuui",
     "pos": "명사",
-    "meaning": "Chủ nghĩa công lợi; lý thuyết đạo đức cho rằng hành động đúng là hành động tối đa hóa hạnh phúc hoặc lợi ích tổng thể",
+    "meaning": "Chủ nghĩa công lợi",
     "synonyms": [
       "utilitarianism",
       "결과주의"
@@ -18805,7 +18805,7 @@
     "word": "의무론",
     "phonetic": "uimuron",
     "pos": "명사",
-    "meaning": "Thuyết nghĩa vụ; lý thuyết đạo đức cho rằng tính đúng sai của hành động phụ thuộc vào nghĩa vụ và quy tắc đạo đức, không phải kết quả",
+    "meaning": "Thuyết nghĩa vụ",
     "synonyms": [
       "deontology",
       "의무 윤리"
@@ -18872,7 +18872,7 @@
     "word": "덕윤리",
     "phonetic": "deogyunri",
     "pos": "명사",
-    "meaning": "Đạo đức đức hạnh; lý thuyết đạo đức tập trung vào tính cách và đức hạnh của con người hơn là quy tắc hay kết quả",
+    "meaning": "Đạo đức đức hạnh",
     "synonyms": [
       "덕 윤리학",
       "virtue ethics"
@@ -18939,7 +18939,7 @@
     "word": "자유의지",
     "phonetic": "jayuuiji",
     "pos": "명사",
-    "meaning": "Ý chí tự do; khả năng của con người trong việc đưa ra lựa chọn và hành động độc lập, không bị quyết định bởi các nguyên nhân bên ngoài",
+    "meaning": "Ý chí tự do",
     "synonyms": [
       "free will",
       "의지의 자유"
@@ -19006,7 +19006,7 @@
     "word": "결정론",
     "phonetic": "gyeoljeongron",
     "pos": "명사",
-    "meaning": "Thuyết tất định; quan điểm triết học cho rằng mọi sự kiện đều được quyết định trước bởi các nguyên nhân trước đó",
+    "meaning": "Thuyết tất định",
     "synonyms": [
       "determinism",
       "인과론"
@@ -19073,7 +19073,7 @@
     "word": "이성",
     "phonetic": "iseong",
     "pos": "명사",
-    "meaning": "Lý trí; năng lực tư duy logic và phán đoán có chủ đích, đối lập với cảm xúc hay bản năng",
+    "meaning": "Lý trí",
     "synonyms": [
       "reason",
       "합리성"
@@ -19207,7 +19207,7 @@
     "word": "가치판단",
     "phonetic": "gachipandan",
     "pos": "명사",
-    "meaning": "Phán đoán giá trị; việc đánh giá điều gì tốt hay xấu, đúng hay sai dựa trên các tiêu chuẩn giá trị",
+    "meaning": "Phán đoán giá trị",
     "synonyms": [
       "value judgment",
       "가치 평가"
@@ -19274,7 +19274,7 @@
     "word": "정의론",
     "phonetic": "jeonguiron",
     "pos": "명사",
-    "meaning": "Lý thuyết về công lý; nghiên cứu triết học về bản chất của sự công bằng và cách phân phối hợp lý các lợi ích và gánh nặng trong xã hội",
+    "meaning": "Lý thuyết về công lý",
     "synonyms": [
       "theory of justice",
       "사회 정의론"
@@ -19341,7 +19341,7 @@
     "word": "사회계약",
     "phonetic": "sahoegyeyak",
     "pos": "명사",
-    "meaning": "Khế ước xã hội; lý thuyết chính trị cho rằng chính quyền và xã hội dựa trên thỏa thuận giữa các cá nhân",
+    "meaning": "Khế ước xã hội",
     "synonyms": [
       "social contract",
       "사회계약론"
@@ -19408,7 +19408,7 @@
     "word": "민주주의이념",
     "phonetic": "minjujuuiinyeom",
     "pos": "명사",
-    "meaning": "Lý tưởng dân chủ; các nguyên tắc và giá trị cơ bản làm nền tảng cho hệ thống chính trị dân chủ",
+    "meaning": "Lý tưởng dân chủ",
     "synonyms": [
       "민주주의 원리",
       "democratic ideology"
@@ -19475,7 +19475,7 @@
     "word": "자유주의",
     "phonetic": "jayujuui",
     "pos": "명사",
-    "meaning": "Chủ nghĩa tự do; hệ tư tưởng chính trị đề cao tự do cá nhân, quyền con người và chính phủ hạn chế",
+    "meaning": "Chủ nghĩa tự do",
     "synonyms": [
       "liberalism",
       "리버럴리즘"
@@ -19542,7 +19542,7 @@
     "word": "보수주의",
     "phonetic": "bosujuui",
     "pos": "명사",
-    "meaning": "Chủ nghĩa bảo thủ; hệ tư tưởng chính trị đề cao truyền thống, ổn định xã hội và thay đổi từ từ",
+    "meaning": "Chủ nghĩa bảo thủ",
     "synonyms": [
       "conservatism",
       "보수적 이념"
@@ -19609,7 +19609,7 @@
     "word": "진보주의",
     "phonetic": "jinbojuui",
     "pos": "명사",
-    "meaning": "Chủ nghĩa tiến bộ; hệ tư tưởng chính trị ủng hộ cải cách xã hội, bình đẳng và thay đổi tiến bộ",
+    "meaning": "Chủ nghĩa tiến bộ",
     "synonyms": [
       "progressivism",
       "진보적 이념"
@@ -19676,7 +19676,7 @@
     "word": "평등주의",
     "phonetic": "pyeongdeungjuui",
     "pos": "명사",
-    "meaning": "Chủ nghĩa bình đẳng; hệ tư tưởng đề cao sự bình đẳng giữa mọi người về quyền lợi, cơ hội và điều kiện sống",
+    "meaning": "Chủ nghĩa bình đẳng",
     "synonyms": [
       "egalitarianism",
       "평등 이념"
@@ -19743,7 +19743,7 @@
     "word": "다원주의",
     "phonetic": "dawonjuui",
     "pos": "명사",
-    "meaning": "Chủ nghĩa đa nguyên; quan điểm đề cao sự đa dạng và cùng tồn tại của nhiều giá trị, quan điểm và nhóm trong xã hội",
+    "meaning": "Chủ nghĩa đa nguyên",
     "synonyms": [
       "pluralism",
       "다양성 이념"
@@ -19810,7 +19810,7 @@
     "word": "공동선",
     "phonetic": "gongdongseon",
     "pos": "명사",
-    "meaning": "Lợi ích chung; lợi ích và phúc lợi của toàn bộ cộng đồng, vượt qua lợi ích cá nhân",
+    "meaning": "Lợi ích chung",
     "synonyms": [
       "common good",
       "공공선"
@@ -19877,7 +19877,7 @@
     "word": "시민윤리",
     "phonetic": "siminyunri",
     "pos": "명사",
-    "meaning": "Đạo đức công dân; các nghĩa vụ và giá trị đạo đức mà công dân cần có trong xã hội dân chủ",
+    "meaning": "Đạo đức công dân",
     "synonyms": [
       "civic ethics",
       "공민 윤리"
@@ -19944,7 +19944,7 @@
     "word": "책임론",
     "phonetic": "chaegimron",
     "pos": "명사",
-    "meaning": "Lý thuyết về trách nhiệm; nghiên cứu triết học về bản chất và điều kiện của trách nhiệm đạo đức và pháp lý",
+    "meaning": "Lý thuyết về trách nhiệm",
     "synonyms": [
       "theory of responsibility",
       "책임 윤리"
@@ -20011,7 +20011,7 @@
     "word": "관용",
     "phonetic": "gwanyong",
     "pos": "명사",
-    "meaning": "Sự khoan dung; thái độ chấp nhận và tôn trọng những quan điểm, hành vi hay đặc điểm khác biệt với mình",
+    "meaning": "Sự khoan dung",
     "synonyms": [
       "tolerance",
       "너그러움"
@@ -20078,7 +20078,7 @@
     "word": "비판적사고",
     "phonetic": "bipanjeoksago",
     "pos": "명사",
-    "meaning": "Tư duy phê phán; khả năng phân tích, đánh giá và đặt câu hỏi về thông tin và lập luận một cách có hệ thống",
+    "meaning": "Tư duy phê phán",
     "synonyms": [
       "critical thinking",
       "비판적 사유"

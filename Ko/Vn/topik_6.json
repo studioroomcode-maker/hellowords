@@ -1564,7 +1564,7 @@
       "id": 26,
       "word": "거시경제",
       "pos": "명사",
-      "meaning": "kinh tế vĩ mô; nghiên cứu nền kinh tế tổng thể",
+      "meaning": "kinh tế vĩ mô",
       "synonyms": [
         "국민경제",
         "총체적경제"
@@ -1626,7 +1626,7 @@
       "id": 27,
       "word": "총수요",
       "pos": "명사",
-      "meaning": "tổng cầu; tổng nhu cầu về hàng hóa và dịch vụ trong một nền kinh tế",
+      "meaning": "tổng cầu",
       "synonyms": [
         "집계수요",
         "유효수요"
@@ -1688,7 +1688,7 @@
       "id": 28,
       "word": "총공급",
       "pos": "명사",
-      "meaning": "tổng cung; tổng lượng hàng hóa và dịch vụ được sản xuất trong một nền kinh tế",
+      "meaning": "tổng cung",
       "synonyms": [
         "집계공급",
         "국민공급"
@@ -1874,7 +1874,7 @@
       "id": 31,
       "word": "경기부양",
       "pos": "명사",
-      "meaning": "kích thích kinh tế; các biện pháp của chính phủ nhằm thúc đẩy hoạt động kinh tế",
+      "meaning": "kích thích kinh tế",
       "synonyms": [
         "경기진작",
         "경기부흥"
@@ -1998,7 +1998,7 @@
       "id": 33,
       "word": "긴축정책",
       "pos": "명사",
-      "meaning": "chính sách thắt lưng buộc bụng; các biện pháp của chính phủ nhằm cắt giảm chi tiêu và nợ công",
+      "meaning": "chính sách thắt lưng buộc bụng",
       "synonyms": [
         "재정긴축",
         "긴축재정"
@@ -2060,7 +2060,7 @@
       "id": 34,
       "word": "재정승수",
       "pos": "명사",
-      "meaning": "hệ số nhân tài khóa; tỷ lệ thay đổi thu nhập quốc dân so với thay đổi chi tiêu chính phủ gây ra",
+      "meaning": "hệ số nhân tài khóa",
       "synonyms": [
         "재정지출승수",
         "정부지출승수"
@@ -2122,7 +2122,7 @@
       "id": 35,
       "word": "통화승수",
       "pos": "명사",
-      "meaning": "hệ số nhân tiền tệ; tỷ lệ mở rộng cung tiền so với tiền gửi ban đầu hoặc cơ sở tiền tệ",
+      "meaning": "hệ số nhân tiền tệ",
       "synonyms": [
         "화폐승수",
         "신용승수"
@@ -2184,7 +2184,7 @@
       "id": 36,
       "word": "유동성함정",
       "pos": "명사",
-      "meaning": "bẫy thanh khoản; tình huống chính sách tiền tệ trở nên kém hiệu quả vì lãi suất ở mức bằng không hoặc gần bằng không",
+      "meaning": "bẫy thanh khoản",
       "synonyms": [
         "유동성트랩",
         "금리하한함정"
@@ -2246,7 +2246,7 @@
       "id": 37,
       "word": "필립스곡선",
       "pos": "명사",
-      "meaning": "đường Phillips; đồ thị thể hiện mối quan hệ nghịch chiều giữa lạm phát và thất nghiệp",
+      "meaning": "đường Phillips",
       "synonyms": [
         "인플레-실업 상충곡선",
         "물가-고용 트레이드오프"
@@ -2308,7 +2308,7 @@
       "id": 38,
       "word": "구조적실업",
       "pos": "명사",
-      "meaning": "thất nghiệp cơ cấu; tình trạng thất nghiệp do sự không phù hợp giữa kỹ năng của người lao động và nhu cầu việc làm hiện có",
+      "meaning": "thất nghiệp cơ cấu",
       "synonyms": [
         "기술미스매치실업",
         "산업구조변화실업"
@@ -2370,7 +2370,7 @@
       "id": 39,
       "word": "마찰적실업",
       "pos": "명사",
-      "meaning": "thất nghiệp ma sát; tình trạng thất nghiệp ngắn hạn xảy ra trong thời gian người lao động tìm kiếm việc làm mới",
+      "meaning": "thất nghiệp ma sát",
       "synonyms": [
         "탐색적실업",
         "이행기실업"
@@ -2432,7 +2432,7 @@
       "id": 40,
       "word": "경제성장론",
       "pos": "명사",
-      "meaning": "lý thuyết tăng trưởng kinh tế; các khung lý thuyết giải thích nguồn gốc và cơ chế tăng trưởng kinh tế dài hạn",
+      "meaning": "lý thuyết tăng trưởng kinh tế",
       "synonyms": [
         "성장이론",
         "성장경제학"
@@ -2494,7 +2494,7 @@
       "id": 41,
       "word": "내생적성장",
       "pos": "명사",
-      "meaning": "tăng trưởng nội sinh; tăng trưởng kinh tế được thúc đẩy bởi các nhân tố nội tại như tích lũy tri thức và đổi mới sáng tạo trong mô hình",
+      "meaning": "tăng trưởng nội sinh",
       "synonyms": [
         "내생성장이론",
         "신성장이론"
@@ -2556,7 +2556,7 @@
       "id": 42,
       "word": "비교우위",
       "pos": "명사",
-      "meaning": "lợi thế so sánh; khả năng sản xuất một hàng hóa với chi phí cơ hội thấp hơn so với các đối thủ khác",
+      "meaning": "lợi thế so sánh",
       "synonyms": [
         "상대적우위",
         "비교우위원칙"
@@ -2618,7 +2618,7 @@
       "id": 43,
       "word": "절대우위",
       "pos": "명사",
-      "meaning": "lợi thế tuyệt đối; khả năng sản xuất nhiều hàng hóa hoặc dịch vụ hơn đối thủ cạnh tranh khi sử dụng cùng một lượng tài nguyên",
+      "meaning": "lợi thế tuyệt đối",
       "synonyms": [
         "절대적우위",
         "생산효율우위"
@@ -2680,7 +2680,7 @@
       "id": 44,
       "word": "자유무역론",
       "pos": "명사",
-      "meaning": "lý thuyết thương mại tự do; học thuyết cho rằng thương mại giữa các quốc gia nên được thực hiện mà không có thuế quan, hạn ngạch hay các hạn chế khác",
+      "meaning": "lý thuyết thương mại tự do",
       "synonyms": [
         "자유교역론",
         "무역자유화론"
@@ -2742,7 +2742,7 @@
       "id": 45,
       "word": "보호무역주의",
       "pos": "명사",
-      "meaning": "chủ nghĩa bảo hộ mậu dịch; chính sách bảo vệ các ngành công nghiệp trong nước khỏi sự cạnh tranh nước ngoài thông qua thuế quan, hạn ngạch và các biện pháp khác",
+      "meaning": "chủ nghĩa bảo hộ mậu dịch",
       "synonyms": [
         "무역보호주의",
         "관세보호정책"
@@ -2804,7 +2804,7 @@
       "id": 46,
       "word": "케인스주의",
       "pos": "명사",
-      "meaning": "chủ nghĩa Keynes; lý thuyết kinh tế ủng hộ sự can thiệp của chính phủ để ổn định nền kinh tế, đặc biệt thông qua chính sách tài khóa",
+      "meaning": "chủ nghĩa Keynes",
       "synonyms": [
         "케인스경제학",
         "케인즈주의"
@@ -2866,7 +2866,7 @@
       "id": 47,
       "word": "신자유주의",
       "pos": "명사",
-      "meaning": "chủ nghĩa tân tự do; hệ tư tưởng ủng hộ thị trường tự do, bãi bỏ quy định, tư nhân hóa và giảm thiểu can thiệp của chính phủ vào nền kinh tế",
+      "meaning": "chủ nghĩa tân tự do",
       "synonyms": [
         "신고전적자유주의",
         "워싱턴컨센서스"
@@ -2928,7 +2928,7 @@
       "id": 48,
       "word": "제도경제학",
       "pos": "명사",
-      "meaning": "kinh tế học thể chế; một cách tiếp cận nhấn mạnh vai trò của các thể chế chính thức và phi chính thức trong việc định hình hành vi và kết quả kinh tế",
+      "meaning": "kinh tế học thể chế",
       "synonyms": [
         "제도주의경제학",
         "신제도경제학"
@@ -2990,7 +2990,7 @@
       "id": 49,
       "word": "행동경제학",
       "pos": "명사",
-      "meaning": "kinh tế học hành vi; lĩnh vực kết hợp tâm lý học và kinh tế học để nghiên cứu cách các yếu tố tâm lý ảnh hưởng đến quyết định kinh tế",
+      "meaning": "kinh tế học hành vi",
       "synonyms": [
         "행태경제학",
         "심리경제학"
@@ -3052,7 +3052,7 @@
       "id": 50,
       "word": "경제불평등",
       "pos": "명사",
-      "meaning": "bất bình đẳng kinh tế; sự phân phối không đồng đều về thu nhập, của cải và cơ hội kinh tế giữa các cá nhân hoặc nhóm",
+      "meaning": "bất bình đẳng kinh tế",
       "synonyms": [
         "소득불평등",
         "경제적격차"
@@ -3114,7 +3114,7 @@
       "id": 51,
       "word": "정치철학",
       "pos": "명사",
-      "meaning": "Triết học chính trị; ngành triết học nghiên cứu bản chất của nhà nước, quyền lực, công lý và quyền lợi chính trị.",
+      "meaning": "Triết học chính trị",
       "synonyms": [
         "정치사상",
         "정치이론"
@@ -3176,7 +3176,7 @@
       "id": 52,
       "word": "국가론",
       "pos": "명사",
-      "meaning": "Lý thuyết về nhà nước; học thuyết nghiên cứu nguồn gốc, bản chất và mục đích của nhà nước.",
+      "meaning": "Lý thuyết về nhà nước",
       "synonyms": [
         "국가이론",
         "정치체제론"
@@ -3238,7 +3238,7 @@
       "id": 53,
       "word": "주권론",
       "pos": "명사",
-      "meaning": "Lý thuyết chủ quyền; học thuyết nghiên cứu vị trí và bản chất của quyền lực tối cao của nhà nước.",
+      "meaning": "Lý thuyết chủ quyền",
       "synonyms": [
         "주권이론",
         "주권사상"
@@ -3300,7 +3300,7 @@
       "id": 54,
       "word": "사회계약론",
       "pos": "명사",
-      "meaning": "Lý thuyết khế ước xã hội; học thuyết tìm kiếm nguồn gốc của quyền lực nhà nước trong khế ước giữa các cá nhân.",
+      "meaning": "Lý thuyết khế ước xã hội",
       "synonyms": [
         "계약론",
         "사회계약설"
@@ -3362,7 +3362,7 @@
       "id": 55,
       "word": "자연권",
       "pos": "명사",
-      "meaning": "Quyền tự nhiên; những quyền bất khả nhượng mà con người có được ngay từ khi sinh ra.",
+      "meaning": "Quyền tự nhiên",
       "synonyms": [
         "천부인권",
         "본유적 권리"
@@ -3424,7 +3424,7 @@
       "id": 56,
       "word": "일반의지",
       "pos": "명사",
-      "meaning": "Ý chí chung (volonté générale); khái niệm của Rousseau chỉ ý chí hướng đến lợi ích của toàn thể cộng đồng.",
+      "meaning": "Ý chí chung (volonté générale)",
       "synonyms": [
         "공동의지",
         "공공의지"
@@ -3486,7 +3486,7 @@
       "id": 57,
       "word": "대의민주주의",
       "pos": "명사",
-      "meaning": "Dân chủ đại diện; chế độ chính trị trong đó người dân cai trị thông qua các đại diện được bầu chọn.",
+      "meaning": "Dân chủ đại diện",
       "synonyms": [
         "간접민주주의",
         "의회민주주의"
@@ -3548,7 +3548,7 @@
       "id": 58,
       "word": "숙의민주주의",
       "pos": "명사",
-      "meaning": "Dân chủ thảo luận; mô hình dân chủ trong đó các quyết định chính trị được đưa ra thông qua tranh luận và thảo luận hợp lý.",
+      "meaning": "Dân chủ thảo luận",
       "synonyms": [
         "심의민주주의",
         "토의민주주의"
@@ -3610,7 +3610,7 @@
       "id": 59,
       "word": "참여민주주의",
       "pos": "명사",
-      "meaning": "Dân chủ tham gia; mô hình dân chủ nhấn mạnh sự tham gia trực tiếp của công dân vào quá trình chính trị.",
+      "meaning": "Dân chủ tham gia",
       "synonyms": [
         "직접참여민주주의",
         "시민참여민주주의"
@@ -3672,7 +3672,7 @@
       "id": 60,
       "word": "포퓰리즘",
       "pos": "명사",
-      "meaning": "Chủ nghĩa dân túy; diễn ngôn chính trị đặt nhân dân thuần khiết đối lập với giới tinh hoa tham nhũng.",
+      "meaning": "Chủ nghĩa dân túy",
       "synonyms": [
         "대중주의",
         "인기영합주의"
@@ -3734,7 +3734,7 @@
       "id": 61,
       "word": "권위주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa độc đoán; chế độ chính trị trong đó quyền lực trung ương mạnh hạn chế tự do của người dân.",
+      "meaning": "Chủ nghĩa độc đoán",
       "synonyms": [
         "권력주의",
         "독재주의"
@@ -3796,7 +3796,7 @@
       "id": 62,
       "word": "전체주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa toàn trị; chế độ chính trị cực đoan trong đó nhà nước tìm cách kiểm soát toàn bộ xã hội bằng hệ tư tưởng.",
+      "meaning": "Chủ nghĩa toàn trị",
       "synonyms": [
         "전제주의",
         "독재체제"
@@ -3858,7 +3858,7 @@
       "id": 63,
       "word": "파시즘",
       "pos": "명사",
-      "meaning": "Chủ nghĩa phát xít; hệ tư tưởng chính trị thế kỷ 20 kết hợp chủ nghĩa dân tộc cực đoan với chủ nghĩa độc đoán.",
+      "meaning": "Chủ nghĩa phát xít",
       "synonyms": [
         "국수주의",
         "극우민족주의"
@@ -3920,7 +3920,7 @@
       "id": 64,
       "word": "공화주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa cộng hòa; hệ tư tưởng chính trị hướng đến chế độ phi thống trị thực hiện tự do của công dân và lợi ích công cộng.",
+      "meaning": "Chủ nghĩa cộng hòa",
       "synonyms": [
         "공화사상",
         "공화정 이념"
@@ -3982,7 +3982,7 @@
       "id": 65,
       "word": "연방주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa liên bang; nguyên tắc tổ chức chính trị trong đó quyền lực được chia sẻ giữa chính phủ trung ương và địa phương.",
+      "meaning": "Chủ nghĩa liên bang",
       "synonyms": [
         "연방제 이념",
         "연방국가론"
@@ -4044,7 +4044,7 @@
       "id": 66,
       "word": "분권화",
       "pos": "명사",
-      "meaning": "Phân quyền; quá trình chuyển giao thẩm quyền và nguồn lực từ chính phủ trung ương xuống các đơn vị cấp dưới.",
+      "meaning": "Phân quyền",
       "synonyms": [
         "권한이양",
         "지방분권"
@@ -4106,7 +4106,7 @@
       "id": 67,
       "word": "시민불복종",
       "pos": "명사",
-      "meaning": "Bất tuân dân sự; hành vi cố ý kháng cự một cách bất bạo động đối với các luật lệ hoặc chính sách bất công.",
+      "meaning": "Bất tuân dân sự",
       "synonyms": [
         "비폭력 저항",
         "양심적 법률 거부"
@@ -4168,7 +4168,7 @@
       "id": 68,
       "word": "저항권",
       "pos": "명사",
-      "meaning": "Quyền kháng cự; quyền của công dân được kháng cự lại quyền lực bất hợp pháp và chuyên chế.",
+      "meaning": "Quyền kháng cự",
       "synonyms": [
         "반항권",
         "혁명권"
@@ -4230,7 +4230,7 @@
       "id": 69,
       "word": "정치적정당성",
       "pos": "명사",
-      "meaning": "Tính hợp pháp chính trị; cơ sở để việc thực thi quyền lực có thể nhận được sự đồng ý tự nguyện từ những người bị cai trị.",
+      "meaning": "Tính hợp pháp chính trị",
       "synonyms": [
         "정치 정당성",
         "권력의 정당성"
@@ -4292,7 +4292,7 @@
       "id": 70,
       "word": "정치적정의",
       "pos": "명사",
-      "meaning": "Công lý chính trị; tư tưởng cho rằng các thể chế chính trị và sự phân phối xã hội phải phù hợp với nguyên tắc công bằng.",
+      "meaning": "Công lý chính trị",
       "synonyms": [
         "정치 정의",
         "사회 정의"
@@ -4354,7 +4354,7 @@
       "id": 71,
       "word": "롤스정의론",
       "pos": "명사",
-      "meaning": "Lý thuyết công lý của Rawls; lý thuyết rút ra các nguyên tắc xã hội công bằng thông qua thí nghiệm tư duy 'tấm màn vô minh'.",
+      "meaning": "Lý thuyết công lý của Rawls",
       "synonyms": [
         "공정으로서의 정의",
         "자유주의적 평등주의"
@@ -4416,7 +4416,7 @@
       "id": 72,
       "word": "공동체주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa cộng đồng; quan điểm triết học chính trị cho rằng cá nhân phải được hiểu trong bối cảnh cộng đồng của họ.",
+      "meaning": "Chủ nghĩa cộng đồng",
       "synonyms": [
         "공동체론",
         "커뮤니터리어니즘"
@@ -4478,7 +4478,7 @@
       "id": 73,
       "word": "자유지상주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa tự do tuyệt đối (libertarianism); triết học chính trị coi tự do cá nhân và quyền tự sở hữu là các giá trị tối thượng.",
+      "meaning": "Chủ nghĩa tự do tuyệt đối (libertarianism)",
       "synonyms": [
         "자유의지주의",
         "리버테리아니즘"
@@ -4540,7 +4540,7 @@
       "id": 74,
       "word": "국가중립성",
       "pos": "명사",
-      "meaning": "Tính trung lập của nhà nước; nguyên tắc cho rằng nhà nước không được áp đặt một thế giới quan hay khái niệm về cuộc sống tốt đẹp cụ thể nào.",
+      "meaning": "Tính trung lập của nhà nước",
       "synonyms": [
         "국가의 중립성",
         "정치적 중립"
@@ -4602,7 +4602,7 @@
       "id": 75,
       "word": "정치적다원주의",
       "pos": "명사",
-      "meaning": "Đa nguyên chính trị; tư tưởng cho rằng các nhóm và lợi ích đa dạng trong xã hội phải cùng tồn tại và chia sẻ quyền lực.",
+      "meaning": "Đa nguyên chính trị",
       "synonyms": [
         "다원주의",
         "정치 다원론"
@@ -6238,7 +6238,7 @@
       "id": 101,
       "word": "역사철학",
       "pos": "명사",
-      "meaning": "Triết học lịch sử; ngành triết học nghiên cứu bản chất, ý nghĩa và phương pháp của lịch sử.",
+      "meaning": "Triết học lịch sử",
       "synonyms": [
         "역사의 철학",
         "사학철학"
@@ -6300,7 +6300,7 @@
       "id": 102,
       "word": "사관",
       "pos": "명사",
-      "meaning": "Quan điểm lịch sử; cách nhìn nhận và giải thích lịch sử theo một lập trường tư tưởng nhất định.",
+      "meaning": "Quan điểm lịch sử",
       "synonyms": [
         "역사관",
         "역사적 시각"
@@ -6362,7 +6362,7 @@
       "id": 103,
       "word": "유물사관",
       "pos": "명사",
-      "meaning": "Sử quan duy vật; quan điểm lịch sử của Marx cho rằng các điều kiện vật chất và kinh tế quyết định sự phát triển lịch sử.",
+      "meaning": "Sử quan duy vật",
       "synonyms": [
         "역사적 유물론",
         "마르크스주의 사관"
@@ -6424,7 +6424,7 @@
       "id": 104,
       "word": "관념론적사관",
       "pos": "명사",
-      "meaning": "Sử quan duy tâm; quan điểm lịch sử cho rằng tinh thần, ý thức hoặc ý tưởng là động lực chính của lịch sử.",
+      "meaning": "Sử quan duy tâm",
       "synonyms": [
         "관념론 사관",
         "이념론적 역사관"
@@ -6486,7 +6486,7 @@
       "id": 105,
       "word": "역사주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa lịch sử; quan điểm cho rằng mọi hiện tượng, tư tưởng và giá trị cần được hiểu trong bối cảnh lịch sử cụ thể của chúng.",
+      "meaning": "Chủ nghĩa lịch sử",
       "synonyms": [
         "역사론",
         "역사적 상대주의"
@@ -6548,7 +6548,7 @@
       "id": 106,
       "word": "역사상대주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa tương đối lịch sử; quan điểm cho rằng không có chân lý lịch sử tuyệt đối, mọi giải thích lịch sử đều bị ảnh hưởng bởi quan điểm và bối cảnh của người giải thích.",
+      "meaning": "Chủ nghĩa tương đối lịch sử",
       "synonyms": [
         "역사적 상대주의",
         "상대주의 사관"
@@ -6610,7 +6610,7 @@
       "id": 107,
       "word": "역사서술",
       "pos": "명사",
-      "meaning": "Sử học; việc ghi chép và trình bày lịch sử; sử chí học nghiên cứu cách thức viết sử.",
+      "meaning": "Sử học",
       "synonyms": [
         "역사 기술",
         "사학"
@@ -6672,7 +6672,7 @@
       "id": 108,
       "word": "사료비판",
       "pos": "명사",
-      "meaning": "Phê bình tư liệu sử học; phương pháp kiểm tra và đánh giá độ tin cậy, tính xác thực của các nguồn tài liệu lịch sử.",
+      "meaning": "Phê bình tư liệu sử học",
       "synonyms": [
         "역사적 비판",
         "문헌 비판"
@@ -6734,7 +6734,7 @@
       "id": 109,
       "word": "구술역사",
       "pos": "명사",
-      "meaning": "Lịch sử truyền miệng; phương pháp thu thập và ghi chép lịch sử dựa trên lời kể và ký ức của người trong cuộc.",
+      "meaning": "Lịch sử truyền miệng",
       "synonyms": [
         "구전역사",
         "경험담 역사"
@@ -6796,7 +6796,7 @@
       "id": 110,
       "word": "미시사",
       "pos": "명사",
-      "meaning": "Lịch sử vi mô; cách tiếp cận lịch sử tập trung vào các cá nhân, cộng đồng nhỏ hoặc sự kiện cụ thể để hiểu các quá trình lịch sử lớn hơn.",
+      "meaning": "Lịch sử vi mô",
       "synonyms": [
         "미시 역사학",
         "소규모 역사"
@@ -6858,7 +6858,7 @@
       "id": 111,
       "word": "거시사",
       "pos": "명사",
-      "meaning": "Lịch sử vĩ mô; cách tiếp cận lịch sử nghiên cứu các xu hướng, cấu trúc và quá trình lớn trong lịch sử nhân loại hoặc toàn cầu.",
+      "meaning": "Lịch sử vĩ mô",
       "synonyms": [
         "거시 역사학",
         "대규모 역사"
@@ -6920,7 +6920,7 @@
       "id": 112,
       "word": "사회사",
       "pos": "명사",
-      "meaning": "Lịch sử xã hội; ngành sử học nghiên cứu cấu trúc xã hội, cuộc sống thường ngày và các nhóm xã hội trong quá khứ.",
+      "meaning": "Lịch sử xã hội",
       "synonyms": [
         "사회 역사학",
         "생활사"
@@ -6982,7 +6982,7 @@
       "id": 113,
       "word": "문화사",
       "pos": "명사",
-      "meaning": "Lịch sử văn hóa; ngành sử học nghiên cứu các biểu hiện văn hóa, nghệ thuật, tư tưởng và phong tục tập quán trong lịch sử.",
+      "meaning": "Lịch sử văn hóa",
       "synonyms": [
         "문화 역사학",
         "문화적 역사"
@@ -7106,7 +7106,7 @@
       "id": 115,
       "word": "포스트식민주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa hậu thuộc địa; lý thuyết học thuật nghiên cứu về thế giới sau khi chủ nghĩa thực dân kết thúc, bao gồm di sản thực dân và quá trình xây dựng bản sắc dân tộc.",
+      "meaning": "Chủ nghĩa hậu thuộc địa",
       "synonyms": [
         "탈식민주의",
         "후식민주의"
@@ -7168,7 +7168,7 @@
       "id": 116,
       "word": "역사적기억",
       "pos": "명사",
-      "meaning": "Ký ức lịch sử; cách một cộng đồng hoặc xã hội ghi nhớ, giải thích và truyền tải các sự kiện quan trọng trong quá khứ.",
+      "meaning": "Ký ức lịch sử",
       "synonyms": [
         "집단기억",
         "사회적 기억"
@@ -7230,7 +7230,7 @@
       "id": 117,
       "word": "집단기억",
       "pos": "명사",
-      "meaning": "Ký ức tập thể; ký ức chung được chia sẻ bởi các thành viên trong một nhóm xã hội, được hình thành và duy trì qua quá trình xã hội hóa.",
+      "meaning": "Ký ức tập thể",
       "synonyms": [
         "사회적 기억",
         "공동체 기억"
@@ -7292,7 +7292,7 @@
       "id": 118,
       "word": "역사왜곡",
       "pos": "명사",
-      "meaning": "Bóp méo lịch sử; việc cố ý xuyên tạc, giả mạo hoặc che giấu các sự kiện lịch sử vì mục đích chính trị hoặc ý thức hệ.",
+      "meaning": "Bóp méo lịch sử",
       "synonyms": [
         "역사 조작",
         "역사 날조"
@@ -7354,7 +7354,7 @@
       "id": 119,
       "word": "역사화해",
       "pos": "명사",
-      "meaning": "Hòa giải lịch sử; quá trình các quốc gia hoặc cộng đồng thừa nhận và đối mặt với những bất công và tội ác lịch sử để xây dựng mối quan hệ hòa bình.",
+      "meaning": "Hòa giải lịch sử",
       "synonyms": [
         "역사적 화해",
         "과거사 화해"
@@ -7416,7 +7416,7 @@
       "id": 120,
       "word": "식민지근대화론",
       "pos": "명사",
-      "meaning": "Luận thuyết hiện đại hóa thuộc địa; quan điểm cho rằng sự thống trị thực dân của Nhật Bản đã đóng góp vào quá trình hiện đại hóa của Hàn Quốc.",
+      "meaning": "Luận thuyết hiện đại hóa thuộc địa",
       "synonyms": [
         "식민지 개발론",
         "식민지 발전론"
@@ -7478,7 +7478,7 @@
       "id": 121,
       "word": "민족주의사학",
       "pos": "명사",
-      "meaning": "Sử học dân tộc chủ nghĩa; trường phái sử học đặt dân tộc và bản sắc dân tộc làm trung tâm của việc giải thích lịch sử.",
+      "meaning": "Sử học dân tộc chủ nghĩa",
       "synonyms": [
         "민족사학",
         "국수주의 사학"
@@ -7540,7 +7540,7 @@
       "id": 122,
       "word": "실증주의사학",
       "pos": "명사",
-      "meaning": "Sử học thực chứng; trường phái sử học coi trọng việc thu thập và phân tích bằng chứng thực tế, nhấn mạnh tính khách quan và phương pháp khoa học trong nghiên cứu lịch sử.",
+      "meaning": "Sử học thực chứng",
       "synonyms": [
         "실증사학",
         "과학적 역사학"
@@ -7602,7 +7602,7 @@
       "id": 123,
       "word": "구조주의사학",
       "pos": "명사",
-      "meaning": "Sử học cấu trúc; trường phái sử học áp dụng phương pháp phân tích cấu trúc để nghiên cứu lịch sử, tập trung vào các cấu trúc xã hội, kinh tế và văn hóa dài hạn.",
+      "meaning": "Sử học cấu trúc",
       "synonyms": [
         "구조적 역사학",
         "구조사학"
@@ -7664,7 +7664,7 @@
       "id": 124,
       "word": "아날학파",
       "pos": "명사",
-      "meaning": "Trường phái Annales; trường phái sử học Pháp thành lập năm 1929, nhấn mạnh lịch sử xã hội, kinh tế và địa lý dài hạn thay vì lịch sử chính trị và sự kiện.",
+      "meaning": "Trường phái Annales",
       "synonyms": [
         "아날 학파",
         "아날리스트"
@@ -7726,7 +7726,7 @@
       "id": 125,
       "word": "역사해석학",
       "pos": "명사",
-      "meaning": "Thông diễn học lịch sử; ngành học nghiên cứu lý thuyết và phương pháp giải thích các văn bản và sự kiện lịch sử.",
+      "meaning": "Thông diễn học lịch sử",
       "synonyms": [
         "역사적 해석학",
         "역사 해석론"
@@ -7788,7 +7788,7 @@
       "id": 126,
       "word": "생명윤리",
       "pos": "명사",
-      "meaning": "Đạo đức sinh học; ngành nghiên cứu các vấn đề đạo đức liên quan đến sự sống, y học và các khoa học sinh học.",
+      "meaning": "Đạo đức sinh học",
       "synonyms": [
         "바이오에틱스",
         "생물윤리"
@@ -7850,7 +7850,7 @@
       "id": 127,
       "word": "의료윤리",
       "pos": "명사",
-      "meaning": "Đạo đức y tế; các nguyên tắc và quy tắc đạo đức hướng dẫn hành vi của các chuyên gia y tế trong thực hành lâm sàng.",
+      "meaning": "Đạo đức y tế",
       "synonyms": [
         "의학윤리",
         "의사 윤리"
@@ -7912,7 +7912,7 @@
       "id": 128,
       "word": "인체실험",
       "pos": "명사",
-      "meaning": "Thí nghiệm trên người; việc thực hiện các thí nghiệm khoa học hoặc y tế sử dụng con người làm đối tượng nghiên cứu.",
+      "meaning": "Thí nghiệm trên người",
       "synonyms": [
         "인간 대상 실험",
         "임상 실험"
@@ -7974,7 +7974,7 @@
       "id": 129,
       "word": "임상윤리",
       "pos": "명사",
-      "meaning": "Đạo đức lâm sàng; ngành đạo đức học áp dụng các nguyên tắc đạo đức vào việc ra quyết định trong thực hành lâm sàng y tế.",
+      "meaning": "Đạo đức lâm sàng",
       "synonyms": [
         "임상 생명윤리",
         "임상 의료윤리"
@@ -8036,7 +8036,7 @@
       "id": 130,
       "word": "자율성원칙",
       "pos": "명사",
-      "meaning": "Nguyên tắc tự chủ; nguyên tắc đạo đức y tế yêu cầu tôn trọng quyền của bệnh nhân trong việc tự đưa ra quyết định về sức khỏe của mình.",
+      "meaning": "Nguyên tắc tự chủ",
       "synonyms": [
         "자율성 존중",
         "환자 자기결정 원칙"
@@ -8098,7 +8098,7 @@
       "id": 131,
       "word": "선행원칙",
       "pos": "명사",
-      "meaning": "Nguyên tắc thiện hành; nguyên tắc đạo đức y tế yêu cầu các chuyên gia y tế hành động vì lợi ích tốt nhất của bệnh nhân.",
+      "meaning": "Nguyên tắc thiện hành",
       "synonyms": [
         "선행의 원칙",
         "유익성 원칙"
@@ -8160,7 +8160,7 @@
       "id": 132,
       "word": "악행금지",
       "pos": "명사",
-      "meaning": "Nguyên tắc không gây hại; nguyên tắc đạo đức y tế yêu cầu các chuyên gia y tế tránh gây ra bất kỳ tổn hại nào cho bệnh nhân.",
+      "meaning": "Nguyên tắc không gây hại",
       "synonyms": [
         "해악금지",
         "비위해 원칙"
@@ -8222,7 +8222,7 @@
       "id": 133,
       "word": "정의원칙",
       "pos": "명사",
-      "meaning": "Nguyên tắc công bằng; nguyên tắc đạo đức y tế yêu cầu phân phối công bằng các nguồn lực y tế và đối xử bình đẳng với mọi bệnh nhân.",
+      "meaning": "Nguyên tắc công bằng",
       "synonyms": [
         "공정성 원칙",
         "형평성 원칙"
@@ -8284,7 +8284,7 @@
       "id": 134,
       "word": "충분한설명에의한동의",
       "pos": "명사",
-      "meaning": "Sự đồng ý có thông tin đầy đủ; quá trình mà bệnh nhân được cung cấp đầy đủ thông tin về điều trị và tự nguyện đồng ý trước khi tiến hành.",
+      "meaning": "Sự đồng ý có thông tin đầy đủ",
       "synonyms": [
         "고지된 동의",
         "정보에 의한 동의"
@@ -8346,7 +8346,7 @@
       "id": 135,
       "word": "환자자기결정권",
       "pos": "명사",
-      "meaning": "Quyền tự quyết của bệnh nhân; quyền của bệnh nhân trong việc tự đưa ra quyết định về các vấn đề liên quan đến điều trị và chăm sóc sức khỏe của mình.",
+      "meaning": "Quyền tự quyết của bệnh nhân",
       "synonyms": [
         "환자 자율권",
         "자기결정권"
@@ -8408,7 +8408,7 @@
       "id": 136,
       "word": "안락사논쟁",
       "pos": "명사",
-      "meaning": "Tranh luận về an tử; cuộc tranh luận về tính hợp đạo đức và hợp pháp của việc cố ý kết thúc cuộc sống để giảm đau khổ.",
+      "meaning": "Tranh luận về an tử",
       "synonyms": [
         "안락사 논의",
         "존엄사 논쟁"
@@ -8470,7 +8470,7 @@
       "id": 137,
       "word": "존엄사",
       "pos": "명사",
-      "meaning": "Cái chết có phẩm giá; cái chết tự nhiên được cho phép xảy ra mà không có sự can thiệp y tế kéo dài vô ích, tôn trọng phẩm giá của người chết.",
+      "meaning": "Cái chết có phẩm giá",
       "synonyms": [
         "품위 있는 죽음",
         "자연사"
@@ -8532,7 +8532,7 @@
       "id": 138,
       "word": "낙태윤리",
       "pos": "명사",
-      "meaning": "Đạo đức về phá thai; ngành đạo đức học nghiên cứu các vấn đề đạo đức liên quan đến việc phá thai, bao gồm quyền của thai nhi và quyền tự quyết của người mẹ.",
+      "meaning": "Đạo đức về phá thai",
       "synonyms": [
         "임신 중절 윤리",
         "낙태 도덕"
@@ -8594,7 +8594,7 @@
       "id": 139,
       "word": "인공임신중절",
       "pos": "명사",
-      "meaning": "Phá thai nhân tạo; việc cố ý chấm dứt thai kỳ thông qua các biện pháp y tế hoặc phẫu thuật.",
+      "meaning": "Phá thai nhân tạo",
       "synonyms": [
         "낙태",
         "임신 중절"
@@ -8656,7 +8656,7 @@
       "id": 140,
       "word": "배아권리",
       "pos": "명사",
-      "meaning": "Quyền của phôi thai; các tranh luận đạo đức và pháp lý về địa vị đạo đức và quyền lợi pháp lý của phôi thai người.",
+      "meaning": "Quyền của phôi thai",
       "synonyms": [
         "배아 도덕적 지위",
         "태아 권리"
@@ -8718,7 +8718,7 @@
       "id": 141,
       "word": "유전자편집윤리",
       "pos": "명사",
-      "meaning": "Đạo đức chỉnh sửa gen; ngành đạo đức học nghiên cứu các vấn đề đạo đức liên quan đến công nghệ chỉnh sửa gen như CRISPR.",
+      "meaning": "Đạo đức chỉnh sửa gen",
       "synonyms": [
         "유전자 편집 도덕",
         "게놈 편집 윤리"
@@ -8780,7 +8780,7 @@
       "id": 142,
       "word": "생명복제",
       "pos": "명사",
-      "meaning": "Nhân bản sinh học; kỹ thuật tạo ra bản sao di truyền giống hệt của sinh vật, đặc biệt gây tranh cãi khi áp dụng cho con người.",
+      "meaning": "Nhân bản sinh học",
       "synonyms": [
         "클로닝",
         "복제 기술"
@@ -8842,7 +8842,7 @@
       "id": 143,
       "word": "인공지능윤리",
       "pos": "명사",
-      "meaning": "Đạo đức trí tuệ nhân tạo; ngành nghiên cứu các vấn đề đạo đức liên quan đến việc phát triển và ứng dụng trí tuệ nhân tạo.",
+      "meaning": "Đạo đức trí tuệ nhân tạo",
       "synonyms": [
         "AI 윤리",
         "기계 윤리"
@@ -8904,7 +8904,7 @@
       "id": 144,
       "word": "동물실험윤리",
       "pos": "명사",
-      "meaning": "Đạo đức thí nghiệm động vật; ngành đạo đức học nghiên cứu các vấn đề đạo đức liên quan đến việc sử dụng động vật trong nghiên cứu khoa học.",
+      "meaning": "Đạo đức thí nghiệm động vật",
       "synonyms": [
         "동물 실험 도덕",
         "동물 연구 윤리"
@@ -8966,7 +8966,7 @@
       "id": 145,
       "word": "자원배분정의",
       "pos": "명사",
-      "meaning": "Công bằng phân bổ nguồn lực; nguyên tắc đạo đức về cách phân bổ công bằng các nguồn lực khan hiếm, đặc biệt trong lĩnh vực y tế.",
+      "meaning": "Công bằng phân bổ nguồn lực",
       "synonyms": [
         "자원 배분의 공정성",
         "분배 정의"
@@ -9028,7 +9028,7 @@
       "id": 146,
       "word": "희소의료자원",
       "pos": "명사",
-      "meaning": "Nguồn lực y tế khan hiếm; các nguồn lực y tế không đủ đáp ứng nhu cầu của tất cả mọi người, đòi hỏi phải có tiêu chí phân bổ công bằng.",
+      "meaning": "Nguồn lực y tế khan hiếm",
       "synonyms": [
         "부족 의료 자원",
         "의료 희소 자원"
@@ -9090,7 +9090,7 @@
       "id": 147,
       "word": "의료접근권",
       "pos": "명사",
-      "meaning": "Quyền tiếp cận y tế; quyền của mọi người được tiếp cận các dịch vụ y tế cần thiết mà không có rào cản kinh tế, địa lý hoặc xã hội.",
+      "meaning": "Quyền tiếp cận y tế",
       "synonyms": [
         "보건 접근권",
         "의료 이용권"
@@ -9152,7 +9152,7 @@
       "id": 148,
       "word": "인체자원화",
       "pos": "명사",
-      "meaning": "Thương mại hóa cơ thể người; việc biến các bộ phận, mô và tế bào của cơ thể người thành hàng hóa hoặc tài nguyên thương mại.",
+      "meaning": "Thương mại hóa cơ thể người",
       "synonyms": [
         "신체 상품화",
         "인체 상업화"
@@ -9214,7 +9214,7 @@
       "id": 149,
       "word": "연명치료",
       "pos": "명사",
-      "meaning": "Điều trị duy trì sự sống; các biện pháp y tế được sử dụng để kéo dài sự sống của bệnh nhân khi không còn khả năng chữa khỏi.",
+      "meaning": "Điều trị duy trì sự sống",
       "synonyms": [
         "생명유지 치료",
         "연명 의료"
@@ -9276,7 +9276,7 @@
       "id": 150,
       "word": "생애말기돌봄",
       "pos": "명사",
-      "meaning": "Chăm sóc cuối đời; sự chăm sóc và hỗ trợ toàn diện về thể chất, tâm lý và tâm linh cho người bệnh ở giai đoạn cuối của cuộc đời.",
+      "meaning": "Chăm sóc cuối đời",
       "synonyms": [
         "임종 돌봄",
         "호스피스 케어"
@@ -9338,7 +9338,7 @@
       "id": 151,
       "word": "개념적타당도",
       "pos": "명사",
-      "meaning": "Giá trị khái niệm; mức độ mà một công cụ đo lường thực sự đo lường được khái niệm lý thuyết mà nó được thiết kế để đo.",
+      "meaning": "Giá trị khái niệm",
       "synonyms": [
         "구성 타당도",
         "개념 타당성"
@@ -9400,7 +9400,7 @@
       "id": 152,
       "word": "검증가능성",
       "pos": "명사",
-      "meaning": "Khả năng kiểm chứng; đặc tính của một giả thuyết hay lý thuyết có thể được kiểm tra và xác nhận hoặc bác bỏ thông qua bằng chứng thực nghiệm.",
+      "meaning": "Khả năng kiểm chứng",
       "synonyms": [
         "입증 가능성",
         "검사 가능성"
@@ -9462,7 +9462,7 @@
       "id": 153,
       "word": "구성주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa kiến tạo; quan điểm triết học và giáo dục cho rằng kiến thức được xây dựng tích cực bởi con người thông qua kinh nghiệm và tương tác xã hội.",
+      "meaning": "Chủ nghĩa kiến tạo",
       "synonyms": [
         "구성주의 이론",
         "지식 구성론"
@@ -9524,7 +9524,7 @@
       "id": 154,
       "word": "귀납적추론",
       "pos": "명사",
-      "meaning": "Suy luận quy nạp; phương pháp suy luận đi từ các quan sát cụ thể đến các kết luận hoặc nguyên tắc chung.",
+      "meaning": "Suy luận quy nạp",
       "synonyms": [
         "귀납법",
         "귀납 추리"
@@ -9586,7 +9586,7 @@
       "id": 155,
       "word": "내적일관성",
       "pos": "명사",
-      "meaning": "Tính nhất quán nội tại; mức độ mà các thành phần của một công cụ đo lường (ví dụ: bảng hỏi) đều đo cùng một khái niệm.",
+      "meaning": "Tính nhất quán nội tại",
       "synonyms": [
         "내부 일관성",
         "내적 신뢰도"
@@ -9648,7 +9648,7 @@
       "id": 156,
       "word": "다변량분석",
       "pos": "명사",
-      "meaning": "Phân tích đa biến; phương pháp thống kê phân tích đồng thời mối quan hệ giữa nhiều biến số.",
+      "meaning": "Phân tích đa biến",
       "synonyms": [
         "다변수 분석",
         "다중 변량 분석"
@@ -9710,7 +9710,7 @@
       "id": 157,
       "word": "맥락화",
       "pos": "명사",
-      "meaning": "Bối cảnh hóa; quá trình đặt thông tin, sự kiện hoặc văn bản vào bối cảnh lịch sử, xã hội hoặc văn hóa cụ thể để hiểu đúng ý nghĩa của chúng.",
+      "meaning": "Bối cảnh hóa",
       "synonyms": [
         "상황화",
         "문맥화"
@@ -9772,7 +9772,7 @@
       "id": 158,
       "word": "문화기술지",
       "pos": "명사",
-      "meaning": "Dân tộc học ký; phương pháp nghiên cứu định tính trong đó nhà nghiên cứu quan sát và tham gia trực tiếp vào cuộc sống của cộng đồng để hiểu văn hóa của họ.",
+      "meaning": "Dân tộc học ký",
       "synonyms": [
         "에스노그래피",
         "민족지학적 연구"
@@ -9834,7 +9834,7 @@
       "id": 159,
       "word": "민족지학",
       "pos": "명사",
-      "meaning": "Dân tộc học; ngành khoa học nghiên cứu và so sánh các nền văn hóa và xã hội của các dân tộc khác nhau.",
+      "meaning": "Dân tộc học",
       "synonyms": [
         "문화 인류학",
         "민족학"
@@ -9896,7 +9896,7 @@
       "id": 160,
       "word": "반증주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa bác bỏ; triết học khoa học của Karl Popper cho rằng một lý thuyết khoa học chỉ có ý nghĩa khi có thể bị bác bỏ bởi bằng chứng.",
+      "meaning": "Chủ nghĩa bác bỏ",
       "synonyms": [
         "포퍼주의",
         "반증 가능성"
@@ -9958,7 +9958,7 @@
       "id": 161,
       "word": "삼각검증",
       "pos": "명사",
-      "meaning": "Kiểm chứng tam giác; phương pháp nghiên cứu sử dụng nhiều nguồn dữ liệu, phương pháp hoặc nhà nghiên cứu để tăng độ tin cậy và giá trị của kết quả.",
+      "meaning": "Kiểm chứng tam giác",
       "synonyms": [
         "삼각화",
         "다원적 검증"
@@ -10020,7 +10020,7 @@
       "id": 162,
       "word": "이론적표집",
       "pos": "명사",
-      "meaning": "Lấy mẫu lý thuyết; phương pháp lấy mẫu trong nghiên cứu định tính trong đó các trường hợp mới được chọn dựa trên kết quả phân tích các dữ liệu trước đó để phát triển lý thuyết.",
+      "meaning": "Lấy mẫu lý thuyết",
       "synonyms": [
         "이론적 샘플링",
         "이론 기반 표집"
@@ -10082,7 +10082,7 @@
       "id": 163,
       "word": "질적내용분석",
       "pos": "명사",
-      "meaning": "Phân tích nội dung định tính; phương pháp nghiên cứu phân tích có hệ thống các văn bản, hình ảnh hoặc các tài liệu khác để xác định các chủ đề, mẫu hình và ý nghĩa.",
+      "meaning": "Phân tích nội dung định tính",
       "synonyms": [
         "질적 내용 분석",
         "내용 분석"
@@ -10144,7 +10144,7 @@
       "id": 164,
       "word": "측정불변성",
       "pos": "명사",
-      "meaning": "Bất biến đo lường; mức độ mà một công cụ đo lường hoạt động theo cách tương tự và nhất quán trên các nhóm khác nhau.",
+      "meaning": "Bất biến đo lường",
       "synonyms": [
         "측정 동등성",
         "척도 불변성"
@@ -10206,7 +10206,7 @@
       "id": 165,
       "word": "통계적유의성",
       "pos": "명사",
-      "meaning": "Ý nghĩa thống kê; mức độ mà kết quả nghiên cứu không phải do ngẫu nhiên mà phản ánh sự khác biệt hoặc mối quan hệ thực sự trong tổng thể.",
+      "meaning": "Ý nghĩa thống kê",
       "synonyms": [
         "통계적 유의도",
         "통계 유의성"
@@ -10268,7 +10268,7 @@
       "id": 166,
       "word": "편향통제",
       "pos": "명사",
-      "meaning": "Kiểm soát thiên kiến; các phương pháp và kỹ thuật được sử dụng trong nghiên cứu để nhận ra và giảm thiểu sự ảnh hưởng của thiên kiến lên kết quả.",
+      "meaning": "Kiểm soát thiên kiến",
       "synonyms": [
         "편향 제어",
         "바이어스 통제"
@@ -10330,7 +10330,7 @@
       "id": 167,
       "word": "해석주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa diễn giải; quan điểm phương pháp luận trong khoa học xã hội cho rằng để hiểu hành vi con người, cần phải giải thích ý nghĩa chủ quan mà con người gán cho hành động của mình.",
+      "meaning": "Chủ nghĩa diễn giải",
       "synonyms": [
         "해석학주의",
         "의미론적 접근"
@@ -10392,7 +10392,7 @@
       "id": 168,
       "word": "조작적정의",
       "pos": "명사",
-      "meaning": "Định nghĩa thao tác; việc định nghĩa một khái niệm bằng cách mô tả cụ thể các thủ tục hoặc phương pháp đo lường được sử dụng để quan sát và đo lường nó.",
+      "meaning": "Định nghĩa thao tác",
       "synonyms": [
         "조작적 정의",
         "작동적 정의"
@@ -10454,7 +10454,7 @@
       "id": 169,
       "word": "인과추론",
       "pos": "명사",
-      "meaning": "Suy luận nhân quả; quá trình xác định và ước lượng mối quan hệ nhân quả giữa các biến số từ dữ liệu quan sát hoặc thực nghiệm.",
+      "meaning": "Suy luận nhân quả",
       "synonyms": [
         "인과 추정",
         "인과 분석"
@@ -10578,7 +10578,7 @@
       "id": 171,
       "word": "비교사례연구",
       "pos": "명사",
-      "meaning": "Nghiên cứu trường hợp so sánh; phương pháp nghiên cứu so sánh hai hay nhiều trường hợp để xác định điểm tương đồng và khác biệt, từ đó rút ra kết luận.",
+      "meaning": "Nghiên cứu trường hợp so sánh",
       "synonyms": [
         "비교 연구",
         "비교 분석"
@@ -10640,7 +10640,7 @@
       "id": 172,
       "word": "혼합연구방법",
       "pos": "명사",
-      "meaning": "Phương pháp nghiên cứu hỗn hợp; cách tiếp cận nghiên cứu kết hợp cả phương pháp định lượng và định tính trong cùng một nghiên cứu.",
+      "meaning": "Phương pháp nghiên cứu hỗn hợp",
       "synonyms": [
         "혼합 방법 연구",
         "복합 연구 방법"
@@ -10702,7 +10702,7 @@
       "id": 173,
       "word": "개념화",
       "pos": "명사",
-      "meaning": "Khái niệm hóa; quá trình xác định và định nghĩa rõ ràng các khái niệm lý thuyết để sử dụng trong nghiên cứu.",
+      "meaning": "Khái niệm hóa",
       "synonyms": [
         "개념 형성",
         "이론적 개념화"
@@ -10764,7 +10764,7 @@
       "id": 174,
       "word": "이론적포화",
       "pos": "명사",
-      "meaning": "Bão hòa lý thuyết; điểm trong nghiên cứu định tính khi dữ liệu mới không còn cung cấp thêm thông tin để phát triển lý thuyết.",
+      "meaning": "Bão hòa lý thuyết",
       "synonyms": [
         "이론 포화",
         "자료 포화"
@@ -10826,7 +10826,7 @@
       "id": 175,
       "word": "현상학적연구",
       "pos": "명사",
-      "meaning": "Nghiên cứu hiện tượng học; phương pháp nghiên cứu định tính nhằm mô tả và giải thích các trải nghiệm sống của con người từ quan điểm của người trải nghiệm.",
+      "meaning": "Nghiên cứu hiện tượng học",
       "synonyms": [
         "현상학 연구",
         "현상학적 방법"
@@ -14259,7 +14259,7 @@
       "id": 230,
       "word": "생태중심주의",
       "pos": "명사",
-      "meaning": "chủ nghĩa lấy sinh thái làm trung tâm; chủ nghĩa sinh thái trung tâm",
+      "meaning": "chủ nghĩa lấy sinh thái làm trung tâm",
       "synonyms": [
         "자연중심주의",
         "생태계중심주의"
@@ -14321,7 +14321,7 @@
       "id": 231,
       "word": "인간중심주의",
       "pos": "명사",
-      "meaning": "chủ nghĩa nhân loại trung tâm; chủ nghĩa lấy con người làm trung tâm",
+      "meaning": "chủ nghĩa nhân loại trung tâm",
       "synonyms": [
         "인류중심주의",
         "인간우월주의"
@@ -15747,7 +15747,7 @@
       "id": 254,
       "word": "탈세계화",
       "pos": "명사",
-      "meaning": "phi toàn cầu hóa; thoái trào toàn cầu hóa",
+      "meaning": "phi toàn cầu hóa",
       "synonyms": [
         "역세계화",
         "세계화후퇴"
@@ -17111,7 +17111,7 @@
       "id": 276,
       "word": "한국학",
       "pos": "명사",
-      "meaning": "Hàn Quốc học; ngành học thuật nghiên cứu lịch sử, ngôn ngữ, văn hóa và xã hội Hàn Quốc",
+      "meaning": "Hàn Quốc học",
       "synonyms": [
         "조선학",
         "코리아학"
@@ -17235,7 +17235,7 @@
       "id": 278,
       "word": "실학",
       "pos": "명사",
-      "meaning": "Thực học (Silhak); trường phái tư tưởng Nho giáo thực dụng của Hàn Quốc vào thế kỷ 17–19, nhấn mạnh cải cách thực tiễn và nghiên cứu thực nghiệm",
+      "meaning": "Thực học (Silhak)",
       "synonyms": [
         "실증학",
         "경세학"
@@ -17297,7 +17297,7 @@
       "id": 279,
       "word": "동학",
       "pos": "명사",
-      "meaning": "Đông học (Donghak - Học thuyết Phương Đông); phong trào tôn giáo và xã hội Hàn Quốc thế kỷ 19 do Choe Je-u sáng lập, đề cao phẩm giá và bình đẳng của con người",
+      "meaning": "Đông học (Donghak - Học thuyết Phương Đông)",
       "synonyms": [
         "천도교",
         "동학사상"
@@ -17359,7 +17359,7 @@
       "id": 280,
       "word": "개화사상",
       "pos": "명사",
-      "meaning": "Tư tưởng Khai hóa; phong trào trí thức Hàn Quốc cuối thế kỷ 19 vận động hiện đại hóa, tiếp thu văn minh phương Tây và cải cách",
+      "meaning": "Tư tưởng Khai hóa",
       "synonyms": [
         "문명개화론",
         "근대화사상"
@@ -17421,7 +17421,7 @@
       "id": 281,
       "word": "민족주의",
       "pos": "명사",
-      "meaning": "Chủ nghĩa dân tộc; hệ tư tưởng chính trị đặt bản sắc dân tộc chung và quyền tự quyết vào trung tâm của đời sống chính trị",
+      "meaning": "Chủ nghĩa dân tộc",
       "synonyms": [
         "국민주의",
         "민족의식"
@@ -17483,7 +17483,7 @@
       "id": 282,
       "word": "식민지경험",
       "pos": "명사",
-      "meaning": "Kinh nghiệm thuộc địa; di sản lịch sử, xã hội và tâm lý từ việc một dân tộc bị khuất phục dưới sự cai trị thuộc địa của ngoại bang",
+      "meaning": "Kinh nghiệm thuộc địa",
       "synonyms": [
         "피식민지경험",
         "식민지유산"
@@ -17545,7 +17545,7 @@
       "id": 283,
       "word": "분단체제",
       "pos": "명사",
-      "meaning": "Thể chế phân chia; điều kiện mang tính cấu trúc của bán đảo Triều Tiên bị chia thành hai nhà nước riêng biệt, định hình chính trị, xã hội và văn hóa của cả hai phía",
+      "meaning": "Thể chế phân chia",
       "synonyms": [
         "남북분단구조",
         "분단고착화"
@@ -17607,7 +17607,7 @@
       "id": 284,
       "word": "한국민주화",
       "pos": "명사",
-      "meaning": "Dân chủ hóa Hàn Quốc; quá trình lịch sử Hàn Quốc chuyển đổi từ chế độ độc tài sang nền dân chủ tự do, đặc biệt từ những năm 1980 trở đi",
+      "meaning": "Dân chủ hóa Hàn Quốc",
       "synonyms": [
         "민주화운동",
         "민주화이행"
@@ -17669,7 +17669,7 @@
       "id": 285,
       "word": "압축성장",
       "pos": "명사",
-      "meaning": "Tăng trưởng nén; sự phát triển kinh tế nhanh chóng đạt được trong một thời gian rất ngắn, thường đề cập đến quá trình Hàn Quốc chuyển đổi từ nghèo đói thành nền kinh tế phát triển chỉ trong vài thập kỷ",
+      "meaning": "Tăng trưởng nén",
       "synonyms": [
         "고도성장",
         "한강의기적"
@@ -17731,7 +17731,7 @@
       "id": 286,
       "word": "발전국가론",
       "pos": "명사",
-      "meaning": "Lý thuyết nhà nước phát triển; lý thuyết giải thích cách một nhà nước can thiệp tích cực hướng dẫn chính sách công nghiệp và phát triển kinh tế, điển hình qua các nền kinh tế Đông Á",
+      "meaning": "Lý thuyết nhà nước phát triển",
       "synonyms": [
         "개발국가론",
         "발전주의국가이론"
@@ -17793,7 +17793,7 @@
       "id": 287,
       "word": "한국복지국가",
       "pos": "명사",
-      "meaning": "Nhà nước phúc lợi Hàn Quốc; hệ thống và sự phát triển của các chương trình phúc lợi xã hội ở Hàn Quốc, được đặc trưng bởi mô hình bảo trợ xã hội nén và định hướng sản xuất",
+      "meaning": "Nhà nước phúc lợi Hàn Quốc",
       "synonyms": [
         "한국사회보장체계",
         "복지국가발전"
@@ -17855,7 +17855,7 @@
       "id": 288,
       "word": "한국시민사회",
       "pos": "명사",
-      "meaning": "xã hội dân sự Hàn Quốc; lĩnh vực hoạt động dân sự có tổ chức tại Hàn Quốc, bao gồm các NGO, phong trào xã hội và các hiệp hội tình nguyện, hoạt động độc lập với nhà nước và thị trường",
+      "meaning": "xã hội dân sự Hàn Quốc",
       "synonyms": [
         "시민단체",
         "비정부조직"
@@ -17917,7 +17917,7 @@
       "id": 289,
       "word": "촛불시민혁명",
       "pos": "명사",
-      "meaning": "Cách mạng công dân nến; phong trào biểu tình hòa bình quy mô lớn năm 2016–2017 tại Hàn Quốc dẫn đến việc luận tội Tổng thống Park Geun-hye",
+      "meaning": "Cách mạng công dân nến",
       "synonyms": [
         "촛불집회",
         "박근혜탄핵운동"
@@ -17979,7 +17979,7 @@
       "id": 290,
       "word": "한국문화정체성",
       "pos": "명사",
-      "meaning": "bản sắc văn hóa Hàn Quốc; những đặc điểm văn hóa, giá trị và nhận thức về bản thân độc đáo xác định ý nghĩa của việc là người Hàn Quốc",
+      "meaning": "bản sắc văn hóa Hàn Quốc",
       "synonyms": [
         "한국적정체성",
         "민족문화정체성"
@@ -18041,7 +18041,7 @@
       "id": 291,
       "word": "한민족디아스포라",
       "pos": "명사",
-      "meaning": "cộng đồng người Hàn kiều; sự phân tán người Hàn Quốc trên khắp thế giới và các cộng đồng của họ sống bên ngoài Hàn Quốc",
+      "meaning": "cộng đồng người Hàn kiều",
       "synonyms": [
         "재외동포",
         "코리안디아스포라"
@@ -18103,7 +18103,7 @@
       "id": 292,
       "word": "남북관계",
       "pos": "명사",
-      "meaning": "quan hệ liên Triều; các mối quan hệ chính trị, quân sự, kinh tế và xã hội giữa Hàn Quốc và Triều Tiên",
+      "meaning": "quan hệ liên Triều",
       "synonyms": [
         "남북한관계",
         "한반도관계"
@@ -18165,7 +18165,7 @@
       "id": 293,
       "word": "통일담론",
       "pos": "명사",
-      "meaning": "diễn ngôn thống nhất; tập hợp các ý tưởng, tranh luận và câu chuyện liên quan đến tính khả thi, phương thức và tầm nhìn của sự thống nhất hai miền Triều Tiên",
+      "meaning": "diễn ngôn thống nhất",
       "synonyms": [
         "통일론",
         "통일논의"
@@ -18227,7 +18227,7 @@
       "id": 294,
       "word": "한국어세계화",
       "pos": "명사",
-      "meaning": "toàn cầu hóa tiếng Hàn; quá trình và nỗ lực thúc đẩy việc học và sử dụng tiếng Hàn trên phạm vi quốc tế",
+      "meaning": "toàn cầu hóa tiếng Hàn",
       "synonyms": [
         "한국어국제화",
         "한국어보급"
@@ -18289,7 +18289,7 @@
       "id": 295,
       "word": "한류문화론",
       "pos": "명사",
-      "meaning": "lý thuyết về làn sóng Hàn Quốc; diễn ngôn học thuật xem xét các chiều cạnh văn hóa, kinh tế và địa chính trị của sự lan rộng toàn cầu của văn hóa đại chúng Hàn Quốc",
+      "meaning": "lý thuyết về làn sóng Hàn Quốc",
       "synonyms": [
         "한류이론",
         "K문화론"
@@ -18351,7 +18351,7 @@
       "id": 296,
       "word": "한국교육열",
       "pos": "명사",
-      "meaning": "nhiệt huyết giáo dục Hàn Quốc; sự nhấn mạnh văn hóa đặc biệt cao về giáo dục, bằng cấp học thuật và cạnh tranh trong các kỳ thi tuyển sinh ở xã hội Hàn Quốc",
+      "meaning": "nhiệt huyết giáo dục Hàn Quốc",
       "synonyms": [
         "교육열풍",
         "입시열"
@@ -18413,7 +18413,7 @@
       "id": 297,
       "word": "유교자본주의",
       "pos": "명사",
-      "meaning": "chủ nghĩa tư bản Nho giáo; lý thuyết cho rằng các giá trị Nho giáo như giáo dục, thứ bậc và sự hài hòa tập thể đã góp phần vào sự phát triển kinh tế nhanh chóng của các xã hội Đông Á",
+      "meaning": "chủ nghĩa tư bản Nho giáo",
       "synonyms": [
         "유교적자본주의",
         "아시아적가치론"
@@ -18475,7 +18475,7 @@
       "id": 298,
       "word": "한국현대문학",
       "pos": "명사",
-      "meaning": "văn học hiện đại Hàn Quốc; các tác phẩm văn học được sáng tác tại Hàn Quốc từ cuối thế kỷ 19 đến nay, đề cập đến các chủ đề về chủ nghĩa thực dân, sự chia cắt, hiện đại hóa và dân chủ",
+      "meaning": "văn học hiện đại Hàn Quốc",
       "synonyms": [
         "현대문학",
         "근현대문학"
@@ -18537,7 +18537,7 @@
       "id": 299,
       "word": "한국근현대사상",
       "pos": "명사",
-      "meaning": "tư tưởng hiện đại Hàn Quốc; các dòng chảy trí tuệ và phong trào triết học tại Hàn Quốc từ cuối thế kỷ 19 đến nay, bao gồm Khai sáng, chủ nghĩa dân tộc, chủ nghĩa xã hội, dân chủ và lý thuyết hậu thực dân",
+      "meaning": "tư tưởng hiện đại Hàn Quốc",
       "synonyms": [
         "근현대사상",
         "한국현대철학"
@@ -18599,7 +18599,7 @@
       "id": 300,
       "word": "한국경제발전",
       "pos": "명사",
-      "meaning": "phát triển kinh tế Hàn Quốc; quá trình và mô hình chuyển đổi của Hàn Quốc từ một trong những quốc gia nghèo nhất thế giới thành nền kinh tế thu nhập cao trong vòng nửa thế kỷ",
+      "meaning": "phát triển kinh tế Hàn Quốc",
       "synonyms": [
         "한국경제성장",
         "한국발전모델"

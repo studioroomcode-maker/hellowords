@@ -2190,7 +2190,7 @@
     "word": "누나",
     "phonetic": "nuna",
     "pos": "명사",
-    "meaning": "姐姐（男性对女性长辈的称谓）",
+    "meaning": "姐姐",
     "synonyms": [
       "언니"
     ],
@@ -2323,7 +2323,7 @@
     "word": "눈",
     "phonetic": "nun",
     "pos": "명사",
-    "meaning": "眼睛；雪",
+    "meaning": "眼睛、雪",
     "synonyms": [],
     "level": "2",
     "lang": "cn",
@@ -10013,7 +10013,7 @@
     "word": "들",
     "phonetic": "deul",
     "pos": "명사",
-    "meaning": "原野；（复数后缀）们",
+    "meaning": "原野、们",
     "synonyms": [
       "평야",
       "벌판"
@@ -10080,7 +10080,7 @@
     "word": "들다",
     "phonetic": "deulda",
     "pos": "동사",
-    "meaning": "拿，举；需要（费用/时间）；入睡；喜欢",
+    "meaning": "拿，举",
     "synonyms": [
       "잡다",
       "비용이 들다"
@@ -13121,7 +13121,7 @@
     "word": "만",
     "phonetic": "man",
     "pos": "조사",
-    "meaning": "只，仅；一万",
+    "meaning": "只，仅",
     "synonyms": [
       "오직",
       "단지"
@@ -13721,7 +13721,7 @@
     "word": "말",
     "phonetic": "mal",
     "pos": "명사",
-    "meaning": "话，语言；马",
+    "meaning": "话，语言",
     "synonyms": [
       "언어",
       "단어"
@@ -18607,7 +18607,7 @@
     "word": "묻다",
     "phonetic": "mutda",
     "pos": "동사",
-    "meaning": "询问；埋",
+    "meaning": "询问",
     "synonyms": [
       "질문하다",
       "캐묻다",
@@ -19757,7 +19757,7 @@
     "word": "밀리다",
     "phonetic": "milrida",
     "pos": "동사",
-    "meaning": "被推挤；积压，拖延",
+    "meaning": "被推挤",
     "synonyms": [
       "지연되다",
       "늦어지다",

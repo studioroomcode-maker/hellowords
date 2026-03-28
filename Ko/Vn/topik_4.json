@@ -6,7 +6,7 @@
       "id": 1,
       "word": "감정이입",
       "pos": "명사",
-      "meaning": "sự đồng cảm; đồng hóa cảm xúc với người khác",
+      "meaning": "sự đồng cảm",
       "synonyms": [
         "공감",
         "이입"
@@ -68,7 +68,7 @@
       "id": 2,
       "word": "자존감",
       "pos": "명사",
-      "meaning": "lòng tự trọng; cảm giác tự coi trọng bản thân",
+      "meaning": "lòng tự trọng",
       "synonyms": [
         "자아존중감",
         "자신감"
@@ -130,7 +130,7 @@
       "id": 3,
       "word": "불안감",
       "pos": "명사",
-      "meaning": "cảm giác lo âu; cảm giác bất an hoặc lo lắng",
+      "meaning": "cảm giác lo âu",
       "synonyms": [
         "불안",
         "걱정",
@@ -193,7 +193,7 @@
       "id": 4,
       "word": "압박감",
       "pos": "명사",
-      "meaning": "áp lực; cảm giác bị căng thẳng hoặc bị ràng buộc",
+      "meaning": "áp lực",
       "synonyms": [
         "부담감",
         "스트레스",
@@ -256,7 +256,7 @@
       "id": 5,
       "word": "동기부여",
       "pos": "명사",
-      "meaning": "động lực; sự thúc đẩy hành động hướng tới mục tiêu",
+      "meaning": "động lực",
       "synonyms": [
         "동기",
         "의욕",
@@ -444,7 +444,7 @@
       "id": 8,
       "word": "충동",
       "pos": "명사",
-      "meaning": "sự bốc đồng; ham muốn hoặc thôi thúc đột ngột",
+      "meaning": "sự bốc đồng",
       "synonyms": [
         "욕구",
         "본능",
@@ -758,7 +758,7 @@
       "id": 13,
       "word": "긴장감",
       "pos": "명사",
-      "meaning": "cảm giác căng thẳng; hồi hộp hoặc hồi hộp",
+      "meaning": "cảm giác căng thẳng",
       "synonyms": [
         "긴장",
         "불안감",
@@ -883,7 +883,7 @@
       "id": 15,
       "word": "열등감",
       "pos": "명사",
-      "meaning": "mặc cảm tự ti; cảm giác kém cỏi hơn người khác",
+      "meaning": "mặc cảm tự ti",
       "synonyms": [
         "자격지심",
         "패배감",
@@ -946,7 +946,7 @@
       "id": 16,
       "word": "우월감",
       "pos": "명사",
-      "meaning": "mặc cảm tự tôn; cảm giác vượt trội hơn người khác",
+      "meaning": "mặc cảm tự tôn",
       "synonyms": [
         "자만심",
         "거만함",
@@ -1324,7 +1324,7 @@
       "id": 22,
       "word": "좌절감",
       "pos": "명사",
-      "meaning": "cảm giác thất vọng; cảm giác thất bại hoặc nản lòng",
+      "meaning": "cảm giác thất vọng",
       "synonyms": [
         "실망감",
         "낙담",
@@ -1387,7 +1387,7 @@
       "id": 23,
       "word": "당혹감",
       "pos": "명사",
-      "meaning": "sự bối rối; cảm giác xấu hổ hoặc lúng túng",
+      "meaning": "sự bối rối",
       "synonyms": [
         "민망함",
         "창피함",
@@ -1513,7 +1513,7 @@
       "id": 25,
       "word": "초조함",
       "pos": "명사",
-      "meaning": "sự hồi hộp; bồn chồn; sự sốt ruột lo lắng",
+      "meaning": "sự hồi hộp, bồn chồn",
       "synonyms": [
         "안달",
         "조급함",
@@ -6667,7 +6667,7 @@
       "id": 108,
       "word": "비유",
       "pos": "명사",
-      "meaning": "ví von; so sánh ẩn dụ; phép tu từ so sánh",
+      "meaning": "ví von, so sánh ẩn dụ",
       "synonyms": [
         "은유",
         "직유",
@@ -7171,7 +7171,7 @@
       "id": 116,
       "word": "의사소통",
       "pos": "명사",
-      "meaning": "giao tiếp; truyền thông; trao đổi thông tin",
+      "meaning": "giao tiếp, truyền thông",
       "synonyms": [
         "커뮤니케이션",
         "소통",
@@ -7738,7 +7738,7 @@
       "id": 125,
       "word": "수사법",
       "pos": "명사",
-      "meaning": "tu từ học; phép tu từ; kỹ thuật hùng biện",
+      "meaning": "tu từ học, phép tu từ",
       "synonyms": [
         "수사학",
         "문채",
@@ -8240,7 +8240,7 @@
       "id": 133,
       "word": "기념물",
       "pos": "명사",
-      "meaning": "công trình kỷ niệm; đài tưởng niệm; di tích",
+      "meaning": "công trình kỷ niệm, đài tưởng niệm",
       "synonyms": [
         "기념비",
         "기념탑",
@@ -8931,7 +8931,7 @@
       "id": 144,
       "word": "광복",
       "pos": "명사",
-      "meaning": "giải phóng; phục quang; giành lại chủ quyền",
+      "meaning": "giải phóng, phục quang",
       "synonyms": [
         "해방",
         "독립 회복",
@@ -12196,7 +12196,7 @@
       "id": 196,
       "word": "멸종위기",
       "pos": "명사",
-      "meaning": "nguy cơ tuyệt chủng; có nguy cơ tuyệt chủng",
+      "meaning": "nguy cơ tuyệt chủng",
       "synonyms": [
         "멸종 위협",
         "종 소멸 위험",
@@ -12696,7 +12696,7 @@
       "id": 204,
       "word": "소득격차",
       "pos": "명사",
-      "meaning": "khoảng cách thu nhập; chênh lệch thu nhập",
+      "meaning": "khoảng cách thu nhập, chênh lệch thu nhập",
       "synonyms": [
         "빈부격차",
         "소득불균형"
@@ -13998,7 +13998,7 @@
       "id": 225,
       "word": "사회적약자",
       "pos": "명사",
-      "meaning": "người yếu thế trong xã hội; tầng lớp dễ bị tổn thương",
+      "meaning": "người yếu thế trong xã hội",
       "synonyms": [
         "소외 계층",
         "취약 계층"
@@ -14184,7 +14184,7 @@
       "id": 228,
       "word": "수능",
       "pos": "명사",
-      "meaning": "Kỳ thi đánh giá năng lực học thuật (CSAT); kỳ thi đại học Hàn Quốc",
+      "meaning": "Kỳ thi đánh giá năng lực học thuật (CSAT)",
       "synonyms": [
         "대학수학능력시험",
         "수학능력시험"
@@ -15734,7 +15734,7 @@
       "id": 253,
       "word": "취재",
       "pos": "명사",
-      "meaning": "thu thập tin tức; đưa tin tại hiện trường",
+      "meaning": "thu thập tin tức",
       "synonyms": [
         "현장 보도",
         "기사 수집"
@@ -16292,7 +16292,7 @@
       "id": 262,
       "word": "디지털마케팅",
       "pos": "명사",
-      "meaning": "tiếp thị kỹ thuật số; quảng bá sản phẩm hoặc dịch vụ qua các kênh kỹ thuật số",
+      "meaning": "tiếp thị kỹ thuật số",
       "synonyms": [
         "온라인광고",
         "인터넷마케팅"
