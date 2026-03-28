@@ -4344,7 +4344,7 @@
       "id": 72,
       "word": "걸다",
       "pos": "동사",
-      "meaning": "bet, call",
+      "meaning": "hang; call",
       "synonyms": [
         "달다",
         "매달다"
@@ -13201,7 +13201,7 @@
       "id": 217,
       "word": "금주",
       "pos": "명사",
-      "meaning": "no drinking / this week",
+      "meaning": "abstaining from alcohol",
       "synonyms": [
         "이번 주",
         "음주 금지"
@@ -14244,7 +14244,7 @@
       "id": 234,
       "word": "기타",
       "pos": "명사",
-      "meaning": "guitar / other, etc.",
+      "meaning": "guitar; etc., others",
       "synonyms": [],
       "examples": [
         {
@@ -15930,7 +15930,7 @@
       "id": 262,
       "word": "끼다",
       "pos": "동사",
-      "meaning": "wear, put on (ring/glasses)",
+      "meaning": "wear, put on (ring; glasses)",
       "synonyms": [
         "착용하다"
       ],
@@ -17026,7 +17026,7 @@
       "id": 280,
       "word": "남",
       "pos": "명사",
-      "meaning": "south, other person",
+      "meaning": "other person; south",
       "synonyms": [
         "타인",
         "남쪽"

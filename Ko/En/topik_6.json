@@ -1564,7 +1564,7 @@
       "id": 26,
       "word": "거시경제",
       "pos": "명사",
-      "meaning": "macroeconomics; the study of the economy as a whole",
+      "meaning": "macroeconomics",
       "synonyms": [
         "국민경제",
         "총체적경제"
@@ -1626,7 +1626,7 @@
       "id": 27,
       "word": "총수요",
       "pos": "명사",
-      "meaning": "aggregate demand; the total demand for goods and services in an economy",
+      "meaning": "aggregate demand",
       "synonyms": [
         "집계수요",
         "유효수요"
@@ -1688,7 +1688,7 @@
       "id": 28,
       "word": "총공급",
       "pos": "명사",
-      "meaning": "aggregate supply; the total supply of goods and services produced in an economy",
+      "meaning": "aggregate supply",
       "synonyms": [
         "집계공급",
         "국민공급"
@@ -1874,7 +1874,7 @@
       "id": 31,
       "word": "경기부양",
       "pos": "명사",
-      "meaning": "economic stimulus; government measures to boost economic activity",
+      "meaning": "economic stimulus",
       "synonyms": [
         "경기진작",
         "경기부흥"
@@ -1998,7 +1998,7 @@
       "id": 33,
       "word": "긴축정책",
       "pos": "명사",
-      "meaning": "austerity policy; government measures to reduce spending and debt",
+      "meaning": "austerity policy",
       "synonyms": [
         "재정긴축",
         "긴축재정"
@@ -2060,7 +2060,7 @@
       "id": 34,
       "word": "재정승수",
       "pos": "명사",
-      "meaning": "fiscal multiplier; the ratio of change in national income to the change in government spending that caused it",
+      "meaning": "fiscal multiplier",
       "synonyms": [
         "재정지출승수",
         "정부지출승수"
@@ -2122,7 +2122,7 @@
       "id": 35,
       "word": "통화승수",
       "pos": "명사",
-      "meaning": "money multiplier; the ratio by which the money supply expands relative to an initial deposit or monetary base",
+      "meaning": "money multiplier",
       "synonyms": [
         "화폐승수",
         "신용승수"
@@ -2184,7 +2184,7 @@
       "id": 36,
       "word": "유동성함정",
       "pos": "명사",
-      "meaning": "liquidity trap; a situation where monetary policy becomes ineffective because interest rates are at or near zero",
+      "meaning": "liquidity trap",
       "synonyms": [
         "유동성트랩",
         "금리하한함정"
@@ -2246,7 +2246,7 @@
       "id": 37,
       "word": "필립스곡선",
       "pos": "명사",
-      "meaning": "Phillips curve; a graph showing the inverse relationship between inflation and unemployment",
+      "meaning": "Phillips curve",
       "synonyms": [
         "인플레-실업 상충곡선",
         "물가-고용 트레이드오프"
@@ -2308,7 +2308,7 @@
       "id": 38,
       "word": "구조적실업",
       "pos": "명사",
-      "meaning": "structural unemployment; unemployment caused by a mismatch between workers' skills and the jobs available",
+      "meaning": "structural unemployment",
       "synonyms": [
         "기술미스매치실업",
         "산업구조변화실업"
@@ -2370,7 +2370,7 @@
       "id": 39,
       "word": "마찰적실업",
       "pos": "명사",
-      "meaning": "frictional unemployment; short-term unemployment caused by the time it takes workers to find new jobs",
+      "meaning": "frictional unemployment",
       "synonyms": [
         "탐색적실업",
         "이행기실업"
@@ -2432,7 +2432,7 @@
       "id": 40,
       "word": "경제성장론",
       "pos": "명사",
-      "meaning": "economic growth theory; theoretical frameworks explaining the sources and mechanisms of long-run economic growth",
+      "meaning": "economic growth theory",
       "synonyms": [
         "성장이론",
         "성장경제학"
@@ -2494,7 +2494,7 @@
       "id": 41,
       "word": "내생적성장",
       "pos": "명사",
-      "meaning": "endogenous growth; economic growth driven by internal factors such as knowledge accumulation and innovation within the model",
+      "meaning": "endogenous growth",
       "synonyms": [
         "내생성장이론",
         "신성장이론"
@@ -2556,7 +2556,7 @@
       "id": 42,
       "word": "비교우위",
       "pos": "명사",
-      "meaning": "comparative advantage; the ability of an entity to produce a good at a lower opportunity cost than others",
+      "meaning": "comparative advantage",
       "synonyms": [
         "상대적우위",
         "비교우위원칙"
@@ -2618,7 +2618,7 @@
       "id": 43,
       "word": "절대우위",
       "pos": "명사",
-      "meaning": "absolute advantage; the ability to produce more of a good or service than competitors using the same resources",
+      "meaning": "absolute advantage",
       "synonyms": [
         "절대적우위",
         "생산효율우위"
@@ -2680,7 +2680,7 @@
       "id": 44,
       "word": "자유무역론",
       "pos": "명사",
-      "meaning": "free trade theory; the doctrine that trade between nations should be conducted without tariffs, quotas, or other restrictions",
+      "meaning": "free trade theory",
       "synonyms": [
         "자유교역론",
         "무역자유화론"
@@ -2742,7 +2742,7 @@
       "id": 45,
       "word": "보호무역주의",
       "pos": "명사",
-      "meaning": "protectionism; the policy of protecting domestic industries from foreign competition through tariffs, quotas, and other measures",
+      "meaning": "protectionism",
       "synonyms": [
         "무역보호주의",
         "관세보호정책"
@@ -2804,7 +2804,7 @@
       "id": 46,
       "word": "케인스주의",
       "pos": "명사",
-      "meaning": "Keynesianism; an economic theory advocating government intervention to stabilize the economy, especially through fiscal policy",
+      "meaning": "Keynesianism",
       "synonyms": [
         "케인스경제학",
         "케인즈주의"
@@ -2866,7 +2866,7 @@
       "id": 47,
       "word": "신자유주의",
       "pos": "명사",
-      "meaning": "neoliberalism; an ideology favoring free markets, deregulation, privatization, and reduced government intervention in the economy",
+      "meaning": "neoliberalism",
       "synonyms": [
         "신고전적자유주의",
         "워싱턴컨센서스"
@@ -2928,7 +2928,7 @@
       "id": 48,
       "word": "제도경제학",
       "pos": "명사",
-      "meaning": "institutional economics; an approach emphasizing the role of formal and informal institutions in shaping economic behavior and outcomes",
+      "meaning": "institutional economics",
       "synonyms": [
         "제도주의경제학",
         "신제도경제학"
@@ -2990,7 +2990,7 @@
       "id": 49,
       "word": "행동경제학",
       "pos": "명사",
-      "meaning": "behavioral economics; a field combining psychology and economics to study how psychological factors influence economic decisions",
+      "meaning": "behavioral economics",
       "synonyms": [
         "행태경제학",
         "심리경제학"
@@ -3052,7 +3052,7 @@
       "id": 50,
       "word": "경제불평등",
       "pos": "명사",
-      "meaning": "economic inequality; the unequal distribution of income, wealth, and economic opportunities among individuals or groups",
+      "meaning": "economic inequality",
       "synonyms": [
         "소득불평등",
         "경제적격차"
@@ -4354,7 +4354,7 @@
       "id": 71,
       "word": "롤스정의론",
       "pos": "명사",
-      "meaning": "Rawlsian theory of justice; Rawls's theory of justice",
+      "meaning": "Rawlsian theory of justice",
       "synonyms": [
         "공정으로서의 정의",
         "자유주의적 평등주의"
@@ -4790,7 +4790,7 @@
       "id": 78,
       "word": "기표/기의",
       "pos": "명사",
-      "meaning": "signifier / signified",
+      "meaning": "signifier; signified",
       "synonyms": [
         "능기/소기",
         "표시체/피표시체",
@@ -6175,7 +6175,7 @@
       "id": 100,
       "word": "다성성",
       "pos": "명사",
-      "meaning": "polyphony / heteroglossia",
+      "meaning": "polyphony; heteroglossia",
       "synonyms": [
         "다성주의",
         "복수 목소리",
@@ -6238,7 +6238,7 @@
       "id": 101,
       "word": "역사철학",
       "pos": "명사",
-      "meaning": "philosophy of history; the branch of philosophy concerned with the study of historical thought and method",
+      "meaning": "philosophy of history",
       "synonyms": [
         "역사사상",
         "사학이론"
@@ -6300,7 +6300,7 @@
       "id": 102,
       "word": "사관",
       "pos": "명사",
-      "meaning": "historical view; perspective or interpretation of history",
+      "meaning": "historical view",
       "synonyms": [
         "역사관",
         "역사인식"
@@ -6424,7 +6424,7 @@
       "id": 104,
       "word": "관념론적사관",
       "pos": "명사",
-      "meaning": "idealist historical view; interpretation of history based on the primacy of ideas, spirit, or consciousness",
+      "meaning": "idealist historical view",
       "synonyms": [
         "관념론적역사관",
         "정신주의사관"
@@ -6486,7 +6486,7 @@
       "id": 105,
       "word": "역사주의",
       "pos": "명사",
-      "meaning": "historicism; the theory that social and cultural phenomena are determined by history and must be understood in their historical context",
+      "meaning": "historicism",
       "synonyms": [
         "역사론",
         "역사적사유"
@@ -6548,7 +6548,7 @@
       "id": 106,
       "word": "역사상대주의",
       "pos": "명사",
-      "meaning": "historical relativism; the view that historical knowledge and moral judgments are relative to their historical context",
+      "meaning": "historical relativism",
       "synonyms": [
         "사학적상대주의",
         "역사인식상대주의"
@@ -6610,7 +6610,7 @@
       "id": 107,
       "word": "역사서술",
       "pos": "명사",
-      "meaning": "historiography; the writing and narrating of history; the study of how history has been written",
+      "meaning": "historiography",
       "synonyms": [
         "역사기술",
         "사학서술"
@@ -6672,7 +6672,7 @@
       "id": 108,
       "word": "사료비판",
       "pos": "명사",
-      "meaning": "source criticism; the critical evaluation of historical sources to assess their authenticity and reliability",
+      "meaning": "source criticism",
       "synonyms": [
         "문헌비판",
         "원전비판"
@@ -6734,7 +6734,7 @@
       "id": 109,
       "word": "구술역사",
       "pos": "명사",
-      "meaning": "oral history; the collection and study of historical information based on personal testimonies, memories, and interviews",
+      "meaning": "oral history",
       "synonyms": [
         "구술사",
         "口述歷史"
@@ -6796,7 +6796,7 @@
       "id": 110,
       "word": "미시사",
       "pos": "명사",
-      "meaning": "microhistory; a historical approach that focuses on small-scale subjects to reveal broader historical phenomena",
+      "meaning": "microhistory",
       "synonyms": [
         "소규모역사",
         "개인사"
@@ -6858,7 +6858,7 @@
       "id": 111,
       "word": "거시사",
       "pos": "명사",
-      "meaning": "macrohistory; historical study on a large scale, examining long-term trends and broad structural patterns",
+      "meaning": "macrohistory",
       "synonyms": [
         "대규모역사",
         "장기역사"
@@ -6920,7 +6920,7 @@
       "id": 112,
       "word": "사회사",
       "pos": "명사",
-      "meaning": "social history; the study of history with a focus on social structures, classes, everyday life, and ordinary people",
+      "meaning": "social history",
       "synonyms": [
         "사회역사학",
         "민중사"
@@ -6982,7 +6982,7 @@
       "id": 113,
       "word": "문화사",
       "pos": "명사",
-      "meaning": "cultural history; the study of history focusing on cultural practices, representations, symbols, and meanings",
+      "meaning": "cultural history",
       "synonyms": [
         "문화역사학",
         "문명사"
@@ -7168,7 +7168,7 @@
       "id": 116,
       "word": "역사적기억",
       "pos": "명사",
-      "meaning": "historical memory; the collective recollection and representation of past events shared by a social group",
+      "meaning": "historical memory",
       "synonyms": [
         "역사기억",
         "역사적회상"
@@ -7230,7 +7230,7 @@
       "id": 117,
       "word": "집단기억",
       "pos": "명사",
-      "meaning": "collective memory; the shared pool of knowledge and information in the memory of two or more members of a social group",
+      "meaning": "collective memory",
       "synonyms": [
         "공동기억",
         "사회적기억"
@@ -7292,7 +7292,7 @@
       "id": 118,
       "word": "역사왜곡",
       "pos": "명사",
-      "meaning": "historical distortion; the deliberate misrepresentation or falsification of historical facts",
+      "meaning": "historical distortion",
       "synonyms": [
         "역사변조",
         "역사조작"
@@ -7354,7 +7354,7 @@
       "id": 119,
       "word": "역사화해",
       "pos": "명사",
-      "meaning": "historical reconciliation; the process by which former adversaries acknowledge past injustices and work toward mutual understanding",
+      "meaning": "historical reconciliation",
       "synonyms": [
         "과거화해",
         "역사적화해"
@@ -7416,7 +7416,7 @@
       "id": 120,
       "word": "식민지근대화론",
       "pos": "명사",
-      "meaning": "colonial modernity thesis; the controversial theory that argues Japanese colonial rule contributed to Korea's modernization",
+      "meaning": "colonial modernity thesis",
       "synonyms": [
         "식민지근대성론",
         "개발식민주의론"
@@ -7478,7 +7478,7 @@
       "id": 121,
       "word": "민족주의사학",
       "pos": "명사",
-      "meaning": "nationalist historiography; a school of history that emphasizes national identity, independence, and the uniqueness of a people's historical experience",
+      "meaning": "nationalist historiography",
       "synonyms": [
         "민족사학",
         "국수주의사학"
@@ -7540,7 +7540,7 @@
       "id": 122,
       "word": "실증주의사학",
       "pos": "명사",
-      "meaning": "positivist historiography; the historical approach that emphasizes objective evidence and scientific methodology in historical research",
+      "meaning": "positivist historiography",
       "synonyms": [
         "실증사학",
         "과학적역사학"
@@ -7602,7 +7602,7 @@
       "id": 123,
       "word": "구조주의사학",
       "pos": "명사",
-      "meaning": "structuralist historiography; an approach to history that emphasizes underlying structures—economic, social, linguistic—over individual agency",
+      "meaning": "structuralist historiography",
       "synonyms": [
         "구조주의역사학",
         "구조사학"
@@ -7664,7 +7664,7 @@
       "id": 124,
       "word": "아날학파",
       "pos": "명사",
-      "meaning": "Annales School; a 20th-century French school of history that focuses on long-term social history, geography, and economics",
+      "meaning": "Annales School",
       "synonyms": [
         "아날르학파",
         "연보학파"
@@ -7726,7 +7726,7 @@
       "id": 125,
       "word": "역사해석학",
       "pos": "명사",
-      "meaning": "historical hermeneutics; the theory and methodology of interpreting historical texts and understanding the past",
+      "meaning": "historical hermeneutics",
       "synonyms": [
         "역사적해석학",
         "사학해석학"
@@ -7788,7 +7788,7 @@
       "id": 126,
       "word": "생명윤리",
       "pos": "명사",
-      "meaning": "bioethics; the ethical study of life sciences and healthcare",
+      "meaning": "bioethics",
       "synonyms": [
         "바이오에틱스",
         "생명의료윤리"
@@ -7850,7 +7850,7 @@
       "id": 127,
       "word": "의료윤리",
       "pos": "명사",
-      "meaning": "medical ethics; ethical principles governing medical practice",
+      "meaning": "medical ethics",
       "synonyms": [
         "임상윤리",
         "의사윤리"
@@ -7912,7 +7912,7 @@
       "id": 128,
       "word": "인체실험",
       "pos": "명사",
-      "meaning": "human experimentation; conducting experiments on human subjects",
+      "meaning": "human experimentation",
       "synonyms": [
         "인체대상연구",
         "사람대상실험"
@@ -7974,7 +7974,7 @@
       "id": 129,
       "word": "임상윤리",
       "pos": "명사",
-      "meaning": "clinical ethics; ethical decision-making in clinical care settings",
+      "meaning": "clinical ethics",
       "synonyms": [
         "임상의료윤리",
         "진료윤리"
@@ -8036,7 +8036,7 @@
       "id": 130,
       "word": "자율성원칙",
       "pos": "명사",
-      "meaning": "principle of autonomy; the right of individuals to make informed decisions about their own care",
+      "meaning": "principle of autonomy",
       "synonyms": [
         "자율존중원칙",
         "자기결정원칙"
@@ -8098,7 +8098,7 @@
       "id": 131,
       "word": "선행원칙",
       "pos": "명사",
-      "meaning": "principle of beneficence; the obligation to act in the best interest of the patient",
+      "meaning": "principle of beneficence",
       "synonyms": [
         "이익원칙",
         "혜택원칙"
@@ -8160,7 +8160,7 @@
       "id": 132,
       "word": "악행금지",
       "pos": "명사",
-      "meaning": "non-maleficence; the principle of not causing harm to patients",
+      "meaning": "non-maleficence",
       "synonyms": [
         "해악금지원칙",
         "무해원칙"
@@ -8222,7 +8222,7 @@
       "id": 133,
       "word": "정의원칙",
       "pos": "명사",
-      "meaning": "principle of justice; fair and equitable distribution of medical resources and treatment",
+      "meaning": "principle of justice",
       "synonyms": [
         "공정원칙",
         "형평성원칙"
@@ -8284,7 +8284,7 @@
       "id": 134,
       "word": "충분한설명에의한동의",
       "pos": "명사",
-      "meaning": "informed consent; voluntary agreement to treatment after receiving full and understandable information",
+      "meaning": "informed consent",
       "synonyms": [
         "사전동의",
         "고지된동의"
@@ -8346,7 +8346,7 @@
       "id": 135,
       "word": "환자자기결정권",
       "pos": "명사",
-      "meaning": "patient's right to self-determination; the right of patients to make decisions about their own medical care",
+      "meaning": "patient's right to self-determination",
       "synonyms": [
         "환자결정권",
         "의료자기결정권"
@@ -8408,7 +8408,7 @@
       "id": 136,
       "word": "안락사논쟁",
       "pos": "명사",
-      "meaning": "euthanasia debate; the ongoing ethical, legal, and philosophical controversy over intentional ending of life to relieve suffering",
+      "meaning": "euthanasia debate",
       "synonyms": [
         "안락사윤리논쟁",
         "조력사망논쟁"
@@ -8470,7 +8470,7 @@
       "id": 137,
       "word": "존엄사",
       "pos": "명사",
-      "meaning": "death with dignity; the right to die with dignity, often associated with the withdrawal of life-sustaining treatment",
+      "meaning": "death with dignity",
       "synonyms": [
         "존엄한죽음",
         "품위있는죽음"
@@ -8532,7 +8532,7 @@
       "id": 138,
       "word": "낙태윤리",
       "pos": "명사",
-      "meaning": "ethics of abortion; ethical dimensions of terminating a pregnancy",
+      "meaning": "ethics of abortion",
       "synonyms": [
         "임신중절윤리",
         "낙태도덕성"
@@ -8594,7 +8594,7 @@
       "id": 139,
       "word": "인공임신중절",
       "pos": "명사",
-      "meaning": "induced abortion; the deliberate medical termination of a pregnancy",
+      "meaning": "induced abortion",
       "synonyms": [
         "낙태",
         "임신중절"
@@ -8656,7 +8656,7 @@
       "id": 140,
       "word": "배아권리",
       "pos": "명사",
-      "meaning": "embryo rights; the ethical and legal question of what rights or moral status embryos possess",
+      "meaning": "embryo rights",
       "synonyms": [
         "배아인격성",
         "배아도덕지위"
@@ -8718,7 +8718,7 @@
       "id": 141,
       "word": "유전자편집윤리",
       "pos": "명사",
-      "meaning": "ethics of gene editing; ethical considerations surrounding the alteration of genetic material, especially in humans",
+      "meaning": "ethics of gene editing",
       "synonyms": [
         "게놈편집윤리",
         "유전자교정윤리"
@@ -8780,7 +8780,7 @@
       "id": 142,
       "word": "생명복제",
       "pos": "명사",
-      "meaning": "cloning; the creation of genetically identical copies of biological entities",
+      "meaning": "cloning",
       "synonyms": [
         "클로닝",
         "복제생명체"
@@ -8842,7 +8842,7 @@
       "id": 143,
       "word": "인공지능윤리",
       "pos": "명사",
-      "meaning": "AI ethics; ethical principles governing the development and use of artificial intelligence in medicine and life sciences",
+      "meaning": "AI ethics",
       "synonyms": [
         "AI윤리",
         "의료AI윤리"
@@ -8904,7 +8904,7 @@
       "id": 144,
       "word": "동물실험윤리",
       "pos": "명사",
-      "meaning": "animal experimentation ethics; ethical principles governing the use of animals in scientific research",
+      "meaning": "animal experimentation ethics",
       "synonyms": [
         "동물연구윤리",
         "실험동물윤리"
@@ -8966,7 +8966,7 @@
       "id": 145,
       "word": "자원배분정의",
       "pos": "명사",
-      "meaning": "distributive justice in resource allocation; the fair and equitable distribution of limited medical or social resources",
+      "meaning": "distributive justice in resource allocation",
       "synonyms": [
         "배분적정의",
         "의료자원형평배분"
@@ -9028,7 +9028,7 @@
       "id": 146,
       "word": "희소의료자원",
       "pos": "명사",
-      "meaning": "scarce medical resources; limited healthcare resources such as organs, ICU beds, or specialized treatments",
+      "meaning": "scarce medical resources",
       "synonyms": [
         "희귀의료자원",
         "제한적의료자원"
@@ -9090,7 +9090,7 @@
       "id": 147,
       "word": "의료접근권",
       "pos": "명사",
-      "meaning": "right to access healthcare; the right of every individual to receive necessary medical care without discrimination",
+      "meaning": "right to access healthcare",
       "synonyms": [
         "의료이용권",
         "보건의료접근권"
@@ -9152,7 +9152,7 @@
       "id": 148,
       "word": "인체자원화",
       "pos": "명사",
-      "meaning": "commodification of the human body; the ethical concern of treating human biological materials as economic resources",
+      "meaning": "commodification of the human body",
       "synonyms": [
         "신체상업화",
         "생체자원화"
@@ -9214,7 +9214,7 @@
       "id": 149,
       "word": "연명치료",
       "pos": "명사",
-      "meaning": "life-sustaining treatment; medical treatment that prolongs life without curing the underlying condition",
+      "meaning": "life-sustaining treatment",
       "synonyms": [
         "생명연장치료",
         "연명의료"
@@ -9276,7 +9276,7 @@
       "id": 150,
       "word": "생애말기돌봄",
       "pos": "명사",
-      "meaning": "end-of-life care; comprehensive care provided to patients in the final stages of life focusing on comfort and dignity",
+      "meaning": "end-of-life care",
       "synonyms": [
         "임종기돌봄",
         "말기돌봄"
@@ -9338,7 +9338,7 @@
       "id": 151,
       "word": "개념적타당도",
       "pos": "명사",
-      "meaning": "construct validity; the degree to which a measurement tool accurately measures the theoretical concept it purports to measure",
+      "meaning": "construct validity",
       "synonyms": [
         "구성타당도",
         "구인타당도"
@@ -9400,7 +9400,7 @@
       "id": 152,
       "word": "검증가능성",
       "pos": "명사",
-      "meaning": "verifiability / testability; the property of a hypothesis or theory that allows it to be empirically tested or falsified",
+      "meaning": "verifiability",
       "synonyms": [
         "반증가능성",
         "시험가능성",
@@ -9463,7 +9463,7 @@
       "id": 153,
       "word": "구성주의",
       "pos": "명사",
-      "meaning": "constructivism; an epistemological stance holding that knowledge and reality are socially and cognitively constructed rather than objectively given",
+      "meaning": "constructivism",
       "synonyms": [
         "사회적구성주의",
         "구성론",
@@ -9526,7 +9526,7 @@
       "id": 154,
       "word": "귀납적추론",
       "pos": "명사",
-      "meaning": "inductive reasoning; the process of deriving general principles or theories from specific observations or cases",
+      "meaning": "inductive reasoning",
       "synonyms": [
         "귀납추론",
         "귀납법",
@@ -9589,7 +9589,7 @@
       "id": 155,
       "word": "내적일관성",
       "pos": "명사",
-      "meaning": "internal consistency; the degree to which items within a measurement scale consistently measure the same underlying construct",
+      "meaning": "internal consistency",
       "synonyms": [
         "내부일관성",
         "문항내적일관성",
@@ -9652,7 +9652,7 @@
       "id": 156,
       "word": "다변량분석",
       "pos": "명사",
-      "meaning": "multivariate analysis; statistical methods that simultaneously examine multiple variables to understand their relationships and effects",
+      "meaning": "multivariate analysis",
       "synonyms": [
         "다변인분석",
         "다변수분석",
@@ -9715,7 +9715,7 @@
       "id": 157,
       "word": "맥락화",
       "pos": "명사",
-      "meaning": "contextualization; the process of situating data, texts, or phenomena within their broader social, historical, or cultural context to enhance interpretation",
+      "meaning": "contextualization",
       "synonyms": [
         "문맥화",
         "상황화",
@@ -9778,7 +9778,7 @@
       "id": 158,
       "word": "문화기술지",
       "pos": "명사",
-      "meaning": "ethnography; a qualitative research method involving deep, long-term immersion in a social group or culture to document and interpret its practices and meanings",
+      "meaning": "ethnography",
       "synonyms": [
         "민족지",
         "문화지",
@@ -9841,7 +9841,7 @@
       "id": 159,
       "word": "민족지학",
       "pos": "명사",
-      "meaning": "ethnology; a comparative branch of anthropology that systematically studies and compares cultures and ethnic groups",
+      "meaning": "ethnology",
       "synonyms": [
         "민족학",
         "인종지학",
@@ -9904,7 +9904,7 @@
       "id": 160,
       "word": "반증주의",
       "pos": "명사",
-      "meaning": "falsificationism; the epistemological view, associated with Karl Popper, that scientific theories must be falsifiable and are tested by attempts to refute them",
+      "meaning": "falsificationism",
       "synonyms": [
         "반증가능성이론",
         "포퍼주의",
@@ -9967,7 +9967,7 @@
       "id": 161,
       "word": "삼각검증",
       "pos": "명사",
-      "meaning": "triangulation; a research strategy that uses multiple methods, data sources, or perspectives to enhance the validity and credibility of findings",
+      "meaning": "triangulation",
       "synonyms": [
         "삼각측량법",
         "다원적검증",
@@ -10030,7 +10030,7 @@
       "id": 162,
       "word": "이론적표집",
       "pos": "명사",
-      "meaning": "theoretical sampling; a sampling strategy used in grounded theory research in which data collection is guided by emerging theoretical concepts rather than predetermined criteria",
+      "meaning": "theoretical sampling",
       "synonyms": [
         "이론적샘플링",
         "개념기반표집",
@@ -10093,7 +10093,7 @@
       "id": 163,
       "word": "질적내용분석",
       "pos": "명사",
-      "meaning": "qualitative content analysis; a research method for systematically analyzing the meaning of textual or visual data through interpretive coding and categorization",
+      "meaning": "qualitative content analysis",
       "synonyms": [
         "내용분석",
         "텍스트분석",
@@ -10156,7 +10156,7 @@
       "id": 164,
       "word": "측정불변성",
       "pos": "명사",
-      "meaning": "measurement invariance; the property of a measurement model whereby the same construct is measured in the same way across different groups or time points",
+      "meaning": "measurement invariance",
       "synonyms": [
         "측정동일성",
         "척도불변성",
@@ -10219,7 +10219,7 @@
       "id": 165,
       "word": "통계적유의성",
       "pos": "명사",
-      "meaning": "statistical significance; a determination that an observed result is unlikely to have occurred by chance, typically assessed by a p-value threshold (commonly p < .05)",
+      "meaning": "statistical significance",
       "synonyms": [
         "유의성",
         "통계적검증력",
@@ -10282,7 +10282,7 @@
       "id": 166,
       "word": "편향통제",
       "pos": "명사",
-      "meaning": "bias control; methodological strategies employed in research design and analysis to minimize systematic errors that distort findings",
+      "meaning": "bias control",
       "synonyms": [
         "바이어스통제",
         "오류통제",
@@ -10345,7 +10345,7 @@
       "id": 167,
       "word": "해석주의",
       "pos": "명사",
-      "meaning": "interpretivism; an epistemological approach that emphasizes understanding the subjective meanings and intentions of social actors rather than explaining behavior through causal laws",
+      "meaning": "interpretivism",
       "synonyms": [
         "해석학적접근",
         "이해사회학",
@@ -10408,7 +10408,7 @@
       "id": 168,
       "word": "조작적정의",
       "pos": "명사",
-      "meaning": "operational definition; a definition that specifies how a theoretical concept will be measured or manipulated in a study, making abstract constructs empirically observable",
+      "meaning": "operational definition",
       "synonyms": [
         "조작화",
         "개념의조작화",
@@ -10471,7 +10471,7 @@
       "id": 169,
       "word": "인과추론",
       "pos": "명사",
-      "meaning": "causal inference; the process of drawing conclusions about cause-and-effect relationships from data, often involving methods to control for confounding and establish counterfactuals",
+      "meaning": "causal inference",
       "synonyms": [
         "원인추론",
         "인과관계추론",
@@ -10596,7 +10596,7 @@
       "id": 171,
       "word": "비교사례연구",
       "pos": "명사",
-      "meaning": "comparative case study; a research design that systematically compares a small number of cases to identify causal conditions and explain similarities or differences in outcomes",
+      "meaning": "comparative case study",
       "synonyms": [
         "비교연구",
         "사례비교연구",
@@ -10659,7 +10659,7 @@
       "id": 172,
       "word": "혼합연구방법",
       "pos": "명사",
-      "meaning": "mixed methods research; an approach that integrates both quantitative and qualitative methods within a single study to provide a more comprehensive understanding",
+      "meaning": "mixed methods research",
       "synonyms": [
         "혼합방법론",
         "통합연구방법",
@@ -10722,7 +10722,7 @@
       "id": 173,
       "word": "개념화",
       "pos": "명사",
-      "meaning": "conceptualization; the process of defining and specifying theoretical concepts with clarity and precision to facilitate empirical measurement and communication",
+      "meaning": "conceptualization",
       "synonyms": [
         "개념규정",
         "이론화",
@@ -10785,7 +10785,7 @@
       "id": 174,
       "word": "이론적포화",
       "pos": "명사",
-      "meaning": "theoretical saturation; the point in qualitative data collection where no new themes, categories, or insights emerge from additional data, indicating sufficient depth of analysis",
+      "meaning": "theoretical saturation",
       "synonyms": [
         "포화상태",
         "자료포화",
@@ -10848,7 +10848,7 @@
       "id": 175,
       "word": "현상학적연구",
       "pos": "명사",
-      "meaning": "phenomenological research; a qualitative research approach that explores the lived experiences of individuals to understand the essence and meaning of a phenomenon",
+      "meaning": "phenomenological research",
       "synonyms": [
         "현상학적접근",
         "경험연구",
@@ -17134,7 +17134,7 @@
       "id": 276,
       "word": "한국학",
       "pos": "명사",
-      "meaning": "Korean studies; the academic discipline studying Korean history, language, culture, and society",
+      "meaning": "Korean studies",
       "synonyms": [
         "조선학",
         "코리아학"
@@ -17258,7 +17258,7 @@
       "id": 278,
       "word": "실학",
       "pos": "명사",
-      "meaning": "Silhak; a Korean pragmatic school of Confucian thought in the 17th–19th centuries emphasizing practical reform and empirical inquiry",
+      "meaning": "Silhak",
       "synonyms": [
         "실증학",
         "경세학"
@@ -17320,7 +17320,7 @@
       "id": 279,
       "word": "동학",
       "pos": "명사",
-      "meaning": "Donghak (Eastern Learning); a 19th-century Korean religious and social movement founded by Choe Je-u, emphasizing human dignity and equality",
+      "meaning": "Donghak (Eastern Learning)",
       "synonyms": [
         "천도교",
         "동학사상"
@@ -17382,7 +17382,7 @@
       "id": 280,
       "word": "개화사상",
       "pos": "명사",
-      "meaning": "Enlightenment thought; the late 19th-century Korean intellectual movement advocating modernization, Western learning, and reform",
+      "meaning": "Enlightenment thought",
       "synonyms": [
         "문명개화론",
         "근대화사상"
@@ -17444,7 +17444,7 @@
       "id": 281,
       "word": "민족주의",
       "pos": "명사",
-      "meaning": "nationalism; a political ideology that places a shared national identity and self-determination at the center of political life",
+      "meaning": "nationalism",
       "synonyms": [
         "국민주의",
         "민족의식"
@@ -17506,7 +17506,7 @@
       "id": 282,
       "word": "식민지경험",
       "pos": "명사",
-      "meaning": "colonial experience; the historical, social, and psychological legacy of a nation's subjugation under foreign colonial rule",
+      "meaning": "colonial experience",
       "synonyms": [
         "피식민지경험",
         "식민지유산"
@@ -17568,7 +17568,7 @@
       "id": 283,
       "word": "분단체제",
       "pos": "명사",
-      "meaning": "division system; the structural condition of the Korean Peninsula being divided into two separate states, shaping politics, society, and culture on both sides",
+      "meaning": "division system",
       "synonyms": [
         "남북분단구조",
         "분단고착화"
@@ -17630,7 +17630,7 @@
       "id": 284,
       "word": "한국민주화",
       "pos": "명사",
-      "meaning": "Korean democratization; the historical process by which South Korea transitioned from authoritarian rule to liberal democracy, particularly from the 1980s onward",
+      "meaning": "Korean democratization",
       "synonyms": [
         "민주화운동",
         "민주화이행"
@@ -17692,7 +17692,7 @@
       "id": 285,
       "word": "압축성장",
       "pos": "명사",
-      "meaning": "compressed growth; rapid economic development achieved in a very short period, typically referring to South Korea's transformation from poverty to a developed economy within a few decades",
+      "meaning": "compressed growth",
       "synonyms": [
         "고도성장",
         "한강의기적"
@@ -17754,7 +17754,7 @@
       "id": 286,
       "word": "발전국가론",
       "pos": "명사",
-      "meaning": "developmental state theory; a theory explaining how an interventionist state actively guides industrial policy and economic development, as exemplified by East Asian economies",
+      "meaning": "developmental state theory",
       "synonyms": [
         "개발국가론",
         "발전주의국가이론"
@@ -17816,7 +17816,7 @@
       "id": 287,
       "word": "한국복지국가",
       "pos": "명사",
-      "meaning": "Korean welfare state; the system and evolution of social welfare programs in South Korea, characterized by a compressed and productivist model of social protection",
+      "meaning": "Korean welfare state",
       "synonyms": [
         "한국사회보장체계",
         "복지국가발전"
@@ -17878,7 +17878,7 @@
       "id": 288,
       "word": "한국시민사회",
       "pos": "명사",
-      "meaning": "Korean civil society; the realm of organized civilian activity in South Korea, including NGOs, social movements, and voluntary associations, that operates independently of the state and market",
+      "meaning": "Korean civil society",
       "synonyms": [
         "시민단체",
         "비정부조직"
@@ -17940,7 +17940,7 @@
       "id": 289,
       "word": "촛불시민혁명",
       "pos": "명사",
-      "meaning": "Candlelight Citizen Revolution; the massive peaceful protest movement of 2016–2017 in South Korea that led to the impeachment of President Park Geun-hye",
+      "meaning": "Candlelight Citizen Revolution",
       "synonyms": [
         "촛불집회",
         "박근혜탄핵운동"
@@ -18002,7 +18002,7 @@
       "id": 290,
       "word": "한국문화정체성",
       "pos": "명사",
-      "meaning": "Korean cultural identity; the distinctive cultural characteristics, values, and self-understanding that define what it means to be Korean",
+      "meaning": "Korean cultural identity",
       "synonyms": [
         "한국적정체성",
         "민족문화정체성"
@@ -18064,7 +18064,7 @@
       "id": 291,
       "word": "한민족디아스포라",
       "pos": "명사",
-      "meaning": "Korean diaspora; the worldwide dispersion of ethnic Koreans and their communities living outside of Korea",
+      "meaning": "Korean diaspora",
       "synonyms": [
         "재외동포",
         "코리안디아스포라"
@@ -18126,7 +18126,7 @@
       "id": 292,
       "word": "남북관계",
       "pos": "명사",
-      "meaning": "inter-Korean relations; the political, military, economic, and social relations between South Korea and North Korea",
+      "meaning": "inter-Korean relations",
       "synonyms": [
         "남북한관계",
         "한반도관계"
@@ -18188,7 +18188,7 @@
       "id": 293,
       "word": "통일담론",
       "pos": "명사",
-      "meaning": "unification discourse; the body of ideas, debates, and narratives concerning the desirability, method, and vision of Korean reunification",
+      "meaning": "unification discourse",
       "synonyms": [
         "통일론",
         "통일논의"
@@ -18250,7 +18250,7 @@
       "id": 294,
       "word": "한국어세계화",
       "pos": "명사",
-      "meaning": "globalization of the Korean language; the process and effort to spread Korean language learning and use internationally",
+      "meaning": "globalization of the Korean language",
       "synonyms": [
         "한국어국제화",
         "한국어보급"
@@ -18312,7 +18312,7 @@
       "id": 295,
       "word": "한류문화론",
       "pos": "명사",
-      "meaning": "theory of the Korean Wave; scholarly discourse examining the cultural, economic, and geopolitical dimensions of the global spread of Korean popular culture",
+      "meaning": "theory of the Korean Wave",
       "synonyms": [
         "한류이론",
         "K문화론"
@@ -18374,7 +18374,7 @@
       "id": 296,
       "word": "한국교육열",
       "pos": "명사",
-      "meaning": "Korean educational zeal; the exceptionally high cultural emphasis on education, academic credentials, and entrance examination competition in Korean society",
+      "meaning": "Korean educational zeal",
       "synonyms": [
         "교육열풍",
         "입시열"
@@ -18436,7 +18436,7 @@
       "id": 297,
       "word": "유교자본주의",
       "pos": "명사",
-      "meaning": "Confucian capitalism; a theory positing that Confucian values such as education, hierarchy, and collective harmony contributed to the rapid economic development of East Asian societies",
+      "meaning": "Confucian capitalism",
       "synonyms": [
         "유교적자본주의",
         "아시아적가치론"
@@ -18498,7 +18498,7 @@
       "id": 298,
       "word": "한국현대문학",
       "pos": "명사",
-      "meaning": "modern and contemporary Korean literature; literary works produced in Korea from the late 19th century to the present, engaging with themes of colonialism, division, modernization, and democracy",
+      "meaning": "modern and contemporary Korean literature",
       "synonyms": [
         "현대문학",
         "근현대문학"
@@ -18560,7 +18560,7 @@
       "id": 299,
       "word": "한국근현대사상",
       "pos": "명사",
-      "meaning": "modern and contemporary Korean thought; the intellectual currents and philosophical movements in Korea from the late 19th century through the present, spanning Enlightenment, nationalism, socialism, democracy, and postcolonial theory",
+      "meaning": "modern and contemporary Korean thought",
       "synonyms": [
         "근현대사상",
         "한국현대철학"
@@ -18622,7 +18622,7 @@
       "id": 300,
       "word": "한국경제발전",
       "pos": "명사",
-      "meaning": "Korean economic development; the process and model of South Korea's transformation from one of the world's poorest nations to a high-income economy within half a century",
+      "meaning": "Korean economic development",
       "synonyms": [
         "한국경제성장",
         "한국발전모델"

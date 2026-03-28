@@ -193,7 +193,7 @@
       "id": 4,
       "word": "압박감",
       "pos": "명사",
-      "meaning": "pressure; feeling of being under stress or constraint",
+      "meaning": "pressure",
       "synonyms": [
         "부담감",
         "스트레스",
@@ -256,7 +256,7 @@
       "id": 5,
       "word": "동기부여",
       "pos": "명사",
-      "meaning": "motivation; the drive to take action toward a goal",
+      "meaning": "motivation",
       "synonyms": [
         "동기",
         "의욕",
@@ -883,7 +883,7 @@
       "id": 15,
       "word": "열등감",
       "pos": "명사",
-      "meaning": "inferiority complex; feeling of being lesser than others",
+      "meaning": "inferiority complex",
       "synonyms": [
         "자격지심",
         "패배감",
@@ -946,7 +946,7 @@
       "id": 16,
       "word": "우월감",
       "pos": "명사",
-      "meaning": "superiority complex; feeling of being better than others",
+      "meaning": "superiority complex",
       "synonyms": [
         "자만심",
         "거만함",
@@ -1324,7 +1324,7 @@
       "id": 22,
       "word": "좌절감",
       "pos": "명사",
-      "meaning": "sense of frustration; feeling of defeat or disappointment",
+      "meaning": "sense of frustration",
       "synonyms": [
         "실망감",
         "낙담",
@@ -1818,7 +1818,7 @@
         }
       ],
       "word": "당선",
-      "meaning": "election victory / being elected"
+      "meaning": "election victory; being elected"
     },
     {
       "id": 30,
@@ -1880,7 +1880,7 @@
         }
       ],
       "word": "법안",
-      "meaning": "bill / legislative bill"
+      "meaning": "bill; legislative bill"
     },
     {
       "id": 31,
@@ -2066,7 +2066,7 @@
         }
       ],
       "word": "시행",
-      "meaning": "implementation / enforcement"
+      "meaning": "implementation; enforcement"
     },
     {
       "id": 34,
@@ -2190,7 +2190,7 @@
         }
       ],
       "word": "의무",
-      "meaning": "duty / obligation"
+      "meaning": "duty; obligation"
     },
     {
       "id": 36,
@@ -2252,7 +2252,7 @@
         }
       ],
       "word": "입법",
-      "meaning": "legislation / lawmaking"
+      "meaning": "legislation; lawmaking"
     },
     {
       "id": 37,
@@ -2438,7 +2438,7 @@
         }
       ],
       "word": "제도",
-      "meaning": "system / institution"
+      "meaning": "system; institution"
     },
     {
       "id": 40,
@@ -2500,7 +2500,7 @@
         }
       ],
       "word": "조례",
-      "meaning": "ordinance / bylaw"
+      "meaning": "ordinance; bylaw"
     },
     {
       "id": 41,
@@ -2562,7 +2562,7 @@
         }
       ],
       "word": "지방자치",
-      "meaning": "local autonomy / self-governance"
+      "meaning": "local autonomy; self-governance"
     },
     {
       "id": 42,
@@ -2810,7 +2810,7 @@
         }
       ],
       "word": "허가",
-      "meaning": "permission / license / approval"
+      "meaning": "permission; license; approval"
     },
     {
       "id": 46,
@@ -2934,7 +2934,7 @@
         }
       ],
       "word": "협의",
-      "meaning": "consultation / discussion"
+      "meaning": "consultation; discussion"
     },
     {
       "id": 48,
@@ -3058,7 +3058,7 @@
         }
       ],
       "word": "공약",
-      "meaning": "election pledge / promise"
+      "meaning": "election pledge; promise"
     },
     {
       "id": 50,
@@ -3309,7 +3309,7 @@
         }
       ],
       "word": "관세",
-      "meaning": "tariff / customs duty"
+      "meaning": "tariff; customs duty"
     },
     {
       "id": 54,
@@ -3372,7 +3372,7 @@
         }
       ],
       "word": "국내총생산",
-      "meaning": "GDP (Gross Domestic Product)"
+      "meaning": "GDP"
     },
     {
       "id": 55,
@@ -4064,7 +4064,7 @@
         }
       ],
       "word": "재정",
-      "meaning": "finance / fiscal policy"
+      "meaning": "finance; fiscal policy"
     },
     {
       "id": 66,
@@ -4127,7 +4127,7 @@
         }
       ],
       "word": "증권",
-      "meaning": "securities / stocks"
+      "meaning": "securities; stocks"
     },
     {
       "id": 67,
@@ -4442,7 +4442,7 @@
         }
       ],
       "word": "협력",
-      "meaning": "cooperation / collaboration"
+      "meaning": "cooperation; collaboration"
     },
     {
       "id": 72,
@@ -4631,7 +4631,7 @@
         }
       ],
       "word": "흑자",
-      "meaning": "surplus / profit"
+      "meaning": "surplus; profit"
     },
     {
       "id": 75,
@@ -4694,7 +4694,7 @@
         }
       ],
       "word": "적자",
-      "meaning": "deficit / loss"
+      "meaning": "deficit; loss"
     },
     {
       "id": 76,
@@ -11608,7 +11608,7 @@
       "id": 187,
       "word": "미세먼지",
       "pos": "명사",
-      "meaning": "fine dust / fine particulate matter (PM2.5)",
+      "meaning": "fine dust; fine particulate matter (PM2.5)",
       "synonyms": [
         "초미세먼지",
         "분진"
@@ -11856,7 +11856,7 @@
       "id": 191,
       "word": "에너지절약",
       "pos": "명사",
-      "meaning": "energy saving / energy conservation",
+      "meaning": "energy saving; energy conservation",
       "synonyms": [
         "절전",
         "에너지 효율화"
@@ -11980,7 +11980,7 @@
       "id": 193,
       "word": "태양광",
       "pos": "명사",
-      "meaning": "solar power / solar light",
+      "meaning": "solar power; solar light",
       "synonyms": [
         "태양에너지",
         "솔라에너지"
@@ -12166,7 +12166,7 @@
       "id": 196,
       "word": "멸종위기",
       "pos": "명사",
-      "meaning": "endangered / risk of extinction",
+      "meaning": "endangered; risk of extinction",
       "synonyms": [
         "멸종 직전",
         "위기종"
@@ -13964,7 +13964,7 @@
       "id": 225,
       "word": "사회적약자",
       "pos": "명사",
-      "meaning": "socially vulnerable; the socially disadvantaged",
+      "meaning": "socially vulnerable",
       "synonyms": [
         "취약 계층",
         "소외 계층"
@@ -14150,7 +14150,7 @@
       "id": 228,
       "word": "수능",
       "pos": "명사",
-      "meaning": "CSAT; College Scholastic Ability Test (수학능력시험)",
+      "meaning": "CSAT",
       "synonyms": [
         "대학수학능력시험",
         "수학능력시험"
@@ -16265,7 +16265,7 @@
       "id": 262,
       "word": "디지털마케팅",
       "pos": "명사",
-      "meaning": "digital marketing; promotion of products or services using digital channels",
+      "meaning": "digital marketing",
       "synonyms": [
         "온라인광고",
         "인터넷마케팅"
@@ -16389,7 +16389,7 @@
       "id": 264,
       "word": "공유",
       "pos": "명사/동사",
-      "meaning": "sharing; to share (content, information)",
+      "meaning": "sharing; to share",
       "synonyms": [
         "나눔",
         "배포",

@@ -3,7 +3,7 @@
     "word": "감정이입",
     "phonetic": "gamjeongiip",
     "pos": "명사",
-    "meaning": "共感。他人の感情と同一化する",
+    "meaning": "共感",
     "synonyms": [
       "공감",
       "이입"
@@ -70,7 +70,7 @@
     "word": "자존감",
     "phonetic": "jajongam",
     "pos": "명사",
-    "meaning": "自尊心。自尊心",
+    "meaning": "自尊心",
     "synonyms": [
       "자아존중감",
       "자신감"
@@ -137,7 +137,7 @@
     "word": "불안감",
     "phonetic": "burangam",
     "pos": "명사",
-    "meaning": "不安。不安や心配の感情",
+    "meaning": "不安",
     "synonyms": [
       "불안",
       "걱정",
@@ -205,7 +205,7 @@
     "word": "압박감",
     "phonetic": "apbakgam",
     "pos": "명사",
-    "meaning": "圧力;ストレスや制約を受けていると感じる",
+    "meaning": "圧力",
     "synonyms": [
       "부담감",
       "스트레스",
@@ -273,7 +273,7 @@
     "word": "동기부여",
     "phonetic": "donggibuyeo",
     "pos": "명사",
-    "meaning": "モチベーション;目標に向かって行動を起こす意欲",
+    "meaning": "モチベーション",
     "synonyms": [
       "동기",
       "의욕",
@@ -408,7 +408,7 @@
     "word": "인식",
     "phonetic": "insik",
     "pos": "명사",
-    "meaning": "認識。意識;認識",
+    "meaning": "認識",
     "synonyms": [
       "지각",
       "의식",
@@ -476,7 +476,7 @@
     "word": "충동",
     "phonetic": "chungdong",
     "pos": "명사",
-    "meaning": "衝動;突然の衝動や衝動",
+    "meaning": "衝動",
     "synonyms": [
       "욕구",
       "본능",
@@ -544,7 +544,7 @@
     "word": "억제",
     "phonetic": "eokje",
     "pos": "명사",
-    "meaning": "抑制;阻害;拘束",
+    "meaning": "抑制、阻害;拘束",
     "synonyms": [
       "제어",
       "통제",
@@ -612,7 +612,7 @@
     "word": "감성",
     "phonetic": "gamseong",
     "pos": "명사",
-    "meaning": "感性。感情的な敏感さ",
+    "meaning": "感性、感情的な敏感さ",
     "synonyms": [
       "감수성",
       "정서",
@@ -680,7 +680,7 @@
     "word": "집중력",
     "phonetic": "jipjungryeok",
     "pos": "명사",
-    "meaning": "集中力。集中力",
+    "meaning": "集中力",
     "synonyms": [
       "주의력",
       "몰입력",
@@ -815,7 +815,7 @@
     "word": "긴장감",
     "phonetic": "ginjanggam",
     "pos": "명사",
-    "meaning": "緊張;緊張感または緊張感",
+    "meaning": "緊張",
     "synonyms": [
       "긴장",
       "불안감",
@@ -950,7 +950,7 @@
     "word": "열등감",
     "phonetic": "yeoldeunggam",
     "pos": "명사",
-    "meaning": "劣等感。他人より劣っているという感情",
+    "meaning": "劣等感",
     "synonyms": [
       "자격지심",
       "패배감",
@@ -1018,7 +1018,7 @@
     "word": "우월감",
     "phonetic": "uwolgam",
     "pos": "명사",
-    "meaning": "優越感コンプレックス。他人よりも優れているという感情",
+    "meaning": "優越感コンプレックス",
     "synonyms": [
       "자만심",
       "거만함",
@@ -1086,7 +1086,7 @@
     "word": "감정",
     "phonetic": "gamjeong",
     "pos": "명사",
-    "meaning": "感情。気持ち",
+    "meaning": "感情、気持ち",
     "synonyms": [
       "느낌",
       "정서",
@@ -1154,7 +1154,7 @@
     "word": "심리",
     "phonetic": "simri",
     "pos": "명사",
-    "meaning": "心理学;精神状態。心",
+    "meaning": "心理学;精神状態、心",
     "synonyms": [
       "정신",
       "마음",
@@ -1222,7 +1222,7 @@
     "word": "정서",
     "phonetic": "jeongseo",
     "pos": "명사",
-    "meaning": "感情。感情の状態。感情",
+    "meaning": "感情",
     "synonyms": [
       "감정",
       "기분",
@@ -1290,7 +1290,7 @@
     "word": "의지력",
     "phonetic": "uijiryeok",
     "pos": "명사",
-    "meaning": "意志の力。意志の強さ。自制心",
+    "meaning": "意志の力、意志の強さ。自制心",
     "synonyms": [
       "자제력",
       "결단력",
@@ -1358,7 +1358,7 @@
     "word": "성취감",
     "phonetic": "seongchwigam",
     "pos": "명사",
-    "meaning": "達成感。達成感",
+    "meaning": "達成感",
     "synonyms": [
       "보람",
       "달성감",
@@ -1426,7 +1426,7 @@
     "word": "좌절감",
     "phonetic": "jwajeolgam",
     "pos": "명사",
-    "meaning": "挫折感。敗北感または失望感",
+    "meaning": "挫折感、敗北感または失望感",
     "synonyms": [
       "실망감",
       "낙담",
@@ -1494,7 +1494,7 @@
     "word": "당혹감",
     "phonetic": "danghokgam",
     "pos": "명사",
-    "meaning": "恥ずかしさ;混乱または気まずさの感覚",
+    "meaning": "恥ずかしさ",
     "synonyms": [
       "민망함",
       "창피함",
@@ -1562,7 +1562,7 @@
     "word": "황홀감",
     "phonetic": "hwangholgam",
     "pos": "명사",
-    "meaning": "エクスタシー;携挙;圧倒的な至福感",
+    "meaning": "エクスタシー、携挙;圧倒的な至福感",
     "synonyms": [
       "황홀",
       "희열",
@@ -1630,7 +1630,7 @@
     "word": "초조함",
     "phonetic": "chojoham",
     "pos": "명사",
-    "meaning": "緊張;落ち着きのなさ;不安な焦り",
+    "meaning": "緊張",
     "synonyms": [
       "안달",
       "조급함",
@@ -5273,7 +5273,7 @@
     "word": "연구",
     "phonetic": "yeongu",
     "pos": "명사",
-    "meaning": "研究;勉強する",
+    "meaning": "研究、勉強する",
     "synonyms": [
       "탐구",
       "조사"
@@ -5340,7 +5340,7 @@
     "word": "발견",
     "phonetic": "balgyeon",
     "pos": "명사",
-    "meaning": "発見。見つける",
+    "meaning": "発見、見つける",
     "synonyms": [
       "발굴",
       "탐지"
@@ -5474,7 +5474,7 @@
     "word": "원리",
     "phonetic": "wonri",
     "pos": "명사",
-    "meaning": "原則。仕組み",
+    "meaning": "原則、仕組み",
     "synonyms": [
       "법칙",
       "원칙"
@@ -5608,7 +5608,7 @@
     "word": "법칙",
     "phonetic": "beopchik",
     "pos": "명사",
-    "meaning": "法律;法則（科学的）",
+    "meaning": "法律、法則（科学的）",
     "synonyms": [
       "원칙",
       "규칙"
@@ -5675,7 +5675,7 @@
     "word": "과정",
     "phonetic": "gwajeong",
     "pos": "명사",
-    "meaning": "プロセス。手順",
+    "meaning": "プロセス、手順",
     "synonyms": [
       "절차",
       "단계"
@@ -5876,7 +5876,7 @@
     "word": "기록",
     "phonetic": "girok",
     "pos": "명사",
-    "meaning": "記録する。ドキュメント",
+    "meaning": "記録する、ドキュメント",
     "synonyms": [
       "기재",
       "문서"
@@ -5943,7 +5943,7 @@
     "word": "발전",
     "phonetic": "baljeon",
     "pos": "명사",
-    "meaning": "開発。進歩",
+    "meaning": "開発、進歩",
     "synonyms": [
       "진보",
       "성장"
@@ -6010,7 +6010,7 @@
     "word": "기술",
     "phonetic": "gisul",
     "pos": "명사",
-    "meaning": "テクノロジー。テクニック",
+    "meaning": "テクノロジー、テクニック",
     "synonyms": [
       "테크놀로지",
       "공법"
@@ -6211,7 +6211,7 @@
     "word": "생물",
     "phonetic": "saengmul",
     "pos": "명사",
-    "meaning": "生きている有機体。生物学",
+    "meaning": "生きている有機体、生物学",
     "synonyms": [
       "유기체",
       "생명체"
@@ -6345,7 +6345,7 @@
     "word": "물질",
     "phonetic": "muljil",
     "pos": "명사",
-    "meaning": "問題;物質",
+    "meaning": "問題、物質",
     "synonyms": [
       "소재",
       "재료"
@@ -6412,7 +6412,7 @@
     "word": "반응",
     "phonetic": "baneung",
     "pos": "명사",
-    "meaning": "反応;応答",
+    "meaning": "反応、応答",
     "synonyms": [
       "응답",
       "반향"
@@ -6479,7 +6479,7 @@
     "word": "변화",
     "phonetic": "byeonhwa",
     "pos": "명사",
-    "meaning": "変化;変換",
+    "meaning": "変化、変換",
     "synonyms": [
       "변동",
       "전환"
@@ -6546,7 +6546,7 @@
     "word": "성질",
     "phonetic": "seongjil",
     "pos": "명사",
-    "meaning": "財産;特徴的な",
+    "meaning": "財産、特徴的な",
     "synonyms": [
       "특성",
       "속성"
@@ -6680,7 +6680,7 @@
     "word": "기능",
     "phonetic": "gineung",
     "pos": "명사",
-    "meaning": "機能;能力",
+    "meaning": "機能、能力",
     "synonyms": [
       "역할",
       "작용"
@@ -6747,7 +6747,7 @@
     "word": "개요",
     "phonetic": "gaeyo",
     "pos": "명사",
-    "meaning": "概要;まとめ;概要",
+    "meaning": "概要",
     "synonyms": [
       "요약",
       "줄거리",
@@ -6815,7 +6815,7 @@
     "word": "논술",
     "phonetic": "nonsul",
     "pos": "명사",
-    "meaning": "エッセイの執筆。談話的な文章",
+    "meaning": "エッセイの執筆、談話的な文章",
     "synonyms": [
       "작문",
       "글쓰기",
@@ -6883,7 +6883,7 @@
     "word": "단락",
     "phonetic": "danrak",
     "pos": "명사",
-    "meaning": "段落;通路",
+    "meaning": "段落、通路",
     "synonyms": [
       "문단",
       "절",
@@ -6951,7 +6951,7 @@
     "word": "묘사",
     "phonetic": "myosa",
     "pos": "명사",
-    "meaning": "説明。描写;描写",
+    "meaning": "説明、描写;描写",
     "synonyms": [
       "서술",
       "표현",
@@ -7019,7 +7019,7 @@
     "word": "문체",
     "phonetic": "munche",
     "pos": "명사",
-    "meaning": "文体。文学的なスタイル",
+    "meaning": "文体、文学的なスタイル",
     "synonyms": [
       "글체",
       "필체",
@@ -7223,7 +7223,7 @@
     "word": "비유",
     "phonetic": "biyu",
     "pos": "명사",
-    "meaning": "比喩;比喩;類推;比喩的な表現",
+    "meaning": "比喩",
     "synonyms": [
       "은유",
       "직유",
@@ -7291,7 +7291,7 @@
     "word": "서술",
     "phonetic": "seosul",
     "pos": "명사",
-    "meaning": "ナレーション;説明;博覧会",
+    "meaning": "ナレーション、説明;博覧会",
     "synonyms": [
       "서술",
       "기술",
@@ -7360,7 +7360,7 @@
     "word": "설득",
     "phonetic": "seoldeuk",
     "pos": "명사",
-    "meaning": "説得;説得力のある",
+    "meaning": "説得",
     "synonyms": [
       "납득",
       "권유",
@@ -7428,7 +7428,7 @@
     "word": "소설",
     "phonetic": "soseol",
     "pos": "명사",
-    "meaning": "小説;フィクション",
+    "meaning": "小説、フィクション",
     "synonyms": [
       "장편",
       "단편",
@@ -7632,7 +7632,7 @@
     "word": "연설",
     "phonetic": "yeonseol",
     "pos": "명사",
-    "meaning": "スピーチ。住所;演説",
+    "meaning": "スピーチ、住所;演説",
     "synonyms": [
       "강연",
       "연극",
@@ -7836,7 +7836,7 @@
     "word": "작가",
     "phonetic": "jakga",
     "pos": "명사",
-    "meaning": "著者。ライター",
+    "meaning": "著者、ライター",
     "synonyms": [
       "문인",
       "소설가",
@@ -7904,7 +7904,7 @@
     "word": "전달",
     "phonetic": "jeondal",
     "pos": "명사",
-    "meaning": "輸送;配達;送信",
+    "meaning": "輸送、配達;送信",
     "synonyms": [
       "표현",
       "소통",
@@ -7972,7 +7972,7 @@
     "word": "표현력",
     "phonetic": "pyohyeonryeok",
     "pos": "명사",
-    "meaning": "表現力。表現力",
+    "meaning": "表現力",
     "synonyms": [
       "표현 능력",
       "서술력",
@@ -8176,7 +8176,7 @@
     "word": "어휘",
     "phonetic": "eohwi",
     "pos": "명사",
-    "meaning": "語彙。辞書",
+    "meaning": "語彙、辞書",
     "synonyms": [
       "단어",
       "낱말",
@@ -8312,7 +8312,7 @@
     "word": "논증",
     "phonetic": "nonjeung",
     "pos": "명사",
-    "meaning": "議論。論理的な議論",
+    "meaning": "議論",
     "synonyms": [
       "논리",
       "증명",
@@ -8380,7 +8380,7 @@
     "word": "수사",
     "phonetic": "susa",
     "pos": "명사",
-    "meaning": "レトリック;修辞的表現",
+    "meaning": "レトリック、修辞的表現",
     "synonyms": [
       "수사법",
       "수사학",
@@ -8582,7 +8582,7 @@
     "word": "유산",
     "phonetic": "yusan",
     "pos": "명사",
-    "meaning": "遺産;レガシー",
+    "meaning": "遺産、レガシー",
     "synonyms": [
       "문화유산",
       "유물"
@@ -8783,7 +8783,7 @@
     "word": "시대",
     "phonetic": "sidae",
     "pos": "명사",
-    "meaning": "時代。年;期間",
+    "meaning": "時代、年;期間",
     "synonyms": [
       "연대",
       "시기"
@@ -8850,7 +8850,7 @@
     "word": "유물",
     "phonetic": "yumul",
     "pos": "명사",
-    "meaning": "遺物;アーティファクト",
+    "meaning": "遺物、アーティファクト",
     "synonyms": [
       "유품",
       "고물"
@@ -8917,7 +8917,7 @@
     "word": "기념물",
     "phonetic": "ginyeommul",
     "pos": "명사",
-    "meaning": "記念碑。記念碑",
+    "meaning": "記念碑",
     "synonyms": [
       "기념비",
       "비석"
@@ -8984,7 +8984,7 @@
     "word": "발굴",
     "phonetic": "balgul",
     "pos": "명사/동사",
-    "meaning": "発掘;発掘する",
+    "meaning": "発掘",
     "synonyms": [
       "채굴",
       "발견"
@@ -9118,7 +9118,7 @@
     "word": "왕권",
     "phonetic": "wanggwon",
     "pos": "명사",
-    "meaning": "王室の権威。君主権力",
+    "meaning": "王室の権威、君主権力",
     "synonyms": [
       "왕위",
       "군권"
@@ -9252,7 +9252,7 @@
     "word": "귀족",
     "phonetic": "gwijok",
     "pos": "명사",
-    "meaning": "貴族。貴族",
+    "meaning": "貴族",
     "synonyms": [
       "양반",
       "권문세족"
@@ -9319,7 +9319,7 @@
     "word": "평민",
     "phonetic": "pyeongmin",
     "pos": "명사",
-    "meaning": "一般人。一般人",
+    "meaning": "一般人",
     "synonyms": [
       "서민",
       "백성"
@@ -9453,7 +9453,7 @@
     "word": "침략",
     "phonetic": "chimryak",
     "pos": "명사",
-    "meaning": "侵略;攻撃性",
+    "meaning": "侵略、攻撃性",
     "synonyms": [
       "공격",
       "침입"
@@ -9520,7 +9520,7 @@
     "word": "저항",
     "phonetic": "jeohang",
     "pos": "명사/동사",
-    "meaning": "抵抗。抵抗する",
+    "meaning": "抵抗",
     "synonyms": [
       "반항",
       "항거"
@@ -9654,7 +9654,7 @@
     "word": "광복",
     "phonetic": "gwangbok",
     "pos": "명사",
-    "meaning": "解放;主権の回復",
+    "meaning": "解放、主権の回復",
     "synonyms": [
       "해방",
       "독립"
@@ -9721,7 +9721,7 @@
     "word": "식민지",
     "phonetic": "sikminji",
     "pos": "명사",
-    "meaning": "コロニー;植民地",
+    "meaning": "コロニー、植民地",
     "synonyms": [
       "점령지",
       "속국"
@@ -9788,7 +9788,7 @@
     "word": "개화",
     "phonetic": "gaehwa",
     "pos": "명사",
-    "meaning": "啓発;近代化。開く",
+    "meaning": "啓発;近代化、開く",
     "synonyms": [
       "근대화",
       "문명화"
@@ -9922,7 +9922,7 @@
     "word": "민족",
     "phonetic": "minjok",
     "pos": "명사",
-    "meaning": "国家。民族グループ。人々",
+    "meaning": "国家、民族グループ。人々",
     "synonyms": [
       "겨레",
       "민중"
@@ -10056,7 +10056,7 @@
     "word": "애국",
     "phonetic": "aeguk",
     "pos": "명사",
-    "meaning": "愛国心。祖国への愛",
+    "meaning": "愛国心、祖国への愛",
     "synonyms": [
       "나라사랑",
       "충성"
@@ -13540,7 +13540,7 @@
     "word": "빈곤층",
     "phonetic": "bingoncheung",
     "pos": "명사",
-    "meaning": "貧しい人たち。低所得層",
+    "meaning": "貧しい人たち、低所得層",
     "synonyms": [
       "저소득층",
       "빈민층"
@@ -13674,7 +13674,7 @@
     "word": "소득격차",
     "phonetic": "sodeukgyeokcha",
     "pos": "명사",
-    "meaning": "収入格差。所得格差",
+    "meaning": "収入格差、所得格差",
     "synonyms": [
       "빈부격차",
       "소득불평등"
@@ -13808,7 +13808,7 @@
     "word": "저출산",
     "phonetic": "jeochulsan",
     "pos": "명사",
-    "meaning": "出生率が低い。少子化",
+    "meaning": "出生率が低い、少子化",
     "synonyms": [
       "출산율 감소",
       "저출생"
@@ -13875,7 +13875,7 @@
     "word": "고령화",
     "phonetic": "goryeonghwa",
     "pos": "명사",
-    "meaning": "人口の高齢化。人口高齢化",
+    "meaning": "人口の高齢化、人口高齢化",
     "synonyms": [
       "노령화",
       "인구 고령화"
@@ -14009,7 +14009,7 @@
     "word": "이민자",
     "phonetic": "iminja",
     "pos": "명사",
-    "meaning": "移民。移民",
+    "meaning": "移民",
     "synonyms": [
       "이주자",
       "외국인 이주민"
@@ -14344,7 +14344,7 @@
     "word": "자원봉사",
     "phonetic": "jawonbongsa",
     "pos": "명사",
-    "meaning": "ボランティア活動。ボランティア活動",
+    "meaning": "ボランティア活動",
     "synonyms": [
       "봉사 활동",
       "자발적 봉사"
@@ -14545,7 +14545,7 @@
     "word": "연대",
     "phonetic": "yeondae",
     "pos": "명사",
-    "meaning": "連帯感。同盟",
+    "meaning": "連帯感、同盟",
     "synonyms": [
       "결속",
       "단결"
@@ -14679,7 +14679,7 @@
     "word": "보조금",
     "phonetic": "bojogeum",
     "pos": "명사",
-    "meaning": "補助金;助成金",
+    "meaning": "補助金、助成金",
     "synonyms": [
       "지원금",
       "보상금"
@@ -14746,7 +14746,7 @@
     "word": "의료보험",
     "phonetic": "uiryoboheom",
     "pos": "명사",
-    "meaning": "健康保険。医療保険",
+    "meaning": "健康保険、医療保険",
     "synonyms": [
       "건강보험",
       "의료 보장"
@@ -14880,7 +14880,7 @@
     "word": "노인복지",
     "phonetic": "noinbokji",
     "pos": "명사",
-    "meaning": "高齢者福祉。高齢者福祉",
+    "meaning": "高齢者福祉",
     "synonyms": [
       "노령 복지",
       "고령자 복지"
@@ -15014,7 +15014,7 @@
     "word": "장애인",
     "phonetic": "jangaein",
     "pos": "명사",
-    "meaning": "障害のある人。障害者",
+    "meaning": "障害のある人、障害者",
     "synonyms": [
       "장애자",
       "신체 장애인"
@@ -15081,7 +15081,7 @@
     "word": "사회적약자",
     "phonetic": "sahoejeogyakja",
     "pos": "명사",
-    "meaning": "社会的に弱い立場にある。社会的弱者",
+    "meaning": "社会的に弱い立場にある、社会的弱者",
     "synonyms": [
       "취약 계층",
       "소외 계층"
@@ -15215,7 +15215,7 @@
     "word": "입시",
     "phonetic": "ipsi",
     "pos": "명사",
-    "meaning": "入学試験。大学入学",
+    "meaning": "入学試験、大学入学",
     "synonyms": [
       "입학시험",
       "대입"
@@ -15282,7 +15282,7 @@
     "word": "수능",
     "phonetic": "suneung",
     "pos": "명사",
-    "meaning": "CSAT;大学修学能力試験 (수학능력시험)",
+    "meaning": "CSAT",
     "synonyms": [
       "대학수학능력시험",
       "수학능력시험"
@@ -15349,7 +15349,7 @@
     "word": "대입",
     "phonetic": "daeip",
     "pos": "명사",
-    "meaning": "大学入学。大学入学",
+    "meaning": "大学入学",
     "synonyms": [
       "대학 입시",
       "대학 입학"
@@ -15416,7 +15416,7 @@
     "word": "장학금",
     "phonetic": "janghakgeum",
     "pos": "명사",
-    "meaning": "奨学金;助成金",
+    "meaning": "奨学金、助成金",
     "synonyms": [
       "학비 지원",
       "장학 혜택"
@@ -15483,7 +15483,7 @@
     "word": "학점",
     "phonetic": "hakjeom",
     "pos": "명사",
-    "meaning": "学業上の単位。成績ポイント",
+    "meaning": "学業上の単位、成績ポイント",
     "synonyms": [
       "성적 점수",
       "크레딧"
@@ -15751,7 +15751,7 @@
     "word": "부전공",
     "phonetic": "bujeongong",
     "pos": "명사",
-    "meaning": "未成年者;副次的な研究分野",
+    "meaning": "未成年者、副次的な研究分野",
     "synonyms": [
       "복수전공 보조",
       "보조 전공"
@@ -15952,7 +15952,7 @@
     "word": "실습",
     "phonetic": "silseup",
     "pos": "명사",
-    "meaning": "実践的なトレーニング。実践的な練習。インターンシップ",
+    "meaning": "実践的なトレーニング",
     "synonyms": [
       "현장 실습",
       "훈련"
@@ -16019,7 +16019,7 @@
     "word": "과외",
     "phonetic": "gwaoe",
     "pos": "명사",
-    "meaning": "個別指導;プライベートレッスン",
+    "meaning": "個別指導、プライベートレッスン",
     "synonyms": [
       "개인 지도",
       "튜터링"
@@ -16086,7 +16086,7 @@
     "word": "학원",
     "phonetic": "hagwon",
     "pos": "명사",
-    "meaning": "私立アカデミー。学習塾。個別指導センター",
+    "meaning": "私立アカデミー",
     "synonyms": [
       "사교육 기관",
       "보습학원"
@@ -16421,7 +16421,7 @@
     "word": "평가",
     "phonetic": "pyeongga",
     "pos": "명사",
-    "meaning": "評価。評価;評価",
+    "meaning": "評価",
     "synonyms": [
       "심사",
       "채점"
@@ -16622,7 +16622,7 @@
     "word": "졸업식",
     "phonetic": "joreopsik",
     "pos": "명사",
-    "meaning": "卒業式。始まり",
+    "meaning": "卒業式、始まり",
     "synonyms": [
       "학위 수여식",
       "수료식"
@@ -16689,7 +16689,7 @@
     "word": "교사",
     "phonetic": "gyosa",
     "pos": "명사",
-    "meaning": "先生。教育者;インストラクター",
+    "meaning": "先生",
     "synonyms": [
       "선생님",
       "교원"
@@ -16756,7 +16756,7 @@
     "word": "교수법",
     "phonetic": "gyosubeop",
     "pos": "명사",
-    "meaning": "指導方法。教育学;指導技術",
+    "meaning": "指導方法、教育学;指導技術",
     "synonyms": [
       "교육 방법",
       "수업 방식"
@@ -16823,7 +16823,7 @@
     "word": "언론",
     "phonetic": "eonron",
     "pos": "명사",
-    "meaning": "報道機関。メディア;ジャーナリズム",
+    "meaning": "報道機関",
     "synonyms": [
       "미디어",
       "보도기관"
@@ -16890,7 +16890,7 @@
     "word": "보도",
     "phonetic": "bodo",
     "pos": "명사/동사",
-    "meaning": "ニュースレポート。カバレッジ;報告する（ニュース）",
+    "meaning": "ニュースレポート",
     "synonyms": [
       "취재",
       "기사",
@@ -16958,7 +16958,7 @@
     "word": "취재",
     "phonetic": "chwijae",
     "pos": "명사/동사",
-    "meaning": "取材。カバレッジ;報告（現場）",
+    "meaning": "取材",
     "synonyms": [
       "인터뷰",
       "조사",
@@ -17161,7 +17161,7 @@
     "word": "방송",
     "phonetic": "bangsong",
     "pos": "명사/동사",
-    "meaning": "放送;放送;放送する",
+    "meaning": "放送",
     "synonyms": [
       "중계",
       "송출",
@@ -17296,7 +17296,7 @@
     "word": "편집",
     "phonetic": "pyeonjip",
     "pos": "명사/동사",
-    "meaning": "編集。編集作業。編集する",
+    "meaning": "編集",
     "synonyms": [
       "교열",
       "수정",
@@ -17364,7 +17364,7 @@
     "word": "출판",
     "phonetic": "chulpan",
     "pos": "명사/동사",
-    "meaning": "出版物。出版。出版する",
+    "meaning": "出版物、出版。出版する",
     "synonyms": [
       "발행",
       "간행",
@@ -17567,7 +17567,7 @@
     "word": "디지털마케팅",
     "phonetic": "dijiteolmaketing",
     "pos": "명사",
-    "meaning": "デジタルマーケティング。デジタルチャネルを使用した製品またはサービスのプロモーション",
+    "meaning": "デジタルマーケティング",
     "synonyms": [
       "온라인광고",
       "인터넷마케팅"
@@ -17701,7 +17701,7 @@
     "word": "공유",
     "phonetic": "gongyu",
     "pos": "명사/동사",
-    "meaning": "共有すること。 （コンテンツ、情報）を共有する",
+    "meaning": "共有すること",
     "synonyms": [
       "나눔",
       "배포",
@@ -18175,7 +18175,7 @@
     "word": "가짜뉴스",
     "phonetic": "gajjanyuseu",
     "pos": "명사",
-    "meaning": "フェイクニュース。偽情報",
+    "meaning": "フェイクニュース、偽情報",
     "synonyms": [
       "허위정보",
       "오보",
@@ -19049,7 +19049,7 @@
     "word": "클래식",
     "phonetic": "keulraesik",
     "pos": "명사",
-    "meaning": "クラシック音楽。クラシック",
+    "meaning": "クラシック音楽、クラシック",
     "synonyms": [
       "고전음악",
       "클래식 음악"
@@ -19250,7 +19250,7 @@
     "word": "사진",
     "phonetic": "sajin",
     "pos": "명사",
-    "meaning": "写真;写真",
+    "meaning": "写真",
     "synonyms": [
       "포토",
       "촬영"
@@ -19384,7 +19384,7 @@
     "word": "감독",
     "phonetic": "gamdok",
     "pos": "명사",
-    "meaning": "ディレクター。監督者",
+    "meaning": "ディレクター、監督者",
     "synonyms": [
       "연출가",
       "디렉터"

@@ -2151,7 +2151,7 @@
       "id": 36,
       "word": "눈",
       "pos": "명사",
-      "meaning": "eye, snow",
+      "meaning": "eye; snow",
       "synonyms": [],
       "examples": [
         {
@@ -9080,7 +9080,7 @@
       "id": 149,
       "word": "드시다",
       "pos": "동사",
-      "meaning": "eat/drink (honorific)",
+      "meaning": "eat; drink (honorific)",
       "synonyms": [
         "잡수시다"
       ],
@@ -11644,7 +11644,7 @@
       "id": 191,
       "word": "마르다",
       "pos": "동사",
-      "meaning": "dry, thin",
+      "meaning": "dry; become thin",
       "synonyms": [
         "건조하다",
         "말라가다"
@@ -12690,7 +12690,7 @@
       "id": 208,
       "word": "말",
       "pos": "명사",
-      "meaning": "word, speech, horse",
+      "meaning": "word; speech",
       "synonyms": [
         "언어",
         "단어"

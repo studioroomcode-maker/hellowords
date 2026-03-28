@@ -42,6 +42,9 @@ header{position:sticky;top:0;z-index:50;background:rgba(10,10,10,.92);backdrop-f
 .example-item{padding:14px 0;border-bottom:1px solid var(--border);}
 .example-item:first-child{padding-top:0;}
 .example-item:last-child{border-bottom:none;padding-bottom:0;}
+.ex-hidden{display:none;}
+.more-btn{display:block;width:100%;margin-top:12px;padding:10px;border-radius:10px;border:1px solid var(--border);background:var(--surface);color:var(--sub);font-family:'DM Sans',sans-serif;font-size:13px;cursor:pointer;transition:all .15s;}
+.more-btn:hover{border-color:var(--accent);color:var(--accent);}
 .ex-num{font-size:10px;font-weight:700;color:var(--accent);letter-spacing:1px;margin-bottom:5px;}
 .ex-situation{display:inline-block;font-size:11px;color:var(--sub);background:rgba(255,255,255,.05);border:1px solid var(--border);border-radius:6px;padding:2px 8px;margin-bottom:7px;}
 .ex-row{display:flex;align-items:flex-start;gap:10px;}
@@ -152,11 +155,13 @@ function render(){
   const examples=Array.isArray(word.examples)&&word.examples.length?word.examples:[{situation:word.situation||'',ko:word.example_ko||'',tl:word.example_tl||''}];
   const syns=(word.synonyms||[]).map(s=>'<span class="syn-tag">'+esc(s)+'</span>').join('');
   const badge='TOPIK '+LEVEL+' - '+LABEL+' - '+(idx+1)+' / '+wordKeys.length;
+  const PRIMARY=3;
   const exHtml=examples.map((ex,i)=>{
     const needs=needsTl(ex.ko||'',ex.tl||'');
     const tlAttr=needs?' data-jp="1" data-ko="'+esc(ex.ko||'')+'"':'';
     const tlText=needs?'Translating...':esc(ex.tl||'');
-    return '<div class="example-item">'
+    const hideCls=i>=PRIMARY?' ex-hidden':'';
+    return '<div class="example-item'+hideCls+'">'
       +'<div class="ex-num">EX '+(i+1)+'</div>'
       +(ex.situation?'<div class="ex-situation">'+esc(ex.situation)+'</div>':'')
       +'<div class="ex-row"><div class="ex-text">'
@@ -164,6 +169,9 @@ function render(){
       +'<div class="ex-tl"'+tlAttr+'>'+tlText+'</div>'
       +'</div><button class="ex-speak-btn" type="button" data-speak="'+esc(ex.ko||'')+'">TTS</button></div></div>';
   }).join('');
+  const moreBtn=examples.length>PRIMARY
+    ?'<button class="more-btn" onclick="showMore(this)">+ '+(examples.length-PRIMARY)+' more examples</button>'
+    :'';
 
   document.title=word.word+' - Hello Words TOPIK';
   history.replaceState(null,'','?w='+encodeURIComponent(currentKey));
@@ -180,7 +188,7 @@ function render(){
     +'<div class="meaning-text">'+esc(word.meaning||'')+'</div>'
     +(syns?'<div class="syns-wrap">'+syns+'</div>':'')
     +'</div>'
-    +'<div class="section"><div class="section-label">Examples '+examples.length+'</div>'+exHtml+'</div>';
+    +'<div class="section"><div class="section-label">Examples '+examples.length+'</div>'+exHtml+moreBtn+'</div>';
 
   document.querySelectorAll('[data-speak]').forEach(btn=>{
     btn.addEventListener('click',()=>speakSentence(btn,btn.getAttribute('data-speak')||''));
@@ -207,6 +215,7 @@ function speakSentence(btn,text){
   speakText(text,btn);
 }
 
+function showMore(btn){const s=btn.closest('.section');s.querySelectorAll('.ex-hidden').forEach(el=>el.classList.remove('ex-hidden'));btn.remove();}
 function goWord(dir){
   const i=wordKeys.indexOf(currentKey),next=i+dir;
   if(next>=0&&next<wordKeys.length){currentKey=wordKeys[next];render();}

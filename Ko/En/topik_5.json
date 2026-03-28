@@ -3175,7 +3175,7 @@
       "id": 52,
       "word": "민법",
       "pos": "명사",
-      "meaning": "civil law (law governing private relations between individuals)",
+      "meaning": "civil law",
       "synonyms": [
         "사법",
         "사인법"
@@ -3237,7 +3237,7 @@
       "id": 53,
       "word": "형법",
       "pos": "명사",
-      "meaning": "criminal law (law defining crimes and punishments)",
+      "meaning": "criminal law",
       "synonyms": [
         "형사법",
         "범죄법"
@@ -3299,7 +3299,7 @@
       "id": 54,
       "word": "소송",
       "pos": "명사",
-      "meaning": "lawsuit; litigation (a legal proceeding in court)",
+      "meaning": "lawsuit; litigation",
       "synonyms": [
         "재판",
         "소제기",
@@ -3362,7 +3362,7 @@
       "id": 55,
       "word": "판결",
       "pos": "명사",
-      "meaning": "judgment; verdict; ruling (a court's official decision)",
+      "meaning": "judgment",
       "synonyms": [
         "선고",
         "결정",
@@ -3425,7 +3425,7 @@
       "id": 56,
       "word": "항소",
       "pos": "명사",
-      "meaning": "appeal (challenging a lower court's ruling at a higher court)",
+      "meaning": "appeal",
       "synonyms": [
         "불복",
         "재심청구"
@@ -3487,7 +3487,7 @@
       "id": 57,
       "word": "상고",
       "pos": "명사",
-      "meaning": "final appeal; cassation appeal (appeal to the Supreme Court)",
+      "meaning": "final appeal",
       "synonyms": [
         "최종항소",
         "대법원상고"
@@ -3549,7 +3549,7 @@
       "id": 58,
       "word": "변호사",
       "pos": "명사",
-      "meaning": "lawyer; attorney (a licensed legal professional representing clients)",
+      "meaning": "lawyer",
       "synonyms": [
         "법률가",
         "법조인",
@@ -3674,7 +3674,7 @@
       "id": 60,
       "word": "판사",
       "pos": "명사",
-      "meaning": "judge (a judicial officer who presides over court proceedings)",
+      "meaning": "judge",
       "synonyms": [
         "법관",
         "재판관"
@@ -3736,7 +3736,7 @@
       "id": 61,
       "word": "헌법재판소",
       "pos": "명사",
-      "meaning": "Constitutional Court (the court that adjudicates constitutional matters)",
+      "meaning": "Constitutional Court",
       "synonyms": [
         "헌재",
         "위헌심판기관"
@@ -3798,7 +3798,7 @@
       "id": 62,
       "word": "법률행위",
       "pos": "명사",
-      "meaning": "juristic act; legal act (an act that produces legal consequences)",
+      "meaning": "juristic act",
       "synonyms": [
         "법적 행위",
         "법적 의사표시"
@@ -3860,7 +3860,7 @@
       "id": 63,
       "word": "계약",
       "pos": "명사",
-      "meaning": "contract; agreement (a legally binding agreement between parties)",
+      "meaning": "contract",
       "synonyms": [
         "협약",
         "약정",
@@ -3923,7 +3923,7 @@
       "id": 64,
       "word": "손해배상",
       "pos": "명사",
-      "meaning": "compensation for damages; indemnification (reimbursement for harm caused)",
+      "meaning": "compensation for damages",
       "synonyms": [
         "배상",
         "보상",
@@ -3986,7 +3986,7 @@
       "id": 65,
       "word": "형사처벌",
       "pos": "명사",
-      "meaning": "criminal punishment (penalties imposed for criminal offenses)",
+      "meaning": "criminal punishment",
       "synonyms": [
         "형사제재",
         "처벌",
@@ -4049,7 +4049,7 @@
       "id": 66,
       "word": "민사소송",
       "pos": "명사",
-      "meaning": "civil lawsuit; civil litigation (legal proceedings to resolve private disputes)",
+      "meaning": "civil lawsuit",
       "synonyms": [
         "민사재판",
         "사소",
@@ -4112,7 +4112,7 @@
       "id": 67,
       "word": "피고",
       "pos": "명사",
-      "meaning": "defendant (the party being sued or accused in a legal proceeding)",
+      "meaning": "defendant",
       "synonyms": [
         "피소인",
         "응소인"
@@ -4174,7 +4174,7 @@
       "id": 68,
       "word": "원고",
       "pos": "명사",
-      "meaning": "plaintiff (the party who initiates a lawsuit)",
+      "meaning": "plaintiff",
       "synonyms": [
         "소제기인",
         "제소인",
@@ -4237,7 +4237,7 @@
       "id": 69,
       "word": "증거",
       "pos": "명사",
-      "meaning": "evidence (information or material used to prove facts in legal proceedings)",
+      "meaning": "evidence",
       "synonyms": [
         "입증자료",
         "물증",
@@ -4300,7 +4300,7 @@
       "id": 70,
       "word": "위헌",
       "pos": "명사",
-      "meaning": "unconstitutionality (being contrary to the constitution)",
+      "meaning": "unconstitutionality",
       "synonyms": [
         "헌법위반",
         "헌법불합치"
@@ -4362,7 +4362,7 @@
       "id": 71,
       "word": "합헌",
       "pos": "명사",
-      "meaning": "constitutionality (being in conformity with the constitution)",
+      "meaning": "constitutionality",
       "synonyms": [
         "헌법합치",
         "헌법에 부합"
@@ -4424,7 +4424,7 @@
       "id": 72,
       "word": "법적구속력",
       "pos": "명사",
-      "meaning": "legal binding force; legal enforceability (the power of a legal obligation to compel compliance)",
+      "meaning": "legal binding force",
       "synonyms": [
         "법적효력",
         "강제력",
@@ -4549,7 +4549,7 @@
       "id": 74,
       "word": "행정처분",
       "pos": "명사",
-      "meaning": "administrative disposition; administrative sanction (an official decision made by a government authority)",
+      "meaning": "administrative disposition",
       "synonyms": [
         "행정행위",
         "행정조치",
@@ -4612,7 +4612,7 @@
       "id": 75,
       "word": "법원",
       "pos": "명사",
-      "meaning": "court (an institution where legal disputes are adjudicated)",
+      "meaning": "court",
       "synonyms": [
         "재판소",
         "사법기관",
@@ -7060,7 +7060,7 @@
         }
       ],
       "word": "의약품",
-      "meaning": "pharmaceutical drug / medication"
+      "meaning": "pharmaceutical drug; medication"
     },
     {
       "id": 114,
@@ -7813,7 +7813,7 @@
         }
       ],
       "word": "보건위생",
-      "meaning": "public hygiene / sanitation"
+      "meaning": "public hygiene; sanitation"
     },
     {
       "id": 126,
@@ -7881,7 +7881,7 @@
       "id": 127,
       "word": "논문발표",
       "pos": "명사",
-      "meaning": "thesis/paper presentation",
+      "meaning": "thesis; paper presentation",
       "synonyms": [
         "연구발표",
         "학술발표"
@@ -7943,7 +7943,7 @@
       "id": 128,
       "word": "가설검증",
       "pos": "명사",
-      "meaning": "hypothesis testing/verification",
+      "meaning": "hypothesis testing; verification",
       "synonyms": [
         "가설검정",
         "가설확인"
@@ -8811,7 +8811,7 @@
       "id": 142,
       "word": "박사과정",
       "pos": "명사",
-      "meaning": "doctoral program; PhD program",
+      "meaning": "doctoral program",
       "synonyms": [
         "박사 프로그램",
         "박사 코스"
@@ -9369,7 +9369,7 @@
       "id": 151,
       "word": "기후협약",
       "pos": "명사",
-      "meaning": "climate agreement/convention",
+      "meaning": "climate agreement; convention",
       "synonyms": [
         "기후조약",
         "기후협정"
@@ -10299,7 +10299,7 @@
       "id": 166,
       "word": "자원순환",
       "pos": "명사",
-      "meaning": "resource circulation/recycling",
+      "meaning": "resource circulation; recycling",
       "synonyms": [
         "순환경제",
         "자원재활용"
@@ -10547,7 +10547,7 @@
       "id": 170,
       "word": "환경협약",
       "pos": "명사",
-      "meaning": "environmental convention/agreement",
+      "meaning": "environmental convention; agreement",
       "synonyms": [
         "환경조약",
         "국제환경협정"
@@ -11100,7 +11100,7 @@
         }
       ],
       "word": "사회계층",
-      "meaning": "social class / social stratum"
+      "meaning": "social class; social stratum"
     },
     {
       "id": 179,
@@ -11600,7 +11600,7 @@
         }
       ],
       "word": "지방소멸",
-      "meaning": "regional extinction / disappearance of local communities"
+      "meaning": "regional extinction; disappearance of local communities"
     },
     {
       "id": 187,
@@ -11663,7 +11663,7 @@
         }
       ],
       "word": "집값",
-      "meaning": "housing price / property price"
+      "meaning": "housing price; property price"
     },
     {
       "id": 188,
@@ -11788,7 +11788,7 @@
         }
       ],
       "word": "출산율",
-      "meaning": "birth rate / fertility rate"
+      "meaning": "birth rate; fertility rate"
     },
     {
       "id": 190,
@@ -11851,7 +11851,7 @@
         }
       ],
       "word": "사회적유동성",
-      "meaning": "social fluidity / social mobility"
+      "meaning": "social fluidity; social mobility"
     },
     {
       "id": 191,
@@ -11977,7 +11977,7 @@
         }
       ],
       "word": "에코세대",
-      "meaning": "echo generation / echo boomers"
+      "meaning": "echo generation; echo boomers"
     },
     {
       "id": 193,
@@ -12291,7 +12291,7 @@
         }
       ],
       "word": "인구변화",
-      "meaning": "demographic change / population change"
+      "meaning": "demographic change; population change"
     },
     {
       "id": 198,
@@ -12354,7 +12354,7 @@
         }
       ],
       "word": "사회통합",
-      "meaning": "social integration / social cohesion"
+      "meaning": "social integration; social cohesion"
     },
     {
       "id": 199,
@@ -12417,7 +12417,7 @@
         }
       ],
       "word": "도시재생",
-      "meaning": "urban regeneration / urban renewal"
+      "meaning": "urban regeneration; urban renewal"
     },
     {
       "id": 200,
@@ -17160,7 +17160,7 @@
       "id": 276,
       "word": "존재론",
       "pos": "명사",
-      "meaning": "ontology; the philosophical study of the nature of being and existence",
+      "meaning": "ontology",
       "synonyms": [
         "존재학",
         "형이상학"
@@ -17222,7 +17222,7 @@
       "id": 277,
       "word": "인식론",
       "pos": "명사",
-      "meaning": "epistemology; the branch of philosophy concerned with the nature and scope of knowledge",
+      "meaning": "epistemology",
       "synonyms": [
         "지식론",
         "앎의 이론"
@@ -17284,7 +17284,7 @@
       "id": 278,
       "word": "윤리학",
       "pos": "명사",
-      "meaning": "ethics; the branch of philosophy dealing with moral principles and values",
+      "meaning": "ethics",
       "synonyms": [
         "도덕철학",
         "도덕학"
@@ -17346,7 +17346,7 @@
       "id": 279,
       "word": "도덕철학",
       "pos": "명사",
-      "meaning": "moral philosophy; philosophical inquiry into morality, values, and ethical conduct",
+      "meaning": "moral philosophy",
       "synonyms": [
         "윤리학",
         "도덕학"
@@ -17408,7 +17408,7 @@
       "id": 280,
       "word": "공리주의",
       "pos": "명사",
-      "meaning": "utilitarianism; the ethical theory that the best action is the one maximizing overall happiness or utility",
+      "meaning": "utilitarianism",
       "synonyms": [
         "효용주의",
         "최대행복주의"
@@ -17470,7 +17470,7 @@
       "id": 281,
       "word": "의무론",
       "pos": "명사",
-      "meaning": "deontology; the ethical theory that actions are intrinsically right or wrong based on rules or duties",
+      "meaning": "deontology",
       "synonyms": [
         "의무 윤리학",
         "규범론"
@@ -17532,7 +17532,7 @@
       "id": 282,
       "word": "덕윤리",
       "pos": "명사",
-      "meaning": "virtue ethics; the ethical theory emphasizing character and virtues rather than rules or consequences",
+      "meaning": "virtue ethics",
       "synonyms": [
         "덕 윤리학",
         "덕론"
@@ -17594,7 +17594,7 @@
       "id": 283,
       "word": "자유의지",
       "pos": "명사",
-      "meaning": "free will; the capacity of an individual to make choices unconstrained by external forces or determinism",
+      "meaning": "free will",
       "synonyms": [
         "의지의 자유",
         "자유선택"
@@ -17656,7 +17656,7 @@
       "id": 284,
       "word": "결정론",
       "pos": "명사",
-      "meaning": "determinism; the doctrine that all events are causally determined by prior events and natural laws",
+      "meaning": "determinism",
       "synonyms": [
         "인과론",
         "필연론"
@@ -17718,7 +17718,7 @@
       "id": 285,
       "word": "이성",
       "pos": "명사",
-      "meaning": "reason; the capacity for rational thought, logical analysis, and sound judgment",
+      "meaning": "reason",
       "synonyms": [
         "합리성",
         "이지"
@@ -17842,7 +17842,7 @@
       "id": 287,
       "word": "가치판단",
       "pos": "명사",
-      "meaning": "value judgment; an assessment of something as good, bad, right, or wrong based on one's values",
+      "meaning": "value judgment",
       "synonyms": [
         "가치평가",
         "규범적 판단"
@@ -17904,7 +17904,7 @@
       "id": 288,
       "word": "정의론",
       "pos": "명사",
-      "meaning": "theory of justice; a philosophical account of what constitutes fairness, rights, and just social arrangements",
+      "meaning": "theory of justice",
       "synonyms": [
         "정의 이론",
         "공정론"
@@ -17966,7 +17966,7 @@
       "id": 289,
       "word": "사회계약",
       "pos": "명사",
-      "meaning": "social contract; a theoretical agreement among individuals forming a society and its governing authority",
+      "meaning": "social contract",
       "synonyms": [
         "사회 계약론",
         "사회 협약"
@@ -18028,7 +18028,7 @@
       "id": 290,
       "word": "민주주의이념",
       "pos": "명사",
-      "meaning": "democratic ideology; the set of principles and values underpinning democratic governance and society",
+      "meaning": "democratic ideology",
       "synonyms": [
         "민주 이념",
         "민주주의 사상"
@@ -18090,7 +18090,7 @@
       "id": 291,
       "word": "자유주의",
       "pos": "명사",
-      "meaning": "liberalism; a political and philosophical ideology emphasizing individual liberty, rights, and limited government",
+      "meaning": "liberalism",
       "synonyms": [
         "리버럴리즘",
         "자유사상"
@@ -18152,7 +18152,7 @@
       "id": 292,
       "word": "보수주의",
       "pos": "명사",
-      "meaning": "conservatism; a political ideology favoring tradition, established institutions, and gradual change",
+      "meaning": "conservatism",
       "synonyms": [
         "전통주의",
         "보수사상"
@@ -18214,7 +18214,7 @@
       "id": 293,
       "word": "진보주의",
       "pos": "명사",
-      "meaning": "progressivism; a political ideology advocating social reform, equality, and improvement of society",
+      "meaning": "progressivism",
       "synonyms": [
         "혁신주의",
         "진보사상"
@@ -18276,7 +18276,7 @@
       "id": 294,
       "word": "평등주의",
       "pos": "명사",
-      "meaning": "egalitarianism; the doctrine that all people deserve equal rights, status, and opportunities",
+      "meaning": "egalitarianism",
       "synonyms": [
         "균등주의",
         "평등사상"
@@ -18338,7 +18338,7 @@
       "id": 295,
       "word": "다원주의",
       "pos": "명사",
-      "meaning": "pluralism; the view that multiple values, perspectives, or cultural groups can coexist in society",
+      "meaning": "pluralism",
       "synonyms": [
         "복수주의",
         "다양성 존중"
@@ -18400,7 +18400,7 @@
       "id": 296,
       "word": "공동선",
       "pos": "명사",
-      "meaning": "common good; the shared benefit or welfare of all members of a community or society",
+      "meaning": "common good",
       "synonyms": [
         "공공선",
         "공익"
@@ -18462,7 +18462,7 @@
       "id": 297,
       "word": "시민윤리",
       "pos": "명사",
-      "meaning": "civic ethics; the moral principles and values that guide responsible citizenship and civic participation",
+      "meaning": "civic ethics",
       "synonyms": [
         "시민 도덕",
         "공민 윤리"
@@ -18524,7 +18524,7 @@
       "id": 298,
       "word": "책임론",
       "pos": "명사",
-      "meaning": "theory of responsibility; a philosophical account of moral and legal accountability for actions",
+      "meaning": "theory of responsibility",
       "synonyms": [
         "책임 이론",
         "책무론"
@@ -18586,7 +18586,7 @@
       "id": 299,
       "word": "관용",
       "pos": "명사",
-      "meaning": "tolerance; the willingness to accept views, beliefs, or behaviors different from one's own",
+      "meaning": "tolerance",
       "synonyms": [
         "포용",
         "너그러움"
@@ -18648,7 +18648,7 @@
       "id": 300,
       "word": "비판적사고",
       "pos": "명사",
-      "meaning": "critical thinking; the objective analysis and evaluation of an issue in order to form a well-reasoned judgment",
+      "meaning": "critical thinking",
       "synonyms": [
         "비판적 사유",
         "논리적 사고"

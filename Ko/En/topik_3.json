@@ -191,7 +191,7 @@
       "id": 4,
       "word": "다림질",
       "pos": "명사",
-      "meaning": "ironing (clothes)",
+      "meaning": "ironing",
       "synonyms": [],
       "examples": [
         {
@@ -312,7 +312,7 @@
       "id": 6,
       "word": "빨래",
       "pos": "명사",
-      "meaning": "laundry, washing clothes",
+      "meaning": "laundry",
       "synonyms": [
         "세탁"
       ],
@@ -373,7 +373,7 @@
       "id": 7,
       "word": "소독",
       "pos": "명사",
-      "meaning": "disinfection, sterilization",
+      "meaning": "disinfection",
       "synonyms": [
         "살균",
         "위생 처리"
@@ -1238,7 +1238,7 @@
       "id": 21,
       "word": "건조하다",
       "pos": "형용사",
-      "meaning": "to be dry (of air, skin, weather)",
+      "meaning": "to be dry",
       "synonyms": [
         "메마르다"
       ],
@@ -1670,7 +1670,7 @@
       "id": 28,
       "word": "고소하다",
       "pos": "형용사",
-      "meaning": "nutty, savory, toasty (describing pleasant rich flavor)",
+      "meaning": "nutty, savory, toasty",
       "synonyms": [
         "구수하다",
         "향기롭다"
@@ -1794,7 +1794,7 @@
       "id": 30,
       "word": "담백하다",
       "pos": "형용사",
-      "meaning": "light, plain, mild (taste without greasiness or heavy seasoning)",
+      "meaning": "light, plain, mild",
       "synonyms": [
         "깔끔하다",
         "개운하다"
@@ -1980,7 +1980,7 @@
       "id": 33,
       "word": "부치다",
       "pos": "동사",
-      "meaning": "to pan-fry (flat foods like pancakes), to make jeon",
+      "meaning": "pan-fry; make jeon (Korean pancake)",
       "synonyms": [
         "전을 굽다",
         "기름에 지지다"
@@ -2786,7 +2786,7 @@
       "id": 46,
       "word": "겉절이",
       "pos": "명사",
-      "meaning": "fresh kimchi (not fermented, eaten immediately after seasoning)",
+      "meaning": "fresh kimchi (not fermented)",
       "synonyms": [
         "생김치",
         "즉석 김치"
@@ -3096,7 +3096,7 @@
       "id": 51,
       "word": "경유",
       "pos": "명사",
-      "meaning": "stopover; transit; going via a place on the way to a destination",
+      "meaning": "transit; via",
       "synonyms": [
         "통과",
         "거침"
@@ -3345,7 +3345,7 @@
       "id": 55,
       "word": "노선",
       "pos": "명사",
-      "meaning": "route; line (of a transportation service)",
+      "meaning": "route; line",
       "synonyms": [
         "경로",
         "루트",
@@ -3408,7 +3408,7 @@
       "id": 56,
       "word": "막차",
       "pos": "명사",
-      "meaning": "last bus/train of the day; last service",
+      "meaning": "last bus/train; last service",
       "synonyms": [
         "마지막 차",
         "종차"
@@ -3533,7 +3533,7 @@
       "id": 58,
       "word": "배차",
       "pos": "명사",
-      "meaning": "dispatch; scheduled operation of vehicles at set intervals",
+      "meaning": "vehicle dispatch interval",
       "synonyms": [
         "운행 간격",
         "차량 배정"
@@ -3907,7 +3907,7 @@
       "id": 64,
       "word": "자유여행",
       "pos": "명사",
-      "meaning": "independent travel; self-planned trip without a tour package",
+      "meaning": "independent travel",
       "synonyms": [
         "개인여행",
         "배낭여행",
@@ -4033,7 +4033,7 @@
       "id": 66,
       "word": "체크인",
       "pos": "명사",
-      "meaning": "check-in; registering arrival at a hotel or airport",
+      "meaning": "check-in",
       "synonyms": [
         "입실",
         "탑승 수속"
@@ -4221,7 +4221,7 @@
       "id": 69,
       "word": "혼잡",
       "pos": "명사",
-      "meaning": "congestion; crowded and chaotic state due to too many people or vehicles",
+      "meaning": "congestion; crowded",
       "synonyms": [
         "붐빔",
         "복잡함",
@@ -4284,7 +4284,7 @@
       "id": 70,
       "word": "환승",
       "pos": "명사",
-      "meaning": "transfer; switching to a different mode of transport or route",
+      "meaning": "transfer (transport)",
       "synonyms": [
         "갈아타기",
         "연결",
@@ -4410,7 +4410,7 @@
       "id": 72,
       "word": "여권",
       "pos": "명사",
-      "meaning": "passport; official document proving identity when traveling abroad",
+      "meaning": "passport",
       "synonyms": [
         "패스포트",
         "국제신분증"
@@ -4472,7 +4472,7 @@
       "id": 73,
       "word": "현지",
       "pos": "명사",
-      "meaning": "local; the actual place or region",
+      "meaning": "local",
       "synonyms": [
         "현장",
         "그 곳",
@@ -4660,7 +4660,7 @@
       "id": 76,
       "word": "건강검진",
       "pos": "명사",
-      "meaning": "Health checkup; a medical examination to check one's overall health status",
+      "meaning": "health checkup",
       "synonyms": [
         "건강진단",
         "신체검사"
@@ -4722,7 +4722,7 @@
       "id": 77,
       "word": "골절",
       "pos": "명사",
-      "meaning": "Fracture; a break or crack in a bone",
+      "meaning": "Fracture",
       "synonyms": [
         "뼈 부러짐"
       ],
@@ -4783,7 +4783,7 @@
       "id": 78,
       "word": "근육",
       "pos": "명사",
-      "meaning": "Muscle; tissue in the body that contracts to produce movement",
+      "meaning": "muscle",
       "synonyms": [
         "근",
         "살"
@@ -4845,7 +4845,7 @@
       "id": 79,
       "word": "급성",
       "pos": "명사",
-      "meaning": "Acute; a condition that is sudden and severe in onset",
+      "meaning": "acute (sudden onset)",
       "synonyms": [
         "급격한 발병"
       ],
@@ -4906,7 +4906,7 @@
       "id": 80,
       "word": "기침하다",
       "pos": "동사",
-      "meaning": "To cough; to expel air from the lungs with a sudden sharp sound",
+      "meaning": "cough",
       "synonyms": [
         "헛기침하다"
       ],
@@ -5029,7 +5029,7 @@
       "id": 82,
       "word": "마취",
       "pos": "명사",
-      "meaning": "Anesthesia; the use of medicine to prevent pain during surgery or procedures",
+      "meaning": "anesthesia",
       "synonyms": [
         "진통",
         "무감각"
@@ -5091,7 +5091,7 @@
       "id": 83,
       "word": "면역",
       "pos": "명사",
-      "meaning": "Immunity; the body's ability to resist infection or disease",
+      "meaning": "immunity",
       "synonyms": [
         "저항력",
         "항체"
@@ -5215,7 +5215,7 @@
       "id": 85,
       "word": "비만",
       "pos": "명사",
-      "meaning": "Obesity; a condition of being significantly overweight, posing health risks",
+      "meaning": "obesity",
       "synonyms": [
         "과체중",
         "肥滿"
@@ -5277,7 +5277,7 @@
       "id": 86,
       "word": "상처",
       "pos": "명사",
-      "meaning": "Wound; a physical injury to the body, or emotional hurt",
+      "meaning": "Wound",
       "synonyms": [
         "부상",
         "외상",
@@ -5340,7 +5340,7 @@
       "id": 87,
       "word": "수면",
       "pos": "명사",
-      "meaning": "Sleep; a natural, regularly recurring state of rest for the mind and body",
+      "meaning": "sleep",
       "synonyms": [
         "잠",
         "취침"
@@ -5402,7 +5402,7 @@
       "id": 88,
       "word": "수술",
       "pos": "명사",
-      "meaning": "Surgery; a medical operation involving incision of the body",
+      "meaning": "surgery",
       "synonyms": [
         "외과 시술",
         "오퍼레이션"
@@ -5464,7 +5464,7 @@
       "id": 89,
       "word": "스트레스",
       "pos": "명사",
-      "meaning": "Stress; mental or physical tension caused by demanding circumstances",
+      "meaning": "stress",
       "synonyms": [
         "긴장",
         "압박감"
@@ -5526,7 +5526,7 @@
       "id": 90,
       "word": "알레르기",
       "pos": "명사",
-      "meaning": "Allergy; an abnormal immune reaction to a substance that is usually harmless",
+      "meaning": "allergy",
       "synonyms": [
         "과민 반응"
       ],
@@ -5587,7 +5587,7 @@
       "id": 91,
       "word": "약효",
       "pos": "명사",
-      "meaning": "Drug effect; the efficacy or effectiveness of a medicine",
+      "meaning": "drug effect; efficacy",
       "synonyms": [
         "효능",
         "효과"
@@ -5649,7 +5649,7 @@
       "id": 92,
       "word": "예방",
       "pos": "명사",
-      "meaning": "Prevention; actions taken to stop something harmful from happening",
+      "meaning": "prevention",
       "synonyms": [
         "방지",
         "예방책"
@@ -5711,7 +5711,7 @@
       "id": 93,
       "word": "운동량",
       "pos": "명사",
-      "meaning": "Amount of exercise; the quantity of physical activity one performs",
+      "meaning": "amount of exercise",
       "synonyms": [
         "활동량",
         "신체 활동량"
@@ -5773,7 +5773,7 @@
       "id": 94,
       "word": "의식",
       "pos": "명사",
-      "meaning": "Consciousness; the state of being aware and able to respond to surroundings",
+      "meaning": "consciousness",
       "synonyms": [
         "자각",
         "각성"
@@ -5835,7 +5835,7 @@
       "id": 95,
       "word": "전염",
       "pos": "명사",
-      "meaning": "Contagion; the transmission of disease from one person to another",
+      "meaning": "contagion; infection",
       "synonyms": [
         "감염",
         "전파"
@@ -5897,7 +5897,7 @@
       "id": 96,
       "word": "처방전",
       "pos": "명사",
-      "meaning": "Prescription; a written order from a doctor for medicine or treatment",
+      "meaning": "prescription",
       "synonyms": [
         "처방",
         "의사 처방"
@@ -5959,7 +5959,7 @@
       "id": 97,
       "word": "체력",
       "pos": "명사",
-      "meaning": "Physical stamina; the capacity to sustain physical effort and activity",
+      "meaning": "physical stamina",
       "synonyms": [
         "기력",
         "힘",
@@ -6022,7 +6022,7 @@
       "id": 98,
       "word": "통증",
       "pos": "명사",
-      "meaning": "Pain; physical suffering or discomfort caused by illness or injury",
+      "meaning": "Pain",
       "synonyms": [
         "아픔",
         "고통"
@@ -6084,7 +6084,7 @@
       "id": 99,
       "word": "회복",
       "pos": "명사",
-      "meaning": "Recovery; the process of returning to a normal state of health or strength",
+      "meaning": "Recovery",
       "synonyms": [
         "치유",
         "쾌유",
@@ -6147,7 +6147,7 @@
       "id": 100,
       "word": "흡연",
       "pos": "명사",
-      "meaning": "Smoking; the act of inhaling and exhaling tobacco smoke",
+      "meaning": "Smoking",
       "synonyms": [
         "담배 피우기",
         "흡담"
@@ -7577,7 +7577,7 @@
       "id": 123,
       "word": "회식",
       "pos": "명사",
-      "meaning": "company dinner; team dinner; social gathering with colleagues",
+      "meaning": "company dinner",
       "synonyms": [
         "팀 식사",
         "단체 회식"
@@ -9315,7 +9315,7 @@
       "id": 151,
       "word": "감동받다",
       "pos": "동사",
-      "meaning": "To be moved / to be touched emotionally",
+      "meaning": "To be moved; to be touched emotionally",
       "synonyms": [
         "감격하다",
         "감화받다"
@@ -9377,7 +9377,7 @@
       "id": 152,
       "word": "거절",
       "pos": "명사",
-      "meaning": "Refusal / rejection",
+      "meaning": "Refusal; rejection",
       "synonyms": [
         "거부",
         "사절"
@@ -9439,7 +9439,7 @@
       "id": 153,
       "word": "고집",
       "pos": "명사",
-      "meaning": "Stubbornness / persistence / obstinacy",
+      "meaning": "Stubbornness; persistence; obstinacy",
       "synonyms": [
         "완고함",
         "집착"
@@ -9501,7 +9501,7 @@
       "id": 154,
       "word": "공감",
       "pos": "명사",
-      "meaning": "Empathy / sympathy / resonance",
+      "meaning": "Empathy; sympathy; resonance",
       "synonyms": [
         "동감",
         "이해"
@@ -9563,7 +9563,7 @@
       "id": 155,
       "word": "그리워하다",
       "pos": "동사",
-      "meaning": "To miss / to long for",
+      "meaning": "To miss; to long for",
       "synonyms": [
         "보고 싶어하다",
         "그리다"
@@ -9625,7 +9625,7 @@
       "id": 156,
       "word": "기대",
       "pos": "명사",
-      "meaning": "Expectation / anticipation / hope",
+      "meaning": "Expectation; anticipation; hope",
       "synonyms": [
         "희망",
         "예상"
@@ -9687,7 +9687,7 @@
       "id": 157,
       "word": "긴장",
       "pos": "명사",
-      "meaning": "Tension / nervousness / anxiety",
+      "meaning": "Tension; nervousness; anxiety",
       "synonyms": [
         "불안",
         "초조"
@@ -9749,7 +9749,7 @@
       "id": 158,
       "word": "낙관적",
       "pos": "형용사",
-      "meaning": "Optimistic / positive-minded",
+      "meaning": "Optimistic; positive-minded",
       "synonyms": [
         "긍정적",
         "희망적"
@@ -9811,7 +9811,7 @@
       "id": 159,
       "word": "다정하다",
       "pos": "형용사",
-      "meaning": "To be affectionate / to be warm-hearted / to be kind",
+      "meaning": "To be affectionate; to be warm-hearted; to be kind",
       "synonyms": [
         "친절하다",
         "따뜻하다"
@@ -9873,7 +9873,7 @@
       "id": 160,
       "word": "두려움",
       "pos": "명사",
-      "meaning": "Fear / dread / apprehension",
+      "meaning": "Fear; dread; apprehension",
       "synonyms": [
         "공포",
         "무서움"
@@ -9935,7 +9935,7 @@
       "id": 161,
       "word": "만족",
       "pos": "명사",
-      "meaning": "Satisfaction / contentment",
+      "meaning": "Satisfaction; contentment",
       "synonyms": [
         "충족",
         "흡족"
@@ -9997,7 +9997,7 @@
       "id": 162,
       "word": "배려",
       "pos": "명사",
-      "meaning": "Consideration / thoughtfulness / care",
+      "meaning": "Consideration; thoughtfulness; care",
       "synonyms": [
         "배려심",
         "사려"
@@ -10059,7 +10059,7 @@
       "id": 163,
       "word": "불안",
       "pos": "명사",
-      "meaning": "Anxiety / unease / worry",
+      "meaning": "Anxiety; unease; worry",
       "synonyms": [
         "걱정",
         "초조"
@@ -10121,7 +10121,7 @@
       "id": 164,
       "word": "사교적",
       "pos": "형용사",
-      "meaning": "Sociable / outgoing",
+      "meaning": "Sociable; outgoing",
       "synonyms": [
         "외향적",
         "친화적"
@@ -10183,7 +10183,7 @@
       "id": 165,
       "word": "상처받다",
       "pos": "동사",
-      "meaning": "To be hurt / to be wounded emotionally",
+      "meaning": "To be hurt; to be wounded emotionally",
       "synonyms": [
         "마음이 아프다",
         "상심하다"
@@ -10245,7 +10245,7 @@
       "id": 166,
       "word": "속상하다",
       "pos": "형용사",
-      "meaning": "To be upset / to feel distressed / to feel bad",
+      "meaning": "To be upset; to feel distressed; to feel bad",
       "synonyms": [
         "마음이 아프다",
         "괴롭다"
@@ -10307,7 +10307,7 @@
       "id": 167,
       "word": "실망",
       "pos": "명사",
-      "meaning": "Disappointment / disillusionment",
+      "meaning": "Disappointment; disillusionment",
       "synonyms": [
         "낙담",
         "좌절"
@@ -10369,7 +10369,7 @@
       "id": 168,
       "word": "어색하다",
       "pos": "형용사",
-      "meaning": "To be awkward / to feel uncomfortable / to be unnatural",
+      "meaning": "To be awkward",
       "synonyms": [
         "불편하다",
         "서먹하다"
@@ -10431,7 +10431,7 @@
       "id": 169,
       "word": "외롭다",
       "pos": "형용사",
-      "meaning": "To be lonely / to feel isolated",
+      "meaning": "To be lonely; to feel isolated",
       "synonyms": [
         "쓸쓸하다",
         "고독하다"
@@ -10493,7 +10493,7 @@
       "id": 170,
       "word": "우울",
       "pos": "명사",
-      "meaning": "Depression / melancholy / gloom",
+      "meaning": "Depression; melancholy; gloom",
       "synonyms": [
         "침울",
         "슬픔"
@@ -10555,7 +10555,7 @@
       "id": 171,
       "word": "인내",
       "pos": "명사",
-      "meaning": "Patience / endurance / perseverance",
+      "meaning": "Patience; endurance; perseverance",
       "synonyms": [
         "참을성",
         "끈기"
@@ -10617,7 +10617,7 @@
       "id": 172,
       "word": "질투",
       "pos": "명사",
-      "meaning": "Jealousy / envy",
+      "meaning": "Jealousy; envy",
       "synonyms": [
         "시기",
         "부러움"
@@ -10679,7 +10679,7 @@
       "id": 173,
       "word": "창피하다",
       "pos": "형용사",
-      "meaning": "To be embarrassed / to feel ashamed",
+      "meaning": "To be embarrassed; to feel ashamed",
       "synonyms": [
         "부끄럽다",
         "수치스럽다"
@@ -10741,7 +10741,7 @@
       "id": 174,
       "word": "친밀하다",
       "pos": "형용사",
-      "meaning": "To be intimate / to be close / to be familiar",
+      "meaning": "To be intimate; to be close; to be familiar",
       "synonyms": [
         "가깝다",
         "친하다"
@@ -10803,7 +10803,7 @@
       "id": 175,
       "word": "화해",
       "pos": "명사",
-      "meaning": "Reconciliation / making up / settlement",
+      "meaning": "Reconciliation; making up; settlement",
       "synonyms": [
         "화합",
         "타협"
@@ -10865,7 +10865,7 @@
       "id": 176,
       "word": "기념일",
       "pos": "명사",
-      "meaning": "Anniversary; a day commemorating a special event",
+      "meaning": "Anniversary",
       "synonyms": [
         "기념날",
         "기념행사"
@@ -10990,7 +10990,7 @@
       "id": 178,
       "word": "문화재",
       "pos": "명사",
-      "meaning": "Cultural heritage; cultural property; historical artifact",
+      "meaning": "Cultural heritage",
       "synonyms": [
         "유물",
         "문화유산",
@@ -11053,7 +11053,7 @@
       "id": 179,
       "word": "민속",
       "pos": "명사",
-      "meaning": "Folk customs; folklore; traditional customs of a people",
+      "meaning": "Folk customs",
       "synonyms": [
         "전통",
         "풍습",
@@ -11681,7 +11681,7 @@
       "id": 189,
       "word": "제사",
       "pos": "명사",
-      "meaning": "Ancestral rite; memorial ceremony for deceased ancestors",
+      "meaning": "Ancestral rite",
       "synonyms": [
         "차례",
         "기제사",
@@ -11870,7 +11870,7 @@
       "id": 192,
       "word": "풍습",
       "pos": "명사",
-      "meaning": "Custom; tradition; practice passed down through generations",
+      "meaning": "Custom",
       "synonyms": [
         "관습",
         "풍속",
@@ -11995,7 +11995,7 @@
       "id": 194,
       "word": "현대",
       "pos": "명사",
-      "meaning": "Modern times; the contemporary age",
+      "meaning": "Modern times",
       "synonyms": [
         "근대",
         "현시대",
@@ -15666,7 +15666,7 @@
       "id": 253,
       "word": "댓글",
       "pos": "명사",
-      "meaning": "comment; a reply or remark left on online content",
+      "meaning": "comment",
       "synonyms": [
         "리플",
         "답글"
@@ -15728,7 +15728,7 @@
       "id": 254,
       "word": "디지털",
       "pos": "명사",
-      "meaning": "digital; relating to technology using numerical data",
+      "meaning": "digital",
       "synonyms": [],
       "examples": [
         {
@@ -15787,7 +15787,7 @@
       "id": 255,
       "word": "로그인",
       "pos": "명사",
-      "meaning": "login; the process of accessing a system with credentials",
+      "meaning": "login",
       "synonyms": [
         "접속",
         "접근"
@@ -15849,7 +15849,7 @@
       "id": 256,
       "word": "문자메시지",
       "pos": "명사",
-      "meaning": "text message; a short written message sent via phone",
+      "meaning": "text message",
       "synonyms": [
         "문자",
         "SMS",
@@ -15912,7 +15912,7 @@
       "id": 257,
       "word": "블로그",
       "pos": "명사",
-      "meaning": "blog; a personal online journal or informational website",
+      "meaning": "blog",
       "synonyms": [],
       "examples": [
         {
@@ -15971,7 +15971,7 @@
       "id": 258,
       "word": "비밀번호",
       "pos": "명사",
-      "meaning": "password; a secret word or code used for authentication",
+      "meaning": "password",
       "synonyms": [
         "패스워드",
         "암호"
@@ -16033,7 +16033,7 @@
       "id": 259,
       "word": "소셜미디어",
       "pos": "명사",
-      "meaning": "social media; online platforms for social interaction",
+      "meaning": "social media",
       "synonyms": [
         "SNS",
         "사회관계망서비스"
@@ -16095,7 +16095,7 @@
       "id": 260,
       "word": "스마트폰",
       "pos": "명사",
-      "meaning": "smartphone; a mobile phone with advanced computing capability",
+      "meaning": "smartphone",
       "synonyms": [
         "휴대폰",
         "핸드폰",
@@ -16158,7 +16158,7 @@
       "id": 261,
       "word": "앱",
       "pos": "명사",
-      "meaning": "app; a software application, especially for mobile devices",
+      "meaning": "app",
       "synonyms": [
         "애플리케이션",
         "어플"
@@ -16220,7 +16220,7 @@
       "id": 262,
       "word": "업로드",
       "pos": "명사",
-      "meaning": "upload; the process of transferring data to a remote server",
+      "meaning": "upload",
       "synonyms": [],
       "examples": [
         {
@@ -16279,7 +16279,7 @@
       "id": 263,
       "word": "온라인",
       "pos": "명사",
-      "meaning": "online; connected to or available through the internet",
+      "meaning": "online",
       "synonyms": [
         "인터넷상",
         "사이버"
@@ -16341,7 +16341,7 @@
       "id": 264,
       "word": "인터넷",
       "pos": "명사",
-      "meaning": "internet; a global network connecting computers worldwide",
+      "meaning": "internet",
       "synonyms": [
         "넷",
         "웹"
@@ -16466,7 +16466,7 @@
       "id": 266,
       "word": "채팅",
       "pos": "명사",
-      "meaning": "chatting; real-time text communication over the internet",
+      "meaning": "chatting",
       "synonyms": [
         "대화",
         "메시지"
@@ -16528,7 +16528,7 @@
       "id": 267,
       "word": "콘텐츠",
       "pos": "명사",
-      "meaning": "content; information or material available online or in media",
+      "meaning": "content",
       "synonyms": [
         "내용물",
         "자료"
@@ -16590,7 +16590,7 @@
       "id": 268,
       "word": "키보드",
       "pos": "명사",
-      "meaning": "keyboard; an input device with keys for entering data",
+      "meaning": "keyboard",
       "synonyms": [],
       "examples": [
         {
@@ -16649,7 +16649,7 @@
       "id": 269,
       "word": "통신",
       "pos": "명사",
-      "meaning": "communication; the transmission of information",
+      "meaning": "communication",
       "synonyms": [
         "소통",
         "연락",
@@ -16712,7 +16712,7 @@
       "id": 270,
       "word": "파일",
       "pos": "명사",
-      "meaning": "file; a collection of data stored in a computer",
+      "meaning": "file",
       "synonyms": [
         "문서",
         "데이터"
@@ -16774,7 +16774,7 @@
       "id": 271,
       "word": "화상통화",
       "pos": "명사",
-      "meaning": "video call; a telephone call that includes live video",
+      "meaning": "video call",
       "synonyms": [
         "영상통화",
         "비디오콜"
@@ -16836,7 +16836,7 @@
       "id": 272,
       "word": "화면",
       "pos": "명사",
-      "meaning": "screen; the display surface of a device",
+      "meaning": "screen",
       "synonyms": [
         "스크린",
         "디스플레이"
@@ -16898,7 +16898,7 @@
       "id": 273,
       "word": "회원가입",
       "pos": "명사",
-      "meaning": "membership registration; signing up for an account on a service",
+      "meaning": "membership registration",
       "synonyms": [
         "가입",
         "등록"
@@ -16960,7 +16960,7 @@
       "id": 274,
       "word": "구독",
       "pos": "명사",
-      "meaning": "subscription; regularly receiving or paying for a service",
+      "meaning": "subscription",
       "synonyms": [
         "가입",
         "신청"
@@ -17022,7 +17022,7 @@
       "id": 275,
       "word": "알림",
       "pos": "명사",
-      "meaning": "notification; a message alerting about new information or events",
+      "meaning": "notification",
       "synonyms": [
         "공지",
         "통보",
@@ -17085,7 +17085,7 @@
       "id": 276,
       "word": "감상",
       "pos": "명사",
-      "meaning": "appreciation; the act of enjoying and perceiving art, scenery, etc.",
+      "meaning": "appreciation",
       "synonyms": [
         "鑑賞",
         "관람"
@@ -17271,7 +17271,7 @@
       "id": 279,
       "word": "그림 그리기",
       "pos": "명사",
-      "meaning": "drawing; the activity of making pictures with a brush, pencil, etc.",
+      "meaning": "drawing",
       "synonyms": [
         "드로잉",
         "회화"
@@ -17333,7 +17333,7 @@
       "id": 280,
       "word": "뮤지컬",
       "pos": "명사",
-      "meaning": "musical; a stage performance combining music, singing, and dance",
+      "meaning": "musical",
       "synonyms": [
         "음악극"
       ],
@@ -17455,7 +17455,7 @@
       "id": 282,
       "word": "배우",
       "pos": "명사",
-      "meaning": "actor; a person who performs in plays, films, or dramas",
+      "meaning": "actor",
       "synonyms": [
         "연기자",
         "배역자"
@@ -17517,7 +17517,7 @@
       "id": 283,
       "word": "악기",
       "pos": "명사",
-      "meaning": "musical instrument; a tool used to play music",
+      "meaning": "musical instrument",
       "synonyms": [
         "악기류"
       ],
@@ -17640,7 +17640,7 @@
       "id": 285,
       "word": "영화감독",
       "pos": "명사",
-      "meaning": "film director; a person who oversees and directs film production",
+      "meaning": "film director",
       "synonyms": [
         "감독",
         "연출가"
@@ -17702,7 +17702,7 @@
       "id": 286,
       "word": "요가",
       "pos": "명사",
-      "meaning": "yoga; a traditional Indian exercise method for physical and mental health",
+      "meaning": "yoga",
       "synonyms": [
         "명상운동"
       ],
@@ -17763,7 +17763,7 @@
       "id": 287,
       "word": "운동선수",
       "pos": "명사",
-      "meaning": "athlete; a person whose profession is sport",
+      "meaning": "athlete",
       "synonyms": [
         "선수",
         "스포츠맨"
@@ -17825,7 +17825,7 @@
       "id": 288,
       "word": "전시회",
       "pos": "명사",
-      "meaning": "exhibition; an event displaying works or objects for the public",
+      "meaning": "exhibition",
       "synonyms": [
         "전시",
         "박람회"
@@ -17887,7 +17887,7 @@
       "id": 289,
       "word": "조각",
       "pos": "명사",
-      "meaning": "sculpture; a three-dimensional artwork made by carving stone, wood, metal, etc.",
+      "meaning": "sculpture",
       "synonyms": [
         "조소",
         "입체예술"
@@ -17949,7 +17949,7 @@
       "id": 290,
       "word": "체육관",
       "pos": "명사",
-      "meaning": "gymnasium; a building or facility equipped for physical activities",
+      "meaning": "gymnasium",
       "synonyms": [
         "헬스장",
         "스포츠센터"
@@ -18073,7 +18073,7 @@
       "id": 292,
       "word": "콘서트",
       "pos": "명사",
-      "meaning": "concert; a musical performance by musicians or singers before an audience",
+      "meaning": "concert",
       "synonyms": [
         "음악회",
         "공연"
@@ -18135,7 +18135,7 @@
       "id": 293,
       "word": "팬클럽",
       "pos": "명사",
-      "meaning": "fan club; an organized group of fans supporting a celebrity or team",
+      "meaning": "fan club",
       "synonyms": [
         "팬모임",
         "팬카페"
@@ -18197,7 +18197,7 @@
       "id": 294,
       "word": "피아노",
       "pos": "명사",
-      "meaning": "piano; a keyboard instrument that produces sound by pressing keys",
+      "meaning": "piano",
       "synonyms": [
         "건반악기"
       ],
@@ -18258,7 +18258,7 @@
       "id": 295,
       "word": "합창",
       "pos": "명사",
-      "meaning": "chorus; multiple people singing together; a choral performance",
+      "meaning": "chorus",
       "synonyms": [
         "코러스",
         "합창단"
@@ -18320,7 +18320,7 @@
       "id": 296,
       "word": "헬스클럽",
       "pos": "명사",
-      "meaning": "health club; an indoor fitness facility equipped with exercise equipment",
+      "meaning": "health club",
       "synonyms": [
         "헬스장",
         "피트니스센터"
@@ -18382,7 +18382,7 @@
       "id": 297,
       "word": "훈련",
       "pos": "명사",
-      "meaning": "training; repeated practice to develop a skill or ability",
+      "meaning": "training",
       "synonyms": [
         "연습",
         "단련"
@@ -18444,7 +18444,7 @@
       "id": 298,
       "word": "경기력",
       "pos": "명사",
-      "meaning": "athletic performance; the level of skill or ability shown in a game",
+      "meaning": "athletic performance",
       "synonyms": [
         "실력",
         "퍼포먼스"
@@ -18568,7 +18568,7 @@
       "id": 300,
       "word": "심판",
       "pos": "명사",
-      "meaning": "referee; a person who makes judgments according to rules in a game",
+      "meaning": "referee",
       "synonyms": [
         "판정관",
         "레프리"

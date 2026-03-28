@@ -202,7 +202,7 @@
     "word": "냄새",
     "phonetic": "naemsae",
     "pos": "명사",
-    "meaning": "匂い",
+    "meaning": "臭い",
     "synonyms": [
       "향기",
       "향"
@@ -464,7 +464,7 @@
     "word": "너무",
     "phonetic": "neomu",
     "pos": "부사",
-    "meaning": "あまりにも、とても",
+    "meaning": "あまり",
     "synonyms": [
       "매우",
       "아주",
@@ -599,7 +599,7 @@
     "word": "넘다",
     "phonetic": "neomda",
     "pos": "동사",
-    "meaning": "超える、以上の",
+    "meaning": "越える",
     "synonyms": [
       "초과하다",
       "지나다"
@@ -666,7 +666,7 @@
     "word": "넘어지다",
     "phonetic": "neomeojida",
     "pos": "동사",
-    "meaning": "落ちる",
+    "meaning": "倒れる",
     "synonyms": [
       "쓰러지다",
       "자빠지다"
@@ -733,7 +733,7 @@
     "word": "넣다",
     "phonetic": "neota",
     "pos": "동사",
-    "meaning": "入れます",
+    "meaning": "入れる",
     "synonyms": [
       "집어넣다",
       "담다"
@@ -933,7 +933,7 @@
     "word": "넷",
     "phonetic": "net",
     "pos": "수사",
-    "meaning": "4",
+    "meaning": "ネット",
     "synonyms": [
       "사",
       "네"
@@ -1000,7 +1000,7 @@
     "word": "넷째",
     "phonetic": "netjjae",
     "pos": "수사",
-    "meaning": "4番目",
+    "meaning": "第四",
     "synonyms": [
       "네 번째"
     ],
@@ -1199,7 +1199,7 @@
     "word": "노랗다",
     "phonetic": "norata",
     "pos": "형용사",
-    "meaning": "黄色",
+    "meaning": "黄色い",
     "synonyms": [
       "황색이다"
     ],
@@ -1464,7 +1464,7 @@
     "word": "노력하다",
     "phonetic": "noryeokhada",
     "pos": "동사",
-    "meaning": "努力する、努力する",
+    "meaning": "努力する",
     "synonyms": [
       "애쓰다",
       "힘쓰다"
@@ -1531,7 +1531,7 @@
     "word": "노트",
     "phonetic": "noteu",
     "pos": "명사",
-    "meaning": "メモ",
+    "meaning": "ノート",
     "synonyms": [
       "공책",
       "수첩"
@@ -1598,7 +1598,7 @@
     "word": "녹색",
     "phonetic": "noksaek",
     "pos": "명사",
-    "meaning": "緑",
+    "meaning": "グリーン",
     "synonyms": [
       "초록색",
       "초록"
@@ -1991,7 +1991,7 @@
     "word": "놓다",
     "phonetic": "nota",
     "pos": "동사",
-    "meaning": "置く、置く",
+    "meaning": "置く",
     "synonyms": [
       "두다",
       "올려놓다"
@@ -2058,7 +2058,7 @@
     "word": "누가",
     "phonetic": "nuga",
     "pos": "대명사",
-    "meaning": "誰（主題）",
+    "meaning": "誰が",
     "synonyms": [
       "누구가"
     ],
@@ -2190,7 +2190,7 @@
     "word": "누나",
     "phonetic": "nuna",
     "pos": "명사",
-    "meaning": "姉（弟から見て）",
+    "meaning": "姉",
     "synonyms": [
       "언니"
     ],
@@ -2256,7 +2256,7 @@
     "word": "누르다",
     "phonetic": "nureuda",
     "pos": "동사",
-    "meaning": "押す、押す",
+    "meaning": "押す",
     "synonyms": [
       "밀다",
       "클릭하다"
@@ -2323,7 +2323,7 @@
     "word": "눈",
     "phonetic": "nun",
     "pos": "명사",
-    "meaning": "目、雪",
+    "meaning": "目",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -2842,7 +2842,7 @@
     "word": "느낌",
     "phonetic": "neukkim",
     "pos": "명사",
-    "meaning": "感覚、感覚",
+    "meaning": "感じ",
     "synonyms": [
       "감각",
       "감정"
@@ -2975,7 +2975,7 @@
     "word": "늘",
     "phonetic": "neul",
     "pos": "부사",
-    "meaning": "いつも、常に",
+    "meaning": "いつも",
     "synonyms": [
       "항상",
       "언제나",
@@ -3043,7 +3043,7 @@
     "word": "늘다",
     "phonetic": "neulda",
     "pos": "동사",
-    "meaning": "増やす、改善する",
+    "meaning": "伸びる",
     "synonyms": [
       "증가하다",
       "향상되다"
@@ -3110,7 +3110,7 @@
     "word": "능력",
     "phonetic": "neungryeok",
     "pos": "명사",
-    "meaning": "能力、能力",
+    "meaning": "能力",
     "synonyms": [
       "실력",
       "역량"
@@ -3243,7 +3243,7 @@
     "word": "늦잠",
     "phonetic": "neutjam",
     "pos": "명사",
-    "meaning": "寝坊",
+    "meaning": "寝眠",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -3307,7 +3307,7 @@
     "word": "님",
     "phonetic": "nim",
     "pos": "접미사",
-    "meaning": "先生、敬称",
+    "meaning": "ニム",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -3371,7 +3371,7 @@
     "word": "다",
     "phonetic": "da",
     "pos": "부사",
-    "meaning": "すべて、全体、すべて",
+    "meaning": "すべて",
     "synonyms": [
       "모두",
       "전부",
@@ -3439,7 +3439,7 @@
     "word": "다녀오다",
     "phonetic": "danyeooda",
     "pos": "동사",
-    "meaning": "戻る、戻ってくる（どこかに行った後）",
+    "meaning": "行く",
     "synonyms": [
       "돌아오다",
       "갔다 오다"
@@ -3506,7 +3506,7 @@
     "word": "다니다",
     "phonetic": "danida",
     "pos": "동사",
-    "meaning": "行く、通勤する、出席する（定期的に）",
+    "meaning": "ダダ",
     "synonyms": [
       "출퇴근하다",
       "오가다"
@@ -3573,7 +3573,7 @@
     "word": "다르다",
     "phonetic": "dareuda",
     "pos": "형용사",
-    "meaning": "違う、違う",
+    "meaning": "違う",
     "synonyms": [
       "틀리다",
       "차이가 있다"
@@ -3640,7 +3640,7 @@
     "word": "다른",
     "phonetic": "dareun",
     "pos": "관형사",
-    "meaning": "他の、別の、違う",
+    "meaning": "その他",
     "synonyms": [
       "별개의",
       "또 다른"
@@ -3707,7 +3707,7 @@
     "word": "다리",
     "phonetic": "dari",
     "pos": "명사",
-    "meaning": "橋。脚",
+    "meaning": "足",
     "synonyms": [
       "교량"
     ],
@@ -3773,7 +3773,7 @@
     "word": "다섯",
     "phonetic": "daseot",
     "pos": "수사",
-    "meaning": "5",
+    "meaning": "五",
     "synonyms": [
       "오(五)"
     ],
@@ -3839,7 +3839,7 @@
     "word": "다시",
     "phonetic": "dasi",
     "pos": "부사",
-    "meaning": "もう一度、もう一度",
+    "meaning": "再び",
     "synonyms": [
       "또",
       "재차",
@@ -3907,7 +3907,7 @@
     "word": "다음",
     "phonetic": "daeum",
     "pos": "명사",
-    "meaning": "次、次、その後",
+    "meaning": "Next",
     "synonyms": [
       "이후",
       "그 다음"
@@ -4106,7 +4106,7 @@
     "word": "다음해",
     "phonetic": "daeumhae",
     "pos": "명사",
-    "meaning": "来年",
+    "meaning": "翌年",
     "synonyms": [
       "내년",
       "명년"
@@ -4173,7 +4173,7 @@
     "word": "다이어트",
     "phonetic": "daieoteu",
     "pos": "명사",
-    "meaning": "ダイエット（減量）",
+    "meaning": "ダイエット",
     "synonyms": [
       "식이요법",
       "체중 조절"
@@ -4240,7 +4240,7 @@
     "word": "다치다",
     "phonetic": "dachida",
     "pos": "동사",
-    "meaning": "怪我をする、怪我をする",
+    "meaning": "傷つく",
     "synonyms": [
       "부상당하다",
       "상처를 입다"
@@ -4307,7 +4307,7 @@
     "word": "닦다",
     "phonetic": "dakda",
     "pos": "동사",
-    "meaning": "拭く、ブラシをかける、磨く、きれいにする",
+    "meaning": "拭く",
     "synonyms": [
       "문지르다",
       "청소하다",
@@ -4375,7 +4375,7 @@
     "word": "단어",
     "phonetic": "daneo",
     "pos": "명사",
-    "meaning": "単語、語彙",
+    "meaning": "言葉",
     "synonyms": [
       "어휘",
       "낱말"
@@ -4442,7 +4442,7 @@
     "word": "단점",
     "phonetic": "danjeom",
     "pos": "명사",
-    "meaning": "不利な点、弱点、欠点",
+    "meaning": "欠点",
     "synonyms": [
       "약점",
       "결점",
@@ -4510,7 +4510,7 @@
     "word": "닫다",
     "phonetic": "datda",
     "pos": "동사",
-    "meaning": "閉じる、閉じる",
+    "meaning": "閉じる",
     "synonyms": [
       "잠그다",
       "막다"
@@ -4577,7 +4577,7 @@
     "word": "닫히다",
     "phonetic": "dathida",
     "pos": "동사",
-    "meaning": "閉める、閉める",
+    "meaning": "閉じる",
     "synonyms": [
       "잠기다",
       "막히다"
@@ -4644,7 +4644,7 @@
     "word": "달",
     "phonetic": "dal",
     "pos": "명사",
-    "meaning": "月;月",
+    "meaning": "月",
     "synonyms": [
       "월(月)"
     ],
@@ -4710,7 +4710,7 @@
     "word": "달걀",
     "phonetic": "dalgyal",
     "pos": "명사",
-    "meaning": "卵（鶏の卵）",
+    "meaning": "卵",
     "synonyms": [
       "계란"
     ],
@@ -4776,7 +4776,7 @@
     "word": "달다",
     "phonetic": "dalda",
     "pos": "형용사",
-    "meaning": "甘い",
+    "meaning": "ダルダ",
     "synonyms": [
       "감미롭다",
       "달콤하다"
@@ -4843,7 +4843,7 @@
     "word": "달러",
     "phonetic": "dalreo",
     "pos": "명사",
-    "meaning": "ドル (USD)",
+    "meaning": "ドル",
     "synonyms": [
       "불(弗)"
     ],
@@ -4975,7 +4975,7 @@
     "word": "달리다",
     "phonetic": "dalrida",
     "pos": "동사",
-    "meaning": "走る、不足する",
+    "meaning": "走る",
     "synonyms": [
       "뛰다",
       "질주하다"
@@ -5042,7 +5042,7 @@
     "word": "닭",
     "phonetic": "dak",
     "pos": "명사",
-    "meaning": "鶏、鶏",
+    "meaning": "チキン",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -5106,7 +5106,7 @@
     "word": "닭고기",
     "phonetic": "dakgogi",
     "pos": "명사",
-    "meaning": "鶏肉（肉）",
+    "meaning": "チキン",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -5170,7 +5170,7 @@
     "word": "닮다",
     "phonetic": "damda",
     "pos": "동사",
-    "meaning": "似ている、似ている",
+    "meaning": "似ている",
     "synonyms": [
       "비슷하다",
       "흡사하다"
@@ -5237,7 +5237,7 @@
     "word": "담그다",
     "phonetic": "damgeuda",
     "pos": "동사",
-    "meaning": "浸す、漬ける、浸す",
+    "meaning": "浸す",
     "synonyms": [
       "절이다",
       "적시다"
@@ -5304,7 +5304,7 @@
     "word": "담배",
     "phonetic": "dambae",
     "pos": "명사",
-    "meaning": "タバコ、タバコ",
+    "meaning": "タバコ",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -5368,7 +5368,7 @@
     "word": "답장",
     "phonetic": "dapjang",
     "pos": "명사",
-    "meaning": "返信、返事の手紙",
+    "meaning": "返信",
     "synonyms": [
       "회신",
       "답신"
@@ -5499,7 +5499,7 @@
     "word": "당신",
     "phonetic": "dangsin",
     "pos": "대명사",
-    "meaning": "あなた（正式な）",
+    "meaning": "あなた",
     "synonyms": [
       "그대",
       "귀하"
@@ -5566,7 +5566,7 @@
     "word": "대",
     "phonetic": "dae",
     "pos": "명사",
-    "meaning": "対、約、大きい",
+    "meaning": "ティーン",
     "synonyms": [
       "대비",
       "관하여"
@@ -5633,7 +5633,7 @@
     "word": "대답",
     "phonetic": "daedap",
     "pos": "명사",
-    "meaning": "答え、応答",
+    "meaning": "答え",
     "synonyms": [
       "답변",
       "응답"
@@ -5700,7 +5700,7 @@
     "word": "대답하다",
     "phonetic": "daedaphada",
     "pos": "동사",
-    "meaning": "答える、返事する",
+    "meaning": "答える",
     "synonyms": [
       "답하다",
       "응답하다"
@@ -5767,7 +5767,7 @@
     "word": "대부분",
     "phonetic": "daebubun",
     "pos": "명사",
-    "meaning": "ほとんど、ほとんど",
+    "meaning": "ほとんど",
     "synonyms": [
       "대다수",
       "거의"
@@ -5898,7 +5898,7 @@
     "word": "대학",
     "phonetic": "daehak",
     "pos": "명사",
-    "meaning": "大学、カレッジ",
+    "meaning": "大学",
     "synonyms": [
       "대학교",
       "학교"
@@ -6228,7 +6228,7 @@
     "word": "대한민국",
     "phonetic": "daehanminguk",
     "pos": "명사",
-    "meaning": "大韓民国",
+    "meaning": "韓国",
     "synonyms": [
       "한국",
       "남한"
@@ -6295,7 +6295,7 @@
     "word": "대화",
     "phonetic": "daehwa",
     "pos": "명사",
-    "meaning": "会話、対話",
+    "meaning": "会話",
     "synonyms": [
       "이야기",
       "담화",
@@ -6363,7 +6363,7 @@
     "word": "대회",
     "phonetic": "daehoe",
     "pos": "명사",
-    "meaning": "競争、コンテスト",
+    "meaning": "大会",
     "synonyms": [
       "경연",
       "경기",
@@ -6431,7 +6431,7 @@
     "word": "댁",
     "phonetic": "daek",
     "pos": "명사",
-    "meaning": "家（敬称）",
+    "meaning": "お宅",
     "synonyms": [
       "집"
     ],
@@ -6497,7 +6497,7 @@
     "word": "더",
     "phonetic": "deo",
     "pos": "부사",
-    "meaning": "もっと、さらに",
+    "meaning": "もっと",
     "synonyms": [
       "보다 많이",
       "추가로"
@@ -6564,7 +6564,7 @@
     "word": "더럽다",
     "phonetic": "deoreopda",
     "pos": "형용사",
-    "meaning": "汚い、乱雑な",
+    "meaning": "汚い",
     "synonyms": [
       "지저분하다",
       "불결하다"
@@ -6631,7 +6631,7 @@
     "word": "더운물",
     "phonetic": "deounmul",
     "pos": "명사",
-    "meaning": "お湯",
+    "meaning": "暑い水",
     "synonyms": [
       "온수",
       "뜨거운 물"
@@ -6698,7 +6698,7 @@
     "word": "덕분",
     "phonetic": "deokbun",
     "pos": "명사",
-    "meaning": "おかげで、おかげで",
+    "meaning": "おかげで",
     "synonyms": [
       "덕택",
       "도움"
@@ -6765,7 +6765,7 @@
     "word": "덥다",
     "phonetic": "deopda",
     "pos": "형용사",
-    "meaning": "暑い（天気）",
+    "meaning": "暑い",
     "synonyms": [
       "뜨겁다",
       "무덥다"
@@ -6832,7 +6832,7 @@
     "word": "덮다",
     "phonetic": "deopda",
     "pos": "동사",
-    "meaning": "カバー",
+    "meaning": "覆う",
     "synonyms": [
       "씌우다",
       "가리다"
@@ -6899,7 +6899,7 @@
     "word": "데리다",
     "phonetic": "derida",
     "pos": "동사",
-    "meaning": "連れて行く、連れて行く",
+    "meaning": "デリダ",
     "synonyms": [
       "이끌다",
       "안내하다"
@@ -6966,7 +6966,7 @@
     "word": "데이트",
     "phonetic": "deiteu",
     "pos": "명사",
-    "meaning": "デート（ロマンチック）",
+    "meaning": "デート",
     "synonyms": [
       "만남",
       "약속"
@@ -7033,7 +7033,7 @@
     "word": "도로",
     "phonetic": "doro",
     "pos": "명사",
-    "meaning": "道路、通り",
+    "meaning": "道路",
     "synonyms": [
       "길",
       "도로",
@@ -7168,7 +7168,7 @@
     "word": "도시",
     "phonetic": "dosi",
     "pos": "명사",
-    "meaning": "都市、市街地",
+    "meaning": "都市",
     "synonyms": [
       "시내",
       "도심",
@@ -7236,7 +7236,7 @@
     "word": "도와주다",
     "phonetic": "dowajuda",
     "pos": "동사",
-    "meaning": "助ける、助ける",
+    "meaning": "助ける",
     "synonyms": [
       "돕다",
       "거들다",
@@ -7304,7 +7304,7 @@
     "word": "도움",
     "phonetic": "doum",
     "pos": "명사",
-    "meaning": "助ける、援助する",
+    "meaning": "助け",
     "synonyms": [
       "지원",
       "협조",
@@ -7439,7 +7439,7 @@
     "word": "도착하다",
     "phonetic": "dochakhada",
     "pos": "동사",
-    "meaning": "到着する",
+    "meaning": "到着",
     "synonyms": [
       "다다르다",
       "닿다"
@@ -7572,7 +7572,7 @@
     "word": "독서",
     "phonetic": "dokseo",
     "pos": "명사",
-    "meaning": "読書（本）",
+    "meaning": "読書",
     "synonyms": [
       "열독",
       "책읽기"
@@ -7639,7 +7639,7 @@
     "word": "독서실",
     "phonetic": "dokseosil",
     "pos": "명사",
-    "meaning": "読書室、勉強室",
+    "meaning": "読書室",
     "synonyms": [
       "열람실",
       "공부방"
@@ -7706,7 +7706,7 @@
     "word": "독서하다",
     "phonetic": "dokseohada",
     "pos": "동사",
-    "meaning": "本を読む",
+    "meaning": "読む",
     "synonyms": [
       "읽다",
       "책을 보다"
@@ -7905,7 +7905,7 @@
     "word": "돌아가다",
     "phonetic": "doragada",
     "pos": "동사",
-    "meaning": "戻る、戻る",
+    "meaning": "帰る",
     "synonyms": [
       "되돌아가다",
       "귀환하다",
@@ -7973,7 +7973,7 @@
     "word": "돌아오다",
     "phonetic": "doraoda",
     "pos": "동사",
-    "meaning": "戻ってきて",
+    "meaning": "帰る",
     "synonyms": [
       "귀환하다",
       "되돌아오다"
@@ -8040,7 +8040,7 @@
     "word": "돕다",
     "phonetic": "dopda",
     "pos": "동사",
-    "meaning": "助けて",
+    "meaning": "助ける",
     "synonyms": [
       "지원하다",
       "거들다",
@@ -8108,7 +8108,7 @@
     "word": "동네",
     "phonetic": "dongne",
     "pos": "명사",
-    "meaning": "近所、町",
+    "meaning": "近所",
     "synonyms": [
       "마을",
       "동",
@@ -8373,7 +8373,7 @@
     "word": "동아리",
     "phonetic": "dongari",
     "pos": "명사",
-    "meaning": "クラブ、学生団体",
+    "meaning": "サークル",
     "synonyms": [
       "클럽",
       "서클"
@@ -8440,7 +8440,7 @@
     "word": "동안",
     "phonetic": "dongan",
     "pos": "명사",
-    "meaning": "その間、（一定期間）",
+    "meaning": "中",
     "synonyms": [
       "사이",
       "기간"
@@ -8507,7 +8507,7 @@
     "word": "동양",
     "phonetic": "dongyang",
     "pos": "명사",
-    "meaning": "東、東洋",
+    "meaning": "東洋",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -8831,7 +8831,7 @@
     "word": "되다",
     "phonetic": "doeda",
     "pos": "동사",
-    "meaning": "なる、可能になる",
+    "meaning": "なる",
     "synonyms": [
       "가능하다"
     ],
@@ -8961,7 +8961,7 @@
     "word": "된장국",
     "phonetic": "doenjangguk",
     "pos": "명사",
-    "meaning": "味噌スープ",
+    "meaning": "味噌汁",
     "synonyms": [
       "된장탕"
     ],
@@ -9027,7 +9027,7 @@
     "word": "된장찌개",
     "phonetic": "doenjangjjigae",
     "pos": "명사",
-    "meaning": "味噌煮込み",
+    "meaning": "味噌チゲ",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -9091,7 +9091,7 @@
     "word": "두",
     "phonetic": "du",
     "pos": "관형사",
-    "meaning": "2つ",
+    "meaning": "二つ",
     "synonyms": [
       "둘",
       "이"
@@ -9222,7 +9222,7 @@
     "word": "두다",
     "phonetic": "duda",
     "pos": "동사",
-    "meaning": "置く、置く",
+    "meaning": "置く",
     "synonyms": [
       "놓다",
       "올려놓다"
@@ -9353,7 +9353,7 @@
     "word": "두부찌개",
     "phonetic": "dubujjigae",
     "pos": "명사",
-    "meaning": "豆腐シチュー",
+    "meaning": "豆腐チゲ",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -9417,7 +9417,7 @@
     "word": "둘",
     "phonetic": "dul",
     "pos": "수사",
-    "meaning": "2つ",
+    "meaning": "二つ",
     "synonyms": [
       "두",
       "이"
@@ -9484,7 +9484,7 @@
     "word": "둘째",
     "phonetic": "duljjae",
     "pos": "수사",
-    "meaning": "2番目",
+    "meaning": "第二",
     "synonyms": [
       "두 번째"
     ],
@@ -9550,7 +9550,7 @@
     "word": "뒤",
     "phonetic": "dwi",
     "pos": "명사",
-    "meaning": "後ろ、後ろ、後ろ",
+    "meaning": "裏",
     "synonyms": [
       "뒤쪽",
       "후방"
@@ -9617,7 +9617,7 @@
     "word": "뒤쪽",
     "phonetic": "dwijjok",
     "pos": "명사",
-    "meaning": "後ろ、後ろ側",
+    "meaning": "後ろ",
     "synonyms": [
       "뒤",
       "후면"
@@ -9684,7 +9684,7 @@
     "word": "드라마",
     "phonetic": "deurama",
     "pos": "명사",
-    "meaning": "ドラマ、テレビシリーズ",
+    "meaning": "ドラマ",
     "synonyms": [
       "연속극",
       "시리즈"
@@ -9751,7 +9751,7 @@
     "word": "드리다",
     "phonetic": "deurida",
     "pos": "동사",
-    "meaning": "与える（謙虚に）",
+    "meaning": "ささげる",
     "synonyms": [
       "주다"
     ],
@@ -9817,7 +9817,7 @@
     "word": "드시다",
     "phonetic": "deusida",
     "pos": "동사",
-    "meaning": "食べる・飲む（敬語）",
+    "meaning": "お召し上がりください",
     "synonyms": [
       "잡수시다"
     ],
@@ -9883,7 +9883,7 @@
     "word": "듣기",
     "phonetic": "deutgi",
     "pos": "명사",
-    "meaning": "聞いている",
+    "meaning": "聞く",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -9947,7 +9947,7 @@
     "word": "듣다",
     "phonetic": "deutda",
     "pos": "동사",
-    "meaning": "聞いてください",
+    "meaning": "聞く",
     "synonyms": [
       "청취하다"
     ],
@@ -10013,7 +10013,7 @@
     "word": "들",
     "phonetic": "deul",
     "pos": "명사",
-    "meaning": "フィールド、複数の接尾辞",
+    "meaning": "ら",
     "synonyms": [
       "평야",
       "벌판"
@@ -10080,7 +10080,7 @@
     "word": "들다",
     "phonetic": "deulda",
     "pos": "동사",
-    "meaning": "ホールド、入力、コスト",
+    "meaning": "聞く",
     "synonyms": [
       "잡다",
       "비용이 들다"
@@ -10147,7 +10147,7 @@
     "word": "들어가다",
     "phonetic": "deureogada",
     "pos": "동사",
-    "meaning": "入る、入る",
+    "meaning": "入る",
     "synonyms": [
       "입장하다",
       "진입하다"
@@ -10214,7 +10214,7 @@
     "word": "들어오다",
     "phonetic": "deureooda",
     "pos": "동사",
-    "meaning": "入って、入って",
+    "meaning": "入る",
     "synonyms": [
       "입장하다"
     ],
@@ -10280,7 +10280,7 @@
     "word": "등",
     "phonetic": "deung",
     "pos": "명사",
-    "meaning": "背中など",
+    "meaning": "など",
     "synonyms": [
       "허리",
       "기타"
@@ -10347,7 +10347,7 @@
     "word": "등산",
     "phonetic": "deungsan",
     "pos": "명사",
-    "meaning": "ハイキング、登山",
+    "meaning": "登山",
     "synonyms": [
       "산행",
       "등반"
@@ -10414,7 +10414,7 @@
     "word": "등산복",
     "phonetic": "deungsanbok",
     "pos": "명사",
-    "meaning": "ハイキングの服装",
+    "meaning": "登山服",
     "synonyms": [
       "산행복"
     ],
@@ -10480,7 +10480,7 @@
     "word": "등산화",
     "phonetic": "deungsanhwa",
     "pos": "명사",
-    "meaning": "ハイキングブーツ",
+    "meaning": "等酸化",
     "synonyms": [
       "트레킹화"
     ],
@@ -10546,7 +10546,7 @@
     "word": "디브이디",
     "phonetic": "dibeuidi",
     "pos": "명사",
-    "meaning": "DVD",
+    "meaning": "ディブイディ",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -10744,7 +10744,7 @@
     "word": "따라가다",
     "phonetic": "ttaragada",
     "pos": "동사",
-    "meaning": "従う（行く）",
+    "meaning": "フォローする",
     "synonyms": [
       "뒤따르다"
     ],
@@ -10810,7 +10810,7 @@
     "word": "따라오다",
     "phonetic": "ttaraoda",
     "pos": "동사",
-    "meaning": "フォローする(来る)",
+    "meaning": "続く",
     "synonyms": [
       "뒤따라오다"
     ],
@@ -10876,7 +10876,7 @@
     "word": "따로",
     "phonetic": "ttaro",
     "pos": "부사",
-    "meaning": "別々に、別々に",
+    "meaning": "別に",
     "synonyms": [
       "별도로",
       "각자"
@@ -10943,7 +10943,7 @@
     "word": "따르다",
     "phonetic": "ttareuda",
     "pos": "동사",
-    "meaning": "従う、注ぐ",
+    "meaning": "フォローする",
     "synonyms": [
       "복종하다",
       "붓다"
@@ -11206,7 +11206,7 @@
     "word": "때",
     "phonetic": "ttae",
     "pos": "명사",
-    "meaning": "時間、機会",
+    "meaning": "時",
     "synonyms": [
       "시간",
       "시기"
@@ -11273,7 +11273,7 @@
     "word": "때문",
     "phonetic": "ttaemun",
     "pos": "명사",
-    "meaning": "そのせいで、そのせいで",
+    "meaning": "原因",
     "synonyms": [
       "이유",
       "원인"
@@ -11340,7 +11340,7 @@
     "word": "떠나다",
     "phonetic": "tteonada",
     "pos": "동사",
-    "meaning": "出発、出発",
+    "meaning": "去る",
     "synonyms": [
       "출발하다",
       "출국하다"
@@ -11407,7 +11407,7 @@
     "word": "떠들다",
     "phonetic": "tteodeulda",
     "pos": "동사",
-    "meaning": "騒音を立てる、おしゃべりする",
+    "meaning": "叫ぶ",
     "synonyms": [
       "수다 떨다",
       "소란 피우다"
@@ -11538,7 +11538,7 @@
     "word": "떡국",
     "phonetic": "tteokguk",
     "pos": "명사",
-    "meaning": "餅汁",
+    "meaning": "餅",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -11602,7 +11602,7 @@
     "word": "떡볶이",
     "phonetic": "tteokbokki",
     "pos": "명사",
-    "meaning": "辛い餅（トッポギ）",
+    "meaning": "トッポッキ",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -11666,7 +11666,7 @@
     "word": "떨어지다",
     "phonetic": "tteoreojida",
     "pos": "동사",
-    "meaning": "落ちる、落ちる、使い果たされる",
+    "meaning": "落ちる",
     "synonyms": [
       "내려가다",
       "빠지다"
@@ -11733,7 +11733,7 @@
     "word": "또",
     "phonetic": "tto",
     "pos": "부사",
-    "meaning": "またまた、また",
+    "meaning": "また",
     "synonyms": [
       "다시",
       "그리고"
@@ -11867,7 +11867,7 @@
     "word": "똑같다",
     "phonetic": "ttokgatda",
     "pos": "형용사",
-    "meaning": "全く同じです",
+    "meaning": "同じ",
     "synonyms": [
       "같다",
       "동일하다"
@@ -11934,7 +11934,7 @@
     "word": "똑바로",
     "phonetic": "ttokbaro",
     "pos": "부사",
-    "meaning": "まっすぐな、直立した",
+    "meaning": "まっすぐ",
     "synonyms": [
       "바르게",
       "곧게"
@@ -12001,7 +12001,7 @@
     "word": "뛰다",
     "phonetic": "ttwida",
     "pos": "동사",
-    "meaning": "走る、ジャンプする",
+    "meaning": "走る",
     "synonyms": [
       "달리다",
       "점프하다"
@@ -12068,7 +12068,7 @@
     "word": "뜨겁다",
     "phonetic": "tteugeopda",
     "pos": "형용사",
-    "meaning": "熱い（触れると）",
+    "meaning": "暑い",
     "synonyms": [
       "뜨뜻하다",
       "따뜻하다"
@@ -12135,7 +12135,7 @@
     "word": "뜨다",
     "phonetic": "tteuda",
     "pos": "동사",
-    "meaning": "上がる、浮かぶ、開く（目）",
+    "meaning": "編む",
     "synonyms": [
       "올라가다",
       "떠오르다"
@@ -12333,7 +12333,7 @@
     "word": "라면",
     "phonetic": "ramyeon",
     "pos": "명사",
-    "meaning": "インスタントラーメン、ラーメン",
+    "meaning": "ラーメン",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -12591,7 +12591,7 @@
     "word": "마르다",
     "phonetic": "mareuda",
     "pos": "동사",
-    "meaning": "乾燥した、薄い",
+    "meaning": "マルダ",
     "synonyms": [
       "건조하다",
       "말라가다"
@@ -12658,7 +12658,7 @@
     "word": "마리",
     "phonetic": "mari",
     "pos": "명사",
-    "meaning": "動物専用カウンター",
+    "meaning": "マリー",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -12788,7 +12788,7 @@
     "word": "마음",
     "phonetic": "maeum",
     "pos": "명사",
-    "meaning": "心、心、感情",
+    "meaning": "心",
     "synonyms": [
       "심정",
       "감정"
@@ -12855,7 +12855,7 @@
     "word": "마지막",
     "phonetic": "majimak",
     "pos": "명사",
-    "meaning": "最後の、最後の",
+    "meaning": "最後",
     "synonyms": [
       "끝",
       "최후"
@@ -12922,7 +12922,7 @@
     "word": "마치다",
     "phonetic": "machida",
     "pos": "동사",
-    "meaning": "終わる、終わる",
+    "meaning": "終わる",
     "synonyms": [
       "끝내다",
       "완료하다"
@@ -12989,7 +12989,7 @@
     "word": "마흔",
     "phonetic": "maheun",
     "pos": "수사",
-    "meaning": "40、40",
+    "meaning": "四",
     "synonyms": [
       "사십"
     ],
@@ -13055,7 +13055,7 @@
     "word": "막히다",
     "phonetic": "makhida",
     "pos": "동사",
-    "meaning": "ブロックされる、渋滞する",
+    "meaning": "詰まる",
     "synonyms": [
       "정체되다",
       "차단되다"
@@ -13122,7 +13122,7 @@
     "word": "만",
     "phonetic": "man",
     "pos": "조사",
-    "meaning": "ただ、1万",
+    "meaning": "のみ",
     "synonyms": [
       "오직",
       "단지"
@@ -13256,7 +13256,7 @@
     "word": "만두",
     "phonetic": "mandu",
     "pos": "명사",
-    "meaning": "団子",
+    "meaning": "餃子",
     "synonyms": [],
     "level": "2",
     "lang": "jp",
@@ -13320,7 +13320,7 @@
     "word": "만들다",
     "phonetic": "mandeulda",
     "pos": "동사",
-    "meaning": "作る、作る",
+    "meaning": "作る",
     "synonyms": [
       "제작하다",
       "창작하다"
@@ -13387,7 +13387,7 @@
     "word": "만일",
     "phonetic": "manil",
     "pos": "부사",
-    "meaning": "もし、万が一の場合に",
+    "meaning": "もし",
     "synonyms": [
       "만약",
       "혹시"
@@ -13521,7 +13521,7 @@
     "word": "만화",
     "phonetic": "manhwa",
     "pos": "명사",
-    "meaning": "漫画、漫画",
+    "meaning": "漫画",
     "synonyms": [
       "웹툰",
       "애니메이션"
@@ -13588,7 +13588,7 @@
     "word": "많다",
     "phonetic": "manta",
     "pos": "형용사",
-    "meaning": "たくさん、たくさん",
+    "meaning": "多い",
     "synonyms": [
       "풍부하다",
       "수두룩하다"
@@ -13655,7 +13655,7 @@
     "word": "많이",
     "phonetic": "mani",
     "pos": "부사",
-    "meaning": "たくさん、たくさん",
+    "meaning": "たくさん",
     "synonyms": [
       "충분히",
       "넉넉히"
@@ -13722,7 +13722,7 @@
     "word": "말",
     "phonetic": "mal",
     "pos": "명사",
-    "meaning": "言葉、スピーチ、馬",
+    "meaning": "馬",
     "synonyms": [
       "언어",
       "단어"
@@ -13789,7 +13789,7 @@
     "word": "말씀",
     "phonetic": "malsseum",
     "pos": "명사",
-    "meaning": "言葉（敬語）",
+    "meaning": "言葉",
     "synonyms": [
       "말"
     ],
@@ -13855,7 +13855,7 @@
     "word": "말씀하다",
     "phonetic": "malsseumhada",
     "pos": "동사",
-    "meaning": "話す（敬語で）",
+    "meaning": "話す",
     "synonyms": [
       "이야기하다",
       "말하다"
@@ -13922,7 +13922,7 @@
     "word": "말하기",
     "phonetic": "malhagi",
     "pos": "명사",
-    "meaning": "スピーキング（スキル）",
+    "meaning": "話す",
     "synonyms": [
       "스피킹",
       "발화"
@@ -13989,7 +13989,7 @@
     "word": "말하다",
     "phonetic": "malhada",
     "pos": "동사",
-    "meaning": "言う、話す",
+    "meaning": "言う",
     "synonyms": [
       "이야기하다",
       "얘기하다"
@@ -14056,7 +14056,7 @@
     "word": "맑다",
     "phonetic": "makda",
     "pos": "형용사",
-    "meaning": "晴れた、晴れた",
+    "meaning": "晴れ",
     "synonyms": [
       "청명하다",
       "화창하다"
@@ -14123,7 +14123,7 @@
     "word": "맛",
     "phonetic": "mat",
     "pos": "명사",
-    "meaning": "味、風味",
+    "meaning": "味",
     "synonyms": [
       "풍미",
       "향미"
@@ -14190,7 +14190,7 @@
     "word": "맛없다",
     "phonetic": "maseopda",
     "pos": "형용사",
-    "meaning": "無味、良くない",
+    "meaning": "おいしくない",
     "synonyms": [
       "형편없다"
     ],
@@ -14256,7 +14256,7 @@
     "word": "맛있다",
     "phonetic": "masitda",
     "pos": "형용사",
-    "meaning": "おいしい、おいしい",
+    "meaning": "おいしい",
     "synonyms": [
       "훌륭하다",
       "맛나다"
@@ -14323,7 +14323,7 @@
     "word": "맞다",
     "phonetic": "matda",
     "pos": "동사",
-    "meaning": "正しい、ぴったり、正しい",
+    "meaning": "正しい",
     "synonyms": [
       "옳다",
       "정확하다"
@@ -14390,7 +14390,7 @@
     "word": "맞습니다",
     "phonetic": "matseupnida",
     "pos": "동사",
-    "meaning": "そうです。",
+    "meaning": "そうです",
     "synonyms": [
       "그렇습니다",
       "옳습니다"
@@ -14457,7 +14457,7 @@
     "word": "맞아요",
     "phonetic": "majayo",
     "pos": "동사",
-    "meaning": "そうです。",
+    "meaning": "そうです",
     "synonyms": [
       "그래요",
       "옳아요"
@@ -14524,7 +14524,7 @@
     "word": "맞은편",
     "phonetic": "majeunpyeon",
     "pos": "명사",
-    "meaning": "反対側、向かい側",
+    "meaning": "向かい側",
     "synonyms": [
       "건너편",
       "반대편"
@@ -14591,7 +14591,7 @@
     "word": "매다",
     "phonetic": "maeda",
     "pos": "동사",
-    "meaning": "結ぶ、締める",
+    "meaning": "結ぶ",
     "synonyms": [
       "묶다",
       "잡아매다"
@@ -14658,7 +14658,7 @@
     "word": "매우",
     "phonetic": "maeu",
     "pos": "부사",
-    "meaning": "非常に、非常に",
+    "meaning": "非常に",
     "synonyms": [
       "아주",
       "굉장히"
@@ -14925,7 +14925,7 @@
     "word": "맵다",
     "phonetic": "maepda",
     "pos": "형용사",
-    "meaning": "辛い、辛い",
+    "meaning": "マップする",
     "synonyms": [
       "얼얼하다",
       "자극적이다"
@@ -14992,7 +14992,7 @@
     "word": "머리",
     "phonetic": "meori",
     "pos": "명사",
-    "meaning": "頭、髪",
+    "meaning": "頭",
     "synonyms": [
       "두발",
       "헤어"
@@ -15126,7 +15126,7 @@
     "word": "먼저",
     "phonetic": "meonjeo",
     "pos": "부사",
-    "meaning": "まず、事前に",
+    "meaning": "まず",
     "synonyms": [
       "우선",
       "앞서"
@@ -15193,7 +15193,7 @@
     "word": "멀다",
     "phonetic": "meolda",
     "pos": "형용사",
-    "meaning": "遠く、遠い",
+    "meaning": "遠い",
     "synonyms": [
       "아득하다",
       "거리가 있다"
@@ -15260,7 +15260,7 @@
     "word": "멋있다",
     "phonetic": "meositda",
     "pos": "형용사",
-    "meaning": "クール、スタイリッシュ",
+    "meaning": "クール",
     "synonyms": [
       "근사하다",
       "세련되다",
@@ -15395,7 +15395,7 @@
     "word": "메다",
     "phonetic": "meda",
     "pos": "동사",
-    "meaning": "肩に担ぐ",
+    "meaning": "メダ",
     "synonyms": [
       "짊어지다",
       "올려놓다"
@@ -15462,7 +15462,7 @@
     "word": "메모",
     "phonetic": "memo",
     "pos": "명사",
-    "meaning": "メモ、メモ",
+    "meaning": "メモ",
     "synonyms": [
       "노트",
       "기록",
@@ -15662,7 +15662,7 @@
     "word": "며칠",
     "phonetic": "myeochil",
     "pos": "명사",
-    "meaning": "数日、何日",
+    "meaning": "数日",
     "synonyms": [
       "몇 일",
       "수일"
@@ -15729,7 +15729,7 @@
     "word": "면도",
     "phonetic": "myeondo",
     "pos": "명사",
-    "meaning": "シェービング",
+    "meaning": "剃毛",
     "synonyms": [
       "면도질"
     ],
@@ -15795,7 +15795,7 @@
     "word": "명",
     "phonetic": "myeong",
     "pos": "수사",
-    "meaning": "人用のカウンター",
+    "meaning": "人",
     "synonyms": [
       "분",
       "사람"
@@ -15862,7 +15862,7 @@
     "word": "명절",
     "phonetic": "myeongjeol",
     "pos": "명사",
-    "meaning": "伝統的な休日",
+    "meaning": "祭り",
     "synonyms": [
       "절기",
       "국경일"
@@ -15929,7 +15929,7 @@
     "word": "몇",
     "phonetic": "myeot",
     "pos": "관형사",
-    "meaning": "何人か、いくつか",
+    "meaning": "カップル",
     "synonyms": [
       "얼마나",
       "몇몇"
@@ -15996,7 +15996,7 @@
     "word": "모두",
     "phonetic": "modu",
     "pos": "부사",
-    "meaning": "みんな、みんな",
+    "meaning": "みんな",
     "synonyms": [
       "전부",
       "다",
@@ -16064,7 +16064,7 @@
     "word": "모레",
     "phonetic": "more",
     "pos": "명사",
-    "meaning": "明後日",
+    "meaning": "モレ",
     "synonyms": [
       "이틀 후",
       "글피 전날"
@@ -16131,7 +16131,7 @@
     "word": "모르겠습니다",
     "phonetic": "moreugetseupnida",
     "pos": "동사",
-    "meaning": "分かりません。",
+    "meaning": "わからない",
     "synonyms": [
       "잘 모르겠어요",
       "알 수 없습니다"
@@ -16198,7 +16198,7 @@
     "word": "모르다",
     "phonetic": "moreuda",
     "pos": "동사",
-    "meaning": "わかりません",
+    "meaning": "知らない",
     "synonyms": [
       "알지 못하다",
       "모르겠다"
@@ -16265,7 +16265,7 @@
     "word": "모시다",
     "phonetic": "mosida",
     "pos": "동사",
-    "meaning": "同行する、奉仕する（敬語）",
+    "meaning": "モシダ",
     "synonyms": [
       "동반하다",
       "섬기다",
@@ -16333,7 +16333,7 @@
     "word": "모양",
     "phonetic": "moyang",
     "pos": "명사",
-    "meaning": "形、外観",
+    "meaning": "形",
     "synonyms": [
       "형태",
       "생김새",
@@ -16401,7 +16401,7 @@
     "word": "모으다",
     "phonetic": "moeuda",
     "pos": "동사",
-    "meaning": "集める、集める",
+    "meaning": "集める",
     "synonyms": [
       "수집하다",
       "모아두다",
@@ -16469,7 +16469,7 @@
     "word": "모이다",
     "phonetic": "moida",
     "pos": "동사",
-    "meaning": "集まる、集まる",
+    "meaning": "集まる",
     "synonyms": [
       "집합하다",
       "모여들다",
@@ -16537,7 +16537,7 @@
     "word": "모임",
     "phonetic": "moim",
     "pos": "명사",
-    "meaning": "集まる、会う",
+    "meaning": "会議",
     "synonyms": [
       "만남",
       "집회",
@@ -16605,7 +16605,7 @@
     "word": "모자",
     "phonetic": "moja",
     "pos": "명사",
-    "meaning": "帽子、キャップ",
+    "meaning": "帽子",
     "synonyms": [
       "챙모자"
     ],
@@ -16671,7 +16671,7 @@
     "word": "목",
     "phonetic": "mok",
     "pos": "명사",
-    "meaning": "首、喉",
+    "meaning": "首",
     "synonyms": [
       "경부"
     ],
@@ -17070,7 +17070,7 @@
     "word": "목적",
     "phonetic": "mokjeok",
     "pos": "명사",
-    "meaning": "目的、目標",
+    "meaning": "目的",
     "synonyms": [
       "목표",
       "의도"
@@ -17204,7 +17204,7 @@
     "word": "몸살",
     "phonetic": "momsal",
     "pos": "명사",
-    "meaning": "疲労からくる体の痛み",
+    "meaning": "身体",
     "synonyms": [
       "과로",
       "피로"
@@ -17271,7 +17271,7 @@
     "word": "못하다",
     "phonetic": "mothada",
     "pos": "동사",
-    "meaning": "できない、苦手",
+    "meaning": "できない",
     "synonyms": [
       "서투르다",
       "어렵다"
@@ -17402,7 +17402,7 @@
     "word": "무",
     "phonetic": "mu",
     "pos": "명사",
-    "meaning": "大根",
+    "meaning": "無",
     "synonyms": [
       "나복"
     ],
@@ -17534,7 +17534,7 @@
     "word": "무궁화",
     "phonetic": "mugunghwa",
     "pos": "명사",
-    "meaning": "ムクゲ（国花）",
+    "meaning": "ムグンファ",
     "synonyms": [
       "목근화"
     ],
@@ -17600,7 +17600,7 @@
     "word": "무료",
     "phonetic": "muryo",
     "pos": "명사",
-    "meaning": "無料（有料）",
+    "meaning": "無料",
     "synonyms": [
       "공짜",
       "무상"
@@ -17733,7 +17733,7 @@
     "word": "무리",
     "phonetic": "muri",
     "pos": "명사",
-    "meaning": "グループ、理不尽",
+    "meaning": "群れ",
     "synonyms": [
       "집단",
       "과도"
@@ -17800,7 +17800,7 @@
     "word": "무섭다",
     "phonetic": "museopda",
     "pos": "형용사",
-    "meaning": "怖い、恐ろしい",
+    "meaning": "怖い",
     "synonyms": [
       "두렵다",
       "겁나다",
@@ -17868,7 +17868,7 @@
     "word": "무슨",
     "phonetic": "museun",
     "pos": "관형사",
-    "meaning": "どのような",
+    "meaning": "何",
     "synonyms": [
       "어떤",
       "어느"
@@ -18002,7 +18002,7 @@
     "word": "무엇이",
     "phonetic": "mueosi",
     "pos": "대명사",
-    "meaning": "何を（主題）",
+    "meaning": "何が",
     "synonyms": [
       "뭐가",
       "어느 것이"
@@ -18069,7 +18069,7 @@
     "word": "무역",
     "phonetic": "muyeok",
     "pos": "명사",
-    "meaning": "貿易、商業",
+    "meaning": "貿易",
     "synonyms": [
       "교역",
       "통상"
@@ -18136,7 +18136,7 @@
     "word": "무용",
     "phonetic": "muyong",
     "pos": "명사",
-    "meaning": "ダンス（芸術）",
+    "meaning": "ダンス",
     "synonyms": [
       "춤",
       "댄스"
@@ -18203,7 +18203,7 @@
     "word": "무척",
     "phonetic": "mucheok",
     "pos": "부사",
-    "meaning": "非常に、非常に",
+    "meaning": "とても",
     "synonyms": [
       "매우",
       "아주",
@@ -18272,7 +18272,7 @@
     "word": "문",
     "phonetic": "mun",
     "pos": "명사",
-    "meaning": "ドア、門",
+    "meaning": "ドア",
     "synonyms": [
       "출입구",
       "문짝"
@@ -18406,7 +18406,7 @@
     "word": "문장",
     "phonetic": "munjang",
     "pos": "명사",
-    "meaning": "文",
+    "meaning": "文章",
     "synonyms": [
       "글",
       "구절"
@@ -18473,7 +18473,7 @@
     "word": "문제",
     "phonetic": "munje",
     "pos": "명사",
-    "meaning": "問題、質問",
+    "meaning": "問題",
     "synonyms": [
       "과제",
       "난제",
@@ -18608,7 +18608,7 @@
     "word": "묻다",
     "phonetic": "mutda",
     "pos": "동사",
-    "meaning": "尋ねる、埋める",
+    "meaning": "尋ねる",
     "synonyms": [
       "질문하다",
       "캐묻다",
@@ -18743,7 +18743,7 @@
     "word": "물건",
     "phonetic": "mulgeon",
     "pos": "명사",
-    "meaning": "物、アイテム",
+    "meaning": "もの",
     "synonyms": [
       "상품",
       "제품",
@@ -18811,7 +18811,7 @@
     "word": "물론",
     "phonetic": "mulron",
     "pos": "부사",
-    "meaning": "もちろん、当然のことながら",
+    "meaning": "もちろん",
     "synonyms": [
       "당연히",
       "당연하게",
@@ -18879,7 +18879,7 @@
     "word": "물어보다",
     "phonetic": "mureoboda",
     "pos": "동사",
-    "meaning": "尋ねる、尋ねる",
+    "meaning": "頼むより",
     "synonyms": [
       "질문하다",
       "문의하다",
@@ -19014,7 +19014,7 @@
     "word": "미국",
     "phonetic": "miguk",
     "pos": "명사",
-    "meaning": "米国",
+    "meaning": "アメリカ",
     "synonyms": [
       "아메리카",
       "미합중국"
@@ -19149,7 +19149,7 @@
     "word": "미리",
     "phonetic": "miri",
     "pos": "부사",
-    "meaning": "事前に、事前に",
+    "meaning": "あらかじめ",
     "synonyms": [
       "사전에",
       "먼저",
@@ -19217,7 +19217,7 @@
     "word": "미술",
     "phonetic": "misul",
     "pos": "명사",
-    "meaning": "アート、美術",
+    "meaning": "アート",
     "synonyms": [
       "예술",
       "회화",
@@ -19285,7 +19285,7 @@
     "word": "미술관",
     "phonetic": "misulgwan",
     "pos": "명사",
-    "meaning": "美術館、ギャラリー",
+    "meaning": "美術館",
     "synonyms": [
       "갤러리",
       "화랑",
@@ -19353,7 +19353,7 @@
     "word": "미안하다",
     "phonetic": "mianhada",
     "pos": "형용사",
-    "meaning": "ごめんなさい",
+    "meaning": "すみません",
     "synonyms": [
       "죄송하다",
       "사과하다",
@@ -19421,7 +19421,7 @@
     "word": "미안합니다",
     "phonetic": "mianhapnida",
     "pos": "감탄사",
-    "meaning": "ごめんなさい。",
+    "meaning": "すみません",
     "synonyms": [
       "죄송합니다",
       "용서해 주세요",
@@ -19489,7 +19489,7 @@
     "word": "미용실",
     "phonetic": "miyongsil",
     "pos": "명사",
-    "meaning": "美容室、ヘアサロン",
+    "meaning": "美容室",
     "synonyms": [
       "헤어살롱",
       "이발소",
@@ -19758,7 +19758,7 @@
     "word": "밀리다",
     "phonetic": "milrida",
     "pos": "동사",
-    "meaning": "押し込まれる、遅れる",
+    "meaning": "押される",
     "synonyms": [
       "지연되다",
       "늦어지다",
@@ -19826,7 +19826,7 @@
     "word": "밑",
     "phonetic": "mit",
     "pos": "명사",
-    "meaning": "底、下、下",
+    "meaning": "下",
     "synonyms": [
       "아래",
       "하부",
@@ -19894,7 +19894,7 @@
     "word": "바꾸다",
     "phonetic": "bakkuda",
     "pos": "동사",
-    "meaning": "変える、交換する、交換する",
+    "meaning": "変える",
     "synonyms": [
       "교체하다",
       "변경하다",

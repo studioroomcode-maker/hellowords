@@ -3,7 +3,7 @@
     "word": "외교",
     "phonetic": "oegyo",
     "pos": "명사",
-    "meaning": "外交。外交問題",
+    "meaning": "外交",
     "synonyms": [
       "외교활동",
       "국제관계"
@@ -70,7 +70,7 @@
     "word": "협상",
     "phonetic": "hyeopsang",
     "pos": "명사",
-    "meaning": "交渉。話す",
+    "meaning": "交渉、話す",
     "synonyms": [
       "교섭",
       "절충"
@@ -137,7 +137,7 @@
     "word": "조약",
     "phonetic": "joyak",
     "pos": "명사",
-    "meaning": "条約。協定",
+    "meaning": "条約、協定",
     "synonyms": [
       "협정",
       "조약문"
@@ -204,7 +204,7 @@
     "word": "협약",
     "phonetic": "hyeobyak",
     "pos": "명사",
-    "meaning": "慣例。合意;合意",
+    "meaning": "慣例、合意;合意",
     "synonyms": [
       "협정",
       "조약",
@@ -272,7 +272,7 @@
     "word": "동맹",
     "phonetic": "dongmaeng",
     "pos": "명사",
-    "meaning": "同盟;連合",
+    "meaning": "同盟、連合",
     "synonyms": [
       "연맹",
       "동맹국",
@@ -340,7 +340,7 @@
     "word": "제재",
     "phonetic": "jejae",
     "pos": "명사",
-    "meaning": "制裁。懲罰的措置",
+    "meaning": "制裁、懲罰的措置",
     "synonyms": [
       "경제제재",
       "처벌",
@@ -610,7 +610,7 @@
     "word": "정상회담",
     "phonetic": "jeongsanghoedam",
     "pos": "명사",
-    "meaning": "首脳会談。首脳会談",
+    "meaning": "首脳会談",
     "synonyms": [
       "수뇌회담",
       "정상회의"
@@ -1147,7 +1147,7 @@
     "word": "중재",
     "phonetic": "jungjae",
     "pos": "명사",
-    "meaning": "調停;仲裁",
+    "meaning": "調停、仲裁",
     "synonyms": [
       "조정",
       "알선",
@@ -1282,7 +1282,7 @@
     "word": "대화채널",
     "phonetic": "daehwachaeneol",
     "pos": "명사",
-    "meaning": "対話チャンネル。コミュニケーションチャネル",
+    "meaning": "対話チャンネル",
     "synonyms": [
       "소통창구",
       "대화통로",
@@ -1551,7 +1551,7 @@
     "word": "내정간섭",
     "phonetic": "naejeongganseop",
     "pos": "명사",
-    "meaning": "内政干渉。内政干渉",
+    "meaning": "内政干渉",
     "synonyms": [
       "내정침해",
       "내정개입"
@@ -1618,7 +1618,7 @@
     "word": "외교무대",
     "phonetic": "oegyomudae",
     "pos": "명사",
-    "meaning": "外交の場。国際舞台",
+    "meaning": "外交の場、国際舞台",
     "synonyms": [
       "국제무대",
       "외교 현장"
@@ -3561,7 +3561,7 @@
     "word": "소송",
     "phonetic": "sosong",
     "pos": "명사",
-    "meaning": "訴訟。訴訟（裁判所での法的手続き）",
+    "meaning": "訴訟",
     "synonyms": [
       "재판",
       "소제기",
@@ -3629,7 +3629,7 @@
     "word": "판결",
     "phonetic": "pangyeol",
     "pos": "명사",
-    "meaning": "判断。評決;判決（裁判所の正式な決定）",
+    "meaning": "判断",
     "synonyms": [
       "선고",
       "결정",
@@ -3764,7 +3764,7 @@
     "word": "상고",
     "phonetic": "sanggo",
     "pos": "명사",
-    "meaning": "上告;破毀院上告（最高裁判所への上告）",
+    "meaning": "上告",
     "synonyms": [
       "최종항소",
       "대법원상고"
@@ -3831,7 +3831,7 @@
     "word": "변호사",
     "phonetic": "byeonhosa",
     "pos": "명사",
-    "meaning": "弁護士。弁護士（クライアントを代理する資格のある法律専門家）",
+    "meaning": "弁護士",
     "synonyms": [
       "법률가",
       "법조인",
@@ -4100,7 +4100,7 @@
     "word": "법률행위",
     "phonetic": "beopryulhaengwi",
     "pos": "명사",
-    "meaning": "法律行為。法的行為（法的結果をもたらす行為）",
+    "meaning": "法律行為",
     "synonyms": [
       "법적 행위",
       "법적 의사표시"
@@ -4167,7 +4167,7 @@
     "word": "계약",
     "phonetic": "gyeyak",
     "pos": "명사",
-    "meaning": "契約。合意（当事者間の法的拘束力のある合意）",
+    "meaning": "契約",
     "synonyms": [
       "협약",
       "약정",
@@ -4235,7 +4235,7 @@
     "word": "손해배상",
     "phonetic": "sonhaebaesang",
     "pos": "명사",
-    "meaning": "損害賠償。補償（引き起こされた損害の補償）",
+    "meaning": "損害賠償",
     "synonyms": [
       "배상",
       "보상",
@@ -4371,7 +4371,7 @@
     "word": "민사소송",
     "phonetic": "minsasosong",
     "pos": "명사",
-    "meaning": "民事訴訟。民事訴訟（私的な紛争を解決するための法的手続き）",
+    "meaning": "民事訴訟",
     "synonyms": [
       "민사재판",
       "사소",
@@ -4776,7 +4776,7 @@
     "word": "법적구속력",
     "phonetic": "beopjeokgusokryeok",
     "pos": "명사",
-    "meaning": "法的拘束力。法的強制力（コンプライアンスを強制する法的義務の権限）",
+    "meaning": "法的拘束力",
     "synonyms": [
       "법적효력",
       "강제력",
@@ -4911,7 +4911,7 @@
     "word": "행정처분",
     "phonetic": "haengjeongcheobun",
     "pos": "명사",
-    "meaning": "行政処分;行政処分（政府当局による正式な決定）",
+    "meaning": "行政処分",
     "synonyms": [
       "행정행위",
       "행정조치",
@@ -5047,7 +5047,7 @@
     "word": "가속화",
     "phonetic": "gasokhwa",
     "pos": "명사",
-    "meaning": "スピードアップ。加速度",
+    "meaning": "スピードアップ、加速度",
     "synonyms": [
       "촉진",
       "급속화",
@@ -5251,7 +5251,7 @@
     "word": "바이오테크",
     "phonetic": "baiotekeu",
     "pos": "명사",
-    "meaning": "バイオテクノロジー。バイオテクノロジー",
+    "meaning": "バイオテクノロジー",
     "synonyms": [
       "생명공학",
       "바이오기술",
@@ -5591,7 +5591,7 @@
     "word": "신소재",
     "phonetic": "sinsojae",
     "pos": "명사",
-    "meaning": "新しい素材。先進的な素材",
+    "meaning": "新しい素材、先進的な素材",
     "synonyms": [
       "첨단 소재",
       "혁신 소재",
@@ -5863,7 +5863,7 @@
     "word": "자율주행",
     "phonetic": "jayuljuhaeng",
     "pos": "명사",
-    "meaning": "自動運転。自動運転",
+    "meaning": "自動運転",
     "synonyms": [
       "무인운전",
       "자동운전",
@@ -5931,7 +5931,7 @@
     "word": "정보보안",
     "phonetic": "jeongboboan",
     "pos": "명사",
-    "meaning": "情報セキュリティ。サイバーセキュリティ",
+    "meaning": "情報セキュリティ、サイバーセキュリティ",
     "synonyms": [
       "사이버 보안",
       "보안",
@@ -9178,7 +9178,7 @@
     "word": "참고문헌",
     "phonetic": "chamgomunheon",
     "pos": "명사",
-    "meaning": "参考文献。参考文献",
+    "meaning": "参考文献",
     "synonyms": [
       "참고자료",
       "문헌목록"
@@ -9245,7 +9245,7 @@
     "word": "연구비",
     "phonetic": "yeongubi",
     "pos": "명사",
-    "meaning": "研究資金。研究助成金",
+    "meaning": "研究資金、研究助成金",
     "synonyms": [
       "연구자금",
       "연구지원금"
@@ -9379,7 +9379,7 @@
     "word": "학회",
     "phonetic": "hakhoe",
     "pos": "명사",
-    "meaning": "学会;学んだ社会",
+    "meaning": "学会、学んだ社会",
     "synonyms": [
       "학술단체",
       "학술협회"
@@ -9513,7 +9513,7 @@
     "word": "박사과정",
     "phonetic": "baksagwajeong",
     "pos": "명사",
-    "meaning": "博士課程。博士課程",
+    "meaning": "博士課程",
     "synonyms": [
       "박사 프로그램",
       "박사 코스"
@@ -9647,7 +9647,7 @@
     "word": "지도교수",
     "phonetic": "jidogyosu",
     "pos": "명사",
-    "meaning": "論文アドバイザー。指導教員",
+    "meaning": "論文アドバイザー、指導教員",
     "synonyms": [
       "논문 지도교수",
       "학위 지도교수"
@@ -9714,7 +9714,7 @@
     "word": "연구결과",
     "phonetic": "yeongugyeolgwa",
     "pos": "명사",
-    "meaning": "研究結果。研究結果",
+    "meaning": "研究結果",
     "synonyms": [
       "연구 성과",
       "연구 발견"
@@ -9915,7 +9915,7 @@
     "word": "설문조사",
     "phonetic": "seolmunjosa",
     "pos": "명사",
-    "meaning": "調査;アンケート調査",
+    "meaning": "調査",
     "synonyms": [
       "설문",
       "여론조사"
@@ -13550,7 +13550,7 @@
     "word": "고급문화",
     "phonetic": "gogeupmunhwa",
     "pos": "명사",
-    "meaning": "高度な文化。エリート文化",
+    "meaning": "高度な文化、エリート文化",
     "synonyms": [
       "고급예술",
       "엘리트문화",
@@ -13618,7 +13618,7 @@
     "word": "대중문화비평",
     "phonetic": "daejungmunhwabipyeong",
     "pos": "명사",
-    "meaning": "大衆文化批判。大衆文化批評",
+    "meaning": "大衆文化批判、大衆文化批評",
     "synonyms": [
       "팝컬처비평",
       "문화비평",
@@ -13754,7 +13754,7 @@
     "word": "문화산업화",
     "phonetic": "munhwasaneophwa",
     "pos": "명사",
-    "meaning": "文化的産業化。文化の商業化",
+    "meaning": "文化的産業化、文化の商業化",
     "synonyms": [
       "문화상품화",
       "문화자본화",
@@ -14026,7 +14026,7 @@
     "word": "소비문화",
     "phonetic": "sobimunhwa",
     "pos": "명사",
-    "meaning": "消費文化。消費文化",
+    "meaning": "消費文化",
     "synonyms": [
       "소비주의",
       "상업문화",
@@ -14162,7 +14162,7 @@
     "word": "예술성",
     "phonetic": "yesulseong",
     "pos": "명사",
-    "meaning": "芸術的な品質。芸術性",
+    "meaning": "芸術的な品質、芸術性",
     "synonyms": [
       "작품성",
       "예술적완성도",
@@ -14230,7 +14230,7 @@
     "word": "원작성",
     "phonetic": "wonjakseong",
     "pos": "명사",
-    "meaning": "独創性;信憑性",
+    "meaning": "独創性、信憑性",
     "synonyms": [
       "독창성",
       "오리지널리티",
@@ -14298,7 +14298,7 @@
     "word": "장르혼합",
     "phonetic": "jangreuhonhap",
     "pos": "명사",
-    "meaning": "ジャンルのハイブリッド性。ジャンルの融合",
+    "meaning": "ジャンルのハイブリッド性、ジャンルの融合",
     "synonyms": [
       "장르융합",
       "혼종장르",
@@ -14366,7 +14366,7 @@
     "word": "창작의도",
     "phonetic": "changjaguido",
     "pos": "명사",
-    "meaning": "創造的な意図。芸術的意図",
+    "meaning": "創造的な意図、芸術的意図",
     "synonyms": [
       "작가의도",
       "창작목적",
@@ -14502,7 +14502,7 @@
     "word": "탈식민주의",
     "phonetic": "talsikminjuui",
     "pos": "명사",
-    "meaning": "ポストコロニアリズム。脱植民地主義",
+    "meaning": "ポストコロニアリズム、脱植民地主義",
     "synonyms": [
       "포스트콜로니얼리즘",
       "반식민주의",
@@ -14910,7 +14910,7 @@
     "word": "미메시스",
     "phonetic": "mimesiseu",
     "pos": "명사",
-    "meaning": "ミメーシス。擬態",
+    "meaning": "ミメーシス、擬態",
     "synonyms": [
       "모방론",
       "재현",
@@ -15114,7 +15114,7 @@
     "word": "예술제도",
     "phonetic": "yesuljedo",
     "pos": "명사",
-    "meaning": "芸術機関。芸術機関",
+    "meaning": "芸術機関",
     "synonyms": [
       "예술기관",
       "예술체계",
@@ -15182,7 +15182,7 @@
     "word": "경영전략",
     "phonetic": "gyeongyeongjeonryak",
     "pos": "명사",
-    "meaning": "ビジネス戦略。経営戦略",
+    "meaning": "ビジネス戦略、経営戦略",
     "synonyms": [
       "사업전략",
       "기업전략"
@@ -15249,7 +15249,7 @@
     "word": "조직문화",
     "phonetic": "jojikmunhwa",
     "pos": "명사",
-    "meaning": "組織文化。企業文化",
+    "meaning": "組織文化、企業文化",
     "synonyms": [
       "기업문화",
       "사내문화"
@@ -15316,7 +15316,7 @@
     "word": "인적자원관리",
     "phonetic": "injeokjawongwanri",
     "pos": "명사",
-    "meaning": "人事管理。人事管理",
+    "meaning": "人事管理",
     "synonyms": [
       "인사관리",
       "HR관리"
@@ -15785,7 +15785,7 @@
     "word": "사회적책임",
     "phonetic": "sahoejeokchaegim",
     "pos": "명사",
-    "meaning": "企業の社会的責任。 CSR",
+    "meaning": "企業の社会的責任、CSR",
     "synonyms": [
       "CSR",
       "기업윤리"
@@ -15852,7 +15852,7 @@
     "word": "공급망관리",
     "phonetic": "gonggeupmanggwanri",
     "pos": "명사",
-    "meaning": "サプライチェーン管理。 SCM",
+    "meaning": "サプライチェーン管理、SCM",
     "synonyms": [
       "SCM",
       "공급사슬관리"
@@ -15986,7 +15986,7 @@
     "word": "브랜드가치",
     "phonetic": "beuraendeugachi",
     "pos": "명사",
-    "meaning": "ブランド価値。ブランドエクイティ",
+    "meaning": "ブランド価値、ブランドエクイティ",
     "synonyms": [
       "브랜드자산",
       "브랜드력"
@@ -16187,7 +16187,7 @@
     "word": "합병인수",
     "phonetic": "hapbyeonginsu",
     "pos": "명사",
-    "meaning": "合併と買収。 M&A",
+    "meaning": "合併と買収、M&A",
     "synonyms": [
       "M&A",
       "인수합병"
@@ -16388,7 +16388,7 @@
     "word": "수익구조",
     "phonetic": "suikgujo",
     "pos": "명사",
-    "meaning": "収益構造。収益構造",
+    "meaning": "収益構造",
     "synonyms": [
       "수익모델",
       "이익구조"
@@ -16455,7 +16455,7 @@
     "word": "원가관리",
     "phonetic": "wongagwanri",
     "pos": "명사",
-    "meaning": "コスト管理。コスト管理",
+    "meaning": "コスト管理",
     "synonyms": [
       "원가절감",
       "비용관리"
@@ -16589,7 +16589,7 @@
     "word": "손익분기",
     "phonetic": "sonikbungi",
     "pos": "명사",
-    "meaning": "損益分岐点。損益分岐点",
+    "meaning": "損益分岐点",
     "synonyms": [
       "손익분기점",
       "BEP"
@@ -16656,7 +16656,7 @@
     "word": "투자회수",
     "phonetic": "tujahoesu",
     "pos": "명사",
-    "meaning": "投資収益率。投資回収",
+    "meaning": "投資収益率、投資回収",
     "synonyms": [
       "ROI",
       "투자수익"
@@ -16723,7 +16723,7 @@
     "word": "기업가치",
     "phonetic": "gieopgachi",
     "pos": "명사",
-    "meaning": "企業価値。企業価値",
+    "meaning": "企業価値",
     "synonyms": [
       "회사가치",
       "기업밸류"
@@ -16790,7 +16790,7 @@
     "word": "벤처투자",
     "phonetic": "bencheotuja",
     "pos": "명사",
-    "meaning": "ベンチャー投資。ベンチャーキャピタルへの投資",
+    "meaning": "ベンチャー投資",
     "synonyms": [
       "VC투자",
       "벤처캐피탈"
@@ -17192,7 +17192,7 @@
     "word": "정보격차",
     "phonetic": "jeongbogyeokcha",
     "pos": "명사",
-    "meaning": "デジタルデバイド。情報ギャップ",
+    "meaning": "デジタルデバイド、情報ギャップ",
     "synonyms": [
       "디지털격차",
       "정보불평등"
@@ -17393,7 +17393,7 @@
     "word": "개인정보보호",
     "phonetic": "gaeinjeongboboho",
     "pos": "명사",
-    "meaning": "個人データの保護;プライバシー保護",
+    "meaning": "個人データの保護、プライバシー保護",
     "synonyms": [
       "프라이버시보호",
       "정보보안"
@@ -18063,7 +18063,7 @@
     "word": "허위정보",
     "phonetic": "heowijeongbo",
     "pos": "명사",
-    "meaning": "偽情報;虚偽の情報",
+    "meaning": "偽情報、虚偽の情報",
     "synonyms": [
       "가짜뉴스",
       "거짓정보"
@@ -18398,7 +18398,7 @@
     "word": "콘텐츠생산",
     "phonetic": "kontencheusaengsan",
     "pos": "명사",
-    "meaning": "コンテンツ制作。コンテンツ制作",
+    "meaning": "コンテンツ制作",
     "synonyms": [
       "콘텐츠창작",
       "콘텐츠제작"
@@ -18532,7 +18532,7 @@
     "word": "존재론",
     "phonetic": "jonjaeron",
     "pos": "명사",
-    "meaning": "オントロジー;存在と存在の性質についての哲学的研究",
+    "meaning": "オントロジー",
     "synonyms": [
       "존재학",
       "형이상학"
@@ -18599,7 +18599,7 @@
     "word": "인식론",
     "phonetic": "insikron",
     "pos": "명사",
-    "meaning": "認識論。知識の性質と範囲に関係する哲学の分野",
+    "meaning": "認識論",
     "synonyms": [
       "지식론",
       "앎의 이론"
@@ -18666,7 +18666,7 @@
     "word": "윤리학",
     "phonetic": "yunrihak",
     "pos": "명사",
-    "meaning": "倫理。道徳的原則と価値観を扱う哲学の一分野",
+    "meaning": "倫理",
     "synonyms": [
       "도덕철학",
       "도덕학"
@@ -18733,7 +18733,7 @@
     "word": "도덕철학",
     "phonetic": "dodeokcheolhak",
     "pos": "명사",
-    "meaning": "道徳哲学。道徳、価値観、倫理的行為についての哲学的探究",
+    "meaning": "道徳哲学",
     "synonyms": [
       "윤리학",
       "도덕학"
@@ -18800,7 +18800,7 @@
     "word": "공리주의",
     "phonetic": "gongrijuui",
     "pos": "명사",
-    "meaning": "功利主義。最善の行動とは全体的な幸福や効用を最大化するものであるという倫理理論",
+    "meaning": "功利主義",
     "synonyms": [
       "효용주의",
       "최대행복주의"
@@ -18867,7 +18867,7 @@
     "word": "의무론",
     "phonetic": "uimuron",
     "pos": "명사",
-    "meaning": "義務論。行動はルールや義務に基づいて本質的に正しいか間違っているかという倫理理論",
+    "meaning": "義務論",
     "synonyms": [
       "의무 윤리학",
       "규범론"
@@ -18934,7 +18934,7 @@
     "word": "덕윤리",
     "phonetic": "deogyunri",
     "pos": "명사",
-    "meaning": "美徳倫理。規則や結果ではなく人格と美徳を強調する倫理理論",
+    "meaning": "美徳倫理",
     "synonyms": [
       "덕 윤리학",
       "덕론"
@@ -19001,7 +19001,7 @@
     "word": "자유의지",
     "phonetic": "jayuuiji",
     "pos": "명사",
-    "meaning": "自由意志。外力や決定論に制約されずに選択を行う個人の能力",
+    "meaning": "自由意志",
     "synonyms": [
       "의지의 자유",
       "자유선택"
@@ -19068,7 +19068,7 @@
     "word": "결정론",
     "phonetic": "gyeoljeongron",
     "pos": "명사",
-    "meaning": "決定主義。すべての出来事は以前の出来事と自然法則によって因果的に決定されるという教義",
+    "meaning": "決定主義",
     "synonyms": [
       "인과론",
       "필연론"
@@ -19135,7 +19135,7 @@
     "word": "이성",
     "phonetic": "iseong",
     "pos": "명사",
-    "meaning": "理由。合理的思考、論理的分析、健全な判断の能力",
+    "meaning": "理由",
     "synonyms": [
       "합리성",
       "이지"
@@ -19269,7 +19269,7 @@
     "word": "가치판단",
     "phonetic": "gachipandan",
     "pos": "명사",
-    "meaning": "価値判断。自分の価値観に基づいて、何かが良い、悪い、正しい、または間違っているという評価",
+    "meaning": "価値判断",
     "synonyms": [
       "가치평가",
       "규범적 판단"
@@ -19336,7 +19336,7 @@
     "word": "정의론",
     "phonetic": "jeonguiron",
     "pos": "명사",
-    "meaning": "正義の理論。何が公平、権利、公正な社会的取り決めを構成するのかについての哲学的説明",
+    "meaning": "正義の理論",
     "synonyms": [
       "정의 이론",
       "공정론"
@@ -19403,7 +19403,7 @@
     "word": "사회계약",
     "phonetic": "sahoegyeyak",
     "pos": "명사",
-    "meaning": "社会契約。社会とその統治機関を形成する個人間の理論上の合意",
+    "meaning": "社会契約",
     "synonyms": [
       "사회 계약론",
       "사회 협약"
@@ -19470,7 +19470,7 @@
     "word": "민주주의이념",
     "phonetic": "minjujuuiinyeom",
     "pos": "명사",
-    "meaning": "民主主義イデオロギー。民主的な統治と社会を支える一連の原則と価値観",
+    "meaning": "民主主義イデオロギー",
     "synonyms": [
       "민주 이념",
       "민주주의 사상"
@@ -19537,7 +19537,7 @@
     "word": "자유주의",
     "phonetic": "jayujuui",
     "pos": "명사",
-    "meaning": "リベラリズム。個人の自由、権利、限定された政府を強調する政治的および哲学的イデオロギー",
+    "meaning": "リベラリズム",
     "synonyms": [
       "리버럴리즘",
       "자유사상"
@@ -19604,7 +19604,7 @@
     "word": "보수주의",
     "phonetic": "bosujuui",
     "pos": "명사",
-    "meaning": "保守主義。伝統、確立された制度、そして緩やかな変化を好む政治的イデオロギー",
+    "meaning": "保守主義",
     "synonyms": [
       "전통주의",
       "보수사상"
@@ -19671,7 +19671,7 @@
     "word": "진보주의",
     "phonetic": "jinbojuui",
     "pos": "명사",
-    "meaning": "進歩主義。社会改革、平等、社会の改善を提唱する政治イデオロギー",
+    "meaning": "進歩主義",
     "synonyms": [
       "혁신주의",
       "진보사상"
@@ -19738,7 +19738,7 @@
     "word": "평등주의",
     "phonetic": "pyeongdeungjuui",
     "pos": "명사",
-    "meaning": "平等主義。すべての人は平等な権利、地位、機会を有するに値するという教義",
+    "meaning": "平等主義",
     "synonyms": [
       "균등주의",
       "평등사상"
@@ -19805,7 +19805,7 @@
     "word": "다원주의",
     "phonetic": "dawonjuui",
     "pos": "명사",
-    "meaning": "多元主義。複数の価値観、視点、文化的グループが社会に共存できるという見方",
+    "meaning": "多元主義",
     "synonyms": [
       "복수주의",
       "다양성 존중"
@@ -19872,7 +19872,7 @@
     "word": "공동선",
     "phonetic": "gongdongseon",
     "pos": "명사",
-    "meaning": "共通善。コミュニティまたは社会のすべてのメンバーの共通の利益または福祉",
+    "meaning": "共通善",
     "synonyms": [
       "공공선",
       "공익"
@@ -19939,7 +19939,7 @@
     "word": "시민윤리",
     "phonetic": "siminyunri",
     "pos": "명사",
-    "meaning": "市民倫理。責任ある市民権と市民参加の指針となる道徳的原則と価値観",
+    "meaning": "市民倫理",
     "synonyms": [
       "시민 도덕",
       "공민 윤리"
@@ -20006,7 +20006,7 @@
     "word": "책임론",
     "phonetic": "chaegimron",
     "pos": "명사",
-    "meaning": "責任論。行為に対する道徳的および法的責任についての哲学的説明",
+    "meaning": "責任論",
     "synonyms": [
       "책임 이론",
       "책무론"
@@ -20073,7 +20073,7 @@
     "word": "관용",
     "phonetic": "gwanyong",
     "pos": "명사",
-    "meaning": "寛容性。自分とは異なる見解、信念、または行動を受け入れる意欲",
+    "meaning": "寛容性",
     "synonyms": [
       "포용",
       "너그러움"
@@ -20140,7 +20140,7 @@
     "word": "비판적사고",
     "phonetic": "bipanjeoksago",
     "pos": "명사",
-    "meaning": "批判的思考。合理的な判断を下すための問題の客観的な分析と評価",
+    "meaning": "批判的思考",
     "synonyms": [
       "비판적 사유",
       "논리적 사고"
