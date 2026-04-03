@@ -13516,7 +13516,7 @@
       },
       {
         "situation": "Family conversation",
-        "ko": "할머니께서 사회복지관에서 요리 수업을 들으신다.",
+        "ko": "할머니께서 사회복지관에서 요리 수업을 들으세요.",
         "tl": "My grandmother takes cooking classes at the social welfare center."
       },
       {
@@ -17102,12 +17102,12 @@
     "level": "4",
     "lang": "en",
     "situation": "Newspaper subscription",
-    "example_ko": "할아버지는 매일 아침 신문을 읽으며 하루를 시작하신다.",
+    "example_ko": "할아버지는 매일 아침 신문을 읽으며 하루를 시작하세요.",
     "example_tl": "My grandfather starts each day by reading the newspaper every morning.",
     "examples": [
       {
         "situation": "Newspaper subscription",
-        "ko": "할아버지는 매일 아침 신문을 읽으며 하루를 시작하신다.",
+        "ko": "할아버지는 매일 아침 신문을 읽으며 하루를 시작하세요.",
         "tl": "My grandfather starts each day by reading the newspaper every morning."
       },
       {
