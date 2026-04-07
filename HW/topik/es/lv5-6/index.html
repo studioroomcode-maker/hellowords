@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="theme-color" content="#0a0a0a">
+<title>Hello Words - TOPIK 5+6 SP</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a0a0a; --surface:#141414; --border:#252525; --accent:#e8ff47;
+  --text:#f0f0e8; --sub:#666660; --card:#1a1a1a;
+  --lv1:#FF7043; --lv2:#FF7043;
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;}
+header{position:sticky;top:0;z-index:50;background:rgba(10,10,10,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:14px 20px;display:flex;align-items:center;gap:12px;}
+.back-btn{display:flex;align-items:center;gap:6px;color:var(--sub);font-size:14px;text-decoration:none;transition:color .2s;flex-shrink:0;}
+.back-btn:hover{color:var(--text);}
+.brand{font-family:'Instrument Serif',serif;font-style:italic;font-size:20px;color:var(--accent);}
+.search-wrap{flex:1;position:relative;}
+.search-wrap input{width:100%;background:var(--surface);border:1px solid var(--border);border-radius:10px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:14px;padding:9px 14px 9px 36px;outline:none;transition:border-color .2s;}
+.search-wrap input:focus{border-color:var(--accent);}
+.search-wrap input::placeholder{color:var(--sub);}
+.search-icon{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--sub);font-size:14px;pointer-events:none;}
+.toolbar{padding:14px 20px 10px;}
+.toolbar-row{display:flex;align-items:center;justify-content:space-between;}
+.section-title{font-size:12px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--sub);}
+.count-bar{font-size:12px;color:var(--sub);}
+.filter-row{display:flex;gap:6px;padding:0 20px 10px;}
+.filter-btn{padding:5px 12px;border-radius:20px;border:1px solid var(--border);background:var(--surface);font-size:12px;font-weight:600;color:var(--sub);cursor:pointer;transition:all .15s;}
+.filter-btn.active{border-color:var(--accent);color:var(--accent);background:rgba(232,255,71,.08);}
+.filter-btn.lv1{border-color:rgba(255,112,67,.4);color:var(--lv1);background:rgba(255,112,67,.08);}
+.filter-btn.lv1.active{border-color:var(--lv1);background:rgba(255,112,67,.2);}
+.filter-btn.lv2{border-color:rgba(220,80,40,.4);color:var(--lv2);background:rgba(220,80,40,.08);}
+.filter-btn.lv2.active{border-color:var(--lv2);background:rgba(220,80,40,.2);}
+.list-wrap{padding:6px 20px 40px;}
+.word-item{display:flex;align-items:center;gap:12px;padding:13px 14px;background:var(--card);border:1px solid var(--border);border-radius:12px;margin-bottom:6px;text-decoration:none;color:inherit;transition:all .15s;}
+.word-item:hover{border-color:#3a3a3a;background:#202020;transform:translateX(2px);}
+.level-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+.lv-tag{font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;flex-shrink:0;}
+.lv-tag.t5{background:rgba(255,112,67,.15);color:var(--lv1);}
+.lv-tag.t6{background:rgba(220,80,40,.15);color:var(--lv2);}
+.word-ko{font-size:15px;font-weight:700;color:var(--text);flex:1;font-family:'Noto Sans KR',sans-serif;}
+.word-meaning{font-size:13px;color:var(--sub);text-align:right;max-width:45%;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.empty{text-align:center;padding:60px 20px;color:var(--sub);}
+.empty-icon{font-size:36px;margin-bottom:12px;}
+.empty-text{font-size:15px;line-height:1.6;}
+</style>
+</head>
+<body>
+<header>
+  <a class="back-btn" href="../index.html">Back</a>
+  <span class="brand">Hello Words</span>
+  <div class="search-wrap">
+    <span class="search-icon">S</span>
+    <input type="search" id="searchInput" placeholder="Search TOPIK 5+6 (Spanish)..." oninput="onSearch(this.value)">
+  </div>
+</header>
+<div class="toolbar">
+  <div class="toolbar-row">
+    <div class="section-title">TOPIK 5+6 - Spanish</div>
+    <div class="count-bar" id="countBar"></div>
+  </div>
+</div>
+<div class="filter-row">
+  <button class="filter-btn active" id="fAll" onclick="setFilter('all')">All</button>
+  <button class="filter-btn lv1" id="fLv5" onclick="setFilter('5')">5급 150</button>
+  <button class="filter-btn lv2" id="fLv6" onclick="setFilter('6')">6급 150</button>
+</div>
+<div class="list-wrap" id="listWrap">
+  <div class="empty"><div class="empty-icon">...</div><div class="empty-text">Loading...</div></div>
+</div>
+<script>
+const LANG = 'sp';
+let allWords = {};
+let searchQuery = '', filterLevel = 'all';
+
+async function init() {
+  try {
+    const res = await fetch('../../../level_data/topik_' + LANG + '_lv5_6.json');
+    if (!res.ok) throw new Error('Failed');
+    allWords = await res.json();
+    renderList();
+  } catch(e) {
+    document.getElementById('listWrap').innerHTML = '<div class="empty"><div class="empty-icon">!</div><div class="empty-text">Failed to load words.</div></div>';
+  }
+}
+
+function onSearch(v) { searchQuery = v.trim().toLowerCase(); renderList(); }
+
+function setFilter(lv) {
+  filterLevel = lv;
+  document.getElementById('fAll').classList.toggle('active', lv==='all');
+  document.getElementById('fLv5').classList.toggle('active', lv==='5');
+  document.getElementById('fLv6').classList.toggle('active', lv==='6');
+  renderList();
+}
+
+function renderList() {
+  let items = Object.entries(allWords)
+    .filter(([_, w]) => {
+      if (filterLevel !== 'all' && String(w.source_level) !== filterLevel) return false;
+      if (searchQuery && !(w.word||'').toLowerCase().includes(searchQuery) && !(w.meaning||'').toLowerCase().includes(searchQuery)) return false;
+      return true;
+    })
+    .sort((a, b) => a[1].word.localeCompare(b[1].word, 'ko'));
+  document.getElementById('countBar').textContent = items.length + ' words';
+  if (!items.length) {
+    document.getElementById('listWrap').innerHTML = '<div class="empty"><div class="empty-icon">0</div><div class="empty-text">No matching words.</div></div>';
+    return;
+  }
+  document.getElementById('listWrap').innerHTML = items.map(([key, w]) => {
+    const m = w.meaning || '';
+    const short = m.length > 26 ? m.slice(0,26)+'...' : m;
+    const lv = w.source_level || 1;
+    const dotColor = lv === 1 ? 'var(--lv1)' : 'var(--lv2)';
+    return '<a class="word-item" href="word.html?w=' + encodeURIComponent(key) + '">'
+      + '<div class="level-dot" style="background:' + dotColor + '"></div>'
+      + '<span class="lv-tag t' + lv + '">' + lv + '급</span>'
+      + '<div class="word-ko">' + (w.word || key) + '</div>'
+      + '<div class="word-meaning">' + short + '</div>'
+      + '</a>';
+  }).join('');
+}
+
+init();
+</script>
+</body>
+</html>
